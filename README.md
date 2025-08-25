@@ -26,16 +26,16 @@ Github热门开源项目榜单
 
 |序号|项目名称|项目介绍|趋势Star|当前Star|创建时间|
 |:---|:---|:---|:---|:---|:---|
-|1|dyad-sh/dyad|免费、本地、开源人工智能应用程序构建器Deliverv 0/ lovable / Bolt替代方案？如果你喜欢的话就明星吧！|11731|13830|2025-04-11|
+|1|dyad-sh/dyad|免费、本地、开源人工智能应用程序构建器Deliverv 0/ lovable / Bolt替代方案？如果你喜欢的话就明星吧！|11731|13831|2025-04-11|
 |2|musistudio/claude-code-router|使用Claude Code作为编码基础设施的基础，使您可以决定如何与模型交互，同时享受Anthropic的更新。|7799|15194|2025-02-25|
-|3|moeru-ai/airi|????????您自己托管，拥有Grok Companion，一个包含外福灵魂的容器，网络生活将它们带入我们的世界，希望达到Neuro-sama的高度。能够实时语音聊天、Minecraft、Factorio玩。支持Web / macOS / Windows。|7262|10122|2024-12-01|
+|3|moeru-ai/airi|????????您自己托管，拥有Grok Companion，一个包含外福灵魂的容器，网络生活将它们带入我们的世界，希望达到Neuro-sama的高度。能够实时语音聊天、Minecraft、Factorio玩。支持Web / macOS / Windows。|7262|10129|2024-12-01|
 |4|OpenBB-finance/OpenBB|适合分析师、量化分析师和人工智能代理的金融数据平台。|5994|51261|2020-12-20|
-|5|simstudioai/sim|Sim是一个开源AI代理工作流程构建器。Sim的界面是一种轻量级、直观的方式，可以快速构建和部署与您喜爱的工具连接的LLM。|5840|12076|2025-01-05|
+|5|simstudioai/sim|Sim是一个开源AI代理工作流程构建器。Sim的界面是一种轻量级、直观的方式，可以快速构建和部署与您喜爱的工具连接的LLM。|5840|12075|2025-01-05|
 |6|coleam00/Archon|Archon OS的Beta版本-AI编码助手的知识和任务管理骨干。|5389|10679|2025-02-07|
 |7|nautechsystems/nautilus_trader|高性能算法交易平台和事件驱动回测器|4688|14537|2018-06-25|
-|8|plait-board/drawnix|开源白板工具（SaaS）、一体化白板、包含思想导图、流程图、自由画等。一体化开源白板工具，具有思维、流程图、手绘等功能。|3876|6996|2024-06-04|
+|8|plait-board/drawnix|开源白板工具（SaaS）、一体化白板、包含思想导图、流程图、自由画等。一体化开源白板工具，具有思维、流程图、手绘等功能。|3878|7008|2024-06-04|
 |9|vllm-project/vllm|用于LLM的高吞吐量和内存效率的推理和服务引擎|3175|56253|2023-02-09|
-|10|winapps-org/winapps|运行Windows应用程序，例如Linux（Ubuntu/Fedora）中的Microsoft Office/Adobe和NSO/TEK，就像它们是本地操作系统的一部分一样，包括Nautilus集成。硬叉的|2416|7074|2023-07-05|
+|10|winapps-org/winapps|运行Windows应用程序，例如Linux（Ubuntu/Fedora）中的Microsoft Office/Adobe和NSO/TEK，就像它们是本地操作系统的一部分一样，包括Nautilus集成。硬叉的|2416|7083|2023-07-05|
 |11|dtyq/magic|超级魔法。首个开源一体化人工智能生产力平台（全能AI Agent +工作流引擎+ IM +在线协同办公系统）|2318|3486|2025-05-14|
 
 [所有月榜](./month/month.md)
