@@ -10,4 +10,4 @@ fi
 git add *
 git commit -m "更新榜单 - $message"
 git pull
-# git push
+git push
