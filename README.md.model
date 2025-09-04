@@ -1,5 +1,11 @@
 Github热门开源项目榜单
 
+## {last-day-date}
+
+{last-day-rank}
+
+[所有日榜](./day/day.md)
+
 ## {last-week-date}
 
 {last-week-rank}
