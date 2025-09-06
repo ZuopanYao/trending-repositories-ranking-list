@@ -1,24 +1,24 @@
 Github热门开源项目榜单
 
-## 2025年09月05日
+## 2025年09月06日
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot)|TypeScript|Bytebot是一个自托管的AI桌面代理，通过自然语言命令自动执行计算机任务，在容器化的Linux桌面环境中运行。|676|5117|221|2025-02-03|
-|2|[LukeGus/Termix](https://github.com/LukeGus/Termix)|TypeScript|Termix是一个基于Web的服务器管理平台，具有SSH终端、隧道和文件编辑功能。|332|3115|103|2024-11-25|
-|3|[eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)|Python|机器学习从零开始机器学习模型和算法的光秃秃的NumPy实现，重点关注可访问性。旨在涵盖从线性回归到深度学习的所有内容。|309|28159|96|2017-02-05|
-|4|[resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)|Python|SoTA开源TTC|234|11935|76|2025-04-23|
-|5|[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)|None|500个人工智能代理项目是各个行业人工智能代理用例的精心策划的集合。它展示了实际应用，并提供了开源项目的链接以供实施，说明了人工智能代理如何改变医疗保健、金融、教育、零售等行业。|224|9948|76|2024-12-20|
-|6|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|223|19001|75|2025-05-03|
-|7|[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)|Go|在1个文件中开放源代码实时后台|220|50558|68|2022-07-05|
-|8|[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)|Rust|一个开源远程桌面应用程序，专为自托管而设计，作为TeamViewer的替代品。|206|97684|67|2020-09-28|
-|9|[chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)|Jupyter Notebook|[WIP]人工智能工程师的资源。还包含《人工智能工程》一书的支持材料（Chip Huyen，2025）|200|7852|66|2024-12-03|
-|10|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|190|66249|65|2024-04-29|
-|11|[trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)|Go|查找、验证和分析泄露的凭据|211|20698|64|2016-12-31|
-|12|[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)|Python|用于编排角色扮演、自主人工智能代理的框架。通过培养协作智能，CrewAI使智能体能够无缝协作，处理复杂的任务。|197|37698|63|2023-10-27|
-|13|[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)|None|以主题为中心的HQ开放数据集列表。|190|66095|62|2014-11-20|
-|14|[tensorzero/tensorzero](https://github.com/tensorzero/tensorzero)|Rust|TensorZero是一个用于工业级LLM应用程序的开源堆栈。它统一了LLM门户、可观察性、优化、评估和实验。|203|10172|62|2024-07-16|
-|15|[dockur/windows](https://github.com/dockur/windows)|Shell|Docker容器内的Windows。|173|44426|55|2024-01-14|
+|1|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|1705|28368|519|2022-10-17|
+|2|[bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot)|TypeScript|Bytebot是一个自托管的AI桌面代理，通过自然语言命令自动执行计算机任务，在容器化的Linux桌面环境中运行。|475|5592|156|2025-02-03|
+|3|[emcie-co/parlant](https://github.com/emcie-co/parlant)|Python|专为控制而设计的LLM代理。专为现实世界使用而设计。几分钟内部署完毕。|268|9117|86|2024-02-15|
+|4|[nukeop/nuclear](https://github.com/nukeop/nuclear)|TypeScript|为您查找免费音乐的流媒体音乐播放器|220|14465|67|2016-09-22|
+|5|[trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)|Go|查找、验证和分析泄露的凭据|209|20907|65|2016-12-31|
+|6|[appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers)|None|令人敬畏的LCP服务器-模型上下文协议服务器精心策划的列表|185|4463|60|2024-11-28|
+|7|[apache/airflow](https://github.com/apache/airflow)|Python|Apache AirFlow -一个以编程方式创作、安排和监控工作流的平台|181|42108|57|2015-04-13|
+|8|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|149|19150|48|2025-05-03|
+|9|[microsoft/BitNet](https://github.com/microsoft/BitNet)|Python|1位LLM的官方推理框架|153|21554|48|2024-08-05|
+|10|[mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent)|Shell|Xray，Tuic，hysteria2，sing-box 八连体钥匙本|148|17076|48|2019-11-06|
+|11|[AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|Jupyter Notebook|FinGPT：开源金融大型语言模型！  革命    我们在HuggingFace上发布了经过训练的模型。|155|17417|48|2023-02-11|
+|12|[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|Jupyter Notebook|在PyTorch中从头开始、一步一步地实施类似ChatGPT的LLM|136|69139|46|2023-07-23|
+|13|[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)|None|500个人工智能代理项目是各个行业人工智能代理用例的精心策划的集合。它展示了实际应用，并提供了开源项目的链接以供实施，说明了人工智能代理如何改变医疗保健、金融、教育、零售等行业。|117|10065|45|2024-12-20|
+|14|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|119|66368|42|2024-04-29|
+|15|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|126|48572|41|2020-01-05|
 
 [所有日榜](./day/day.md)
 
