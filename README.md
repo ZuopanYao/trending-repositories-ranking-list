@@ -1,24 +1,24 @@
 Github热门开源项目榜单
 
-## 2025年09月06日
+## 2025年09月07日
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|1705|28368|519|2022-10-17|
-|2|[bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot)|TypeScript|Bytebot是一个自托管的AI桌面代理，通过自然语言命令自动执行计算机任务，在容器化的Linux桌面环境中运行。|475|5592|156|2025-02-03|
-|3|[emcie-co/parlant](https://github.com/emcie-co/parlant)|Python|专为控制而设计的LLM代理。专为现实世界使用而设计。几分钟内部署完毕。|268|9117|86|2024-02-15|
-|4|[nukeop/nuclear](https://github.com/nukeop/nuclear)|TypeScript|为您查找免费音乐的流媒体音乐播放器|220|14465|67|2016-09-22|
-|5|[trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)|Go|查找、验证和分析泄露的凭据|209|20907|65|2016-12-31|
-|6|[appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers)|None|令人敬畏的LCP服务器-模型上下文协议服务器精心策划的列表|185|4463|60|2024-11-28|
-|7|[apache/airflow](https://github.com/apache/airflow)|Python|Apache AirFlow -一个以编程方式创作、安排和监控工作流的平台|181|42108|57|2015-04-13|
-|8|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|149|19150|48|2025-05-03|
-|9|[microsoft/BitNet](https://github.com/microsoft/BitNet)|Python|1位LLM的官方推理框架|153|21554|48|2024-08-05|
-|10|[mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent)|Shell|Xray，Tuic，hysteria2，sing-box 八连体钥匙本|148|17076|48|2019-11-06|
-|11|[AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|Jupyter Notebook|FinGPT：开源金融大型语言模型！  革命    我们在HuggingFace上发布了经过训练的模型。|155|17417|48|2023-02-11|
-|12|[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|Jupyter Notebook|在PyTorch中从头开始、一步一步地实施类似ChatGPT的LLM|136|69139|46|2023-07-23|
-|13|[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)|None|500个人工智能代理项目是各个行业人工智能代理用例的精心策划的集合。它展示了实际应用，并提供了开源项目的链接以供实施，说明了人工智能代理如何改变医疗保健、金融、教育、零售等行业。|117|10065|45|2024-12-20|
-|14|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|119|66368|42|2024-04-29|
-|15|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|126|48572|41|2020-01-05|
+|1|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|1365|29733|417|2022-10-17|
+|2|[emcie-co/parlant](https://github.com/emcie-co/parlant)|Python|专为控制而设计的LLM代理。专为现实世界使用而设计。几分钟内部署完毕。|452|9569|141|2024-02-15|
+|3|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|409|17431|133|2025-05-02|
+|4|[Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft)|Rust|分布式查询引擎为任何形式和规模提供简单可靠的数据处理|278|3834|85|2022-04-25|
+|5|[Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)|Java|#1本地托管的Web应用程序，允许您对PDF文件执行各种操作|274|65437|84|2023-01-27|
+|6|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|224|66592|74|2024-04-29|
+|7|[trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)|Go|查找、验证和分析泄露的凭据|232|21139|73|2016-12-31|
+|8|[bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot)|TypeScript|Bytebot是一个自托管的AI桌面代理，通过自然语言命令自动执行计算机任务，在容器化的Linux桌面环境中运行。|198|5790|67|2025-02-03|
+|9|[resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)|Python|SoTA开源TTC|186|12218|62|2025-04-23|
+|10|[nukeop/nuclear](https://github.com/nukeop/nuclear)|TypeScript|为您查找免费音乐的流媒体音乐播放器|179|14644|54|2016-09-22|
+|11|[apple/embedding-atlas](https://github.com/apple/embedding-atlas)|TypeScript|Embeding Atlas是一种为大型嵌入提供交互式可视化的工具。它允许您可视化、交叉过滤和搜索嵌入和元数据。|165|3669|51|2025-05-07|
+|12|[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)|None|500个人工智能代理项目是各个行业人工智能代理用例的精心策划的集合。它展示了实际应用，并提供了开源项目的链接以供实施，说明了人工智能代理如何改变医疗保健、金融、教育、零售等行业。|135|10200|47|2024-12-20|
+|13|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|125|19275|41|2025-05-03|
+|14|[dockur/windows](https://github.com/dockur/windows)|Shell|Docker容器内的Windows。|130|44661|40|2024-01-14|
+|15|[zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load)|None|认知负荷才是最重要的|126|10881|37|2023-05-19|
 
 [所有日榜](./day/day.md)
 
