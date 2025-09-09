@@ -1,24 +1,24 @@
 Github热门开源项目榜单
 
-## 2025年09月08日
+## 2025年09月09日
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|1734|39549|537|2022-11-27|
-|2|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|1671|37169|515|2023-07-19|
-|3|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|1538|31271|470|2022-10-17|
-|4|[emcie-co/parlant](https://github.com/emcie-co/parlant)|Python|专为控制而设计的LLM代理。专为现实世界使用而设计。几分钟内部署完毕。|1046|10615|332|2024-02-15|
-|5|[Vector-Wangel/XLeRobot](https://github.com/Vector-Wangel/XLeRobot)|Python|XLeRobot：实用双臂移动家居机器人，售价660美元|494|2348|159|2025-04-26|
-|6|[Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)|TypeScript|开源AI编码助手，用于规划，构建和修复代码。我们经常合并Roo Code和Cline等开源项目的功能，同时构建自己的愿景。关注我们：kilocode.ai/social|501|9122|154|2025-03-10|
-|7|[Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)|Java|#1本地托管的Web应用程序，允许您对PDF文件执行各种操作|425|65862|132|2023-01-27|
-|8|[ossu/computer-science](https://github.com/ossu/computer-science)|HTML|????计算机科学免费自学教育之路！|330|192401|107|2014-05-04|
-|9|[nukeop/nuclear](https://github.com/nukeop/nuclear)|TypeScript|为您查找免费音乐的流媒体音乐播放器|334|14978|105|2016-09-22|
-|10|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|305|17736|93|2025-05-02|
-|11|[henrygd/beszel](https://github.com/henrygd/beszel)|Go|轻量级服务器监控中心，包含历史数据、docker统计数据和警报。|284|14894|86|2024-07-07|
-|12|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|239|66831|82|2024-04-29|
-|13|[bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot)|TypeScript|Bytebot是一个自托管的AI桌面代理，通过自然语言命令自动执行计算机任务，在容器化的Linux桌面环境中运行。|228|6018|72|2025-02-03|
-|14|[Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft)|Rust|分布式查询引擎为任何形式和规模提供简单可靠的数据处理|219|4053|67|2022-04-25|
-|15|[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)|None|500个人工智能代理项目是各个行业人工智能代理用例的精心策划的集合。它展示了实际应用，并提供了开源项目的链接以供实施，说明了人工智能代理如何改变医疗保健、金融、教育、零售等行业。|191|10391|66|2024-12-20|
+|1|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|927|40476|285|2022-11-27|
+|2|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|840|38009|256|2023-07-19|
+|3|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|833|32104|255|2022-10-17|
+|4|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|645|27488|217|2025-05-14|
+|5|[11cafe/jaaz](https://github.com/11cafe/jaaz)|TypeScript|世界上第一个开源多模式创意助手这是Canva和Manus的替代品，优先考虑隐私，可在本地使用。|667|3424|209|2025-06-01|
+|6|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|609|82394|206|2025-03-05|
+|7|[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)|Jupyter Notebook|开始构建人工智能代理的12个课程|541|37263|184|2024-11-28|
+|8|[emcie-co/parlant](https://github.com/emcie-co/parlant)|Python|专为控制而设计的LLM代理。专为现实世界使用而设计。几分钟内部署完毕。|492|11107|153|2024-02-15|
+|9|[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)|Jupyter Notebook|21个教训，开始使用生成性人工智能进行构建 |382|97503|132|2023-06-19|
+|10|[Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)|Java|#1本地托管的Web应用程序，允许您对PDF文件执行各种操作|393|66255|123|2023-01-27|
+|11|[Vector-Wangel/XLeRobot](https://github.com/Vector-Wangel/XLeRobot)|Python|XLeRobot：实用双臂移动家居机器人，售价660美元|350|2698|111|2025-04-26|
+|12|[Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)|TypeScript|开源AI编码助手，用于规划，构建和修复代码。我们经常合并Roo Code和Cline等开源项目的功能，同时构建自己的愿景。关注我们：kilocode.ai/social|348|9470|110|2025-03-10|
+|13|[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)|None|500个人工智能代理项目是各个行业人工智能代理用例的精心策划的集合。它展示了实际应用，并提供了开源项目的链接以供实施，说明了人工智能代理如何改变医疗保健、金融、教育、零售等行业。|334|10725|109|2024-12-20|
+|14|[Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)|Python|一个基于RAG的开源工具，用于与文档聊天。|296|23592|93|2024-03-25|
+|15|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|256|67087|87|2024-04-29|
 
 [所有日榜](./day/day.md)
 
