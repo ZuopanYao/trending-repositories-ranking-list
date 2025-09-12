@@ -1,24 +1,24 @@
 Github热门开源项目榜单
 
-## 2025年09月11日
+## 2025年09月12日
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi)|Python|None|977|6244|316|2024-10-21|
-|2|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|931|42257|284|2022-11-27|
-|3|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|854|33617|260|2022-10-17|
-|4|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|854|39616|259|2023-07-19|
-|5|[twitter/the-algorithm](https://github.com/twitter/the-algorithm)|Scala|X推荐算法的源代码|715|65915|228|2023-03-27|
-|6|[modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)|Go|用于模型上下文协议（HCP）服务器的社区驱动注册表服务。|723|3571|225|2025-02-05|
-|7|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|473|83514|160|2025-03-05|
-|8|[ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)|TypeScript|人人都能用英语|488|27556|155|2019-03-15|
-|9|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|422|28322|149|2025-05-14|
-|10|[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)|Jupyter Notebook|开始构建人工智能代理的12个课程|369|37857|128|2024-11-28|
-|11|[11cafe/jaaz](https://github.com/11cafe/jaaz)|TypeScript|世界上第一个开源多模式创意助手这是Canva和Manus的替代品，优先考虑隐私，可在本地使用。|382|4212|118|2025-06-01|
-|12|[heroui-inc/heroui](https://github.com/heroui-inc/heroui)|TypeScript|????美丽、快速且现代的React UI库。（以前是NextUI）|345|25947|107|2021-04-22|
-|13|[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)|None|500个人工智能代理项目是各个行业人工智能代理用例的精心策划的集合。它展示了实际应用，并提供了开源项目的链接以供实施，说明了人工智能代理如何改变医疗保健、金融、教育、零售等行业。|259|11180|88|2024-12-20|
-|14|[Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)|Java|#1本地托管的Web应用程序，允许您对PDF文件执行各种操作|278|66883|86|2023-01-27|
-|15|[chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)|Jupyter Notebook|[WIP]人工智能工程师的资源。还包含《人工智能工程》一书的支持材料（Chip Huyen，2025）|229|8455|78|2024-12-03|
+|1|[Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi)|Python|None|710|6954|223|2024-10-21|
+|2|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|620|28942|207|2025-05-14|
+|3|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|335|83849|111|2025-03-05|
+|4|[twitter/the-algorithm](https://github.com/twitter/the-algorithm)|Scala|X推荐算法的源代码|343|66258|111|2023-03-27|
+|5|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|271|49440|92|2020-01-05|
+|6|[modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)|Go|用于模型上下文协议（HCP）服务器的社区驱动注册表服务。|288|3859|91|2025-02-05|
+|7|[mxrch/GHunt](https://github.com/mxrch/GHunt)|Python|ŸŸ️|275|17745|86|2020-10-02|
+|8|[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)|Go|BillionMail为您提供开源Mail服务器、NewsLetter、电子邮件营销-完全自托管、开发人员友好且免月费。加入不和：https://discord.gg/asfXzBUhZr|282|10398|86|2025-02-14|
+|9|[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)|None|500个人工智能代理项目是各个行业人工智能代理用例的精心策划的集合。它展示了实际应用，并提供了开源项目的链接以供实施，说明了人工智能代理如何改变医疗保健、金融、教育、零售等行业。|223|11403|75|2024-12-20|
+|10|[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)|Jupyter Notebook|开始构建人工智能代理的12个课程|197|38054|74|2024-11-28|
+|11|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|212|20029|70|2025-05-03|
+|12|[heroui-inc/heroui](https://github.com/heroui-inc/heroui)|TypeScript|????美丽、快速且现代的React UI库。（以前是NextUI）|224|26171|69|2021-04-22|
+|13|[chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)|Jupyter Notebook|[WIP]人工智能工程师的资源。还包含《人工智能工程》一书的支持材料（Chip Huyen，2025）|190|8645|67|2024-12-03|
+|14|[ccfos/nightingale](https://github.com/ccfos/nightingale)|Go|Nightingale用于监控和警报，就像Grafana用于可视化一样。|210|11903|65|2020-03-03|
+|15|[ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)|TypeScript|人人都能用英语|197|27753|64|2019-03-15|
 
 [所有日榜](./day/day.md)
 
