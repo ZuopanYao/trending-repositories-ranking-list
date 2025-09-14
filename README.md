@@ -22,30 +22,30 @@ Github热门开源项目榜单
 
 [所有日榜](./day/day.md)
 
-## 2025年第35周
+## 2025年第36周
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[dockur/windows](https://github.com/dockur/windows)|Shell|Docker容器内的Windows。|4116|44692|1292|2024-01-14|
-|2|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|3659|29806|1119|2022-10-17|
-|3|[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)|None|500个人工智能代理项目是各个行业人工智能代理用例的精心策划的集合。它展示了实际应用，并提供了开源项目的链接以供实施，说明了人工智能代理如何改变医疗保健、金融、教育、零售等行业。|3151|10237|1075|2024-12-20|
-|4|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|1593|19315|530|2025-05-03|
-|5|[resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)|Python|SoTA开源TTC|1312|12268|423|2025-04-23|
-|6|[zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load)|None|认知负荷才是最重要的|1337|10908|413|2023-05-19|
-|7|[QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)|Python|用于实时、本地语音到文本和扬声器拨号的Python包。FastAPI服务器和Web界面|1103|6512|349|2024-12-19|
-|8|[HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)|Python|DeepCode：开放式统计编码（Paper 2Code & Text 2 Web & Text 2Backend）|975|5746|340|2025-05-14|
-|9|[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)|Rust|一个开源远程桌面应用程序，专为自托管而设计，作为TeamViewer的替代品。|873|97796|282|2020-09-28|
-|10|[JetBrains/koog](https://github.com/JetBrains/koog)|Kotlin|Koog是官方Kotlin框架，用于在所有平台上构建和运行稳健、可扩展且可生产就绪的人工智能代理--从后台服务到Android和iOS、Java，甚至浏览器内环境。Koog基于我们的人工智能产品专业知识，为复杂的LLM和人工智能问题提供经过验证的解决方案|829|2953|264|2025-05-01|
-|11|[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)|None|以主题为中心的HQ开放数据集列表。|771|66301|254|2014-11-20|
-|12|[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|Jupyter Notebook|在PyTorch中从头开始、一步一步地实施类似ChatGPT的LLM|741|69278|247|2023-07-23|
-|13|[activepieces/activepieces](https://github.com/activepieces/activepieces)|TypeScript|人工智能代理和MVP和人工智能工作流程自动化·（280+个用于人工智能代理的HCP服务器）·人工智能自动化/具有MVP的人工智能代理·人工智能工作流和人工智能代理·用于人工智能代理的MVP|710|17664|236|2022-12-03|
-|14|[OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)|Python|MiniCPM-V 4.5：GPT-4 o级别MLLM，用于在手机上理解单图像、多图像和视频|545|21456|175|2024-01-29|
-|15|[google/comprehensive-rust](https://github.com/google/comprehensive-rust)|Rust|这是Google Android团队使用的Rust课程。它为您提供了快速教授Rust的材料。|565|31754|174|2022-12-21|
-|16|[Canner/WrenAI](https://github.com/Canner/WrenAI)|TypeScript|SEARCH GenBI（生成式BI）以自然语言查询任何数据库，在几秒钟内生成准确的SQL（文本到SQL）、图表（文本到图表）和人工智能驱动的见解。|538|11755|171|2024-03-13|
-|17|[plait-board/drawnix](https://github.com/plait-board/drawnix)|TypeScript|开源白板工具（SaaS）、一体化白板、包含思想导图、流程图、自由画等。一体化开源白板工具，具有思维、流程图、手绘等功能。|522|10810|170|2024-06-04|
-|18|[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)|Python|所有算法都在Python中实现|468|206710|155|2016-07-16|
-|19|[mlabonne/llm-course](https://github.com/mlabonne/llm-course)|None|通过路线图和Colab笔记本进入大型语言模型（LLM）的课程。|409|61639|138|2023-06-17|
-|20|[humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)|TypeScript|HumanLayer使人工智能代理能够在基于工具和可编程的工作流程中与人类进行通信。通过跨越松弛、电子邮件等的审批工作流程，确保对高风险职能呼叫进行人工监督。  带上您选择的LLM和框架，开始让您的人工智能代理安全访问世界。抽象的工作流程、人参与循环、工具调用|375|2273|119|2024-08-05|
+|1|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|2844|29687|979|2025-05-14|
+|2|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|3135|42684|963|2022-11-27|
+|3|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|2623|84408|902|2025-03-05|
+|4|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|2782|39951|848|2023-07-19|
+|5|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|2646|33917|807|2022-10-17|
+|6|[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)|Jupyter Notebook|开始构建人工智能代理的12个课程|1630|38352|587|2024-11-28|
+|7|[11cafe/jaaz](https://github.com/11cafe/jaaz)|TypeScript|世界上第一个开源多模式创意助手这是Canva和Manus的替代品，优先考虑隐私，可在本地使用。|1723|4480|537|2025-06-01|
+|8|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|1467|68298|506|2024-04-29|
+|9|[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|Jupyter Notebook|在PyTorch中从头开始、一步一步地实施类似ChatGPT的LLM|1343|70691|470|2023-07-23|
+|10|[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)|None|500个人工智能代理项目是各个行业人工智能代理用例的精心策划的集合。它展示了实际应用，并提供了开源项目的链接以供实施，说明了人工智能代理如何改变医疗保健、金融、教育、零售等行业。|1321|11712|452|2024-12-20|
+|11|[emcie-co/parlant](https://github.com/emcie-co/parlant)|Python|专为控制而设计的LLM代理。专为现实世界使用而设计。几分钟内部署完毕。|1373|11988|435|2024-02-15|
+|12|[Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)|Java|#1本地托管的Web应用程序，允许您对PDF文件执行各种操作|1327|67189|416|2023-01-27|
+|13|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|1085|18821|335|2025-05-02|
+|14|[bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot)|TypeScript|Bytebot是一个自托管的AI桌面代理，通过自然语言命令自动执行计算机任务，在容器化的Linux桌面环境中运行。|940|6958|311|2025-02-03|
+|15|[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)|Jupyter Notebook|21个教训，开始使用生成性人工智能进行构建 |720|97841|299|2023-06-19|
+|16|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|828|49557|293|2020-01-05|
+|17|[Vector-Wangel/XLeRobot](https://github.com/Vector-Wangel/XLeRobot)|Python|XLeRobot：实用双臂移动家居机器人，售价660美元|894|3242|285|2025-04-26|
+|18|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|817|20243|269|2025-05-03|
+|19|[Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)|Python|一个基于RAG的开源工具，用于与文档聊天。|828|24124|262|2024-03-25|
+|20|[chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)|Jupyter Notebook|[WIP]人工智能工程师的资源。还包含《人工智能工程》一书的支持材料（Chip Huyen，2025）|708|8836|244|2024-12-03|
 
 [所有周榜](./week/week.md)
 
