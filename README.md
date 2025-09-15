@@ -1,24 +1,24 @@
 Github热门开源项目榜单
 
-## 2025年09月14日
+## 2025年09月15日
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|Jupyter Notebook|在PyTorch中从头开始、一步一步地实施类似ChatGPT的LLM|635|70691|225|2023-07-23|
-|2|[PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)|C#|适用于每个系统的Shell！|611|49309|191|2016-01-13|
-|3|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|371|29687|132|2025-05-14|
-|4|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|359|84408|122|2025-03-05|
-|5|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|338|68298|118|2024-04-29|
-|6|[simdjson/simdjson](https://github.com/simdjson/simdjson)|C++|每秒解析千兆字节的杨森：由Facebook/Meta Velox、Node.js运行时、LinkHouse、WatermelonDB、Apache Doris、Milvus、StarRocks使用|321|21592|98|2018-03-23|
-|7|[trueadm/ripple](https://github.com/trueadm/ripple)|JavaScript|优雅的TypScript UI框架|302|4401|94|2025-02-16|
-|8|[CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff)|TypeScript|从终端生成代码！|248|1605|76|2024-07-09|
-|9|[sentient-agi/ROMA](https://github.com/sentient-agi/ROMA)|Python|Recursive-Open-Meta-Agent v0.1（Beta）。一个元代理框架，用于构建高性能多代理系统。|229|2039|75|2025-05-12|
-|10|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|224|18821|69|2025-05-02|
-|11|[LukeGus/Termix](https://github.com/LukeGus/Termix)|TypeScript|Termix是一个基于Web的服务器管理平台，具有SSH终端、隧道和文件编辑功能。|202|3793|61|2024-11-25|
-|12|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|202|42684|61|2022-11-27|
-|13|[carthage-software/mago](https://github.com/carthage-software/mago)|Rust|Mago是一个PHP工具链，旨在提供一组工具来帮助开发人员编写更好的代码。|194|1515|58|2024-10-26|
-|14|[huggingface/transformers](https://github.com/huggingface/transformers)|Python|???? 变形金刚：文本、视觉、音频和多模式模型中最先进的机器学习模型的模型定义框架，用于推理和训练。 |182|149753|58|2018-10-29|
-|15|[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)|Jupyter Notebook|开始构建人工智能代理的12个课程|141|38352|55|2024-11-28|
+|1|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|643|85051|221|2025-03-05|
+|2|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|583|43267|179|2022-11-27|
+|3|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|488|30175|172|2025-05-14|
+|4|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|533|40484|162|2023-07-19|
+|5|[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|Jupyter Notebook|在PyTorch中从头开始、一步一步地实施类似ChatGPT的LLM|419|71110|143|2023-07-23|
+|6|[PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)|C#|适用于每个系统的Shell！|400|49709|126|2016-01-13|
+|7|[Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)|Python|展示RAG、代理、工作流程和其他人工智能用例的一系列项目|376|5798|117|2025-02-16|
+|8|[sentient-agi/ROMA](https://github.com/sentient-agi/ROMA)|Python|Recursive-Open-Meta-Agent v0.1（Beta）。一个元代理框架，用于构建高性能多代理系统。|348|2387|114|2025-05-12|
+|9|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|321|68619|109|2024-04-29|
+|10|[SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent)|JavaScript|DeepResearchAgent是一个分层多代理系统，不仅为深度研究任务设计，还为通用任务求解设计。该框架利用顶层规划代理来协调多个专业的低级代理，实现自动化任务分解和跨不同复杂领域的高效执行。|341|2110|108|2025-05-20|
+|11|[ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)|TypeScript|Perplexica是一款人工智能搜索引擎。它是Perplexity AI的开源替代品|327|24511|103|2024-04-09|
+|12|[trueadm/ripple](https://github.com/trueadm/ripple)|JavaScript|优雅的TypScript UI框架|291|4692|90|2025-02-16|
+|13|[simdjson/simdjson](https://github.com/simdjson/simdjson)|C++|每秒解析千兆字节的杨森：由Facebook/Meta Velox、Node.js运行时、LinkHouse、WatermelonDB、Apache Doris、Milvus、StarRocks使用|298|21890|90|2018-03-23|
+|14|[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)|Python|????????Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper.别害羞，加入这里：https://discord.gg/jP8KfhDhyN|280|53173|89|2024-05-09|
+|15|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|250|40920|81|2025-04-13|
 
 [所有日榜](./day/day.md)
 
