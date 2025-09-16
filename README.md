@@ -1,24 +1,24 @@
 Github热门开源项目榜单
 
-## 2025年09月15日
+## 2025年09月16日
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|643|85051|221|2025-03-05|
-|2|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|583|43267|179|2022-11-27|
-|3|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|488|30175|172|2025-05-14|
-|4|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|533|40484|162|2023-07-19|
-|5|[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|Jupyter Notebook|在PyTorch中从头开始、一步一步地实施类似ChatGPT的LLM|419|71110|143|2023-07-23|
-|6|[PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)|C#|适用于每个系统的Shell！|400|49709|126|2016-01-13|
-|7|[Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)|Python|展示RAG、代理、工作流程和其他人工智能用例的一系列项目|376|5798|117|2025-02-16|
-|8|[sentient-agi/ROMA](https://github.com/sentient-agi/ROMA)|Python|Recursive-Open-Meta-Agent v0.1（Beta）。一个元代理框架，用于构建高性能多代理系统。|348|2387|114|2025-05-12|
-|9|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|321|68619|109|2024-04-29|
-|10|[SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent)|JavaScript|DeepResearchAgent是一个分层多代理系统，不仅为深度研究任务设计，还为通用任务求解设计。该框架利用顶层规划代理来协调多个专业的低级代理，实现自动化任务分解和跨不同复杂领域的高效执行。|341|2110|108|2025-05-20|
-|11|[ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)|TypeScript|Perplexica是一款人工智能搜索引擎。它是Perplexity AI的开源替代品|327|24511|103|2024-04-09|
-|12|[trueadm/ripple](https://github.com/trueadm/ripple)|JavaScript|优雅的TypScript UI框架|291|4692|90|2025-02-16|
-|13|[simdjson/simdjson](https://github.com/simdjson/simdjson)|C++|每秒解析千兆字节的杨森：由Facebook/Meta Velox、Node.js运行时、LinkHouse、WatermelonDB、Apache Doris、Milvus、StarRocks使用|298|21890|90|2018-03-23|
-|14|[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)|Python|????????Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper.别害羞，加入这里：https://discord.gg/jP8KfhDhyN|280|53173|89|2024-05-09|
-|15|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|250|40920|81|2025-04-13|
+|1|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|1043|75246|324|2024-11-13|
+|2|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|568|30743|190|2025-05-14|
+|3|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|493|41413|158|2025-04-13|
+|4|[CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)|Python|5秒内克隆语音，实时生成任意语音|493|56079|154|2019-05-26|
+|5|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|436|85487|149|2025-03-05|
+|6|[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|Jupyter Notebook|在PyTorch中从头开始、一步一步地实施类似ChatGPT的LLM|418|71528|140|2023-07-23|
+|7|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|416|23710|132|2025-04-30|
+|8|[ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)|TypeScript|Perplexica是一款人工智能搜索引擎。它是Perplexity AI的开源替代品|344|24855|108|2024-04-09|
+|9|[HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)|Python|DeepCode：开放式统计编码（Paper 2Code & Text 2 Web & Text 2Backend）|303|6489|98|2025-05-14|
+|10|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|284|68903|95|2024-04-29|
+|11|[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)|Jupyter Notebook|21个教训，开始使用生成性人工智能进行构建 |210|98176|92|2023-06-19|
+|12|[sentient-agi/ROMA](https://github.com/sentient-agi/ROMA)|Python|Recursive-Open-Meta-Agent v0.1（Beta）。一个元代理框架，用于构建高性能多代理系统。|260|2647|83|2025-05-12|
+|13|[virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)|Python|人工智能对冲基金团队|257|40492|83|2024-11-29|
+|14|[ccxt/ccxt](https://github.com/ccxt/ccxt)|Python|一个加密货币交易API，支持超过100种JavaScript / TypeScript / Python / C# / PHP / Go语言的交易所 |257|38609|81|2017-05-14|
+|15|[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)|Jupyter Notebook|开始构建人工智能代理的12个课程|183|38720|68|2024-11-28|
 
 [所有日榜](./day/day.md)
 
