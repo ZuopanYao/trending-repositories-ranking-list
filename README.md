@@ -1,24 +1,24 @@
 Github热门开源项目榜单
 
-## 2025年09月17日
+## 2025年09月18日
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|1724|76970|536|2024-11-13|
-|2|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|582|31325|214|2025-05-14|
-|3|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|513|41926|168|2025-04-13|
-|4|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|393|54411|122|2020-05-08|
-|5|[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|Jupyter Notebook|在PyTorch中从头开始、一步一步地实施类似ChatGPT的LLM|285|71813|100|2023-07-23|
-|6|[dataease/SQLBot](https://github.com/dataease/SQLBot)|Python|The most important technology is to provide a mechanism for the determination of the mechanical properties of the mechanical properties.使用RAG通过LLM生成文本到SQL。|314|2112|99|2025-04-21|
-|7|[ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)|TypeScript|Perplexica是一款人工智能搜索引擎。它是Perplexity AI的开源替代品|301|25156|97|2024-04-09|
-|8|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|260|85747|90|2025-03-05|
-|9|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|260|69163|89|2024-04-29|
-|10|[virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)|Python|人工智能对冲基金团队|237|40729|79|2024-11-29|
-|11|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|244|23954|79|2025-04-30|
-|12|[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)|Python|所有算法都在Python中实现|240|207405|76|2016-07-16|
-|13|[HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)|Python|DeepCode：开放式统计编码（Paper 2Code & Text 2 Web & Text 2Backend）|231|6720|75|2025-05-14|
-|14|[SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent)|JavaScript|DeepResearchAgent是一个分层多代理系统，不仅为深度研究任务设计，还为通用任务求解设计。该框架利用顶层规划代理来协调多个专业的低级代理，实现自动化任务分解和跨不同复杂领域的高效执行。|222|2455|70|2025-05-20|
-|15|[modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)|Go|用于模型上下文协议（HCP）服务器的社区驱动注册表服务。|213|4546|66|2025-02-05|
+|1|[Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)|Python|通益深度研究，领先的开源深度研究代理|1301|8703|407|2025-01-09|
+|2|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|1293|78263|401|2024-11-13|
+|3|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|482|31807|174|2025-05-14|
+|4|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|531|42457|168|2025-04-13|
+|5|[category-labs/monad](https://github.com/category-labs/monad)|C++|None|327|741|109|2022-12-14|
+|6|[nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser)|TypeScript|开源Chrome扩展，用于人工智能驱动的网络自动化。使用您自己的LLM API密钥运行多代理工作流程。OpenAI操作员的替代品。|330|9614|102|2024-12-31|
+|7|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|304|24258|97|2025-04-30|
+|8|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|247|19578|76|2025-05-02|
+|9|[google-research/timesfm](https://github.com/google-research/timesfm)|Python|TimesFM（时间序列基础模型）是Google Research开发的一个预训练的时间序列基础模型，用于时间序列预测。|243|5862|75|2024-04-29|
+|10|[curl/curl](https://github.com/curl/curl)|C|一个命令行工具和库，用于传输具有URL语法的数据，支持DICT、PLE、TP、FTPS、GOPHER、GOPHRS、HTTP、HTTPS、LMA、IMAPS、LDAPS、MQTT、POP3、POP3S、RTMP、RTMPS、SPP、SCP、STP、SMB、SMTPS、TELNET、TTP、WS和WSS。libcurl提供无数强大功能|241|39140|74|2010-03-18|
+|11|[dataease/SQLBot](https://github.com/dataease/SQLBot)|Python|The most important technology is to provide a mechanism for the determination of the mechanical properties of the mechanical properties.使用RAG通过LLM生成文本到SQL。|227|2339|73|2025-04-21|
+|12|[jordanbaird/Ice](https://github.com/jordanbaird/Ice)|Swift|适用于macOS的强大菜单栏管理器|237|22486|72|2023-08-04|
+|13|[ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)|TypeScript|Perplexica是一款人工智能搜索引擎。它是Perplexity AI的开源替代品|226|25382|70|2024-04-09|
+|14|[facebookresearch/detectron2](https://github.com/facebookresearch/detectron2)|Python|Detectron 2是一个用于对象检测、分割和其他视觉识别任务的平台。|224|33106|68|2019-09-05|
+|15|[virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)|Python|人工智能对冲基金团队|211|40940|66|2024-11-29|
 
 [所有日榜](./day/day.md)
 
