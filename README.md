@@ -1,24 +1,24 @@
 Github热门开源项目榜单
 
-## 2025年09月18日
+## 2025年09月19日
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)|Python|通益深度研究，领先的开源深度研究代理|1301|8703|407|2025-01-09|
-|2|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|1293|78263|401|2024-11-13|
-|3|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|482|31807|174|2025-05-14|
-|4|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|531|42457|168|2025-04-13|
-|5|[category-labs/monad](https://github.com/category-labs/monad)|C++|None|327|741|109|2022-12-14|
-|6|[nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser)|TypeScript|开源Chrome扩展，用于人工智能驱动的网络自动化。使用您自己的LLM API密钥运行多代理工作流程。OpenAI操作员的替代品。|330|9614|102|2024-12-31|
-|7|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|304|24258|97|2025-04-30|
-|8|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|247|19578|76|2025-05-02|
-|9|[google-research/timesfm](https://github.com/google-research/timesfm)|Python|TimesFM（时间序列基础模型）是Google Research开发的一个预训练的时间序列基础模型，用于时间序列预测。|243|5862|75|2024-04-29|
-|10|[curl/curl](https://github.com/curl/curl)|C|一个命令行工具和库，用于传输具有URL语法的数据，支持DICT、PLE、TP、FTPS、GOPHER、GOPHRS、HTTP、HTTPS、LMA、IMAPS、LDAPS、MQTT、POP3、POP3S、RTMP、RTMPS、SPP、SCP、STP、SMB、SMTPS、TELNET、TTP、WS和WSS。libcurl提供无数强大功能|241|39140|74|2010-03-18|
-|11|[dataease/SQLBot](https://github.com/dataease/SQLBot)|Python|The most important technology is to provide a mechanism for the determination of the mechanical properties of the mechanical properties.使用RAG通过LLM生成文本到SQL。|227|2339|73|2025-04-21|
-|12|[jordanbaird/Ice](https://github.com/jordanbaird/Ice)|Swift|适用于macOS的强大菜单栏管理器|237|22486|72|2023-08-04|
-|13|[ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)|TypeScript|Perplexica是一款人工智能搜索引擎。它是Perplexity AI的开源替代品|226|25382|70|2024-04-09|
-|14|[facebookresearch/detectron2](https://github.com/facebookresearch/detectron2)|Python|Detectron 2是一个用于对象检测、分割和其他视觉识别任务的平台。|224|33106|68|2019-09-05|
-|15|[virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)|Python|人工智能对冲基金团队|211|40940|66|2024-11-29|
+|1|[Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)|Python|通益深度研究，领先的开源深度研究代理|1162|9865|372|2025-01-09|
+|2|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|1020|79283|314|2024-11-13|
+|3|[linera-io/linera-protocol](https://github.com/linera-io/linera-protocol)|Rust|Linera协议的主存储库|570|29562|180|2021-12-19|
+|4|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|472|42929|154|2025-04-13|
+|5|[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)|None|成为软件工程师的完整计算机科学学习计划。|415|328801|134|2016-06-06|
+|6|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|388|54991|119|2020-05-08|
+|7|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|315|86233|113|2025-03-05|
+|8|[eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)|Rust|适用于Windows 10/11的完全可定制的桌面环境。|367|12607|111|2024-02-16|
+|9|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|285|32092|102|2025-05-14|
+|10|[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)|Python|所有算法都在Python中实现|238|207766|75|2016-07-16|
+|11|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|217|4411|67|2025-04-04|
+|12|[TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework)|C| 对话语音人工智能代理的开源框架。|183|7841|59|2024-06-19|
+|13|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|172|69472|58|2024-04-29|
+|14|[dataease/SQLBot](https://github.com/dataease/SQLBot)|Python|The most important technology is to provide a mechanism for the determination of the mechanical properties of the mechanical properties.使用RAG通过LLM生成文本到SQL。|187|2526|58|2025-04-21|
+|15|[CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)|Python|5秒内克隆语音，实时生成任意语音|166|56601|52|2019-05-26|
 
 [所有日榜](./day/day.md)
 
