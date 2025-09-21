@@ -1,24 +1,24 @@
 Github热门开源项目榜单
 
-## 2025年09月20日
+## 2025年09月21日
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)|JavaScript|????像老乡鸡????那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC。|1625|8593|520|2024-04-10|
-|2|[Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)|Python|通益深度研究，领先的开源深度研究代理|1340|11205|429|2025-01-09|
-|3|[microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)|Jupyter Notebook|12周，24节课，AI为所有人！|499|41035|163|2021-03-03|
-|4|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|380|86613|138|2025-03-05|
-|5|[linera-io/linera-protocol](https://github.com/linera-io/linera-protocol)|Rust|Linera协议的主存储库|393|29955|127|2021-12-19|
-|6|[CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)|TypeScript|React UI +用于AI Copilots、AI聊天机器人和应用内AI代理的优雅基础设施。超大的最后一英里收件箱|274|23460|88|2023-06-19|
-|7|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|218|32310|80|2025-05-14|
-|8|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|234|19943|73|2025-05-02|
-|9|[sentient-agi/ROMA](https://github.com/sentient-agi/ROMA)|Python|Recursive-Open-Meta-Agent v0.1（Beta）。一个元代理框架，用于构建高性能多代理系统。|99|3070|71|2025-05-12|
-|10|[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)|None|成为软件工程师的完整计算机科学学习计划。|211|329012|71|2016-06-06|
-|11|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|189|43118|65|2025-04-13|
-|12|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|175|79458|55|2024-11-13|
-|13|[basecamp/omarchy](https://github.com/basecamp/omarchy)|Shell|观点Arch/Hyprland设置|168|8881|54|2025-06-01|
-|14|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|151|55142|51|2020-05-08|
-|15|[nocodb/nocodb](https://github.com/nocodb/nocodb)|TypeScript|????????????Open Source Airtable Alternative|162|57503|51|2017-10-29|
+|1|[Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)|JavaScript|????像老乡鸡????那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC。|2536|11129|808|2024-04-10|
+|2|[Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)|Python|通益深度研究，领先的开源深度研究代理|971|12176|309|2025-01-09|
+|3|[microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)|Jupyter Notebook|12周，24节课，AI为所有人！|440|41475|143|2021-03-03|
+|4|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|268|86881|97|2025-03-05|
+|5|[9001/copyparty](https://github.com/9001/copyparty)|Python|便携式文件服务器，具有加速的可搜索上传、重复数据删除、BEP、RTP、zeroconf、媒体索引器、缩略图++全部集中在一个文件中，无需删除|233|30544|73|2019-05-26|
+|6|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|193|32503|72|2025-05-14|
+|7|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|213|43331|72|2025-04-13|
+|8|[linera-io/linera-protocol](https://github.com/linera-io/linera-protocol)|Rust|Linera协议的主存储库|209|30164|65|2021-12-19|
+|9|[CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)|TypeScript|React UI +用于AI Copilots、AI聊天机器人和应用内AI代理的优雅基础设施。超大的最后一英里收件箱|199|23659|61|2023-06-19|
+|10|[tldraw/tldraw](https://github.com/tldraw/tldraw)|TypeScript|非常好的白板SDK /无限画布SDK|196|42165|60|2021-05-09|
+|11|[OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat)|TypeScript|适合您的网站的完全可定制的AI聊天机器人组件|195|3017|60|2023-02-19|
+|12|[sentient-agi/ROMA](https://github.com/sentient-agi/ROMA)|Python|Recursive-Open-Meta-Agent v0.1（Beta）。一个元代理框架，用于构建高性能多代理系统。|104|3174|59|2025-05-12|
+|13|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)|Python|了解如何设计大型系统。准备系统设计面试。  包括Anki抽认卡。|161|320379|56|2017-02-26|
+|14|[winfunc/opcode](https://github.com/winfunc/opcode)|TypeScript|用于Claude Code的功能强大的图形用户界面应用程序和工具包-创建自定义代理、管理交互式Claude Code会话、运行安全的后台代理等。|169|16916|54|2025-06-19|
+|15|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|159|20102|49|2025-05-02|
 
 [所有日榜](./day/day.md)
 
