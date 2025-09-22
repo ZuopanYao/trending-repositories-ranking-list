@@ -1,24 +1,24 @@
 Github热门开源项目榜单
 
-## 2025年09月21日
+## 2025年09月22日
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)|JavaScript|????像老乡鸡????那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC。|2536|11129|808|2024-04-10|
-|2|[Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)|Python|通益深度研究，领先的开源深度研究代理|971|12176|309|2025-01-09|
-|3|[microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)|Jupyter Notebook|12周，24节课，AI为所有人！|440|41475|143|2021-03-03|
-|4|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|268|86881|97|2025-03-05|
-|5|[9001/copyparty](https://github.com/9001/copyparty)|Python|便携式文件服务器，具有加速的可搜索上传、重复数据删除、BEP、RTP、zeroconf、媒体索引器、缩略图++全部集中在一个文件中，无需删除|233|30544|73|2019-05-26|
-|6|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|193|32503|72|2025-05-14|
-|7|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|213|43331|72|2025-04-13|
-|8|[linera-io/linera-protocol](https://github.com/linera-io/linera-protocol)|Rust|Linera协议的主存储库|209|30164|65|2021-12-19|
-|9|[CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)|TypeScript|React UI +用于AI Copilots、AI聊天机器人和应用内AI代理的优雅基础设施。超大的最后一英里收件箱|199|23659|61|2023-06-19|
-|10|[tldraw/tldraw](https://github.com/tldraw/tldraw)|TypeScript|非常好的白板SDK /无限画布SDK|196|42165|60|2021-05-09|
-|11|[OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat)|TypeScript|适合您的网站的完全可定制的AI聊天机器人组件|195|3017|60|2023-02-19|
-|12|[sentient-agi/ROMA](https://github.com/sentient-agi/ROMA)|Python|Recursive-Open-Meta-Agent v0.1（Beta）。一个元代理框架，用于构建高性能多代理系统。|104|3174|59|2025-05-12|
-|13|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)|Python|了解如何设计大型系统。准备系统设计面试。  包括Anki抽认卡。|161|320379|56|2017-02-26|
-|14|[winfunc/opcode](https://github.com/winfunc/opcode)|TypeScript|用于Claude Code的功能强大的图形用户界面应用程序和工具包-创建自定义代理、管理交互式Claude Code会话、运行安全的后台代理等。|169|16916|54|2025-06-19|
-|15|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|159|20102|49|2025-05-02|
+|1|[Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)|JavaScript|????像老乡鸡????那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC。|2405|13534|763|2024-04-10|
+|2|[Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)|Python|通益深度研究，领先的开源深度研究代理|1451|13627|454|2025-01-09|
+|3|[microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)|Jupyter Notebook|12周，24节课，AI为所有人！|518|41993|168|2021-03-03|
+|4|[WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase)|Python|大麦自动抢票，支持人员、城市、日期场次、价格选择|481|3037|154|2023-10-12|
+|5|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|441|87322|148|2025-03-05|
+|6|[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)|Python|：书籍：免费提供的编程书籍|421|369552|136|2013-10-11|
+|7|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|284|32787|103|2025-05-14|
+|8|[torvalds/linux](https://github.com/torvalds/linux)|C|Linux内核源树|331|202921|102|2011-09-04|
+|9|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|302|43633|99|2025-04-13|
+|10|[9001/copyparty](https://github.com/9001/copyparty)|Python|便携式文件服务器，具有加速的可搜索上传、重复数据删除、BEP、RTP、zeroconf、媒体索引器、缩略图++全部集中在一个文件中，无需删除|293|30837|90|2019-05-26|
+|11|[basecamp/omarchy](https://github.com/basecamp/omarchy)|Shell|观点Arch/Hyprland设置|285|9261|87|2025-06-01|
+|12|[ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)|Python|从YouTube.com和其他视频网站下载视频的命令行程序|261|137641|80|2010-10-31|
+|13|[tldraw/tldraw](https://github.com/tldraw/tldraw)|TypeScript|非常好的白板SDK /无限画布SDK|245|42410|76|2021-05-09|
+|14|[HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher)|Python|[NeurIPS 2025]“人工智能研究员：自主科学创新”--生产准备版本：https://novix.science/chat|235|2822|74|2025-03-11|
+|15|[CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)|TypeScript|React UI +用于AI Copilots、AI聊天机器人和应用内AI代理的优雅基础设施。超大的最后一英里收件箱|210|23869|66|2023-06-19|
 
 [所有日榜](./day/day.md)
 
