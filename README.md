@@ -1,24 +1,35 @@
 Github热门开源项目榜单
 
-## 2025年09月22日
+## 2025年09月23日
 
+根据本期榜单的分析，可以看出以下几点趋势：
+
+1. Python仍然是最受欢迎的编程语言之一，有多个项目在使用Python开发，包括深度研究、加密货币交易机器人和系统设计等。
+
+2. TypeScript和JavaScript也是比较流行的语言，用于开发图形用户界面应用程序、编码面试准备材料和Minecraft人工智能等项目。
+
+3. 一些项目涉及到人工智能领域，如编码代理、系统提示和AI模型，显示出人工智能在开源社区中的重要性和普及性。
+
+4. 一些项目关注网络浏览器和命令行程序的开发，反映出开发者对于简单、实用工具的需求。
+
+总体来说，本期榜单展示了开源社区中多样化的项目，涵盖了多个不同领域和编程语言的项目，反映了开发者们对于创新和实用性的追求。
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)|JavaScript|????像老乡鸡????那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC。|2405|13534|763|2024-04-10|
-|2|[Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)|Python|通益深度研究，领先的开源深度研究代理|1451|13627|454|2025-01-09|
-|3|[microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)|Jupyter Notebook|12周，24节课，AI为所有人！|518|41993|168|2021-03-03|
-|4|[WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase)|Python|大麦自动抢票，支持人员、城市、日期场次、价格选择|481|3037|154|2023-10-12|
-|5|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|441|87322|148|2025-03-05|
-|6|[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)|Python|：书籍：免费提供的编程书籍|421|369552|136|2013-10-11|
-|7|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|284|32787|103|2025-05-14|
-|8|[torvalds/linux](https://github.com/torvalds/linux)|C|Linux内核源树|331|202921|102|2011-09-04|
-|9|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|302|43633|99|2025-04-13|
-|10|[9001/copyparty](https://github.com/9001/copyparty)|Python|便携式文件服务器，具有加速的可搜索上传、重复数据删除、BEP、RTP、zeroconf、媒体索引器、缩略图++全部集中在一个文件中，无需删除|293|30837|90|2019-05-26|
-|11|[basecamp/omarchy](https://github.com/basecamp/omarchy)|Shell|观点Arch/Hyprland设置|285|9261|87|2025-06-01|
-|12|[ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)|Python|从YouTube.com和其他视频网站下载视频的命令行程序|261|137641|80|2010-10-31|
-|13|[tldraw/tldraw](https://github.com/tldraw/tldraw)|TypeScript|非常好的白板SDK /无限画布SDK|245|42410|76|2021-05-09|
-|14|[HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher)|Python|[NeurIPS 2025]“人工智能研究员：自主科学创新”--生产准备版本：https://novix.science/chat|235|2822|74|2025-03-11|
-|15|[CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)|TypeScript|React UI +用于AI Copilots、AI聊天机器人和应用内AI代理的优雅基础设施。超大的最后一英里收件箱|210|23869|66|2023-06-19|
+|1|[Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)|JavaScript|????像老乡鸡????那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC。|3527|17061|1117|2024-04-10|
+|2|[Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)|Python|通益深度研究，领先的开源深度研究代理|509|14136|158|2025-01-09|
+|3|[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)|Python|：书籍：免费提供的编程书籍|412|369964|130|2013-10-11|
+|4|[freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)|Python|免费、开源加密货币交易机器人|335|42765|107|2017-05-17|
+|5|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|302|33089|104|2025-05-14|
+|6|[winfunc/opcode](https://github.com/winfunc/opcode)|TypeScript|用于Claude Code的功能强大的图形用户界面应用程序和工具包-创建自定义代理、管理交互式Claude Code会话、运行安全的后台代理等。|298|17321|93|2025-06-19|
+|7|[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)|TypeScript|为忙碌的软件工程师精心策划的编码面试准备材料|291|130252|88|2016-07-05|
+|8|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|269|43902|86|2025-04-13|
+|9|[LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)|C++|真正独立的网络浏览器|260|48274|80|2024-05-30|
+|10|[ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)|Python|从YouTube.com和其他视频网站下载视频的命令行程序|262|137903|80|2010-10-31|
+|11|[basecamp/omarchy](https://github.com/basecamp/omarchy)|Shell|观点Arch/Hyprland设置|256|9517|78|2025-06-01|
+|12|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)|Python|了解如何设计大型系统。准备系统设计面试。  包括Anki抽认卡。|241|320797|78|2017-02-26|
+|13|[tldraw/tldraw](https://github.com/tldraw/tldraw)|TypeScript|非常好的白板SDK /无限画布SDK|234|42644|73|2021-05-09|
+|14|[mindcraft-bots/mindcraft](https://github.com/mindcraft-bots/mindcraft)|JavaScript|Minecraft人工智能（LLM + MinefPlayer）|237|4133|73|2023-08-16|
+|15|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|209|87531|72|2025-03-05|
 
 [所有日榜](./day/day.md)
 
