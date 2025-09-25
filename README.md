@@ -1,33 +1,32 @@
 Github热门开源项目榜单
 
-## 2025年09月24日
+## 2025年09月25日
 
-根据本期榜单的分析，可以看出以下几点：
+本期榜单中，排名第一的项目是[mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)，是一个包含每个软件开发人员都应该了解的技术知识的集合，当前Star数为92104，热度较高。排名第二的项目是[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)，在Python中实现了所有算法，当前Star数为209015，也具有很高的热度。
 
-1. Python编程语言在GitHub上的热度和应用广泛，有两个项目分别是TheAlgorithms/Python和EbookFoundation/free-programming-books，分别涉及算法实现和免费编程书籍资源。
+排名第三和第四的项目分别为[basecamp/omarchy](https://github.com/basecamp/omarchy)和[elastic/elasticsearch](https://github.com/elastic/elasticsearch)，分别是关于观点Arch/Hyprland设置的Shell项目和关于搜索引擎的Java项目。排名靠前的项目多为涉及技术知识、算法实现、技术框架等方面的项目，反映了当前开发者对于这些内容的关注和需求。
 
-2. GitHub上的人工智能相关项目受到关注，项目如PaddlePaddle/PaddleOCR、Alibaba-NLP/DeepResearch和HKUDS/AI-Researcher等，在深度学习和自然语言处理等领域有着广泛的应用。
+另外，还有一些涉及人工智能、网络安全、深度研究等领域的项目，如[openai/codex](https://github.com/openai/codex)、[aliasrobotics/cai](https://github.com/aliasrobotics/cai)和[Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)，这些项目也受到了一定程度的关注和热度。
 
-3. 除了技术和编程相关的项目外，项目如ZuodaoTech/everyone-can-use-english也受到关注，这种教育类的项目也在GitHub上有一定的热度。
+总体来看，本期榜单中涵盖了多个不同领域的项目，展示了开发者对于各种技术、算法和工具的广泛关注和探索。
 
-4. 开源项目和算法模型的贡献者和使用者在GitHub上有着广泛的参与度，整体上呈现出技术社区繁荣和开放共享的特点。
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)|JavaScript|????像老乡鸡????那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC。|832|17893|267|2024-04-10|
-|2|[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)|Python|所有算法都在Python中实现|394|208447|142|2016-07-16|
-|3|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|283|33372|99|2025-05-14|
-|4|[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)|Python|：书籍：免费提供的编程书籍|317|370281|99|2013-10-11|
-|5|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|287|44189|94|2025-04-13|
-|6|[WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase)|Python|大麦自动抢票，支持人员、城市、日期场次、价格选择|263|3380|84|2023-10-12|
-|7|[Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)|Python|通益深度研究，领先的开源深度研究代理|241|14377|76|2025-01-09|
-|8|[LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)|C++|真正独立的网络浏览器|228|48502|71|2024-05-30|
-|9|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|224|55717|69|2020-05-08|
-|10|[HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher)|Python|[NeurIPS 2025]“人工智能研究员：自主科学创新”--生产准备版本：https://novix.science/chat|217|3076|67|2025-03-11|
-|11|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|186|87717|66|2025-03-05|
-|12|[ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)|TypeScript|人人都能用英语|204|28865|66|2019-03-15|
-|13|[tldraw/tldraw](https://github.com/tldraw/tldraw)|TypeScript|非常好的白板SDK /无限画布SDK|184|42828|56|2021-05-09|
-|14|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)|Python|了解如何设计大型系统。准备系统设计面试。  包括Anki抽认卡。|166|320963|54|2017-02-26|
-|15|[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)|Jupyter Notebook|开始构建人工智能代理的12个课程|134|39497|52|2024-11-28|
+|1|[mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)|None|每个软件开发人员都应该了解的（大部分）技术知识的集合|712|92104|225|2017-08-24|
+|2|[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)|Python|所有算法都在Python中实现|568|209015|191|2016-07-16|
+|3|[basecamp/omarchy](https://github.com/basecamp/omarchy)|Shell|观点Arch/Hyprland设置|559|10221|173|2025-06-01|
+|4|[elastic/elasticsearch](https://github.com/elastic/elasticsearch)|Java|免费开源、分布式、RESTful搜索引擎|536|74659|166|2010-02-08|
+|5|[gin-gonic/gin](https://github.com/gin-gonic/gin)|Go|Gin是一个用Go编写的高性能HTTP Web框架。它提供了一个类似Martini的API，但性能明显更好--快了40倍--这要归功于httprouter。Gin旨在构建REST API、Web应用程序和微服务。|418|85229|129|2014-06-16|
+|6|[Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)|JavaScript|????像老乡鸡????那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC。|393|18286|126|2024-04-10|
+|7|[ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)|TypeScript|人人都能用英语|333|29198|110|2019-03-15|
+|8|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|245|33617|87|2025-05-14|
+|9|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|245|44434|81|2025-04-13|
+|10|[aliasrobotics/cai](https://github.com/aliasrobotics/cai)|Python|网络安全人工智能（CAE），人工智能安全框架|237|4396|75|2025-03-31|
+|11|[LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)|C++|真正独立的网络浏览器|224|48726|70|2024-05-30|
+|12|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|194|87911|63|2025-03-05|
+|13|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|197|55914|62|2020-05-08|
+|14|[Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)|Python|通益深度研究，领先的开源深度研究代理|188|14565|61|2025-01-09|
+|15|[freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)|Python|免费、开源加密货币交易机器人|197|43085|61|2017-05-17|
 
 [所有日榜](./day/day.md)
 
