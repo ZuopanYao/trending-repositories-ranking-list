@@ -1,32 +1,34 @@
 Github热门开源项目榜单
 
-## 2025年09月25日
+## 2025年09月26日
 
-本期榜单中，排名第一的项目是[mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)，是一个包含每个软件开发人员都应该了解的技术知识的集合，当前Star数为92104，热度较高。排名第二的项目是[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)，在Python中实现了所有算法，当前Star数为209015，也具有很高的热度。
+根据本期榜单的项目情况分析可以看出：
 
-排名第三和第四的项目分别为[basecamp/omarchy](https://github.com/basecamp/omarchy)和[elastic/elasticsearch](https://github.com/elastic/elasticsearch)，分别是关于观点Arch/Hyprland设置的Shell项目和关于搜索引擎的Java项目。排名靠前的项目多为涉及技术知识、算法实现、技术框架等方面的项目，反映了当前开发者对于这些内容的关注和需求。
+1. 本期榜单涵盖了多种编程语言，其中以Python和TypeScript为主要语言，Go和Shell等也有涉及。
+2. 项目类型多样化，涵盖了Web框架、人工智能、算法实现、编程学习等多个领域。
+3. 项目热度和趋势Star波动较大，有的项目热度较高，有的持续上涨，有的则稳定在一个较高的水平。
+4. 创建时间较为分散，包括早期项目和较新的项目，体现了开源社区的活力和多样性。
+5. 一些项目涉及到了具体的应用场景，如人人能用英语、基于视频的人工智能内存库等，展示了技术的具体应用。
 
-另外，还有一些涉及人工智能、网络安全、深度研究等领域的项目，如[openai/codex](https://github.com/openai/codex)、[aliasrobotics/cai](https://github.com/aliasrobotics/cai)和[Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)，这些项目也受到了一定程度的关注和热度。
-
-总体来看，本期榜单中涵盖了多个不同领域的项目，展示了开发者对于各种技术、算法和工具的广泛关注和探索。
+总体而言，本期榜单展示了开源社区中多样化的项目，并且反映了不同领域的技术发展趋势。其中涵盖的项目类型、编程语言和应用场景等都值得关注和学习。
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)|None|每个软件开发人员都应该了解的（大部分）技术知识的集合|712|92104|225|2017-08-24|
-|2|[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)|Python|所有算法都在Python中实现|568|209015|191|2016-07-16|
-|3|[basecamp/omarchy](https://github.com/basecamp/omarchy)|Shell|观点Arch/Hyprland设置|559|10221|173|2025-06-01|
-|4|[elastic/elasticsearch](https://github.com/elastic/elasticsearch)|Java|免费开源、分布式、RESTful搜索引擎|536|74659|166|2010-02-08|
-|5|[gin-gonic/gin](https://github.com/gin-gonic/gin)|Go|Gin是一个用Go编写的高性能HTTP Web框架。它提供了一个类似Martini的API，但性能明显更好--快了40倍--这要归功于httprouter。Gin旨在构建REST API、Web应用程序和微服务。|418|85229|129|2014-06-16|
-|6|[Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)|JavaScript|????像老乡鸡????那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC。|393|18286|126|2024-04-10|
-|7|[ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)|TypeScript|人人都能用英语|333|29198|110|2019-03-15|
-|8|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|245|33617|87|2025-05-14|
-|9|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|245|44434|81|2025-04-13|
-|10|[aliasrobotics/cai](https://github.com/aliasrobotics/cai)|Python|网络安全人工智能（CAE），人工智能安全框架|237|4396|75|2025-03-31|
-|11|[LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)|C++|真正独立的网络浏览器|224|48726|70|2024-05-30|
-|12|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|194|87911|63|2025-03-05|
-|13|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|197|55914|62|2020-05-08|
-|14|[Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)|Python|通益深度研究，领先的开源深度研究代理|188|14565|61|2025-01-09|
-|15|[freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)|Python|免费、开源加密货币交易机器人|197|43085|61|2017-05-17|
+|1|[ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)|TypeScript|人人都能用英语|600|29798|191|2019-03-15|
+|2|[gin-gonic/gin](https://github.com/gin-gonic/gin)|Go|Gin是一个用Go编写的高性能HTTP Web框架。它提供了一个类似Martini的API，但性能明显更好--快了40倍--这要归功于httprouter。Gin旨在构建REST API、Web应用程序和微服务。|610|85839|191|2014-06-16|
+|3|[basecamp/omarchy](https://github.com/basecamp/omarchy)|Shell|观点Arch/Hyprland设置|527|10748|164|2025-06-01|
+|4|[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)|Python|Gen-AI Teams聊天-考虑ChatGPT是否可以访问您团队的独特知识。|392|14025|124|2023-04-27|
+|5|[Olow304/memvid](https://github.com/Olow304/memvid)|Python|基于视频的人工智能内存库。通过闪电般的语义搜索将数百万个文本块存储在MP4文件中。不需要数据库。|359|9194|114|2025-05-27|
+|6|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|Python|功能丰富的命令行音频/视频下载器|341|128079|106|2020-10-26|
+|7|[humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)|TypeScript|HumanLayer使人工智能代理能够在基于工具和可编程的工作流程中与人类进行通信。通过跨越松弛、电子邮件等的审批工作流程，确保对高风险职能呼叫进行人工监督。  带上您选择的LLM和框架，开始让您的人工智能代理安全访问世界。抽象的工作流程、人参与循环、工具调用|322|3164|101|2024-08-05|
+|8|[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)|None|成为软件工程师的完整计算机科学学习计划。|301|329931|98|2016-06-06|
+|9|[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)|Python|所有算法都在Python中实现|278|209293|93|2016-07-16|
+|10|[Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)|Python|30天的Python编程挑战是在30天内学习Python编程语言的分步指南。这项挑战可能需要100多天，请遵循您自己的节奏。  这些视频也可能有所帮助：https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw|260|50258|84|2019-11-19|
+|11|[Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)|JavaScript|????像老乡鸡????那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC。|254|18540|83|2024-04-10|
+|12|[mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)|None|每个软件开发人员都应该了解的（大部分）技术知识的集合|206|92310|68|2017-08-24|
+|13|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|208|44642|67|2025-04-13|
+|14|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|194|33811|66|2025-05-14|
+|15|[cloudflare/capnweb](https://github.com/cloudflare/capnweb)|TypeScript|JavaScript/Typescript-native、低模板、对象功能的PRC系统|208|2587|64|2025-06-08|
 
 [所有日榜](./day/day.md)
 
