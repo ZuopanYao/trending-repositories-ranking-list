@@ -30,30 +30,36 @@ Github热门开源项目榜单
 
 [所有日榜](./day/day.md)
 
-## 2025年第37周
+## 2025年第38周
+
+本期榜单中，JavaScript项目[Garr-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)位列第一，是一个关于像老乡鸡做饭的项目，在2024年才完工，当前Star数为19287，热度颇高。第二名是Shell语言项目[basecamp/omarchy](https://github.com/basecamp/omarchy)，介绍了观点Arch/Hyprland设置，当前Star数为11502，热度也较高。排名第三的是由TypeScript编写的[ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)，旨在让人人都能用英语，当前Star数为30650，热度非常高。
+
+除此之外，还有不少人工智能相关的项目受到关注，比如[humanlayer](https://github.com/humanlayer/humanlayer)、[codex](https://github.com/openai/codex)和[DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)，都展示了人工智能在工具和工作流程中的重要性。同时，也有一些针对开发者的项目如[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)和[free-programming-books](https://github.com/EbookFoundation/free-programming-books)，为学习和成长提供了资源和指引。
+
+整体来看，本期榜单呈现了对不同领域和语言的关注，涵盖了技术、学习、人工智能等多个方面的项目，反映了开源社区的多样性和活力。
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|5341|79544|1659|2024-11-13|
-|2|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|2328|32503|833|2025-05-14|
-|3|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|2411|43331|787|2025-04-13|
-|4|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|1830|86881|647|2025-03-05|
-|5|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|1254|24548|401|2025-04-30|
-|6|[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|Jupyter Notebook|在PyTorch中从头开始、一步一步地实施类似ChatGPT的LLM|1129|72239|390|2023-07-23|
-|7|[CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)|Python|5秒内克隆语音，实时生成任意语音|1240|56826|390|2019-05-26|
-|8|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|1064|69683|362|2024-04-29|
-|9|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|1111|20102|344|2025-05-02|
-|10|[ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)|TypeScript|Perplexica是一款人工智能搜索引擎。它是Perplexity AI的开源替代品|1056|25567|337|2024-04-09|
-|11|[sentient-agi/ROMA](https://github.com/sentient-agi/ROMA)|Python|Recursive-Open-Meta-Agent v0.1（Beta）。一个元代理框架，用于构建高性能多代理系统。|787|3174|320|2025-05-12|
-|12|[virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)|Python|人工智能对冲基金团队|966|41201|318|2024-11-29|
-|13|[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)|Python|所有算法都在Python中实现|887|207945|292|2016-07-16|
-|14|[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)|None|500个人工智能代理项目是各个行业人工智能代理用例的精心策划的集合。它展示了实际应用，并提供了开源项目的链接以供实施，说明了人工智能代理如何改变医疗保健、金融、教育、零售等行业。|837|12715|288|2024-12-20|
-|15|[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)|Jupyter Notebook|21个教训，开始使用生成性人工智能进行构建 |618|98584|285|2023-06-19|
-|16|[basecamp/omarchy](https://github.com/basecamp/omarchy)|Shell|观点Arch/Hyprland设置|864|8976|274|2025-06-01|
-|17|[HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)|Python|DeepCode：开放式统计编码（Paper 2Code & Text 2 Web & Text 2Backend）|823|7009|272|2025-05-14|
-|18|[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)|Jupyter Notebook|开始构建人工智能代理的12个课程|562|39099|221|2024-11-28|
-|19|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)|Python|了解如何设计大型系统。准备系统设计面试。  包括Anki抽认卡。|634|320379|211|2017-02-26|
-|20|[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)|None|一组LCP服务器。|636|70793|210|2024-11-30|
+|1|[Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)|JavaScript|????像老乡鸡????那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC。|5753|19287|1832|2024-04-10|
+|2|[basecamp/omarchy](https://github.com/basecamp/omarchy)|Shell|观点Arch/Hyprland设置|2241|11502|698|2025-06-01|
+|3|[ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)|TypeScript|人人都能用英语|2026|30650|653|2019-03-15|
+|4|[humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)|TypeScript|HumanLayer使人工智能代理能够在基于工具和可编程的工作流程中与人类进行通信。通过跨越松弛、电子邮件等的审批工作流程，确保对高风险职能呼叫进行人工监督。  带上您选择的LLM和框架，开始让您的人工智能代理安全访问世界。抽象的工作流程、人参与循环、工具调用|1925|4500|604|2024-08-05|
+|5|[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)|Python|所有算法都在Python中实现|1455|209465|501|2016-07-16|
+|6|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|1367|34154|481|2025-05-14|
+|7|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|1335|44968|440|2025-04-13|
+|8|[Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)|Python|通益深度研究，领先的开源深度研究代理|1367|14994|430|2025-01-09|
+|9|[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)|Python|：书籍：免费提供的编程书籍|1274|370826|402|2013-10-11|
+|10|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|1031|88353|362|2025-03-05|
+|11|[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)|Jupyter Notebook|开始构建人工智能代理的12个课程|927|40138|353|2024-11-28|
+|12|[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)|None|成为软件工程师的完整计算机科学学习计划。|945|330203|318|2016-06-06|
+|13|[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)|TypeScript|互动路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。|938|338059|306|2017-03-15|
+|14|[elastic/elasticsearch](https://github.com/elastic/elasticsearch)|Java|免费开源、分布式、RESTful搜索引擎|933|74827|294|2010-02-08|
+|15|[LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)|C++|真正独立的网络浏览器|936|48950|293|2024-05-30|
+|16|[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|Jupyter Notebook|在PyTorch中从头开始、一步一步地实施类似ChatGPT的LLM|861|73196|292|2023-07-23|
+|17|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)|Python|了解如何设计大型系统。准备系统设计面试。  包括Anki抽认卡。|858|321414|282|2017-02-26|
+|18|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|855|56236|270|2020-05-08|
+|19|[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)|Jupyter Notebook|21个教训，开始使用生成性人工智能进行构建 |565|99232|240|2023-06-19|
+|20|[freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)|Python|免费、开源加密货币交易机器人|728|43158|236|2017-05-17|
 
 [所有周榜](./week/week.md)
 
