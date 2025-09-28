@@ -1,32 +1,32 @@
 Github热门开源项目榜单
 
-## 2025年09月27日
+## 2025年09月28日
 
-本期榜单涵盖了多个编程语言的项目，其中以TypeScript和Python为主要语言。在项目介绍方面，涉及到了各种人工智能、机器学习等技术领域。
+本期榜单展示了一些与人工智能相关的项目，其中涵盖了不同的领域和语言。在这些项目中，有一些是用于构建人工智能代理的工具和框架，如HumanLayer、RAG-Anything、AI Agents for Beginners等；还有一些是利用人工智能技术实现特定功能，如MoneyPrinterTurbo、Memvid等。
 
-从热度和当前Star数量来看，排名靠前的项目包括[ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)、[HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)和[humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)等，这些项目在吸引开发者关注和贡献方面表现较好。
+特别值得关注的是开发者路线图项目(Developer Roadmap)，这个项目提供了互动路线图、指南和教育内容，帮助开发人员在职业生涯中成长。该项目的热度和当前Star数都很高，显示出开发者们对于职业发展的关注和追求。
 
-另外，一些项目如[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)和[openai/codex](https://github.com/openai/codex)则是一些功能丰富、在特定领域具有影响力的项目，也吸引了较多的Star和关注度。
+另外，还有一些项目提供了一些有趣和实用的功能，比如基于视频的人工智能内存库Memvid，功能丰富的命令行音频/视频下载器yt-dlp等。
 
-总体来说，本期榜单涵盖了多个领域和技术方向的项目，展示了开源社区的活力和创新。
+总体来说，本期榜单涵盖了多个领域的项目，展示了开发者们在人工智能、开发技朮、教育等方面的持续创新和进步。
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)|TypeScript|人人都能用英语|618|30416|198|2019-03-15|
-|2|[HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)|Python|“RAG-Anything：一体化RAG框架”|444|6645|144|2025-06-06|
-|3|[humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)|TypeScript|HumanLayer使人工智能代理能够在基于工具和可编程的工作流程中与人类进行通信。通过跨越松弛、电子邮件等的审批工作流程，确保对高风险职能呼叫进行人工监督。  带上您选择的LLM和框架，开始让您的人工智能代理安全访问世界。抽象的工作流程、人参与循环、工具调用|434|3598|134|2024-08-05|
-|4|[basecamp/omarchy](https://github.com/basecamp/omarchy)|Shell|观点Arch/Hyprland设置|366|11114|116|2025-06-01|
-|5|[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)|TypeScript|一个开源的AI代理，将Gemini的力量直接带入您的终端。|317|77134|102|2025-04-17|
-|6|[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)|Python|Gen-AI Teams聊天-考虑ChatGPT是否可以访问您团队的独特知识。|229|14254|71|2023-04-27|
-|7|[is-a-dev/register](https://github.com/is-a-dev/register)|JavaScript|获取您自己的可爱的“. is-a.dev”子域名。|164|7881|64|2020-10-04|
-|8|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|Python|功能丰富的命令行音频/视频下载器|190|128269|61|2020-10-26|
-|9|[dataease/SQLBot](https://github.com/dataease/SQLBot)|Python|The most important technology is to provide a mechanism for the determination of the mechanical properties of the mechanical properties.使用RAG通过LLM生成文本到SQL。|192|3272|60|2025-04-21|
-|10|[ericciarla/trendFinder](https://github.com/ericciarla/trendFinder)|TypeScript|利用人工智能掌握社交媒体和网络上的热门话题|185|3757|59|2024-12-31|
-|11|[ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)|Python|超催化剂YOLO????|194|46510|59|2022-09-11|
-|12|[Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)|JavaScript|????像老乡鸡????那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC。|173|18713|55|2024-04-10|
-|13|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|155|88206|54|2025-03-05|
-|14|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|159|44801|52|2025-04-13|
-|15|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|135|33946|49|2025-05-14|
+|1|[humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)|TypeScript|HumanLayer使人工智能代理能够在基于工具和可编程的工作流程中与人类进行通信。通过跨越松弛、电子邮件等的审批工作流程，确保对高风险职能呼叫进行人工监督。  带上您选择的LLM和框架，开始让您的人工智能代理安全访问世界。抽象的工作流程、人参与循环、工具调用|902|4500|283|2024-08-05|
+|2|[HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)|Python|“RAG-Anything：一体化RAG框架”|599|7244|193|2025-06-06|
+|3|[Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)|JavaScript|????像老乡鸡????那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC。|574|19287|182|2024-04-10|
+|4|[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)|Python|利用AI大模型，关键生成高清短视频使用AI LLM一键生成短视频。|388|40629|126|2024-03-11|
+|5|[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)|TypeScript|互动路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。|370|338059|122|2017-03-15|
+|6|[basecamp/omarchy](https://github.com/basecamp/omarchy)|Shell|观点Arch/Hyprland设置|388|11502|119|2025-06-01|
+|7|[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)|Jupyter Notebook|开始构建人工智能代理的12个课程|338|40138|115|2024-11-28|
+|8|[Olow304/memvid](https://github.com/Olow304/memvid)|Python|基于视频的人工智能内存库。通过闪电般的语义搜索将数百万个文本块存储在MP4文件中。不需要数据库。|368|9663|115|2025-05-27|
+|9|[imputnet/helium](https://github.com/imputnet/helium)|Python|私人、快速且诚实的网络浏览器|331|3712|102|2025-02-15|
+|10|[e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)|None|人工智能自治代理列表|328|23098|101|2023-06-19|
+|11|[ossu/computer-science](https://github.com/ossu/computer-science)|HTML|????计算机科学免费自学教育之路！|285|194179|92|2014-05-04|
+|12|[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)|Python|Gen-AI Teams聊天-考虑ChatGPT是否可以访问您团队的独特知识。|294|14548|92|2023-04-27|
+|13|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|Python|功能丰富的命令行音频/视频下载器|284|128553|90|2020-10-26|
+|14|[ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)|TypeScript|人人都能用英语|234|30650|75|2019-03-15|
+|15|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|208|34154|73|2025-05-14|
 
 [所有日榜](./day/day.md)
 
