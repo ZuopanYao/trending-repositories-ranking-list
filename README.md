@@ -1,32 +1,38 @@
 Github热门开源项目榜单
 
-## 2025年09月28日
+## 2025年09月29日
 
-本期榜单展示了一些与人工智能相关的项目，其中涵盖了不同的领域和语言。在这些项目中，有一些是用于构建人工智能代理的工具和框架，如HumanLayer、RAG-Anything、AI Agents for Beginners等；还有一些是利用人工智能技术实现特定功能，如MoneyPrinterTurbo、Memvid等。
+根据本期榜单的分析，可以看出以下几点趋势：
 
-特别值得关注的是开发者路线图项目(Developer Roadmap)，这个项目提供了互动路线图、指南和教育内容，帮助开发人员在职业生涯中成长。该项目的热度和当前Star数都很高，显示出开发者们对于职业发展的关注和追求。
+1. 人工智能（AI）领域仍然是当前热门的技术方向，多个项目涉及到了AI模型的应用和开发，如生成视频、开发人工智能代理等。
 
-另外，还有一些项目提供了一些有趣和实用的功能，比如基于视频的人工智能内存库Memvid，功能丰富的命令行音频/视频下载器yt-dlp等。
+2. 大规模语言模型（LLM）的热度持续上升，许多项目都在使用PyTorch等工具从头开始实现类似ChatGPT的模型，以及开发基于LLM的应用程序。
 
-总体来说，本期榜单涵盖了多个领域的项目，展示了开发者们在人工智能、开发技朮、教育等方面的持续创新和进步。
+3. 开源社区在技术教育方面也展现出活跃度，有多个项目提供了指南、路线图以及课程，帮助开发人员提升技能和进步职业生涯。
+
+4. 除了AI领域外，还有一些项目涉及到企业资源规划（ERP）等领域，展示出多样化的技术项目。
+
+综合来看，当前开源社区在推动人工智能技术发展的同时也在不同领域中取得了丰硕成果，为开发者提供了丰富的学习和应用资源。
+
+数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)|TypeScript|HumanLayer使人工智能代理能够在基于工具和可编程的工作流程中与人类进行通信。通过跨越松弛、电子邮件等的审批工作流程，确保对高风险职能呼叫进行人工监督。  带上您选择的LLM和框架，开始让您的人工智能代理安全访问世界。抽象的工作流程、人参与循环、工具调用|902|4500|283|2024-08-05|
-|2|[HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)|Python|“RAG-Anything：一体化RAG框架”|599|7244|193|2025-06-06|
-|3|[Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)|JavaScript|????像老乡鸡????那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC。|574|19287|182|2024-04-10|
-|4|[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)|Python|利用AI大模型，关键生成高清短视频使用AI LLM一键生成短视频。|388|40629|126|2024-03-11|
-|5|[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)|TypeScript|互动路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。|370|338059|122|2017-03-15|
-|6|[basecamp/omarchy](https://github.com/basecamp/omarchy)|Shell|观点Arch/Hyprland设置|388|11502|119|2025-06-01|
-|7|[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)|Jupyter Notebook|开始构建人工智能代理的12个课程|338|40138|115|2024-11-28|
-|8|[Olow304/memvid](https://github.com/Olow304/memvid)|Python|基于视频的人工智能内存库。通过闪电般的语义搜索将数百万个文本块存储在MP4文件中。不需要数据库。|368|9663|115|2025-05-27|
-|9|[imputnet/helium](https://github.com/imputnet/helium)|Python|私人、快速且诚实的网络浏览器|331|3712|102|2025-02-15|
-|10|[e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)|None|人工智能自治代理列表|328|23098|101|2023-06-19|
-|11|[ossu/computer-science](https://github.com/ossu/computer-science)|HTML|????计算机科学免费自学教育之路！|285|194179|92|2014-05-04|
-|12|[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)|Python|Gen-AI Teams聊天-考虑ChatGPT是否可以访问您团队的独特知识。|294|14548|92|2023-04-27|
-|13|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|Python|功能丰富的命令行音频/视频下载器|284|128553|90|2020-10-26|
-|14|[ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)|TypeScript|人人都能用英语|234|30650|75|2019-03-15|
-|15|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|208|34154|73|2025-05-14|
+|1|[commaai/openpilot](https://github.com/commaai/openpilot)|Python|openpilot是机器人操作系统。目前，它升级了300多辆受支持的汽车的驾驶员辅助系统。|959|57347|306|2016-11-24|
+|2|[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)|Python|利用AI大模型，关键生成高清短视频使用AI LLM一键生成短视频。|735|41364|237|2024-03-11|
+|3|[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)|Jupyter Notebook|开始构建人工智能代理的12个课程|518|40656|175|2024-11-28|
+|4|[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)|TypeScript|互动路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。|508|338567|165|2017-03-15|
+|5|[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|Jupyter Notebook|在PyTorch中从头开始、一步一步地实施类似ChatGPT的LLM|452|73648|150|2023-07-23|
+|6|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|378|25621|119|2025-04-30|
+|7|[Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)|JavaScript|????像老乡鸡????那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC。|367|19654|118|2024-04-10|
+|8|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|Python|功能丰富的命令行音频/视频下载器|355|128908|114|2020-10-26|
+|9|[humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)|TypeScript|HumanLayer使人工智能代理能够在基于工具和可编程的工作流程中与人类进行通信。通过跨越松弛、电子邮件等的审批工作流程，确保对高风险职能呼叫进行人工监督。  带上您选择的LLM和框架，开始让您的人工智能代理安全访问世界。抽象的工作流程、人参与循环、工具调用|338|4838|105|2024-08-05|
+|10|[basecamp/omarchy](https://github.com/basecamp/omarchy)|Shell|观点Arch/Hyprland设置|280|11782|87|2025-06-01|
+|11|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|245|70706|81|2024-04-29|
+|12|[mlabonne/llm-course](https://github.com/mlabonne/llm-course)|None|通过路线图和Colab笔记本进入大型语言模型（LLM）的课程。|247|63094|80|2023-06-17|
+|13|[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)|Python|Gen-AI Teams聊天-考虑ChatGPT是否可以访问您团队的独特知识。|240|14788|76|2023-04-27|
+|14|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|210|88563|73|2025-03-05|
+|15|[frappe/erpnext](https://github.com/frappe/erpnext)|Python|免费开源企业资源规划（RP）|218|29140|70|2011-06-08|
 
 [所有日榜](./day/day.md)
 
