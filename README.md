@@ -1,32 +1,36 @@
 Github热门开源项目榜单
 
-## 2025年09月30日
+## 2025年10月01日
 
-本期榜单中，项目分布涵盖了人工智能、开发者路线图、AI代理等多个领域。
+本期榜单中，可以看到以下几个有趣的趋势：
 
-其中，排名第一的项目是利用AI大模型生成高清短视频的项目，拥有高达43309的Star，热度较高。排名第二的项目是介绍大型语言模型（LLM）的课程，Star数也较高，显示了用户对于学习和探索新技术的热情。
+1. AI相关项目依然是热门，比如利用AI大模型生成高清短视频、构建人工智能代理的课程、以自然语言命令帮助编码等项目都受到关注。
 
-排名第三的项目是机器人操作系统 openpilot，拥有57875的Star，展示了用户对于自动驾驶技术的关注和热情。其他项目涵盖了编码技能提升、完全同质加密与区块链应用程序集成等多个领域的内容，展示了开发者们对于技术探索和创新的热情和努力。
+2. 开发工具类的项目也备受关注，比如一个免费的、可扩展的语音转文本应用程序、代理编码工具等。
+
+3. 开发人员学习和成长类的项目也是热门，比如交互式开发路线图和教育内容、互动路线图、指南等项目都备受关注。
+
+总体来说，本期榜单反映了AI技术、开发工具和开发人员学习成长这几个领域的热点和趋势。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)|Python|利用AI大模型，关键生成高清短视频使用AI LLM一键生成短视频。|1945|43309|628|2024-03-11|
-|2|[mlabonne/llm-course](https://github.com/mlabonne/llm-course)|None|通过路线图和Colab笔记本进入大型语言模型（LLM）的课程。|583|63677|191|2023-06-17|
-|3|[commaai/openpilot](https://github.com/commaai/openpilot)|Python|openpilot是机器人操作系统。目前，它升级了300多辆受支持的汽车的驾驶员辅助系统。|528|57875|167|2016-11-24|
-|4|[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)|Jupyter Notebook|开始构建人工智能代理的12个课程|416|41072|147|2024-11-28|
-|5|[Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)|Go|遗留混乱检测器-评估代码的“遗留混乱程度”并输出漂亮的报告|浪山代码检测器，评估代码的“浪山等级”并输出美丽的报告|450|4473|141|2025-06-25|
-|6|[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)|TypeScript|互动路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。|411|338978|130|2017-03-15|
-|7|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|356|88919|119|2025-03-05|
-|8|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|366|21565|111|2025-05-02|
-|9|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|316|25937|97|2025-04-30|
-|10|[humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)|TypeScript|HumanLayer使人工智能代理能够在基于工具和可编程的工作流程中与人类进行通信。通过跨越松弛、电子邮件等的审批工作流程，确保对高风险职能呼叫进行人工监督。  带上您选择的LLM和框架，开始让您的人工智能代理安全访问世界。抽象的工作流程、人参与循环、工具调用|283|5121|89|2024-08-05|
-|11|[florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)|None|可用于提高您的编码技能的应用程序想法的集合。|277|86151|84|2019-02-25|
-|12|[HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)|Python|“RAG-Anything：一体化RAG框架”|245|7676|80|2025-06-06|
-|13|[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|Jupyter Notebook|在PyTorch中从头开始、一步一步地实施类似ChatGPT的LLM|209|73857|70|2023-07-23|
-|14|[snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks)|None|用于管理AI开发代理的简单任务管理系统|215|5532|70|2025-04-19|
-|15|[Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)|JavaScript|????像老乡鸡????那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC。|216|19870|68|2024-04-10|
+|1|[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)|Python|利用AI大模型，关键生成高清短视频使用AI LLM一键生成短视频。|1280|44589|414|2024-03-11|
+|2|[nextcloud/server](https://github.com/nextcloud/server)|PHP|☁️ Nextcloud server, a safe home for all your data|520|31600|163|2016-06-02|
+|3|[anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python)|Python|None|321|1717|104|2025-06-11|
+|4|[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)|Jupyter Notebook|开始构建人工智能代理的12个课程|264|41336|96|2024-11-28|
+|5|[cjpais/Handy](https://github.com/cjpais/Handy)|TypeScript|一个免费的、开源的、可扩展的语音转文本应用程序，完全离线工作。|285|1289|87|2025-02-13|
+|6|[mlabonne/llm-course](https://github.com/mlabonne/llm-course)|None|通过路线图和Colab笔记本进入大型语言模型（LLM）的课程。|262|63939|86|2023-06-17|
+|7|[chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)|Jupyter Notebook|[WIP]人工智能工程师的资源。还包含《人工智能工程》一书的支持材料（Chip Huyen，2025）|243|9654|86|2024-12-03|
+|8|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|251|89170|86|2025-03-05|
+|9|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|254|35097|82|2025-02-22|
+|10|[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|Jupyter Notebook|在PyTorch中从头开始、一步一步地实施类似ChatGPT的LLM|241|74098|79|2023-07-23|
+|11|[bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)|Python|Linux、Jenkins、AWS、SRE、Prometheus、Docker、Python、Ansible、Git、Kubernetes、Terraform、Stack、SQL、NoSQL、Azure、GCP、DNS、Elastic、网络、虚拟化。DevOps面试问题|229|78944|75|2019-10-03|
+|12|[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)|TypeScript|互动路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。|237|339215|74|2017-03-15|
+|13|[juliangarnier/anime](https://github.com/juliangarnier/anime)|JavaScript|JavaScript动画引擎|235|64473|74|2016-03-13|
+|14|[simstudioai/sim](https://github.com/simstudioai/sim)|TypeScript|构建和部署AI代理工作流程的开源平台。|219|15841|71|2025-01-05|
+|15|[fastapi/fastapi](https://github.com/fastapi/fastapi)|Python|FastAPI框架，高性能，易于学习，快速编码，可用于生产|220|90284|69|2018-12-08|
 
 [所有日榜](./day/day.md)
 
