@@ -1,32 +1,38 @@
 Github热门开源项目榜单
 
-## 2025年10月02日
+## 2025年10月03日
 
-本期榜单主要集中在人工智能和开源项目领域，项目涉及到视频生成、支付开关、照片视频管理、数据存储等方面。其中，使用人工智能生成视频的项目[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)以857的趋势Star领先其他项目，目前Star数量也处于较高水平。另外，开源支付开关项目[juspay/hyperswitch](https://github.com/juspay/hyperswitch)和自托管照片视频管理解决方案项目[immich-app/immich](https://github.com/immich-app/immich)也受到了较多关注。
+根据本期榜单的数据分析，可以看出以下几点趋势：
 
-此外，人工智能相关的项目也很受欢迎，如构建人工智能代理工作流程的开源平台项目[simstudioai/sim](https://github.com/simstudioai/sim)和使用ViT将方程的图像转换为LaTeX代码项目[lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)。这些项目展示了人工智能在不同领域的应用和创新。
+1. 本期榜单中，使用 TypeScript 语言的项目数量较多，其中包括 immich、n8n、Handy、desktop 等项目，显示出TypeScript在开源项目中的受欢迎程度较高。
 
-总体来说，本期榜单涵盖了多个领域的优质开源项目，展现了开发者们在技术创新和应用方面的不懈努力。
+2. 人工智能和机器学习领域的项目在本期榜单中表现突出，如 google/tunix、n8n、onyx 等项目，这也反映出人工智能技术在开源社区中的持续热度。
+
+3. 与实时处理和流分析相关的项目，如 pathway 等，也受到了开源社区的关注，显示出在数据处理和分析领域的需求持续增长。
+
+4. 具有开放性和灵活性的项目，如 kestra、opencode 等，吸引了大量关注和星标，显示出开源社区对于多功能、通用性强的项目有较高的青睐。
+
+总体来说，本期榜单反映了当前开源社区在人工智能、数据处理和通用工作流领域的关注重点，展示出技术进步和创新在开源项目中的不断体现。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)|Python|利用AI大模型，关键生成高清短视频使用AI LLM一键生成短视频。|857|45446|277|2024-03-11|
-|2|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|644|34809|197|2022-10-17|
-|3|[immich-app/immich](https://github.com/immich-app/immich)|TypeScript|高性能自托管照片和视频管理解决方案。|606|78666|184|2022-02-03|
-|4|[nextcloud/server](https://github.com/nextcloud/server)|PHP|☁️ Nextcloud server, a safe home for all your data|369|31969|115|2016-06-02|
-|5|[github/awesome-copilot](https://github.com/github/awesome-copilot)|JavaScript|社区提供的说明、提示和配置可帮助您充分利用GitHub Copilot。|296|8915|94|2025-06-11|
-|6|[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)|Jupyter Notebook|开始构建人工智能代理的12个课程|248|41584|88|2024-11-28|
-|7|[emcie-co/parlant](https://github.com/emcie-co/parlant)|Python|专为控制而设计的LLM代理。专为现实世界使用而设计。几分钟内部署完毕。|265|13037|84|2024-02-15|
-|8|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|220|89390|75|2025-03-05|
-|9|[anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python)|Python|None|217|1934|69|2025-06-11|
-|10|[mlabonne/llm-course](https://github.com/mlabonne/llm-course)|None|通过路线图和Colab笔记本进入大型语言模型（LLM）的课程。|208|64147|67|2023-06-17|
-|11|[lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)|TypeScript|DeliverLobe Chat -一个开源、现代设计的人工智能聊天框架。支持多个人工智能提供商（OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen）、知识库（文件上传/ RAG）、一键安装LCP Marketplace和Artifacts / Thinking。一键免费部署您的私人AI Agent应用程序。|195|66390|60|2023-05-21|
-|12|[lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)|Python|pix2tex：使用ViT将方程的图像转换为LaTeX代码。|186|15595|58|2020-12-11|
-|13|[YILING0013/AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator)|Python|使用ai生成多节的长篇小说，自动跳转下一篇，|176|2307|55|2025-01-29|
-|14|[simstudioai/sim](https://github.com/simstudioai/sim)|TypeScript|构建和部署AI代理工作流程的开源平台。|164|16005|53|2025-01-05|
-|15|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|156|21837|52|2025-05-02|
+|1|[google/tunix](https://github.com/google/tunix)|Python|JAX原生LLM培训后图书馆|650|1287|206|2025-04-02|
+|2|[immich-app/immich](https://github.com/immich-app/immich)|TypeScript|高性能自托管照片和视频管理解决方案。|646|79312|198|2022-02-03|
+|3|[nextcloud/server](https://github.com/nextcloud/server)|PHP|☁️ Nextcloud server, a safe home for all your data|594|32563|186|2016-06-02|
+|4|[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)|Python|基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版|512|8217|168|2025-06-26|
+|5|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|428|144787|152|2019-06-22|
+|6|[cjpais/Handy](https://github.com/cjpais/Handy)|TypeScript|一个免费的、开源的、可扩展的语音转文本应用程序，完全离线工作。|323|1750|99|2025-02-13|
+|7|[atuinsh/desktop](https://github.com/atuinsh/desktop)|TypeScript|运行的Runbook |267|1095|81|2025-06-06|
+|8|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|250|26392|78|2025-04-30|
+|9|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|233|44157|72|2022-11-27|
+|10|[enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)|None|利用这个精心策划的n8 n模板集合增强您的工作流程自动化！立即将您最喜欢的应用程序（例如Gmail、Telegram、Google Drive、Slack等）与即用型人工智能自动化连接。只需点击几下鼠标即可节省时间、提高生产力并释放n8 n的真正潜力。|222|13073|72|2025-05-08|
+|11|[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)|Python|Gen-AI Teams聊天-考虑ChatGPT是否可以访问您团队的独特知识。|203|15298|65|2023-04-27|
+|12|[kestra-io/kestra](https://github.com/kestra-io/kestra)|Java|：zap：通用工作流演示平台-以任何语言编写代码，在任何地方运行。800多个用于数据、基础设施和人工智能自动化的插件。|195|21642|63|2019-08-24|
+|13|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|196|35005|61|2022-10-17|
+|14|[MotiaDev/motia](https://github.com/MotiaDev/motia)|TypeScript|现代后台框架将API、后台作业、工作流程和人工智能代理统一到一个具有内置可观察性和状态管理的单一核心基元中。|196|8973|61|2025-01-02|
+|15|[emcie-co/parlant](https://github.com/emcie-co/parlant)|Python|专为控制而设计的LLM代理。专为现实世界使用而设计。几分钟内部署完毕。|193|13230|59|2024-02-15|
 
 [所有日榜](./day/day.md)
 
