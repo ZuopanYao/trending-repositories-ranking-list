@@ -1,38 +1,32 @@
 Github热门开源项目榜单
 
-## 2025年10月03日
+## 2025年10月04日
 
-根据本期榜单的数据分析，可以看出以下几点趋势：
+本期榜单中的项目主要集中在人工智能、金融交易、代理系统等领域，使用的语言多为Python、TypeScript等。其中，Star数较高的项目包括TradingAgents-CN、pathway、immich等，这些项目在相应领域具有很高的热度和影响力。部分项目如n8n、hyperswitch等还提供了具体的应用场景和解决方案，受到了广泛关注。
 
-1. 本期榜单中，使用 TypeScript 语言的项目数量较多，其中包括 immich、n8n、Handy、desktop 等项目，显示出TypeScript在开源项目中的受欢迎程度较高。
+同时，榜单中还出现了一些新兴项目，如ab-download-manager、winboat等，虽然在Star数上相对较低，但仍有很大的发展潜力。另外，部分项目如meshery、parlant等则专注于特定领域的需求，为用户提供了更加专业化的解决方案。
 
-2. 人工智能和机器学习领域的项目在本期榜单中表现突出，如 google/tunix、n8n、onyx 等项目，这也反映出人工智能技术在开源社区中的持续热度。
-
-3. 与实时处理和流分析相关的项目，如 pathway 等，也受到了开源社区的关注，显示出在数据处理和分析领域的需求持续增长。
-
-4. 具有开放性和灵活性的项目，如 kestra、opencode 等，吸引了大量关注和星标，显示出开源社区对于多功能、通用性强的项目有较高的青睐。
-
-总体来说，本期榜单反映了当前开源社区在人工智能、数据处理和通用工作流领域的关注重点，展示出技术进步和创新在开源项目中的不断体现。
+综合来看，本期榜单涵盖了多个领域和技术方向的项目，展示了开发者们在人工智能、金融、代理系统等领域的创新和突破。随着这些项目的不断发展和完善，相信它们将进一步推动相关领域的发展和进步。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[google/tunix](https://github.com/google/tunix)|Python|JAX原生LLM培训后图书馆|650|1287|206|2025-04-02|
-|2|[immich-app/immich](https://github.com/immich-app/immich)|TypeScript|高性能自托管照片和视频管理解决方案。|646|79312|198|2022-02-03|
-|3|[nextcloud/server](https://github.com/nextcloud/server)|PHP|☁️ Nextcloud server, a safe home for all your data|594|32563|186|2016-06-02|
-|4|[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)|Python|基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版|512|8217|168|2025-06-26|
-|5|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|428|144787|152|2019-06-22|
-|6|[cjpais/Handy](https://github.com/cjpais/Handy)|TypeScript|一个免费的、开源的、可扩展的语音转文本应用程序，完全离线工作。|323|1750|99|2025-02-13|
-|7|[atuinsh/desktop](https://github.com/atuinsh/desktop)|TypeScript|运行的Runbook |267|1095|81|2025-06-06|
-|8|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|250|26392|78|2025-04-30|
-|9|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|233|44157|72|2022-11-27|
-|10|[enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)|None|利用这个精心策划的n8 n模板集合增强您的工作流程自动化！立即将您最喜欢的应用程序（例如Gmail、Telegram、Google Drive、Slack等）与即用型人工智能自动化连接。只需点击几下鼠标即可节省时间、提高生产力并释放n8 n的真正潜力。|222|13073|72|2025-05-08|
-|11|[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)|Python|Gen-AI Teams聊天-考虑ChatGPT是否可以访问您团队的独特知识。|203|15298|65|2023-04-27|
-|12|[kestra-io/kestra](https://github.com/kestra-io/kestra)|Java|：zap：通用工作流演示平台-以任何语言编写代码，在任何地方运行。800多个用于数据、基础设施和人工智能自动化的插件。|195|21642|63|2019-08-24|
-|13|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|196|35005|61|2022-10-17|
-|14|[MotiaDev/motia](https://github.com/MotiaDev/motia)|TypeScript|现代后台框架将API、后台作业、工作流程和人工智能代理统一到一个具有内置可观察性和状态管理的单一核心基元中。|196|8973|61|2025-01-02|
-|15|[emcie-co/parlant](https://github.com/emcie-co/parlant)|Python|专为控制而设计的LLM代理。专为现实世界使用而设计。几分钟内部署完毕。|193|13230|59|2024-02-15|
+|1|[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)|Python|基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版|796|9013|259|2025-06-26|
+|2|[microsoft/agent-framework](https://github.com/microsoft/agent-framework)|Python|一个用于构建、编排和部署AI代理和多代理工作流程的框架，支持Python和. NET。|473|2065|152|2025-04-28|
+|3|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|411|44568|126|2022-11-27|
+|4|[immich-app/immich](https://github.com/immich-app/immich)|TypeScript|高性能自托管照片和视频管理解决方案。|390|79702|119|2022-02-03|
+|5|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|322|145109|117|2019-06-22|
+|6|[microsoft/BitNet](https://github.com/microsoft/BitNet)|Python|1位LLM的官方推理框架|306|22493|103|2024-08-05|
+|7|[airweave-ai/airweave](https://github.com/airweave-ai/airweave)|Python|Airweave允许代理搜索任何应用程序|298|3795|97|2024-12-24|
+|8|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|300|35305|96|2022-10-17|
+|9|[amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)|Kotlin|下载管理器，可加快下载速度|262|9991|80|2024-07-07|
+|10|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|235|5751|73|2025-04-04|
+|11|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|237|41230|71|2023-07-19|
+|12|[meshery/meshery](https://github.com/meshery/meshery)|JavaScript|Meshery，云原生经理|193|8135|61|2018-11-14|
+|13|[emcie-co/parlant](https://github.com/emcie-co/parlant)|Python|专为控制而设计的LLM代理。专为现实世界使用而设计。几分钟内部署完毕。|161|13391|52|2024-02-15|
+|14|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|129|89671|45|2025-03-05|
+|15|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|143|26535|45|2025-04-30|
 
 [所有日榜](./day/day.md)
 
