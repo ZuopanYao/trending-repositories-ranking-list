@@ -1,32 +1,32 @@
 Github热门开源项目榜单
 
-## 2025年10月04日
+## 2025年10月05日
 
-本期榜单中的项目主要集中在人工智能、金融交易、代理系统等领域，使用的语言多为Python、TypeScript等。其中，Star数较高的项目包括TradingAgents-CN、pathway、immich等，这些项目在相应领域具有很高的热度和影响力。部分项目如n8n、hyperswitch等还提供了具体的应用场景和解决方案，受到了广泛关注。
+从本期榜单中可以看出，开源项目领域涵盖了各种编程语言和应用领域。其中，具有人工智能功能的项目在榜单中占据了一定比例，如BitNet、agent-framework等项目。这反映了人工智能技术在开源社区中的重要性和受欢迎程度。
 
-同时，榜单中还出现了一些新兴项目，如ab-download-manager、winboat等，虽然在Star数上相对较低，但仍有很大的发展潜力。另外，部分项目如meshery、parlant等则专注于特定领域的需求，为用户提供了更加专业化的解决方案。
+另外，一些项目如hyperswitch、meshery等是针对特定领域或应用场景的解决方案，这也体现了开源项目在满足特定需求和解决特定问题方面的价值和作用。同时，一些项目如infisical、immich则是面向开发者或技术爱好者的工具类项目，为他们提供了各种便利和功能。
 
-综合来看，本期榜单涵盖了多个领域和技术方向的项目，展示了开发者们在人工智能、金融、代理系统等领域的创新和突破。随着这些项目的不断发展和完善，相信它们将进一步推动相关领域的发展和进步。
+综合来看，本期榜单展示了开源社区的多样性和活力，各种类型的项目都可以在这里找到自己的定位和价值。同时，榜单中一些项目的创造时间较近，如jsoncrack.com和llm-app，显示了开源项目领域的不断创新和迭代。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)|Python|基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版|796|9013|259|2025-06-26|
-|2|[microsoft/agent-framework](https://github.com/microsoft/agent-framework)|Python|一个用于构建、编排和部署AI代理和多代理工作流程的框架，支持Python和. NET。|473|2065|152|2025-04-28|
-|3|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|411|44568|126|2022-11-27|
-|4|[immich-app/immich](https://github.com/immich-app/immich)|TypeScript|高性能自托管照片和视频管理解决方案。|390|79702|119|2022-02-03|
-|5|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|322|145109|117|2019-06-22|
-|6|[microsoft/BitNet](https://github.com/microsoft/BitNet)|Python|1位LLM的官方推理框架|306|22493|103|2024-08-05|
-|7|[airweave-ai/airweave](https://github.com/airweave-ai/airweave)|Python|Airweave允许代理搜索任何应用程序|298|3795|97|2024-12-24|
-|8|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|300|35305|96|2022-10-17|
-|9|[amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)|Kotlin|下载管理器，可加快下载速度|262|9991|80|2024-07-07|
-|10|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|235|5751|73|2025-04-04|
-|11|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|237|41230|71|2023-07-19|
-|12|[meshery/meshery](https://github.com/meshery/meshery)|JavaScript|Meshery，云原生经理|193|8135|61|2018-11-14|
-|13|[emcie-co/parlant](https://github.com/emcie-co/parlant)|Python|专为控制而设计的LLM代理。专为现实世界使用而设计。几分钟内部署完毕。|161|13391|52|2024-02-15|
-|14|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|129|89671|45|2025-03-05|
-|15|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|143|26535|45|2025-04-30|
+|1|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|633|35938|199|2022-10-17|
+|2|[microsoft/BitNet](https://github.com/microsoft/BitNet)|Python|1位LLM的官方推理框架|404|22897|128|2024-08-05|
+|3|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|349|145458|126|2019-06-22|
+|4|[meshery/meshery](https://github.com/meshery/meshery)|JavaScript|Meshery，云原生经理|362|8497|113|2018-11-14|
+|5|[microsoft/agent-framework](https://github.com/microsoft/agent-framework)|Python|一个用于构建、编排和部署AI代理和多代理工作流程的框架，支持Python和. NET。|350|2415|111|2025-04-28|
+|6|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|308|44876|93|2022-11-27|
+|7|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|240|22325|84|2025-05-02|
+|8|[immich-app/immich](https://github.com/immich-app/immich)|TypeScript|高性能自托管照片和视频管理解决方案。|271|79973|84|2022-02-03|
+|9|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|257|41487|79|2023-07-19|
+|10|[Stremio/stremio-web](https://github.com/Stremio/stremio-web)|JavaScript|Stremio -自由流媒体|215|2035|67|2018-06-04|
+|11|[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)|Python|基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版|200|9213|64|2025-06-26|
+|12|[kestra-io/kestra](https://github.com/kestra-io/kestra)|Java|：zap：通用工作流演示平台-以任何语言编写代码，在任何地方运行。800多个用于数据、基础设施和人工智能自动化的插件。|186|21943|62|2019-08-24|
+|13|[Infisical/infisical](https://github.com/Infisical/infisical)|TypeScript|Infisical是用于秘密管理、公钥基础设施建设和SSH访问的开源平台。|184|20569|57|2022-08-05|
+|14|[glide-browser/glide](https://github.com/glide-browser/glide)|TypeScript|可扩展且以键盘为中心的Web浏览器|186|651|56|2025-04-05|
+|15|[AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)|TypeScript|创新的开源可视化应用程序，可将各种数据格式（例如JSON、YML、ML、CSV等）转换为交互式图形。|167|41868|52|2022-01-30|
 
 [所有日榜](./day/day.md)
 
