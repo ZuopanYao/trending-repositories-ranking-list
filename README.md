@@ -1,32 +1,32 @@
 Github热门开源项目榜单
 
-## 2025年10月05日
+## 2025年10月06日
 
-从本期榜单中可以看出，开源项目领域涵盖了各种编程语言和应用领域。其中，具有人工智能功能的项目在榜单中占据了一定比例，如BitNet、agent-framework等项目。这反映了人工智能技术在开源社区中的重要性和受欢迎程度。
+本期榜单中，项目类型涵盖了各种不同领域，如人工智能、流媒体、下载管理、支付开关等。其中，microsoft/BitNet是LLM的官方推理框架，具有较高的热度和Star数量，显示了人工智能领域的关注度。另外，n8n-io/n8n是一个具有原生人工智能功能的工作流程自动化平台，也获得了很高的Star数量。
 
-另外，一些项目如hyperswitch、meshery等是针对特定领域或应用场景的解决方案，这也体现了开源项目在满足特定需求和解决特定问题方面的价值和作用。同时，一些项目如infisical、immich则是面向开发者或技术爱好者的工具类项目，为他们提供了各种便利和功能。
+在其他领域中，像Stremio是自由流媒体平台，aandrew-me/ytDownloader是视频下载应用，展示了人们对流媒体和视频内容的需求。另外，像amir1376/ab-download-manager是一个下载管理器，提高了下载速度，也受到了用户的关注。
 
-综合来看，本期榜单展示了开源社区的多样性和活力，各种类型的项目都可以在这里找到自己的定位和价值。同时，榜单中一些项目的创造时间较近，如jsoncrack.com和llm-app，显示了开源项目领域的不断创新和迭代。
+总体来说，本期榜单项目涵盖了多个领域的创新项目，反映了开源社区对不同技术和应用的关注和需求。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|633|35938|199|2022-10-17|
-|2|[microsoft/BitNet](https://github.com/microsoft/BitNet)|Python|1位LLM的官方推理框架|404|22897|128|2024-08-05|
-|3|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|349|145458|126|2019-06-22|
-|4|[meshery/meshery](https://github.com/meshery/meshery)|JavaScript|Meshery，云原生经理|362|8497|113|2018-11-14|
-|5|[microsoft/agent-framework](https://github.com/microsoft/agent-framework)|Python|一个用于构建、编排和部署AI代理和多代理工作流程的框架，支持Python和. NET。|350|2415|111|2025-04-28|
-|6|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|308|44876|93|2022-11-27|
-|7|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|240|22325|84|2025-05-02|
-|8|[immich-app/immich](https://github.com/immich-app/immich)|TypeScript|高性能自托管照片和视频管理解决方案。|271|79973|84|2022-02-03|
-|9|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|257|41487|79|2023-07-19|
-|10|[Stremio/stremio-web](https://github.com/Stremio/stremio-web)|JavaScript|Stremio -自由流媒体|215|2035|67|2018-06-04|
-|11|[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)|Python|基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版|200|9213|64|2025-06-26|
-|12|[kestra-io/kestra](https://github.com/kestra-io/kestra)|Java|：zap：通用工作流演示平台-以任何语言编写代码，在任何地方运行。800多个用于数据、基础设施和人工智能自动化的插件。|186|21943|62|2019-08-24|
-|13|[Infisical/infisical](https://github.com/Infisical/infisical)|TypeScript|Infisical是用于秘密管理、公钥基础设施建设和SSH访问的开源平台。|184|20569|57|2022-08-05|
-|14|[glide-browser/glide](https://github.com/glide-browser/glide)|TypeScript|可扩展且以键盘为中心的Web浏览器|186|651|56|2025-04-05|
-|15|[AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)|TypeScript|创新的开源可视化应用程序，可将各种数据格式（例如JSON、YML、ML、CSV等）转换为交互式图形。|167|41868|52|2022-01-30|
+|1|[microsoft/BitNet](https://github.com/microsoft/BitNet)|Python|1位LLM的官方推理框架|844|23741|262|2024-08-05|
+|2|[Infisical/infisical](https://github.com/Infisical/infisical)|TypeScript|Infisical是用于秘密管理、公钥基础设施建设和SSH访问的开源平台。|506|21075|158|2022-08-05|
+|3|[Stremio/stremio-web](https://github.com/Stremio/stremio-web)|JavaScript|Stremio -自由流媒体|420|2455|137|2018-06-04|
+|4|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|366|145824|129|2019-06-22|
+|5|[aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader)|JavaScript|桌面应用程序，用于从数百个网站下载视频和音频|386|2516|122|2022-07-25|
+|6|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|305|45181|95|2022-11-27|
+|7|[snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks)|None|用于管理AI开发代理的简单任务管理系统|264|5873|94|2025-04-19|
+|8|[microsoft/agent-framework](https://github.com/microsoft/agent-framework)|Python|一个用于构建、编排和部署AI代理和多代理工作流程的框架，支持Python和. NET。|273|2688|93|2025-04-28|
+|9|[Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)|Batchfile|None|284|16947|88|2024-10-08|
+|10|[meshery/meshery](https://github.com/meshery/meshery)|JavaScript|Meshery，云原生经理|274|8771|84|2018-11-14|
+|11|[immich-app/immich](https://github.com/immich-app/immich)|TypeScript|高性能自托管照片和视频管理解决方案。|228|80201|72|2022-02-03|
+|12|[amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)|Kotlin|下载管理器，可加快下载速度|236|10368|72|2024-07-07|
+|13|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|216|36154|70|2022-10-17|
+|14|[audacity/audacity](https://github.com/audacity/audacity)|C++|音频编辑器                                     |216|14842|67|2015-03-26|
+|15|[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)|Python|基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版|192|9405|63|2025-06-26|
 
 [所有日榜](./day/day.md)
 
