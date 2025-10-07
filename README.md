@@ -1,32 +1,36 @@
 Github热门开源项目榜单
 
-## 2025年10月06日
+## 2025年10月07日
 
-本期榜单中，项目类型涵盖了各种不同领域，如人工智能、流媒体、下载管理、支付开关等。其中，microsoft/BitNet是LLM的官方推理框架，具有较高的热度和Star数量，显示了人工智能领域的关注度。另外，n8n-io/n8n是一个具有原生人工智能功能的工作流程自动化平台，也获得了很高的Star数量。
+根据本期榜单的情况，可以看出以下几点趋势和特点：
 
-在其他领域中，像Stremio是自由流媒体平台，aandrew-me/ytDownloader是视频下载应用，展示了人们对流媒体和视频内容的需求。另外，像amir1376/ab-download-manager是一个下载管理器，提高了下载速度，也受到了用户的关注。
+1. TypeScript的项目数量较多，且在热度和Star数方面表现出色，如Infisical、n8n等项目均属于TypeScript语言。
+2. Python语言也有一定数量的项目入榜，如ChinaTextbook、changedetection.io、Python等，显示Python在开源项目中仍具有较高的活跃度和应用范围。
+3. JavaScript作为前端开发的主流语言，依然占据一定比例，且在某些项目中具有较高的热度和Star数，如Stremio/stremio-web、ytDownloader等。
+4. 一些特定领域的项目也引起了关注，如网站更改检测与监控、AI代理工作流程构建、网络钓鱼工具等。
+5. 部分项目拥有较长的创建时间，如TheAlgorithms/Python、free-programming-books等，显示这些项目已经在开源社区中有一定的历史积累。
 
-总体来说，本期榜单项目涵盖了多个领域的创新项目，反映了开源社区对不同技术和应用的关注和需求。
+总体来看，本期榜单涵盖了多个领域和语言的开源项目，展现了开源社区的多样性和活力。在不同领域中，不同语言和技术都有着自己的优势和特点，吸引着用户和开发者的关注和参与。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[microsoft/BitNet](https://github.com/microsoft/BitNet)|Python|1位LLM的官方推理框架|844|23741|262|2024-08-05|
-|2|[Infisical/infisical](https://github.com/Infisical/infisical)|TypeScript|Infisical是用于秘密管理、公钥基础设施建设和SSH访问的开源平台。|506|21075|158|2022-08-05|
-|3|[Stremio/stremio-web](https://github.com/Stremio/stremio-web)|JavaScript|Stremio -自由流媒体|420|2455|137|2018-06-04|
-|4|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|366|145824|129|2019-06-22|
-|5|[aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader)|JavaScript|桌面应用程序，用于从数百个网站下载视频和音频|386|2516|122|2022-07-25|
-|6|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|305|45181|95|2022-11-27|
-|7|[snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks)|None|用于管理AI开发代理的简单任务管理系统|264|5873|94|2025-04-19|
-|8|[microsoft/agent-framework](https://github.com/microsoft/agent-framework)|Python|一个用于构建、编排和部署AI代理和多代理工作流程的框架，支持Python和. NET。|273|2688|93|2025-04-28|
-|9|[Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)|Batchfile|None|284|16947|88|2024-10-08|
-|10|[meshery/meshery](https://github.com/meshery/meshery)|JavaScript|Meshery，云原生经理|274|8771|84|2018-11-14|
-|11|[immich-app/immich](https://github.com/immich-app/immich)|TypeScript|高性能自托管照片和视频管理解决方案。|228|80201|72|2022-02-03|
-|12|[amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)|Kotlin|下载管理器，可加快下载速度|236|10368|72|2024-07-07|
-|13|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|216|36154|70|2022-10-17|
-|14|[audacity/audacity](https://github.com/audacity/audacity)|C++|音频编辑器                                     |216|14842|67|2015-03-26|
-|15|[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)|Python|基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版|192|9405|63|2025-06-26|
+|1|[Stremio/stremio-web](https://github.com/Stremio/stremio-web)|JavaScript|Stremio -自由流媒体|887|3342|281|2018-06-04|
+|2|[Infisical/infisical](https://github.com/Infisical/infisical)|TypeScript|Infisical是用于秘密管理、公钥基础设施建设和SSH访问的开源平台。|900|21975|280|2022-08-05|
+|3|[aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader)|JavaScript|桌面应用程序，用于从数百个网站下载视频和音频|630|3146|197|2022-07-25|
+|4|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|408|146232|147|2019-06-22|
+|5|[BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server)|Python|Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok /Olama/定制模型/以上全部]一体工作的力量。|390|7946|125|2025-06-08|
+|6|[meshery/meshery](https://github.com/meshery/meshery)|JavaScript|Meshery，云原生经理|384|9155|118|2018-11-14|
+|7|[is-a-dev/register](https://github.com/is-a-dev/register)|JavaScript|获取您自己的可爱的“. is-a.dev”子域名。|189|8337|113|2020-10-04|
+|8|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|282|51201|97|2020-01-05|
+|9|[dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)|Python|用于网站更改检测、网页监控和网站更改警报的最佳、最简单的工具。非常适合跟踪内容更改、价格下降、进货提醒和网站污损监控-所有这些都是免费的，或者享受我们的SaaS计划！|303|27333|93|2021-01-27|
+|10|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|285|45466|86|2022-11-27|
+|11|[simstudioai/sim](https://github.com/simstudioai/sim)|TypeScript|构建和部署AI代理工作流程的开源平台。|246|16596|80|2025-01-05|
+|12|[htr-tech/zphisher](https://github.com/htr-tech/zphisher)|HTML|一款自动网络钓鱼工具，包含30多个模板。该工具仅用于教育目的！作者不对此工具包的任何滥用负责！|238|14568|76|2019-11-25|
+|13|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|214|36368|68|2022-10-17|
+|14|[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)|Python|所有算法都在Python中实现|201|210223|64|2016-07-16|
+|15|[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)|Python|：书籍：免费提供的编程书籍|204|371866|63|2013-10-11|
 
 [所有日榜](./day/day.md)
 
