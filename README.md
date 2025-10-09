@@ -1,38 +1,35 @@
 Github热门开源项目榜单
 
-## 2025年10月08日
+## 2025年10月09日
 
-本期榜单中，可以看到以下几个趋势：
+本期榜单中，一些热门项目包括：
 
-1. TypeScript 项目表现突出，n8n、winboat、infisical、sim 等项目均有较高的趋势 Star 和当前 Star 数量，展示了 TypeScript 在软件开发领域的受欢迎程度。
+1. n8n：这是一个具有人工智能功能的工作流自动化平台，拥有400多个集成，当前有超过14万星。在2025年之前创建，趋势Star也在不断增长，表明该项目备受关注。
+2. ChinaTextbook：这个项目提供了所有小学、初中、高中和大学的PDF教材，当前有超过5万的星，热度也相对较高。在2020年创建，持续受到用户关注。
+3. TradingAgents-CN：这是一个基于多智能体LLM的中文金融交易框架，拥有近1万的星，表明在金融领域有一定的影响力。
+4. agent-framework：这是一个用于构建、编排和部署AI代理和多代理工作流程的框架，虽然当前Star较低，但热度仍有表现。由微软开发，2025年创建。
 
-2. 人工智能项目受到关注，n8n、codex、llm-app、agent-framework 等项目涉及人工智能功能，反映了该领域的热度和需求。
-
-3. 开源平台项目受欢迎，stremio-web、sim、register 等项目提供开源平台或工具，满足用户对自由、开放的需求。
-
-4. Python 项目依然具有一定影响力，pathway、llm-app、agent-framework 等项目以 Python 为主要开发语言，体现出 Python 在软件开发领域的广泛应用。
-
-总体来看，本期榜单中涵盖了多个领域的项目，展示了当前开发者关注的热点和趋势。
+总体来说，本期榜单呈现出对人工智能、教育、金融和工作流自动化等领域的关注和重视。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[Stremio/stremio-web](https://github.com/Stremio/stremio-web)|JavaScript|Stremio -自由流媒体|1637|4979|523|2018-06-04|
-|2|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|607|6859|186|2025-04-04|
-|3|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|345|146577|132|2019-06-22|
-|4|[ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)|Java|????ReVanced的收件箱补丁|7|4707|115|2023-12-14|
-|5|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|296|51497|105|2020-01-05|
-|6|[Infisical/infisical](https://github.com/Infisical/infisical)|TypeScript|Infisical是用于秘密管理、公钥基础设施建设和SSH访问的开源平台。|239|22214|76|2022-08-05|
-|7|[simstudioai/sim](https://github.com/simstudioai/sim)|TypeScript|构建和部署AI代理工作流程的开源平台。|201|16797|67|2025-01-05|
-|8|[is-a-dev/register](https://github.com/is-a-dev/register)|JavaScript|获取您自己的可爱的“. is-a.dev”子域名。|138|8475|66|2020-10-04|
-|9|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|194|46454|65|2025-04-13|
-|10|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|215|45681|64|2022-11-27|
-|11|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|153|35402|58|2025-05-14|
-|12|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|158|90250|57|2025-03-05|
-|13|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|185|41802|56|2023-07-19|
-|14|[microsoft/agent-framework](https://github.com/microsoft/agent-framework)|Python|一个用于构建、编排和部署AI代理和多代理工作流程的框架，支持Python和. NET。|140|2990|46|2025-04-28|
-|15|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|133|22797|43|2025-05-02|
+|1|[Stremio/stremio-web](https://github.com/Stremio/stremio-web)|JavaScript|Stremio -自由流媒体|1415|6394|453|2018-06-04|
+|2|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|920|7779|283|2025-04-04|
+|3|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|572|52069|194|2020-01-05|
+|4|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|400|146977|145|2019-06-22|
+|5|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|237|35639|86|2025-05-14|
+|6|[MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)|Python|NotebookLM / Perplexity的开源替代品，连接到外部源，例如Search Engines、Slack、Linear、Jira、Click Up、Confluence、Notion、YouTube、GitHub、Discord等。加入我们的不和：https://discord.gg/ejRNvftDp9|261|8764|83|2024-07-30|
+|7|[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)|Python|基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版|235|9819|79|2025-06-26|
+|8|[microsoft/agent-framework](https://github.com/microsoft/agent-framework)|Python|一个用于构建、编排和部署AI代理和多代理工作流程的框架，支持Python和. NET。|226|3216|73|2025-04-28|
+|9|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|205|46659|69|2025-04-13|
+|10|[Infisical/infisical](https://github.com/Infisical/infisical)|TypeScript|Infisical是用于秘密管理、公钥基础设施建设和SSH访问的开源平台。|200|22414|63|2022-08-05|
+|11|[immich-app/immich](https://github.com/immich-app/immich)|TypeScript|高性能自托管照片和视频管理解决方案。|191|80658|60|2022-02-03|
+|12|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|155|90405|56|2025-03-05|
+|13|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|176|45857|53|2022-11-27|
+|14|[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)|TypeScript|一个开源的AI代理，将Gemini的力量直接带入您的终端。|155|78429|52|2025-04-17|
+|15|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|169|41971|51|2023-07-19|
 
 [所有日榜](./day/day.md)
 
