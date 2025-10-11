@@ -1,36 +1,35 @@
 Github热门开源项目榜单
 
-## 2025年10月10日
+## 2025年10月11日
 
-根据本期榜单数据，在项目介绍方面有几个引人注目的项目：
+本期榜单中，项目涵盖了多种语言和领域，其中最受欢迎的项目包括：
 
-1. [TibixDev/winboat](https://github.com/TibixDev/winboat) 是一个通过NPS无缝集成在NPS Linux上运行Windows应用程序的项目，具有很高的趋势Star和热度。
-2. [n8n-io/n8n](https://github.com/n8n-io/n8n) 是一个具有原生人工智能功能的工作流程自动化平台，集成了400+集成，当前Star数非常高。
-3. [zama-ai/fhevm](https://github.com/zama-ai/fhevm) 是一个集成完全同质加密（FHE）与区块链应用程序的全栈框架，具有很高的当前Star数。
-4. [openai/codex](https://github.com/openai/codex) 是一个在终端中运行的轻量级编码代理项目，具有不错的热度和当前Star数。
-5. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) 是一个远程桌面应用程序，专为自托管而设计，作为TeamViewer的替代品，当前Star数也很高。
+1. [TibixDev/winboat](https://github.com/TibixDev/winboat)：一个能够在NPS Linux上无缝运行Windows应用程序的项目，在GitHub上具有较高的关注度和热度。
+2. [anthropics/claude-code](https://github.com/anthropics/claude-code)：Claude Code是一款代理编码工具，通过自然语言命令帮助用户更快地编码，受到了广泛关注。
+3. [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)：提供了所有小初高和大学PDF教材，为学习者提供了丰富的资源。
+4. [n8n-io/n8n](https://github.com/n8n-io/n8n)：一个具有原生人工智能功能的工作流程自动化平台，在整个GitHub社区中拥有较高的星标和热度。
 
-这些项目展示了当前流行的技术趋势，包括人工智能、加密、区块链等，以及远程桌面应用程序的需求。这些项目的开发者在不断创新和探索，为开源社区贡献了有价值的项目。
+总体而言，本期榜单项目涵盖了多个不同领域的开源项目，展示了开发者们在不同领域的创新和贡献。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|1225|9004|378|2025-04-04|
-|2|[Stremio/stremio-web](https://github.com/Stremio/stremio-web)|JavaScript|Stremio -自由流媒体|750|7144|236|2018-06-04|
-|3|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|413|52482|140|2020-01-05|
-|4|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|354|147331|131|2019-06-22|
-|5|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|313|23228|98|2025-05-02|
-|6|[MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)|Python|NotebookLM / Perplexity的开源替代品，连接到外部源，例如Search Engines、Slack、Linear、Jira、Click Up、Confluence、Notion、YouTube、GitHub、Discord等。加入我们的不和：https://discord.gg/ejRNvftDp9|298|9062|94|2024-07-30|
-|7|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|223|36056|72|2025-02-22|
-|8|[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)|Python|基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版|207|10026|71|2025-06-26|
-|9|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|205|90610|68|2025-03-05|
-|10|[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)|Rust|一个开源远程桌面应用程序，专为自托管而设计，作为TeamViewer的替代品。|200|99684|62|2020-09-28|
-|11|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|171|46830|59|2025-04-13|
-|12|[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)|TypeScript|一个开源的AI代理，将Gemini的力量直接带入您的终端。|171|78600|59|2025-04-17|
-|13|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|163|35802|58|2025-05-14|
-|14|[winapps-org/winapps](https://github.com/winapps-org/winapps)|Shell| 运行Windows应用程序，例如Linux（Ubuntu/Fedora）中的Microsoft Office/Adobe和NSO/TEK，就像它们是本地操作系统的一部分一样，包括Nautilus集成。https://github.com/Fmstrat/winapps/的硬分叉|187|10946|57|2023-07-05|
-|15|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|172|46029|51|2022-11-27|
+|1|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|761|9765|233|2025-04-04|
+|2|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|583|36639|184|2025-02-22|
+|3|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|424|52906|143|2020-01-05|
+|4|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|418|42551|127|2023-07-19|
+|5|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|303|147634|111|2019-06-22|
+|6|[WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase)|Python|大麦自动抢票，支持人员、城市、日期场次、价格选择|313|4726|98|2023-10-12|
+|7|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|309|36794|96|2022-10-17|
+|8|[basecamp/omarchy](https://github.com/basecamp/omarchy)|Shell|观点Arch/Hyprland设置|260|13318|80|2025-06-01|
+|9|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|223|36025|77|2025-05-14|
+|10|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|233|23461|71|2025-05-02|
+|11|[Stremio/stremio-web](https://github.com/Stremio/stremio-web)|JavaScript|Stremio -自由流媒体|225|7369|71|2018-06-04|
+|12|[aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader)|JavaScript|桌面应用程序，用于从数百个网站下载视频和音频|211|4623|67|2022-07-25|
+|13|[MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)|Python|NotebookLM / Perplexity的开源替代品，连接到外部源，例如Search Engines、Slack、Linear、Jira、Click Up、Confluence、Notion、YouTube、GitHub、Discord等。加入我们的不和：https://discord.gg/ejRNvftDp9|207|9269|65|2024-07-30|
+|14|[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)|Python|基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版|188|10214|64|2025-06-26|
+|15|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|186|90796|61|2025-03-05|
 
 [所有日榜](./day/day.md)
 
