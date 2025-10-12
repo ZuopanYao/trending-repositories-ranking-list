@@ -36,38 +36,40 @@ Github热门开源项目榜单
 
 [所有日榜](./day/day.md)
 
-## 2025年第39周
+## 2025年第40周
 
-本期榜单中，前几名项目的热度和Star数量较高，展示了人工智能、大数据等领域的热门趋势。其中，使用AI大模型生成短视频的项目在热度和Star数量上领先，展示了AI技术在视频处理领域的应用前景。同时，开源支付开关项目和自托管照片视频管理解决方案也受到了较多关注，显示了人们对安全性和隐私保护的重视。另外，对开发人员成长有帮助的互动路线图项目在Star数量上也表现突出。
+本期榜单中，Star数量较高的项目主要集中在TypeScript和Python语言上，这两种语言在当前开发领域中具有较高的流行度和实用性。其中，排名第三的项目n8n是一个具有原生人工智能功能的工作流自动化平台，其当前Star数量高达147,910，显示出用户对于此类自动化工具的需求和认可程度较高。
 
-与此同时，一些项目如遗留混乱检测器、浪山代码检测器等也凸显了人们对代码质量和工程实践的关注。这些项目致力于提高代码的质量和可维护性，符合软件开发领域的实际需求。
+另外，排名第一和第四的项目分别是Stremio和ChinaTextbook，都是与视频内容有关的项目，说明对于流媒体和教育领域的关注度也较高。
 
-综上所述，本期榜单涵盖了多个领域的热门项目，反映了当前技术社区的关注重点和发展趋势。
+需要注意的是，排名第八的项目ui是一套设计精美、易于访问的组件和代码分发平台，其当前Star数量高达97,479，显示出对于UI/UX设计领域的关注度非常高。
+
+总体来看，本期榜单中涵盖了多个领域的开源项目，展现了开发者们在不同领域中持续努力和创新的成果。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)|Python|利用AI大模型，关键生成高清短视频使用AI LLM一键生成短视频。|4287|45651|1387|2024-03-11|
-|2|[immich-app/immich](https://github.com/immich-app/immich)|TypeScript|高性能自托管照片和视频管理解决方案。|2059|79973|630|2022-02-03|
-|3|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|1777|35938|558|2022-10-17|
-|4|[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)|Jupyter Notebook|开始构建人工智能代理的12个课程|1179|41835|439|2024-11-28|
-|5|[mlabonne/llm-course](https://github.com/mlabonne/llm-course)|None|通过路线图和Colab笔记本进入大型语言模型（LLM）的课程。|1291|64385|428|2023-06-17|
-|6|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|1236|89799|421|2025-03-05|
-|7|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|1126|22325|372|2025-05-02|
-|8|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|1115|44876|343|2022-11-27|
-|9|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|1046|26667|330|2025-04-30|
-|10|[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)|TypeScript|互动路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。|1039|339606|329|2017-03-15|
-|11|[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|Jupyter Notebook|在PyTorch中从头开始、一步一步地实施类似ChatGPT的LLM|841|74489|287|2023-07-23|
-|12|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|823|45992|282|2025-04-13|
-|13|[commaai/openpilot](https://github.com/commaai/openpilot)|Python|openpilot是机器人操作系统。目前，它升级了300多辆受支持的汽车的驾驶员辅助系统。|869|58216|273|2016-11-24|
-|14|[Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)|Go|遗留混乱检测器-评估代码的“遗留混乱程度”并输出漂亮的报告|浪山代码检测器，评估代码的“浪山等级”并输出美丽的报告|872|4895|272|2025-06-25|
-|15|[microsoft/BitNet](https://github.com/microsoft/BitNet)|Python|1位LLM的官方推理框架|798|22897|262|2024-08-05|
-|16|[emcie-co/parlant](https://github.com/emcie-co/parlant)|Python|专为控制而设计的LLM代理。专为现实世界使用而设计。几分钟内部署完毕。|746|13425|237|2024-02-15|
-|17|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|756|5922|231|2025-04-04|
-|18|[simstudioai/sim](https://github.com/simstudioai/sim)|TypeScript|构建和部署AI代理工作流程的开源平台。|699|16234|229|2025-01-05|
-|19|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|632|34951|228|2025-05-14|
-|20|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|Python|功能丰富的命令行音频/视频下载器|715|129623|226|2020-10-26|
+|1|[Stremio/stremio-web](https://github.com/Stremio/stremio-web)|JavaScript|Stremio -自由流媒体|5089|7544|1622|2018-06-04|
+|2|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|4276|10355|1315|2025-04-04|
+|3|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|2086|147910|772|2019-06-22|
+|4|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|2105|53024|726|2020-01-05|
+|5|[aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader)|JavaScript|桌面应用程序，用于从数百个网站下载视频和音频|2239|4755|706|2022-07-25|
+|6|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|1975|37565|630|2025-02-22|
+|7|[Infisical/infisical](https://github.com/Infisical/infisical)|TypeScript|Infisical是用于秘密管理、公钥基础设施建设和SSH访问的开源平台。|1480|22555|463|2022-08-05|
+|8|[shadcn-ui/ui](https://github.com/shadcn-ui/ui)|TypeScript|一套设计精美、易于访问的组件和代码分发平台。与您最喜欢的框架一起使用。开源.开放代码。|1308|97479|410|2023-01-04|
+|9|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|1343|42932|407|2023-07-19|
+|10|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|1086|36181|392|2025-05-14|
+|11|[BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server)|Python|Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok /Olama/定制模型/以上全部]一体工作的力量。|1181|8737|376|2025-06-08|
+|12|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|1231|46412|371|2022-11-27|
+|13|[MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)|Python|NotebookLM / Perplexity的开源替代品，连接到外部源，例如Search Engines、Slack、Linear、Jira、Click Up、Confluence、Notion、YouTube、GitHub、Discord等。加入我们的不和：https://discord.gg/ejRNvftDp9|1132|9430|361|2024-07-30|
+|14|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|1081|23549|342|2025-05-02|
+|15|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|965|90910|335|2025-03-05|
+|16|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|985|47080|330|2025-04-13|
+|17|[basecamp/omarchy](https://github.com/basecamp/omarchy)|Shell|观点Arch/Hyprland设置|981|13548|309|2025-06-01|
+|18|[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)|Python|基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版|889|10294|308|2025-06-26|
+|19|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|849|368452|275|2016-03-20|
+|20|[microsoft/agent-framework](https://github.com/microsoft/agent-framework)|Python|一个用于构建、编排和部署AI代理和多代理工作流程的框架，支持Python和. NET。|821|3509|274|2025-04-28|
 
 [所有周榜](./week/week.md)
 
