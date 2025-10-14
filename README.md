@@ -1,28 +1,34 @@
 Github热门开源项目榜单
 
-## 2025年10月13日
+## 2025年10月14日
 
-本期榜单中，有几个项目备受关注。首先是排名第一的项目[anthropics/claude-code](https://github.com/anthropics/claude-code)，这是一个代理编码工具，通过自然语言命令来帮助用户更快地编码，当前拥有38500个星，热度非常高。其次是排名第五的[public-apis/public-apis](https://github.com/public-apis/public-apis)，这是一个免费API的集合列表，拥有368827个星，是本榜单中最受欢迎的项目之一。另外，排名第六的[n8n-io/n8n](https://github.com/n8n-io/n8n)也备受关注，这是一个具有原生人工智能功能的工作流自动化平台，拥有148243个星。综合来看，本期榜单涵盖了多个领域的项目，涵盖了不同的编程语言和应用场景，值得关注和学习。
+本期榜单中，主要集中在AI、编码、工作流自动化以及数据处理等领域的项目。从热度和Star指数来看，排名靠前的项目包括公共API集合列表、具有原生人工智能功能的工作流自动化平台，以及用于流处理、实时分析的Python RTL框架等。
+
+其中，n8n-io/n8n项目是一个具有人工智能功能的工作流自动化平台，提供了400多个集成，受到了很高的关注。同时，pathwaycom/llm-app项目是一个用于企业搜索、RAG和AI管道的云模板，对Docker友好，也受到了广泛的关注。
+
+在AI方面，还有包括从聊天机器人中提取系统脚本的项目、代理编码工具、全同质加密与区块链应用程序集成的全栈框架等项目。
+
+总体来看，本期榜单的项目涵盖了多个热门领域，反映了当前技术领域的一些热点和趋势。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|935|38500|292|2025-02-22|
-|2|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|784|43716|235|2023-07-19|
-|3|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|701|47113|209|2022-11-27|
-|4|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|537|10892|165|2025-04-04|
-|5|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|375|368827|123|2016-03-20|
-|6|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|333|148243|120|2019-06-22|
-|7|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|255|53279|85|2020-01-05|
-|8|[Stremio/stremio-web](https://github.com/Stremio/stremio-web)|JavaScript|Stremio -自由流媒体|276|7820|85|2018-06-04|
-|9|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|268|81246|82|2024-11-13|
-|10|[basecamp/omarchy](https://github.com/basecamp/omarchy)|Shell|观点Arch/Hyprland设置|254|13802|80|2025-06-01|
-|11|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|234|22161|78|2025-05-03|
-|12|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|216|36397|78|2025-05-14|
-|13|[WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase)|Python|大麦自动抢票，支持人员、城市、日期场次、价格选择|236|5021|74|2023-10-12|
-|14|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|210|23759|69|2025-05-02|
-|15|[datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)|Jupyter Notebook|???? 从零开始的大语言模型原理与实践教程|177|19254|59|2024-05-28|
+|1|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|680|369507|217|2016-03-20|
+|2|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|537|44253|162|2023-07-19|
+|3|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|464|47577|141|2022-11-27|
+|4|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|379|148622|137|2019-06-22|
+|5|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|393|22554|126|2025-05-03|
+|6|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|300|38800|95|2025-02-22|
+|7|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|297|11189|90|2025-04-04|
+|8|[basecamp/omarchy](https://github.com/basecamp/omarchy)|Shell|观点Arch/Hyprland设置|233|14035|72|2025-06-01|
+|9|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|225|81471|72|2024-11-13|
+|10|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|200|47420|65|2025-04-13|
+|11|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|173|91237|61|2025-03-05|
+|12|[coleam00/Archon](https://github.com/coleam00/Archon)|Python|Archon OS的Beta版本-AI编码助手的知识和任务管理骨干。|175|12797|56|2025-02-07|
+|13|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|142|36539|50|2025-05-14|
+|14|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|143|23902|46|2025-05-02|
+|15|[datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)|Jupyter Notebook|???? 从零开始的大语言模型原理与实践教程|141|19395|45|2024-05-28|
 
 [所有日榜](./day/day.md)
 
