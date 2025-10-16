@@ -1,38 +1,28 @@
 Github热门开源项目榜单
 
-## 2025年10月15日
+## 2025年10月16日
 
-通过对本期榜单的分析可以发现：
-
-1. Python 仍然是最受欢迎的编程语言之一，在榜单中有多个项目使用 Python 进行开发，如免费API集合列表、用于流处理、实时分析的Python RTL框架等。
-
-2. 人工智能和自然语言处理领域的项目在榜单中占据一定比例，如具有原生人工智能功能的工作流自动化平台、大型语言模型系列项目等。
-
-3. 开源远程桌面应用程序和编码代理工具也备受关注，如一个开源远程桌面应用程序，具有Rust语言编写，以及在终端中运行的编码代理等。
-
-4. 最近创建时间较晚的项目在本期榜单中表现较好，表明这些新项目受到了用户的关注和喜爱。
-
-总体来说，本期榜单涵盖了多个热门领域的项目，反映了当前开发者社区的动态和趋势。
+本期榜单中，有几个项目的趋势Star和当前Star数值相对较高，包括n8n、developer-roadmap、public-apis等项目，这些项目在各自领域都有较高的关注度。其中，developer-roadmap是一份互动路线图，指南和其他教育内容，帮助开发人员在职业生涯中成长，受到了大量开发者的喜爱。另外，rustdesk是一个开源远程桌面应用程序，作为TeamViewer的替代品，在趋势Star和当前Star上也表现出色。总体来看，本期榜单中涵盖了多个热门领域的项目，反映了开发者在不同方向上的关注和需求。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|594|370101|190|2016-03-20|
-|2|[datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)|Jupyter Notebook|???? 从零开始的大语言模型原理与实践教程|406|19801|127|2024-05-28|
-|3|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|323|148945|119|2019-06-22|
-|4|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|327|44580|98|2023-07-19|
-|5|[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)|Rust|一个开源远程桌面应用程序，专为自托管而设计，作为TeamViewer的替代品。|302|100201|92|2020-09-28|
-|6|[QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)|Jupyter Notebook|Qwen 3-DL是阿里云Qwen团队开发的多模式大型语言模型系列。|269|14515|87|2024-08-29|
-|7|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|258|11447|79|2025-04-04|
-|8|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|244|47821|73|2022-11-27|
-|9|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|223|22777|70|2025-05-03|
-|10|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|198|47618|64|2025-04-13|
-|11|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|195|38995|61|2025-02-22|
-|12|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|163|91400|56|2025-03-05|
-|13|[basecamp/omarchy](https://github.com/basecamp/omarchy)|Shell|观点Arch/Hyprland设置|161|14196|49|2025-06-01|
-|14|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|132|36671|46|2025-05-14|
-|15|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|141|81612|45|2024-11-13|
+|1|[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)|Rust|一个开源远程桌面应用程序，专为自托管而设计，作为TeamViewer的替代品。|571|100772|175|2020-09-28|
+|2|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|366|149311|131|2019-06-22|
+|3|[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)|TypeScript|互动路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。|348|340778|109|2017-03-15|
+|4|[nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser)|TypeScript|开源Chrome扩展，用于人工智能驱动的网络自动化。使用您自己的LLM API密钥运行多代理工作流程。OpenAI操作员的替代品。|278|10360|85|2024-12-31|
+|5|[QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)|Jupyter Notebook|Qwen 3-DL是阿里云Qwen团队开发的多模式大型语言模型系列。|257|14772|83|2024-08-29|
+|6|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|270|11717|81|2025-04-04|
+|7|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|220|370321|72|2016-03-20|
+|8|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|204|24198|64|2025-05-02|
+|9|[zed-industries/zed](https://github.com/zed-industries/zed)|Rust|以思想的速度编写代码- Zed是一款高性能多人游戏代码编辑器，由Atom和Tree-sitter的创作者制作。|192|67440|60|2021-02-20|
+|10|[nvm-sh/nvm](https://github.com/nvm-sh/nvm)|Shell|节点版本管理器-符合BOX的bash脚本，用于管理多个活动的node.js版本|196|87766|60|2010-04-15|
+|11|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|174|47792|58|2025-04-13|
+|12|[dockur/windows](https://github.com/dockur/windows)|Shell|Docker容器内的Windows。|173|47210|54|2024-01-14|
+|13|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|176|47997|52|2022-11-27|
+|14|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|170|44750|51|2023-07-19|
+|15|[basecamp/omarchy](https://github.com/basecamp/omarchy)|Shell|观点Arch/Hyprland设置|162|14358|51|2025-06-01|
 
 [所有日榜](./day/day.md)
 
