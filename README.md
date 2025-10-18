@@ -1,36 +1,38 @@
 Github热门开源项目榜单
 
-## 2025年10月17日
+## 2025年10月18日
 
-根据本期榜单的数据，可以看出以下几点趋势：
+本期榜单中涵盖了多个热门开源项目，其中一些项目的介绍如下：
 
-1. 人工智能相关项目热度持续增长：榜单中涉及人工智能的项目（如PaddleOCR、n8n、Qwen3-VL等）都表现出较高的热度和Star数量，显示出人工智能领域持续受到关注和追捧。
+1. [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR): 一个强大的OCR工具包，支持将任何PDF或图像文档转化为结构化数据，可以弥合图像/PDF和LLM之间的差距，支持80多种语言。
 
-2. 开发工具类项目备受青睐：开发者路线图、开发者教育内容、代码编辑器等工具类项目（如developer-roadmap、nvm等）都在榜单中占据一席之地，显示出开发者对工具类项目的需求和关注度较高。
+2. [n8n-io/n8n](https://github.com/n8n-io/n8n): 一个具有原生人工智能功能的工作流程自动化平台，集成了视觉构建、自定义代码、自主机或云等功能，支持400+集成。
 
-3. 多模式大型语言模型趋势上升：多模式大型语言模型项目（如Qwen3-VL、llm-app等）在本期榜单中获得了不错的排名和热度，显示出多模式大型语言模型在技术领域的发展趋势。
+3. [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): 提供互动路线图、指南等内容，帮助开发人员在职业生涯中成长。
 
-综上所述，本期榜单反映了人工智能、开发工具和多模式大型语言模型等领域在技术社区中的热度和受关注程度。在未来的技术发展中，这些领域可能会继续成为技术创新和研究的重要方向。
+4. [microsoft/PowerToys](https://github.com/microsoft/PowerToys): 一个用于提高Windows系统生产力的实用程序集合。
+
+这些项目涵盖了不同领域的工具和框架，包括OCR、工作流自动化、开发者职业规划和Windows系统实用程序等。值得注意的是，这些项目都拥有较高的Star数和热度，说明它们受到了广泛关注和认可。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|540|57800|170|2020-05-08|
-|2|[nvm-sh/nvm](https://github.com/nvm-sh/nvm)|Shell|节点版本管理器-符合BOX的bash脚本，用于管理多个活动的node.js版本|372|88138|116|2010-04-15|
-|3|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|386|45136|115|2023-07-19|
-|4|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|313|149624|115|2019-06-22|
-|5|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|308|48305|92|2022-11-27|
-|6|[mlabonne/llm-course](https://github.com/mlabonne/llm-course)|None|通过路线图和Colab笔记本进入大型语言模型（LLM）的课程。|272|65309|90|2023-06-17|
-|7|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|246|11963|74|2025-04-04|
-|8|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|191|370512|65|2016-03-20|
-|9|[QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)|Jupyter Notebook|Qwen 3-DL是阿里云Qwen团队开发的多模式大型语言模型系列。|203|14975|64|2024-08-29|
-|10|[dockur/windows](https://github.com/dockur/windows)|Shell|Docker容器内的Windows。|186|47396|59|2024-01-14|
-|11|[shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)|Python|克洛诺斯：金融市场语言的基础模型|167|7682|55|2025-07-01|
-|12|[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)|TypeScript|互动路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。|169|340947|53|2017-03-15|
-|13|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|137|36946|51|2025-05-14|
-|14|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|157|47949|51|2025-04-13|
-|15|[zed-industries/zed](https://github.com/zed-industries/zed)|Rust|以思想的速度编写代码- Zed是一款高性能多人游戏代码编辑器，由Atom和Tree-sitter的创作者制作。|157|67597|49|2021-02-20|
+|1|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|531|58331|167|2020-05-08|
+|2|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|468|48773|142|2022-11-27|
+|3|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|445|45581|134|2023-07-19|
+|4|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|261|149885|98|2019-06-22|
+|5|[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)|TypeScript|互动路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。|234|341181|74|2017-03-15|
+|6|[nvm-sh/nvm](https://github.com/nvm-sh/nvm)|Shell|节点版本管理器-符合BOX的bash脚本，用于管理多个活动的node.js版本|238|88376|74|2010-04-15|
+|7|[dockur/windows](https://github.com/dockur/windows)|Shell|Docker容器内的Windows。|223|47619|70|2024-01-14|
+|8|[microsoft/PowerToys](https://github.com/microsoft/PowerToys)|C#|Windows系统实用程序可最大限度地提高生产力|228|124736|70|2019-05-01|
+|9|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|216|28189|68|2025-04-30|
+|10|[shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)|Python|克洛诺斯：金融市场语言的基础模型|199|7881|65|2025-07-01|
+|11|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|200|12163|61|2025-04-04|
+|12|[zed-industries/zed](https://github.com/zed-industries/zed)|Rust|以思想的速度编写代码- Zed是一款高性能多人游戏代码编辑器，由Atom和Tree-sitter的创作者制作。|173|67770|56|2021-02-20|
+|13|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|153|370665|50|2016-03-20|
+|14|[anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)|Jupyter Notebook|一系列笔记本/食谱展示了一些有趣且有效的使用Claude的方法。|144|21250|48|2023-08-15|
+|15|[HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)|Python|“RAG-Anything：一体化RAG框架”|150|8705|47|2025-06-06|
 
 [所有日榜](./day/day.md)
 
