@@ -1,30 +1,30 @@
 Github热门开源项目榜单
 
-## 2025年10月20日
+## 2025年10月21日
 
-本期榜单中涵盖了各种编程语言和项目类型，涉及到人工智能、算法、书籍、API等不同领域。其中，排名靠前的项目具有较高的Star数和热度，反映了开发者对这些项目的广泛关注和认可。例如，PaddleOCR是一个强大且轻量级的OCR工具包，可以将PDF或图像文档转化为结构化数据，支持多种语言，受到了很多人的喜爱；另外，n8n是一个具有原生人工智能功能的工作流自动化平台，集成了很多不同的功能，也受到了开发者们的关注。
+本期榜单中涵盖了各种类型的项目，包括计算机视觉、算法实现、开源工具集合等。其中，PaddleOCR是一个强大的OCR工具包，具有将图像/PDF转化为结构化数据的功能，目前具有较高的热度和Star数量；n8n是一个具有原生人工智能功能的工作流程自动化平台，也备受关注；另外，还有一些有趣的项目，如系统提示和AI工具模型集合、用Rust编写的开源支付开关等。
 
-此外，还有一些项目涉及到新兴技术领域，如全同态加密（FHE）与区块链应用程序的框架、在Linux上运行Windows应用程序、私人网络浏览器等，显示了开发者对新技术的探索和应用。整体上看，本期榜单反映了当前开发者们关注的热点领域和技术趋势。
+总体来看，本期榜单的项目涵盖了当前流行的技术领域，并且在社区中具有一定的影响力和关注度。随着这些项目的持续更新和发展，相信它们将继续吸引更多的开发者和用户关注。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)|Jupyter Notebook|一系列笔记本/食谱展示了一些有趣且有效的使用Claude的方法。|1345|23097|419|2023-08-15|
-|2|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|655|59406|206|2020-05-08|
-|3|[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)|Python|：书籍：免费提供的编程书籍|509|373811|162|2013-10-11|
-|4|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|294|150392|109|2019-06-22|
-|5|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|236|92159|87|2025-03-05|
-|6|[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)|Python|所有算法都在Python中实现|219|211558|72|2016-07-16|
-|7|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|222|24663|68|2025-05-02|
-|8|[HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)|Python|“RAG-Anything：一体化RAG框架”|198|8981|63|2025-06-06|
-|9|[basecamp/omarchy](https://github.com/basecamp/omarchy)|Shell|观点Arch/Hyprland设置|198|14954|62|2025-06-01|
-|10|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|178|370966|61|2016-03-20|
-|11|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|193|12503|58|2025-04-04|
-|12|[imputnet/helium](https://github.com/imputnet/helium)|Python|私人、快速且诚实的网络浏览器|178|5472|53|2025-02-15|
-|13|[atuinsh/desktop](https://github.com/atuinsh/desktop)|TypeScript|运行的Runbook |165|1824|51|2025-06-06|
-|14|[enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)|None|利用这个精心策划的n8 n模板集合增强您的工作流程自动化！立即将您最喜欢的应用程序（例如Gmail、Telegram、Google Drive、Slack等）与即用型人工智能自动化连接。只需点击几下鼠标即可节省时间、提高生产力并释放n8 n的真正潜力。|145|14218|50|2025-05-08|
-|15|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|149|28478|46|2025-04-30|
+|1|[anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)|Jupyter Notebook|一系列笔记本/食谱展示了一些有趣且有效的使用Claude的方法。|1142|24239|358|2023-08-15|
+|2|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|557|59963|175|2020-05-08|
+|3|[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)|Python|：书籍：免费提供的编程书籍|411|374222|135|2013-10-11|
+|4|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|284|150676|109|2019-06-22|
+|5|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|353|37759|108|2022-10-17|
+|6|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|304|92463|100|2025-03-05|
+|7|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|314|12817|96|2025-04-04|
+|8|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|197|371163|65|2016-03-20|
+|9|[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)|Python|所有算法都在Python中实现|193|211751|63|2016-07-16|
+|10|[basecamp/omarchy](https://github.com/basecamp/omarchy)|Shell|观点Arch/Hyprland设置|195|15149|61|2025-06-01|
+|11|[ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)|PowerShell|安装Windows 11镜像。|166|15527|52|2023-02-24|
+|12|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|141|24804|49|2025-05-02|
+|13|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|148|39804|49|2025-02-22|
+|14|[hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)|Python|OCR软件，免费和离线。I'm sorry. I'm sorry.支持扫描/批量导入图片、PDF文档识别、排除水印/地毯脚、扫描/生成二维码。内置多国语言库。|133|38811|45|2022-03-28|
+|15|[tw93/Pake](https://github.com/tw93/Pake)|JavaScript|Turn any webpage into a desktop app with Rust.  使用Rust轻型结构构建轻型多头面应用|131|42906|43|2022-10-14|
 
 [所有日榜](./day/day.md)
 
