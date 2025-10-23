@@ -1,34 +1,34 @@
 Github热门开源项目榜单
 
-## 2025年10月22日
+## 2025年10月23日
 
-本期榜单中，Python语言的项目数量最多，有4个项目，其次是TypeScript和Jupyter Notebook语言各有2个项目。
+本期榜单中，Star数排名靠前的项目主要集中在人工智能、深度学习和开源工具领域。其中，排名第一的项目是一个展示使用Claude的方法的Jupyter Notebook项目，排名第三的项目是一个强大的OCR工具包，支持80多种语言的识别。另外，排名第五的项目是一个具有人工智能功能的自动化工作流平台，结合了视觉构建和自定义代码，支持400多种集成。
 
-在项目介绍中，有多个项目涉及到人工智能技术，如OCR工具包、编程书籍、支付开关等，反映了人工智能技术在开源社区中的受关注程度。
+另外，榜单中也有一些与支付、网络浏览器、AWS的替代品等领域相关的项目，展示了在不同领域中开源社区的活跃和创新成果。
 
-从热度来看，目前Star数量较高的项目往往也具有较高的热度，但也有一些项目虽然当前Star数量不高，但热度仍然较高，可能是因为项目的话题比较新颖或者有特殊的吸引力。
+从项目热度和当前Star数来看，排名前三的项目表现突出，相对来说热度和Star数较高，显示出这些项目受到了广泛关注和认可。
 
-从创建时间来看，部分项目是比较新的，如2025年创建的项目，但也有一些项目是在较早之前就创建的，如2013年创建的编程书籍项目，说明一些项目具有持续的关注度和活跃度。
+总体来说，本期榜单涵盖了多个领域的优秀开源项目，展示了开源社区的多样性和活力。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|425|60388|134|2020-05-08|
-|2|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|275|150951|107|2019-06-22|
-|3|[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)|Python|：书籍：免费提供的编程书籍|323|374545|104|2013-10-11|
-|4|[anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)|Jupyter Notebook|一系列笔记本/食谱展示了一些有趣且有效的使用Claude的方法。|324|24563|99|2023-08-15|
-|5|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|236|371399|78|2016-03-20|
-|6|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|228|37987|69|2022-10-17|
-|7|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|212|13029|65|2025-04-04|
-|8|[emcie-co/parlant](https://github.com/emcie-co/parlant)|Python|专为控制而设计的LLM代理。专为现实世界使用而设计。几分钟内部署完毕。|206|14121|64|2024-02-15|
-|9|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|154|92617|59|2025-03-05|
-|10|[HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)|Python|“RAG-Anything：一体化RAG框架”|179|9286|58|2025-06-06|
-|11|[basecamp/omarchy](https://github.com/basecamp/omarchy)|Shell|观点Arch/Hyprland设置|152|15301|50|2025-06-01|
-|12|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|150|39954|48|2025-02-22|
-|13|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|Python|功能丰富的命令行音频/视频下载器|143|131574|47|2020-10-26|
-|14|[is-a-dev/register](https://github.com/is-a-dev/register)|JavaScript|获取您自己的可爱的“. is-a.dev”子域名。|127|8843|47|2020-10-04|
-|15|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|142|28752|46|2025-04-30|
+|1|[anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)|Jupyter Notebook|一系列笔记本/食谱展示了一些有趣且有效的使用Claude的方法。|385|24948|121|2023-08-15|
+|2|[LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)|C++|真正独立的网络浏览器|396|50331|120|2024-05-30|
+|3|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|326|60714|102|2020-05-08|
+|4|[emcie-co/parlant](https://github.com/emcie-co/parlant)|Python|专为控制而设计的LLM代理。专为现实世界使用而设计。几分钟内部署完毕。|307|14428|98|2024-02-15|
+|5|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|255|151206|92|2019-06-22|
+|6|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|259|371658|86|2016-03-20|
+|7|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|226|92843|75|2025-03-05|
+|8|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|Python|功能丰富的命令行音频/视频下载器|216|131790|68|2020-10-26|
+|9|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|213|38200|65|2022-10-17|
+|10|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|212|45984|64|2023-07-19|
+|11|[basecamp/omarchy](https://github.com/basecamp/omarchy)|Shell|观点Arch/Hyprland设置|193|15494|62|2025-06-01|
+|12|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|197|13226|61|2025-04-04|
+|13|[ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)|Ruby|AWS的开源替代品。弹性计算、块存储（非复制）、防火墙和负载平衡器、托管Postquist、K8、AI推理和ILM服务。|145|10571|44|2023-01-17|
+|14|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|137|40091|44|2025-02-22|
+|15|[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)|Python|：书籍：免费提供的编程书籍|136|374681|41|2013-10-11|
 
 [所有日榜](./day/day.md)
 
