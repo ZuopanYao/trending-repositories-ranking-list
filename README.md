@@ -36,42 +36,40 @@ Github热门开源项目榜单
 
 [所有日榜](./day/day.md)
 
-## 2025年第41周
+## 2025年第42周
 
-本期榜单涵盖了各种不同领域的项目，包括人工智能、API集合、远程桌面应用等。以下是一些观察和分析：
+本期榜单中，项目的语言主要集中在TypeScript、Python和C++上。从热度和当前Star的数据来看，前三名分别是mountain-loop/yaak、LadybirdBrowser/ladybird和anthropics/claude-cookbooks，都具有较高的趋势Star和当前Star数值。
 
-1. 人工智能领域的项目在本期榜单中占据了相当大的比例，包括具有原生人工智能功能的工作流程自动化平台、OCR工具包、基于自然语言命令的代理编码工具等。这反映了人工智能技术在当今软件开发领域的重要性和流行程度。
+其中，mountain-loop/yaak是一个桌面API客户端项目，专注于组织和执行各种API请求和事件；LadybirdBrowser/ladybird是一个独立的网络浏览器项目；anthropics/claude-cookbooks则是一个展示如何有效使用Claude的笔记本和食谱项目。
 
-2. 在开发工具方面，远程桌面应用、路线图指南、代码模板配置工具等项目也受到了关注。这些工具为开发人员提供了方便和帮助，有助于提高他们的工作效率和质量。
+除此之外，还有一些项目如DigitalPlatDev/FreeDomain、public-apis/public-apis、PaddlePaddle/PaddleOCR等也受到了较高关注，涉及域名、API集合以及OCR工具等领域。
 
-3. 还有一些项目涉及系统优化、Windows优化、节点管理等方面，为用户提供了定制、整理和改善体验的工具和脚本。这些项目对于个人电脑用户和开发人员来说都具有实用性。
-
-总体来说，本期榜单呈现了当前软件开发领域中一些热门和有趣的项目，涵盖了多个技术领域，为开发者提供了丰富的选择和资源。
+总体来说，本期榜单涵盖了多个领域的项目，展现了开发者们在不同领域的创新和热情。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)|Jupyter Notebook|Anthropic的交互提示工程|4250|24532|1346|2024-04-02|
-|2|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|1855|150098|685|2019-06-22|
-|3|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|1961|370788|637|2016-03-20|
-|4|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|1945|45661|587|2023-07-19|
-|5|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|1721|58751|542|2020-05-08|
-|6|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|1762|48875|534|2022-11-27|
-|7|[dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)|MDX|快速工程指南、论文、讲座、笔记本和资源|1366|64469|433|2022-12-16|
-|8|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|1418|12310|432|2025-04-04|
-|9|[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)|Rust|一个开源远程桌面应用程序，专为自托管而设计，作为TeamViewer的替代品。|1168|101013|367|2020-09-28|
-|10|[nitrojs/nitro](https://github.com/nitrojs/nitro)|TypeScript|下一代服务器工具包。创建包含您所需的一切的Web服务器，并将其部署到您喜欢的任何地方。|1132|9140|353|2022-01-26|
-|11|[davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)|JavaScript|用于配置和监控Claude Code的CLI工具|1067|8815|340|2025-07-04|
-|12|[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)|TypeScript|互动路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。|1068|341342|339|2017-03-15|
-|13|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|1098|24190|335|2024-02-06|
-|14|[Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)|PowerShell|一个简单、轻量级的Shell脚本，可以删除预安装的应用程序、禁用遥感以及执行各种其他更改以自定义、整理和改善您的Windows体验。Win11 Debloat适用于Windows 10和Windows 11。|1088|29784|335|2020-10-27|
-|15|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|1022|39522|324|2025-02-22|
-|16|[nvm-sh/nvm](https://github.com/nvm-sh/nvm)|Shell|节点版本管理器-符合BOX的bash脚本，用于管理多个活动的node.js版本|1024|88433|320|2010-04-15|
-|17|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|951|48171|315|2025-04-13|
-|18|[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)|Python|：书籍：免费提供的编程书籍|940|373302|308|2013-10-11|
-|19|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|859|91923|302|2025-03-05|
-|20|[basecamp/omarchy](https://github.com/basecamp/omarchy)|Shell|观点Arch/Hyprland设置|954|14756|302|2025-06-01|
+|1|[mountain-loop/yaak](https://github.com/mountain-loop/yaak)|TypeScript|最直观的桌面API客户端。组织和执行REST、GraphQL、WebSockets、服务器发送事件和gPRC收件箱|5150|13878|1583|2023-02-16|
+|2|[LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)|C++|真正独立的网络浏览器|3366|53214|1050|2024-05-30|
+|3|[anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)|Jupyter Notebook|一系列笔记本/食谱展示了一些有趣且有效的使用Claude的方法。|2286|25383|725|2023-08-15|
+|4|[lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)|Python|Notebook LM的开源实现，具有更多灵活性和功能|2232|8271|714|2024-10-21|
+|5|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|2314|111053|698|2024-05-30|
+|6|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|1978|372944|657|2016-03-20|
+|7|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|1882|61288|592|2020-05-08|
+|8|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|1423|151815|546|2019-06-22|
+|9|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|1611|25858|494|2024-02-06|
+|10|[DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)|Python|从电子书、语音克隆和1107+语言生成有声读物！|1430|13789|454|2024-01-22|
+|11|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|Python|功能丰富的命令行音频/视频下载器|1381|132693|437|2020-10-26|
+|12|[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)|Python|：书籍：免费提供的编程书籍|1236|375047|403|2013-10-11|
+|13|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|1053|93212|365|2025-03-05|
+|14|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|1178|13681|364|2025-04-04|
+|15|[karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)|Python|用于培训/微调中型GPT的最简单、最快的存储库。|1005|47966|333|2022-12-28|
+|16|[emcie-co/parlant](https://github.com/emcie-co/parlant)|Python|专为控制而设计的LLM代理。专为现实世界使用而设计。几分钟内部署完毕。|1040|14827|331|2024-02-15|
+|17|[jingyaogong/minimind](https://github.com/jingyaogong/minimind)|Python|“大模型”2小时完全从0训练26M的小参数GPT！????只需2小时即可从头开始训练26 M参数GPT！|944|31656|302|2024-07-27|
+|18|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|944|38350|291|2022-10-17|
+|19|[dyad-sh/dyad](https://github.com/dyad-sh/dyad)|TypeScript|免费的，本地的，开源的AI应用程序构建器Bullv 0/ lovable / Bolt替代transStar，如果你喜欢的话！|862|17229|278|2025-04-11|
+|20|[basecamp/omarchy](https://github.com/basecamp/omarchy)|Shell|观点Arch/Hyprland设置|844|15798|272|2025-06-01|
 
 [所有周榜](./week/week.md)
 
