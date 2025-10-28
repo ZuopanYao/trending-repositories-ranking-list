@@ -1,32 +1,34 @@
 Github热门开源项目榜单
 
-## 2025年10月27日
+## 2025年10月28日
 
-本期榜单中，项目的语言分布比较均衡，包括C++、Python、TypeScript和Jupyter Notebook等。在项目介绍中，涵盖了网络浏览器、API集合、AI应用程序、语音转文本应用程序、工作流自动化平台、支付协议、系统设计、OCR工具包、金融交易框架等多个领域。
+本期榜单中，使用Python、TypeScript、C++、Jupyter Notebook等语言开发的项目占据了主导地位，这些项目涵盖了人工智能、网络浏览器、支付协议、语音转文本、OCR工具包、系统设计等多个领域。
 
-从趋势Star和当前Star来看，项目的热度较高，主要集中在Ladybird、public-apis、awesome-llm-apps等项目上。这些项目对应的创建时间也比较分散，从2013年到2025年不等。
+其中，公开API集合列表项目(public-apis/public-apis)以374,051的星标数位居榜首，显示了对开放API资源的高度需求。另外，项目n8n、PaddleOCR、system-design-primer等也获得了高星标数，展示了对具有原生人工智能功能、OCR工具包、系统设计等相关主题的关注度。
 
-综合来看，本期榜单中涵盖了多个热门领域的开源项目，涉及到人工智能、系统设计、金融交易、文档管理等多个方面，展现了开发者对不同技术领域的关注和热爱。
+此外，一些新项目如x402、llm-apps、TradingAgents-CN等也表现不俗，显示了对互联网支付协议、LLM应用程序集、金融交易框架的关注和认可。
+
+综上所述，本期榜单涵盖了多个热门领域的项目，展示了开发者们在人工智能、网络技术、金融科技等领域的不懈探索和创新。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)|C++|真正独立的网络浏览器|1043|54257|322|2024-05-30|
-|2|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|574|373518|186|2016-03-20|
-|3|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|406|73479|135|2024-04-29|
-|4|[cjpais/Handy](https://github.com/cjpais/Handy)|TypeScript|一个免费的、开源的、可扩展的语音转文本应用程序，完全离线工作。|311|3647|100|2025-02-13|
-|5|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|272|152087|100|2019-06-22|
-|6|[coinbase/x402](https://github.com/coinbase/x402)|TypeScript|互联网支付协议。基于HTTP构建。|264|2944|88|2025-02-21|
-|7|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)|Python|了解如何设计大型系统。准备系统设计面试。  包括Anki抽认卡。|231|324237|75|2017-02-26|
-|8|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|227|61515|73|2020-05-08|
-|9|[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|Jupyter Notebook|在PyTorch中从头开始、一步一步地实施类似ChatGPT的LLM|192|76578|64|2023-07-23|
-|10|[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)|Python|基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版|192|11581|64|2025-06-26|
-|11|[immich-app/immich](https://github.com/immich-app/immich)|TypeScript|高性能自托管照片和视频管理解决方案。|177|82438|55|2022-02-03|
-|12|[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)|Python|社区支持的超级文档管理系统：扫描、索引和存档所有文档|170|33813|52|2022-02-12|
-|13|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|165|13846|51|2025-04-04|
-|14|[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)|Python|：书籍：免费提供的编程书籍|146|375193|49|2013-10-11|
-|15|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|Python|功能丰富的命令行音频/视频下载器|154|132847|48|2020-10-26|
+|1|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|533|374051|175|2016-03-20|
+|2|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|356|73835|122|2024-04-29|
+|3|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|256|152343|101|2019-06-22|
+|4|[coinbase/x402](https://github.com/coinbase/x402)|TypeScript|互联网支付协议。基于HTTP构建。|279|3223|93|2025-02-21|
+|5|[LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)|C++|真正独立的网络浏览器|250|54507|78|2024-05-30|
+|6|[cjpais/Handy](https://github.com/cjpais/Handy)|TypeScript|一个免费的、开源的、可扩展的语音转文本应用程序，完全离线工作。|231|3878|75|2025-02-13|
+|7|[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|Jupyter Notebook|在PyTorch中从头开始、一步一步地实施类似ChatGPT的LLM|223|76801|74|2023-07-23|
+|8|[immich-app/immich](https://github.com/immich-app/immich)|TypeScript|高性能自托管照片和视频管理解决方案。|212|82650|64|2022-02-03|
+|9|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|200|61715|64|2020-05-08|
+|10|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)|Python|了解如何设计大型系统。准备系统设计面试。  包括Anki抽认卡。|190|324427|62|2017-02-26|
+|11|[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)|Python|基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版|144|11725|46|2025-06-26|
+|12|[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)|Python|：书籍：免费提供的编程书籍|124|375317|44|2013-10-11|
+|13|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|129|93466|42|2025-03-05|
+|14|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|Python|功能丰富的命令行音频/视频下载器|122|132969|40|2020-10-26|
+|15|[anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)|Jupyter Notebook|一系列笔记本/食谱展示了一些有趣且有效的使用Claude的方法。|124|25610|39|2023-08-15|
 
 [所有日榜](./day/day.md)
 
