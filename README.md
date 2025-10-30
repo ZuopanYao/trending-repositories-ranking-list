@@ -1,33 +1,34 @@
 Github热门开源项目榜单
 
-## 2025年10月29日
+## 2025年10月30日
 
-根据本期榜单的数据，可以看出以下几点趋势和特点：
+本期的榜单中，以TypeScript、Python和Jupyter Notebook为主要开发语言，展示了人工智能、机器学习和工作流程自动化等领域的热门项目。
 
-1. TypeScript 语言的项目在本期榜单中占据了多个位置，显示出 TypeScript 在开源项目中的流行程度和受欢迎程度。
-2. 人工智能方面的项目在本期榜单中表现突出，如具有原生人工智能功能的工作流程自动化平台、类似ChatGPT的LLM实现等，反映了人工智能技术在当前开发领域的重要性和受关注程度。
-3. 包含自然语言处理功能的项目在本期榜单中也有不少，如代理编码工具、LLM应用程序集等，展示了自然语言处理技术在开发工具和应用领域的广泛运用。
-4. 项目的热度和当前 Star 数量相对较高的项目往往是新近创建的项目，显示出新项目在开源社区中能够迅速引起关注和吸引用户。
+排名第一的项目是一个免费的、开源的语音转文本应用程序，完全离线工作，在GitHub上获得了4806颗星。排名第二的项目是一个具有原生人工智能功能的工作流自动化平台，集成了400多种服务，用户量达到了152871。第三名是一个收集了免费API的列表项目，受到了广泛关注，拥有374658颗星。
+
+在排名前十的项目中，有一些是关于自然语言处理和文本生成的，例如第五名中使用PyTorch实现了类似ChatGPT的LLM，第八名是一个功能丰富的命令行音频/视频下载器。此外，还有一些项目是关于金融交易和人工智能代理的，显示了这些领域的研究和应用也备受关注。
+
+总体来说，本期榜单展示了开发者对人工智能、机器学习和自动化工作流程的热情，并且通过开源项目来分享和交流相关领域的最新技术和进展。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[cjpais/Handy](https://github.com/cjpais/Handy)|TypeScript|一个免费的、开源的、可扩展的语音转文本应用程序，完全离线工作。|447|4325|137|2025-02-13|
-|2|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|363|374414|118|2016-03-20|
-|3|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|265|152608|104|2019-06-22|
-|4|[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|Jupyter Notebook|在PyTorch中从头开始、一步一步地实施类似ChatGPT的LLM|250|77051|84|2023-07-23|
-|5|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|257|74092|83|2024-04-29|
-|6|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|231|29546|75|2025-04-30|
-|7|[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)|TypeScript|一个开源的AI代理，将Gemini的力量直接带入您的终端。|195|80833|65|2025-04-17|
-|8|[coinbase/x402](https://github.com/coinbase/x402)|TypeScript|互联网支付协议。基于HTTP构建。|190|3413|64|2025-02-21|
-|9|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)|Python|了解如何设计大型系统。准备系统设计面试。  包括Anki抽认卡。|168|324595|55|2017-02-26|
-|10|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|168|61883|51|2020-05-08|
-|11|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|136|40741|45|2025-02-22|
-|12|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|126|93592|43|2025-03-05|
-|13|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|Python|功能丰富的命令行音频/视频下载器|125|133094|41|2020-10-26|
-|14|[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)|Python|基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版|122|11847|41|2025-06-26|
-|15|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|105|38089|40|2025-05-14|
+|1|[cjpais/Handy](https://github.com/cjpais/Handy)|TypeScript|一个免费的、开源的、可扩展的语音转文本应用程序，完全离线工作。|481|4806|150|2025-02-13|
+|2|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|263|152871|99|2019-06-22|
+|3|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|244|374658|81|2016-03-20|
+|4|[anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)|Jupyter Notebook|一系列笔记本/食谱展示了一些有趣且有效的使用Claude的方法。|259|26443|81|2023-08-15|
+|5|[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|Jupyter Notebook|在PyTorch中从头开始、一步一步地实施类似ChatGPT的LLM|188|77239|63|2023-07-23|
+|6|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|187|29733|61|2025-04-30|
+|7|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|154|62037|48|2020-05-08|
+|8|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|Python|功能丰富的命令行音频/视频下载器|144|133238|45|2020-10-26|
+|9|[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)|TypeScript|一个开源的AI代理，将Gemini的力量直接带入您的终端。|130|80963|45|2025-04-17|
+|10|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|123|93715|42|2025-03-05|
+|11|[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)|Python|：书籍：免费提供的编程书籍|125|375561|40|2013-10-11|
+|12|[github/awesome-copilot](https://github.com/github/awesome-copilot)|JavaScript|社区提供的说明、提示和配置可帮助您充分利用GitHub Copilot。|117|10825|38|2025-06-11|
+|13|[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)|Python|基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版|112|11959|38|2025-06-26|
+|14|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|110|74202|37|2024-04-29|
+|15|[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)|Jupyter Notebook|开始构建人工智能代理的12个课程|80|43540|36|2024-11-28|
 
 [所有日榜](./day/day.md)
 
