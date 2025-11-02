@@ -1,38 +1,34 @@
 Github热门开源项目榜单
 
-## 2025年11月01日
+## 2025年11月02日
 
-本期榜单中涵盖了多种不同类型的项目，涉及到系统设计、开源支付、自动化平台、API集合、AI编码代理等多个领域。其中，值得关注的项目包括：
+本期榜单中，有多个使用 TypeScript 和 Python 语言开发的项目。其中，排名第一的项目是一个 AI 编码代理，专为终端打造，在当前Star数和热度上领先其他项目。第三名和第十名的项目分别是具有原生人工智能功能的公平代码工作流程自动化平台和一个专门用于构建 Web、移动和 AI 应用程序的 Postgres 开发平台，它们的当前Star数也非常可观。另外，排名第四的项目是一个实时人脸交换和仅使用单个图像进行 Deepfake 的工具，也备受关注。
 
-1. [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): 这是一个帮助用户了解如何设计大型系统的项目，对准备系统设计面试非常有帮助。
-   
-2. [n8n-io/n8n](https://github.com/n8n-io/n8n): 这是一个具有原生人工智能功能的工作流程自动化平台，结合了视觉构建、自定义代码和各种集成，非常实用。
+除了项目介绍和语言之外，热度也是一个重要的指标。在当前榜单中，排名第七的项目是一个系统设计的学习资源，帮助用户准备系统设计面试。该项目自2017年创建以来一直备受关注，热度持续。
 
-3. [public-apis/public-apis](https://github.com/public-apis/public-apis): 这是一个免费API集合列表，可供开发者使用，涵盖了各种不同领域的API接口，对加速开发有很大帮助。
+需要注意的是，排名第14的项目是一个关于系统预算、工具和AI模型的资源列表，但语言却是 None。这表明，有些项目可能不仅限于单一语言或技术栈，而是涉及更广泛的领域和工具。
 
-4. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): 这是一个提供免费编程书籍的项目，对学习编程的人群非常有帮助，涵盖了丰富的学习资源。
-
-总体来说，本期榜单涵盖了一些实用性强、对学习和开发有帮助的项目，对于相关领域的开发者和学习者都具有一定的参考和借鉴意义。
+综上所述，本期榜单展示了当前流行的人工智能、代码编码、系统设计等领域的开源项目，涵盖了多种语言和技术。同时，研究人员和开发者可以从这些项目中获取灵感和学习资源，促进技术的进步和创新。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[supabase/supabase](https://github.com/supabase/supabase)|TypeScript|Postgres开发平台。Supplies为您提供了一个专用的Postgres数据库来构建您的Web，移动和AI应用程序。|304|91344|100|2019-10-12|
-|2|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)|Python|了解如何设计大型系统。准备系统设计面试。  包括Anki抽认卡。|216|325013|68|2017-02-26|
-|3|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|219|38855|67|2022-10-17|
-|4|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|164|153285|64|2019-06-22|
-|5|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|191|375060|62|2016-03-20|
-|6|[HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)|Python|DeepCode：开放式统计编码（Paper 2Code & Text 2 Web & Text 2Backend）|180|8096|57|2025-05-14|
-|7|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|163|30070|54|2025-04-30|
-|8|[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)|Python|实时人脸交换和仅使用单个图像的一键视频Deepfake|153|74633|48|2023-09-24|
-|9|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|124|93964|47|2025-03-05|
-|10|[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|Jupyter Notebook|在PyTorch中从头开始、一步一步地实施类似ChatGPT的LLM|128|77533|43|2023-07-23|
-|11|[ossu/computer-science](https://github.com/ossu/computer-science)|HTML|????计算机科学免费自学教育之路！|137|196640|43|2014-05-04|
-|12|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|138|46320|42|2023-07-19|
-|13|[emcie-co/parlant](https://github.com/emcie-co/parlant)|Python|专为控制而设计的LLM代理。专为现实世界使用而设计。几分钟内部署完毕。|122|15528|39|2024-02-15|
-|14|[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)|Python|：书籍：免费提供的编程书籍|123|375812|39|2013-10-11|
-|15|[get-convex/chef](https://github.com/get-convex/chef)|TypeScript|唯一了解后台的人工智能应用程序构建者|118|2611|39|2025-03-31|
+|1|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|295|30365|94|2025-04-30|
+|2|[get-convex/chef](https://github.com/get-convex/chef)|TypeScript|唯一了解后台的人工智能应用程序构建者|254|2865|83|2025-03-31|
+|3|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|180|153465|75|2019-06-22|
+|4|[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)|Python|实时人脸交换和仅使用单个图像的一键视频Deepfake|223|74856|71|2023-09-24|
+|5|[ossu/computer-science](https://github.com/ossu/computer-science)|HTML|????计算机科学免费自学教育之路！|218|196858|69|2014-05-04|
+|6|[HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)|Python|DeepCode：开放式统计编码（Paper 2Code & Text 2 Web & Text 2Backend）|207|8303|67|2025-05-14|
+|7|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)|Python|了解如何设计大型系统。准备系统设计面试。  包括Anki抽认卡。|201|325214|65|2017-02-26|
+|8|[cjpais/Handy](https://github.com/cjpais/Handy)|TypeScript|一个免费的、开源的、可扩展的语音转文本应用程序，完全离线工作。|193|5302|60|2025-02-13|
+|9|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|195|46515|59|2023-07-19|
+|10|[supabase/supabase](https://github.com/supabase/supabase)|TypeScript|Postgres开发平台。Supplies为您提供了一个专用的Postgres数据库来构建您的Web，移动和AI应用程序。|169|91513|55|2019-10-12|
+|11|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|171|375231|54|2016-03-20|
+|12|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|133|74518|47|2024-04-29|
+|13|[juspay/hyperswitch](https://github.com/juspay/hyperswitch)|Rust|用Rust编写的开源支付开关，使支付快速、可靠且负担得起|148|39003|45|2022-10-17|
+|14|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|120|94084|45|2025-03-05|
+|15|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|Python|功能丰富的命令行音频/视频下载器|126|133580|42|2020-10-26|
 
 [所有日榜](./day/day.md)
 
