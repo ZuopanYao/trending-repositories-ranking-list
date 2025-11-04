@@ -1,34 +1,34 @@
 Github热门开源项目榜单
 
-## 2025年11月03日
+## 2025年11月04日
 
-本期榜单中，主要集中在人工智能（AI）领域的项目，涵盖了AI编码代理、大型语言模型、代码工作流程自动化平台、开源深度研究代理等多个方面。
+本期榜单中，可以看到有多个涉及人工智能和开源项目的项目。其中，排名第一的项目是一个使用TypeScript编写的AI编码代理，专为终端打造，当前Star数达到了31335，热度也很高，是本期榜单中最受欢迎的项目之一。
 
-在语言方面，TypeScript和Python是本期榜单中最受欢迎的编程语言，这也反映了在人工智能领域中，这两种语言具有广泛的应用领域和优势。
+另外，排名第三的项目是一个具有原生人工智能功能的公平代码工作流程自动化平台，拥有153965个Star，创建于2019年，热度也很高。排名第四的项目是一个免费API的集合列表，拥有375714个Star，创建于2016年，在开发者之间很受欢迎。
 
-排名第一的项目是一个AI编码代理项目，受到了很高的关注度，表明人们对于AI在编程领域的应用潜力持续看好。另外，还有一些项目涉及到大型语言模型、系统设计、OCR工具包等，展示了人工智能技术在不同领域的广泛应用。
+此外，排名第五的项目是关于实时人脸交换和仅使用单个图像的一键视频Deepfake的Python项目，排名第十的项目是关于使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集的Python项目。这些项目也都受到了很多关注和Star。
 
-整体来看，本期榜单中的项目都具有很高的热度和关注度，反映了人工智能技术在开源社区中的重要性和影响力。
+总体来说，本期榜单涵盖了多个不同类型和领域的开源项目，展现了开源社区的活力和创造力。希望这些项目能够为开发者们提供参考和帮助，推动技术的进步和创新。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|549|30914|173|2025-04-30|
-|2|[HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)|Python|DeepCode：开放式统计编码（Paper 2Code & Text 2 Web & Text 2Backend）|418|8721|135|2025-05-14|
-|3|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|244|153709|88|2019-06-22|
-|4|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|252|375483|82|2016-03-20|
-|5|[HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)|Jupyter Notebook|O ' Reilly图书的官方代码回购-“动手大型语言模型”|185|17277|59|2024-06-28|
-|6|[supabase/supabase](https://github.com/supabase/supabase)|TypeScript|Postgres开发平台。Supplies为您提供了一个专用的Postgres数据库来构建您的Web，移动和AI应用程序。|178|91691|58|2019-10-12|
-|7|[cjpais/Handy](https://github.com/cjpais/Handy)|TypeScript|一个免费的、开源的、可扩展的语音转文本应用程序，完全离线工作。|170|5472|52|2025-02-13|
-|8|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|145|74663|49|2024-04-29|
-|9|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|136|94220|48|2025-03-05|
-|10|[1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB)|Python|????MaxKB是一个用于构建企业级代理的开源平台。  MaxKB is a strong useful开源企业级智能平台.|142|18955|45|2023-09-14|
-|11|[get-convex/chef](https://github.com/get-convex/chef)|TypeScript|唯一了解后台的人工智能应用程序构建者|137|3002|45|2025-03-31|
-|12|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|132|62465|42|2020-05-08|
-|13|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)|Python|了解如何设计大型系统。准备系统设计面试。  包括Anki抽认卡。|131|325345|40|2017-02-26|
-|14|[Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)|Python|通益深度研究，领先的开源深度研究代理|127|16795|40|2025-01-09|
-|15|[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|Jupyter Notebook|在PyTorch中从头开始、一步一步地实施类似ChatGPT的LLM|119|77761|39|2023-07-23|
+|1|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|421|31335|132|2025-04-30|
+|2|[HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)|Python|DeepCode：开放式统计编码（Paper 2Code & Text 2 Web & Text 2Backend）|353|9074|112|2025-05-14|
+|3|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|256|153965|89|2019-06-22|
+|4|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|231|375714|73|2016-03-20|
+|5|[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)|Python|实时人脸交换和仅使用单个图像的一键视频Deepfake|233|75168|73|2023-09-24|
+|6|[9001/copyparty](https://github.com/9001/copyparty)|Python|便携式文件服务器，具有加速的可搜索上传、重复数据删除、BEP、RTP、zeroconf、媒体索引器、缩略图++全部集中在一个文件中，无需删除|211|33741|65|2019-05-26|
+|7|[get-convex/chef](https://github.com/get-convex/chef)|TypeScript|唯一了解后台的人工智能应用程序构建者|191|3193|60|2025-03-31|
+|8|[cjpais/Handy](https://github.com/cjpais/Handy)|TypeScript|一个免费的、开源的、可扩展的语音转文本应用程序，完全离线工作。|174|5646|55|2025-02-13|
+|9|[supabase/supabase](https://github.com/supabase/supabase)|TypeScript|Postgres开发平台。Supplies为您提供了一个专用的Postgres数据库来构建您的Web，移动和AI应用程序。|146|91837|46|2019-10-12|
+|10|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|135|74798|45|2024-04-29|
+|11|[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)|TypeScript|一个开源的AI代理，将Gemini的力量直接带入您的终端。|117|81449|42|2025-04-17|
+|12|[1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB)|Python|????MaxKB是一个用于构建企业级代理的开源平台。  MaxKB is a strong useful开源企业级智能平台.|127|19082|41|2023-09-14|
+|13|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|137|14748|41|2025-04-04|
+|14|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|110|94330|38|2025-03-05|
+|15|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|121|62586|38|2020-05-08|
 
 [所有日榜](./day/day.md)
 
