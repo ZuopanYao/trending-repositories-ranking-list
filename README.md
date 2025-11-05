@@ -1,34 +1,32 @@
 Github热门开源项目榜单
 
-## 2025年11月04日
+## 2025年11月05日
 
-本期榜单中，可以看到有多个涉及人工智能和开源项目的项目。其中，排名第一的项目是一个使用TypeScript编写的AI编码代理，专为终端打造，当前Star数达到了31335，热度也很高，是本期榜单中最受欢迎的项目之一。
+本期榜单项目主要以人工智能（AI）和代码相关的项目为主，其中使用的语言主要是TypeScript和Python。排名靠前的项目具有较高的Star数和热度，表明它们在开发者社区中备受关注。
 
-另外，排名第三的项目是一个具有原生人工智能功能的公平代码工作流程自动化平台，拥有153965个Star，创建于2019年，热度也很高。排名第四的项目是一个免费API的集合列表，拥有375714个Star，创建于2016年，在开发者之间很受欢迎。
+n8n是一个具有原生人工智能功能的代码工作流程自动化平台，集成了视觉构建、自定义代码和多种集成功能，拥有较高的Star数和热度；DeepCode项目致力于将Paper转化为Code以及其他相关功能，也备受关注；public-apis是一个收集免费API的项目，具有较高的Star数，反映了开发者对于开放API的需求；mindsdb是一个人工智能分析引擎，可以回答大规模数据问题，也颇受开发者关注。
 
-此外，排名第五的项目是关于实时人脸交换和仅使用单个图像的一键视频Deepfake的Python项目，排名第十的项目是关于使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集的Python项目。这些项目也都受到了很多关注和Star。
-
-总体来说，本期榜单涵盖了多个不同类型和领域的开源项目，展现了开源社区的活力和创造力。希望这些项目能够为开发者们提供参考和帮助，推动技术的进步和创新。
+综合来看，本期榜单的项目主题涵盖了人工智能、代码工作流自动化、API等多个领域，反映了这些领域在开发者社区中的活跃程度和重要性。其中，人工智能相关项目备受关注，显示了人工智能技术在当前的热度和发展前景。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|421|31335|132|2025-04-30|
-|2|[HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)|Python|DeepCode：开放式统计编码（Paper 2Code & Text 2 Web & Text 2Backend）|353|9074|112|2025-05-14|
-|3|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|256|153965|89|2019-06-22|
-|4|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|231|375714|73|2016-03-20|
-|5|[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)|Python|实时人脸交换和仅使用单个图像的一键视频Deepfake|233|75168|73|2023-09-24|
-|6|[9001/copyparty](https://github.com/9001/copyparty)|Python|便携式文件服务器，具有加速的可搜索上传、重复数据删除、BEP、RTP、zeroconf、媒体索引器、缩略图++全部集中在一个文件中，无需删除|211|33741|65|2019-05-26|
-|7|[get-convex/chef](https://github.com/get-convex/chef)|TypeScript|唯一了解后台的人工智能应用程序构建者|191|3193|60|2025-03-31|
-|8|[cjpais/Handy](https://github.com/cjpais/Handy)|TypeScript|一个免费的、开源的、可扩展的语音转文本应用程序，完全离线工作。|174|5646|55|2025-02-13|
-|9|[supabase/supabase](https://github.com/supabase/supabase)|TypeScript|Postgres开发平台。Supplies为您提供了一个专用的Postgres数据库来构建您的Web，移动和AI应用程序。|146|91837|46|2019-10-12|
-|10|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|135|74798|45|2024-04-29|
-|11|[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)|TypeScript|一个开源的AI代理，将Gemini的力量直接带入您的终端。|117|81449|42|2025-04-17|
-|12|[1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB)|Python|????MaxKB是一个用于构建企业级代理的开源平台。  MaxKB is a strong useful开源企业级智能平台.|127|19082|41|2023-09-14|
-|13|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|137|14748|41|2025-04-04|
-|14|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|110|94330|38|2025-03-05|
-|15|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|121|62586|38|2020-05-08|
+|1|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|243|154208|90|2019-06-22|
+|2|[HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)|Python|DeepCode：开放式统计编码（Paper 2Code & Text 2 Web & Text 2Backend）|264|9338|85|2025-05-14|
+|3|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|232|375946|77|2016-03-20|
+|4|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|228|31563|73|2025-04-30|
+|5|[mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)|Python|人工智能分析引擎，可以回答大规模数据问题。- 您唯一需要的MCP服务器|161|37060|52|2018-08-02|
+|6|[HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)|Jupyter Notebook|O ' Reilly图书的官方代码回购-“动手大型语言模型”|154|17491|50|2024-06-28|
+|7|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|130|74928|45|2024-04-29|
+|8|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|129|94459|45|2025-03-05|
+|9|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|139|14887|42|2025-04-04|
+|10|[cjpais/Handy](https://github.com/cjpais/Handy)|TypeScript|一个免费的、开源的、可扩展的语音转文本应用程序，完全离线工作。|131|5777|42|2025-02-13|
+|11|[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)|None|成为软件工程师的完整计算机科学学习计划。|113|332333|38|2016-06-06|
+|12|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|102|49830|37|2025-04-13|
+|13|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|119|62705|37|2020-05-08|
+|14|[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)|TypeScript|一个开源的AI代理，将Gemini的力量直接带入您的终端。|106|81555|36|2025-04-17|
+|15|[supabase/supabase](https://github.com/supabase/supabase)|TypeScript|Postgres开发平台。Supplies为您提供了一个专用的Postgres数据库来构建您的Web，移动和AI应用程序。|99|91936|34|2019-10-12|
 
 [所有日榜](./day/day.md)
 
