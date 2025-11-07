@@ -1,32 +1,38 @@
 Github热门开源项目榜单
 
-## 2025年11月06日
+## 2025年11月07日
 
-根据本期榜单分析，目前在GitHub上最受欢迎的项目主要集中在人工智能、编程工具和系统设计等领域。其中，排名靠前的项目包括针对终端的AI编码代理、完整的计算机科学学习计划、开放式统计编码工具、代码工作流程自动化平台等。
+根据本期榜单的数据分析，可以看出以下几点趋势和特点：
 
-另外，还有一些涉及到API集合、大型语言模型、Deepfake技术、Postgres开发平台、音频/视频下载器等项目在榜单中展现出了较高的热度和关注度。这些项目的趋势星数也相对较高，显示出了开发者对这些领域的关注和投入。
+1. Python是本期榜单中最受欢迎的编程语言，有6个项目在使用Python进行开发，显示出Python在人工智能领域中的广泛应用和受欢迎程度。
 
-总体来说，本期榜单涵盖了多个热门的技术领域，反映了GitHub社区对于人工智能、编程工具和系统设计等方面的关注和热情。希望这些项目能够为开发者提供有益的资源和工具，推动科技创新和发展。
+2. TypeScript也是一个受欢迎的编程语言，有4个项目在使用TypeScript开发，显示出TypeScript在人工智能和开发工具方面的重要性。
+
+3. 大部分项目都是关于人工智能、代码编写、数据库处理等方面的工具和库，显示出这些领域的热度和发展前景。
+
+4. 有几个项目在创建时间上比较靠后，说明这些项目是比较新的，并且可能有较高的发展潜力。
+
+综合以上分析，可以得出本期榜单反映了人工智能和开发工具领域的热点和发展趋势，Python和TypeScript是主要的开发语言，未来这些领域有望得到更多的关注和投资。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|311|31874|101|2025-04-30|
-|2|[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)|None|成为软件工程师的完整计算机科学学习计划。|292|332625|95|2016-06-06|
-|3|[HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)|Python|DeepCode：开放式统计编码（Paper 2Code & Text 2 Web & Text 2Backend）|288|9626|92|2025-05-14|
-|4|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|224|154432|86|2019-06-22|
-|5|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|193|376139|65|2016-03-20|
-|6|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|177|94636|62|2025-03-05|
-|7|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|166|75094|58|2024-04-29|
-|8|[HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)|Jupyter Notebook|O ' Reilly图书的官方代码回购-“动手大型语言模型”|152|17643|56|2024-06-28|
-|9|[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)|Python|实时人脸交换和仅使用单个图像的一键视频Deepfake|117|75346|40|2023-09-24|
-|10|[supabase/supabase](https://github.com/supabase/supabase)|TypeScript|Postgres开发平台。Supplies为您提供了一个专用的Postgres数据库来构建您的Web，移动和AI应用程序。|113|92049|39|2019-10-12|
-|11|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|Python|功能丰富的命令行音频/视频下载器|115|134017|37|2020-10-26|
-|12|[langgenius/dify](https://github.com/langgenius/dify)|TypeScript|用于代理工作流程开发的生产就绪平台。|114|118225|37|2023-04-12|
-|13|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)|Python|了解如何设计大型系统。准备系统设计面试。  包括Anki抽认卡。|115|325663|36|2017-02-26|
-|14|[TibixDev/winboat](https://github.com/TibixDev/winboat)|TypeScript|通过NPS无缝集成在NPS Linux上运行Windows应用程序|118|15005|36|2025-04-04|
-|15|[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)|TypeScript|一个开源的AI代理，将Gemini的力量直接带入您的终端。|114|81669|35|2025-04-17|
+|1|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|385|376524|130|2016-03-20|
+|2|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|296|75390|106|2024-04-29|
+|3|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|217|154649|86|2019-06-22|
+|4|[trueadm/ripple](https://github.com/trueadm/ripple)|JavaScript|优雅的TypScript UI框架|233|6023|71|2025-02-16|
+|5|[airweave-ai/airweave](https://github.com/airweave-ai/airweave)|Python|Airweave允许代理搜索任何应用程序|178|4576|56|2024-12-24|
+|6|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|139|94775|49|2025-03-05|
+|7|[dataease/SQLBot](https://github.com/dataease/SQLBot)|Python|The most important technology is to provide a mechanism for the determination of the mechanical properties of the mechanical properties.使用RAG通过LLM生成文本到SQL。|152|4404|48|2025-04-21|
+|8|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|139|62948|43|2020-05-08|
+|9|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|122|31996|41|2025-04-30|
+|10|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|121|41640|38|2025-02-22|
+|11|[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)|Python|所有算法都在Python中实现|107|212642|37|2016-07-16|
+|12|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|Python|功能丰富的命令行音频/视频下载器|115|134132|36|2020-10-26|
+|13|[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)|None|成为软件工程师的完整计算机科学学习计划。|104|332729|34|2016-06-06|
+|14|[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)|TypeScript|一个开源的AI代理，将Gemini的力量直接带入您的终端。|100|81769|34|2025-04-17|
+|15|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)|Python|了解如何设计大型系统。准备系统设计面试。  包括Anki抽认卡。|105|325768|33|2017-02-26|
 
 [所有日榜](./day/day.md)
 
