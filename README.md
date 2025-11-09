@@ -26,42 +26,38 @@ Github热门开源项目榜单
 
 [所有日榜](./day/day.md)
 
-## 2025年第43周
+## 2025年第44周
 
-根据本期榜单的数据分析，可以看出以下几点趋势：
+本期榜单中，大多数项目都是与人工智能、编程以及技术相关的项目。其中，排名第一的项目是一个利用多Agent肉瘤分析助手的Python项目，具有很高的趋势Star和当前Star，热度很高。另外，排名第二的项目是一个Markdown项目，旨在帮助用户从头开始创建自己喜欢的技术来掌握编程，拥有很高的当前Star和热度。
 
-1. 项目类型多样化：本期榜单涵盖了不同类型的项目，包括人工智能特工教练、社交媒体分析工具、自建技术、知识库平台、API集合、工作流自动化平台等，展现了开发者们在不同领域的创新和探索。
+在本期榜单中，有一些项目是提供免费域名、API集合、以及认证的免费课程列表，旨在为用户提供更便捷和免费的资源。另外，还有一些项目是关于自动化工作流程、代码生成、终端用户界面等方面的项目。
 
-2. 大规模系统设计相关项目受关注：多个涉及大型系统设计的项目（如《了解如何设计大型系统》等）在榜单中受到关注，显示了对系统设计知识的需求和学习热情。
-
-3. 人工智能应用受追捧：人工智能相关项目在本期榜单中占据了一定比例，如人工智能生成代码基础设施、自然语言生成模型实现等，显示了人工智能技术在开发者社区中的重要性。
-
-总体上，本期榜单展示了开发者们对各种新技术和项目类型的关注和研究，体现了开发者社区的活跃和创新精神。
+总体来说，本期榜单涵盖了多个领域的项目，涉及到人工智能、编程、技术等多个方面，展示了开源社区的丰富多样性。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)|Python|点亮人工智能特工的绝对教练。|3242|5955|1025|2025-06-18|
-|2|[qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)|JavaScript|API、CLI和Web应用程序，用于分析和查找1000个社交媒体/网站中的个人资料|2981|17043|936|2020-11-30|
-|3|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|2375|432703|759|2018-05-09|
-|4|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|2380|114010|720|2024-05-30|
-|5|[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)|TypeScript|可能不止Notion和Miro。AFFiNE（发音为[' fain]）是一个下一代知识库，将规划、排序和创建集中在一起。隐私第一、开源、可定制且随时可用。 |2202|58957|685|2022-07-31|
-|6|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|1713|375231|564|2016-03-20|
-|7|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|1378|153465|537|2019-06-22|
-|8|[cjpais/Handy](https://github.com/cjpais/Handy)|TypeScript|一个免费的、开源的、可扩展的语音转文本应用程序，完全离线工作。|1655|5302|518|2025-02-13|
-|9|[cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)|None|经过精心策划的具有认证的免费课程列表。也可访问https://free-certifications.com/|1573|42108|496|2020-07-31|
-|10|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|1487|27368|449|2024-02-06|
-|11|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Python|机器学习系统简介|1374|7902|443|2023-09-06|
-|12|[yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)|Python|[Support 0.49.x]（重置Cursor AI MachineID &绕过更高代币限制）Cursor AI，自动重置机器ID，免费升级使用Pro功能：您已经达到了试用请求限制。/此机器上使用的免费试用帐户太多。请升级到专业版。我们制定了这个限制是为了防止滥用。如果您认为这是一个错误，请告诉我们。|1229|39839|399|2025-01-11|
-|13|[anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)|Jupyter Notebook|一系列笔记本/食谱展示了一些有趣且有效的使用Claude的方法。|1262|26748|397|2023-08-15|
-|14|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|1131|30365|366|2025-04-30|
-|15|[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|Jupyter Notebook|在PyTorch中从头开始、一步一步地实施类似ChatGPT的LLM|1064|77642|358|2023-07-23|
-|16|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|1039|74518|356|2024-04-29|
-|17|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)|Python|了解如何设计大型系统。准备系统设计面试。  包括Anki抽认卡。|977|325214|316|2017-02-26|
-|18|[block/goose](https://github.com/block/goose)|Rust|一个开源、可扩展的AI代理，超越了代码建议-使用任何LLM安装、执行、编辑和测试|996|21625|314|2024-08-23|
-|19|[lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)|Python|Notebook LM的开源实现，具有更多灵活性和功能|865|9361|277|2024-10-21|
-|20|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|747|94084|264|2025-03-05|
+|1|[666ghj/BettaFish](https://github.com/666ghj/BettaFish)|Python|微辙：人类可以利用的多Agent肉瘤分析助手，挖掘信息切片房，还原肉瘤根源，预测未来走向，辅助决策！从0实现，不依赖任何框架。|17632|23746|6122|2024-07-01|
+|2|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|3352|436347|1050|2018-05-09|
+|3|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|2185|116562|662|2024-05-30|
+|4|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|1857|377340|614|2016-03-20|
+|5|[Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)|Python|利用LLM和计算机视觉自动化基于浏览器的工作流程|1770|17244|565|2024-02-28|
+|6|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|1724|29555|520|2024-02-06|
+|7|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|1281|154990|491|2019-06-22|
+|8|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|1411|76074|484|2024-04-29|
+|9|[Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)|PowerShell|一个简单、轻量级的Shell脚本，可以删除预安装的应用程序、禁用遥感以及执行各种其他更改以自定义、整理和改善您的Windows体验。Win11 Debloat适用于Windows 10和Windows 11。|1502|32522|463|2020-10-27|
+|10|[mudler/LocalAI](https://github.com/mudler/LocalAI)|Go|：机器人：OpenAI、Claude等人的免费开源替代品。自我托管和本地优先。OpenAI的直接替代品，在消费级硬件上运行。无需GPU。变压器，扩散器和更多。功能：生成文本，音频，视频，图像，语音克隆，分布式，P2P和分散推理|1439|37926|459|2023-03-18|
+|11|[sst/opentui](https://github.com/sst/opentui)|TypeScript|OpenTUI是一个用于构建终端用户界面（TUI）的库|1458|4819|449|2025-07-21|
+|12|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|1298|32212|419|2025-04-30|
+|13|[microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)|Python|点亮人工智能特工的绝对教练。|1214|7671|392|2025-06-18|
+|14|[HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)|Python|DeepCode：开放式统计编码（Paper 2Code & Text 2 Web & Text 2Backend）|1126|9847|363|2025-05-14|
+|15|[DearVa/Everywhere](https://github.com/DearVa/Everywhere)|C#|适合您桌面的上下文感知人工智能助手。随时准备智能响应、无缝集成多个LLM和HCP工具。|965|2944|303|2025-04-23|
+|16|[qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)|JavaScript|API、CLI和Web应用程序，用于分析和查找1000个社交媒体/网站中的个人资料|866|18104|285|2020-11-30|
+|17|[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)|None|成为软件工程师的完整计算机科学学习计划。|843|332999|279|2016-06-06|
+|18|[cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)|None|经过精心策划的具有认证的免费课程列表。也可访问https://free-certifications.com/|855|43536|274|2020-07-31|
+|19|[ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)|C++|C/C++中的LLM推理|805|89447|266|2023-03-10|
+|20|[hanxi/xiaomusic](https://github.com/hanxi/xiaomusic)|Python|使用小爱音箱播放音乐，音乐使用yt-dlip下载。|793|7492|259|2023-10-14|
 
 [所有周榜](./week/week.md)
 
