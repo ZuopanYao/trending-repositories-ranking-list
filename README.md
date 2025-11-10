@@ -1,28 +1,36 @@
 Github热门开源项目榜单
 
-## 2025年11月09日
+## 2025年11月10日
 
-从当前榜单中可以看出，大部分项目都是关于人工智能、开源工具和教育资源的项目。其中，使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集排名第二，表明对于AI领域的研究和应用仍然具有很高的关注度。另外，具有原生人工智能功能的公平代码工作流程自动化平台排名第四，展示了自动化工作流程、代码与人工智能相结合的热门趋势。同时，还有一些项目是关于教育资源和技术工具，如Termix项目提供的基于Web的服务器管理平台以及Gemini-cli项目提供的AI代理工具。总体来说，当前榜单展示了对人工智能、开源工具和教育资源的关注和需求，反映了科技发展和学习的热门趋势。
+根据本期榜单的数据，可以看出以下几点分析：
+
+1. Python语言在本期榜单中占据了多个项目的位置，显示了Python在人工智能和开发领域的重要性和流行程度。
+2. n8n工作流程相关项目在本期榜单中表现突出，显示了对工作流程自动化和集成的需求和关注度。
+3. 公开API列表项目受到了广泛关注，反映了对免费API资源的需求和使用。
+4. OCR工具包和PDF/图像转换项目也获得了不错的关注度，说明了对文档处理和数据结构化的需求。
+5. AI代理工作流程平台的项目在本期榜单中有不错的表现，显示了对AI代理技术和工作流程的兴趣和探索。
+
+总体来说，本期榜单反映了在人工智能、自动化工作流程、文档处理和API资源等领域的热点和趋势，展现了开发者和研究者们关注和探索的方向。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|469|377340|150|2016-03-20|
-|2|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|422|76074|141|2024-04-29|
-|3|[LukeGus/Termix](https://github.com/LukeGus/Termix)|TypeScript|Termix是一个基于Web的服务器管理平台，具有SSH终端、隧道和文件编辑功能。|423|6981|129|2024-11-25|
-|4|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|155|154990|65|2019-06-22|
-|5|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|182|54703|59|2020-01-05|
-|6|[airweave-ai/airweave](https://github.com/airweave-ai/airweave)|Python|Airweave允许代理搜索任何应用程序|158|4860|49|2024-12-24|
-|7|[amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)|Kotlin|下载管理器，可加快下载速度|150|11606|46|2024-07-07|
-|8|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|109|63154|34|2020-05-08|
-|9|[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)|Jupyter Notebook|开始构建人工智能代理的12个课程|86|44175|33|2024-11-28|
-|10|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|91|38967|33|2025-05-14|
-|11|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)|Python|了解如何设计大型系统。准备系统设计面试。  包括Anki抽认卡。|101|325947|32|2017-02-26|
-|12|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|Python|功能丰富的命令行音频/视频下载器|98|134333|32|2020-10-26|
-|13|[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)|TypeScript|一个开源的AI代理，将Gemini的力量直接带入您的终端。|95|81943|31|2025-04-17|
-|14|[mlabonne/llm-course](https://github.com/mlabonne/llm-course)|None|通过路线图和Colab笔记本进入大型语言模型（LLM）的课程。|91|66983|30|2023-06-17|
-|15|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|97|32212|30|2025-04-30|
+|1|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|437|76511|147|2024-04-29|
+|2|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|299|39266|103|2025-05-14|
+|3|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|237|155227|90|2019-06-22|
+|4|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|231|377571|79|2016-03-20|
+|5|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|199|54902|68|2020-01-05|
+|6|[airweave-ai/airweave](https://github.com/airweave-ai/airweave)|Python|Airweave允许代理搜索任何应用程序|205|5065|64|2024-12-24|
+|7|[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)|Jupyter Notebook|开始构建人工智能代理的12个课程|159|44334|63|2024-11-28|
+|8|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|149|95086|51|2025-03-05|
+|9|[simstudioai/sim](https://github.com/simstudioai/sim)|TypeScript|构建和部署AI代理工作流程的开源平台。|161|17907|51|2025-01-05|
+|10|[HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)|Python|DeepCode：开放式统计编码（Paper 2Code & Text 2 Web & Text 2Backend）|138|9985|45|2025-05-14|
+|11|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|140|63294|45|2020-05-08|
+|12|[LukeGus/Termix](https://github.com/LukeGus/Termix)|TypeScript|Termix是一个基于Web的服务器管理平台，具有SSH终端、隧道和文件编辑功能。|139|7120|43|2024-11-25|
+|13|[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)|Python|稳定的扩散网络UI|128|158099|42|2022-08-22|
+|14|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|Python|功能丰富的命令行音频/视频下载器|131|134464|40|2020-10-26|
+|15|[mlabonne/llm-course](https://github.com/mlabonne/llm-course)|None|通过路线图和Colab笔记本进入大型语言模型（LLM）的课程。|124|67107|39|2023-06-17|
 
 [所有日榜](./day/day.md)
 
