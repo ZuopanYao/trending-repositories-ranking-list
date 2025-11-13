@@ -1,32 +1,36 @@
 Github热门开源项目榜单
 
-## 2025年11月12日
+## 2025年11月13日
 
-本期榜单中，排名靠前的项目主要集中在人工智能、编码面试准备和开发者工具领域。其中，`yangshun/tech-interview-handbook`是一份为忙碌的软件工程师精心策划的编码面试准备材料，拥有最高的趋势Star和当前Star数量。其次，`microsoft/ai-agents-for-beginners`提供了12个课程，帮助初学者开始构建人工智能代理。另外，`n8n-io/n8n`是一个具有原生人工智能功能的工作流程自动化平台，拥有较高的热度和Star数量。
+本期榜单中，有多个开源项目受到了广泛关注。
 
-除了人工智能和编码面试准备，还有一些项目专注于开发者工具和教育内容。例如，`public-apis/public-apis`提供了免费API的集合列表，`kamranahmedse/developer-roadmap`是一份互动路线图和指南，帮助开发人员在职业生涯中成长。
+首先，值得一提的是排名第一的项目[ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)，该项目提供了所有小初高、大学的PDF教材，目前拥有55973个Star，热度很高。
 
-综合来看，本期榜单中的项目涵盖了多个不同领域，反映了当前开源社区的多样性和活力。这些项目不仅提供了实用的工具和资源，还为开发者提供了学习和成长的机会。
+其次，排名第四的项目[n8n](https://github.com/n8n-io/n8n)是一个具有原生人工智能功能的工作流程自动化平台，集成了400多个功能，并获得了155990个Star，受到了用户的青睐。
+
+另外，排名第七的[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)项目是一个学习编程和计算机科学的免费平台，拥有431969个Star，是非常受欢迎的教育类项目。
+
+总体来说，本期榜单涵盖了教育类、人工智能工具、API集合等多个领域的开源项目，反映了开源社区的多样性和活力。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)|TypeScript|为忙碌的软件工程师精心策划的编码面试准备材料|385|132265|123|2016-07-05|
-|2|[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)|Jupyter Notebook|开始构建人工智能代理的12个课程|315|44773|108|2024-11-28|
-|3|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|308|55586|102|2020-01-05|
-|4|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|258|155715|101|2019-06-22|
-|5|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|258|378029|85|2016-03-20|
-|6|[9001/copyparty](https://github.com/9001/copyparty)|Python|便携式文件服务器，具有加速的可搜索上传、重复数据删除、BEP、RTP、zeroconf、媒体索引器、缩略图++全部集中在一个文件中，无需删除|241|34449|77|2019-05-26|
-|7|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|194|77032|66|2024-04-29|
-|8|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|160|95387|55|2025-03-05|
-|9|[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)|TypeScript|freeCodeCamp.org的开源代码库和课程。免费学习数学、编程和计算机科学。|172|431762|55|2014-12-24|
-|10|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|166|63620|54|2020-05-08|
-|11|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|146|32587|50|2025-04-30|
-|12|[LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)|C++|Moonlight的自托管游戏流主持人。|158|31282|49|2021-12-15|
-|13|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|139|39860|47|2025-05-14|
-|14|[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)|TypeScript|互动路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。|146|343407|46|2017-03-15|
-|15|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|Python|功能丰富的命令行音频/视频下载器|151|134719|45|2020-10-26|
+|1|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|387|55973|130|2020-01-05|
+|2|[9001/copyparty](https://github.com/9001/copyparty)|Python|便携式文件服务器，具有加速的可搜索上传、重复数据删除、BEP、RTP、zeroconf、媒体索引器、缩略图++全部集中在一个文件中，无需删除|387|34836|122|2019-05-26|
+|3|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|363|40223|120|2025-05-14|
+|4|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|275|155990|100|2019-06-22|
+|5|[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)|TypeScript|为忙碌的软件工程师精心策划的编码面试准备材料|243|132508|76|2016-07-05|
+|6|[simstudioai/sim](https://github.com/simstudioai/sim)|TypeScript|构建和部署AI代理工作流程的开源平台。|223|18163|72|2025-01-05|
+|7|[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)|TypeScript|freeCodeCamp.org的开源代码库和课程。免费学习数学、编程和计算机科学。|207|431969|69|2014-12-24|
+|8|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|195|77227|68|2024-04-29|
+|9|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|210|378239|66|2016-03-20|
+|10|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|Python|功能丰富的命令行音频/视频下载器|195|134914|61|2020-10-26|
+|11|[milvus-io/milvus](https://github.com/milvus-io/milvus)|Go|Milvus是一个高性能、云原生载体数据库，专为可扩展的载体NN搜索而构建|190|38653|60|2019-09-16|
+|12|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|132|95519|48|2025-03-05|
+|13|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|112|42231|36|2025-02-22|
+|14|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Python|将任何PDF或图像文档转化为您的人工智能的结构化数据。一个强大、轻量级的OCR工具包，可以弥合图像/PDF和LLM之间的差距。支持80多种语言。|107|63727|35|2020-05-08|
+|15|[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)|TypeScript|一个开源的AI代理，将Gemini的力量直接带入您的终端。|105|82364|35|2025-04-17|
 
 [所有日榜](./day/day.md)
 
