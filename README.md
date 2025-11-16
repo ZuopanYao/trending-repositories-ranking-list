@@ -1,75 +1,75 @@
 Github热门开源项目榜单
 
-## 2025年11月15日
+## 2025年11月16日
 
-根据本期榜单数据，可以从项目热门度、趋势表现、项目语言、项目领域及创建时间等多个维度进行分析：
+根据本期榜单数据，我对这些开源项目进行了以下几个方面的分析：
 
-### 1. 热门项目分析
-- **Star数最高项目**：
-  - `freeCodeCamp/freeCodeCamp` (432,186 Star)：免费学习平台，强调教育资源的开放性和普及性。
-  - `torvalds/linux` (207,125 Star)：Linux内核，开源软件的经典代表。
-  - `n8n-io/n8n` (156,435 Star)：工作流程自动化平台，集成众多服务。
-  - `yt-dlp/yt-dlp` (135,130 Star)：音视频下载工具，功能应用广泛。
-- 这些项目大多已经存在多年，基础稳定，用户基础广泛。
+---
 
-### 2. 趋势Star与热度分析
-- **趋势Star最高**：  
-  - `Shubhamsaboo/awesome-llm-apps`（524趋势Star），且当前Star为78,043。此项目创建时间为2024年4月，属新兴项目，表现出极高的增长趋势，体现出AI和大语言模型（LLM）应用的强劲增长势头。
-  - 其后为`9001/copyparty`（389趋势Star），该项目虽创建于2019年，但仍然保持较高的增长速度，说明其实用性和社区活跃度高。
-- **热度指标（综合近期动态）**较高的项目：
-  - `Shubhamsaboo/awesome-llm-apps`（180）
-  - `9001/copyparty`（119）
-  - `n8n-io/n8n`（72）
-  - 多为新兴技术和持续活跃的项目。
+### 1. **语言分布**
 
-### 3. 语言分布分析
-- **Python**：占据榜单相当比例，如`awesome-llm-apps`、`copyparty`、`public-apis`等，显示Python作为AI和通用工具开发语言的主导地位。
-- **TypeScript**：紧随其后，适用于Web和工作流自动化项目，如`n8n`、`freeCodeCamp`、`anthropics/claude-code`。
-- **其他语言**：如Go（`milvus`），主要用于高性能和云原生数据库领域；C（`linux`）代表底层系统级代码；HTML（`Zie619/n8n-workflows`）多为静态资源或前端配置文档。
+- **Python 项目占主导地位**，有5个项目（#1、#2、#4、#9、#14），涵盖AI应用、文件服务器、免费API集合、编码代理、下载工具等多种领域，反映了Python作为AI和工具开发首选语言的趋势。
+- **TypeScript 项目数量也不少**（#7、#11、#12、#15），侧重于工作流自动化、面试手册、AI代理等，显示前端和全栈开发者对TypeScript的依赖。
+- **Rust（#5）和Go（#10）**项目则代表性能导向的底层开发，分别聚焦于加密区块链和高性能数据库领域。
+- 其他项目使用了如HTML、Roff及未指定语言（None），说明榜单覆盖面较广。
 
-### 4. 领域及项目类型
-- **AI与机器学习相关**：
-  - `awesome-llm-apps`，`claude-code`，`gemini-cli`，`opencode`均直接围绕大语言模型、AI代理和代码自动化。
-- **开发者工具/平台**：
-  - `n8n`（自动化平台）、`freeCodeCamp`（学习平台）、`tech-interview-handbook`（面试资料）等，为开发者提供学习和工作辅助。
-- **文件和媒体管理**：
-  - `copyparty`（文件服务器），`yt-dlp`（媒体下载）。
-- **基础设施和数据库**：
-  - `milvus`（向量数据库）、`linux`（操作系统内核）。
-- **知识与教育**：
-  - `ChinaTextbook`（教育教材）、`public-apis`（API资源集合）。
+---
 
-### 5. 项目生命周期及新旧对比
-- 旧项目（2010年前后创建），依然有极高Star和热度，如`linux`（2011）、`freeCodeCamp`（2014）、`public-apis`（2016）。
-- 新项目（2024年及以后创建）表现出强劲趋势Star，尤其是AI相关项目，如`awesome-llm-apps`（2024-04）、`helium`（2025-02）、`claude-code`（2025-02），说明近年来AI生态快速发展，吸引了大量关注。
+### 2. **项目年龄与活跃度**
 
-### 6. 综合结论
-- **AI和大语言模型相关项目正成为新的增长热点**，新项目快速积累Star，显示开发者和用户的浓厚兴趣。
-- **经典项目依然稳固用户基础**，且持续活跃，具备较高的综合热度，奠定技术生态的根基。
-- **Python和TypeScript是两大主流开发语言**，分别覆盖AI开发与Web/自动化应用领域。
-- **领域多样化**，从基础设施到教育资源再到AI创新，反映出开源项目生态的广泛覆盖和活跃生机。
+- **老牌项目仍然人气旺盛**，如2016年发布的[public-apis/public-apis](#4)（当前Star最高：37.8万）、2017年[mtdvio/every-programmer-should-know](#3)（当前Star 9.4万）、2016年[yangshun/tech-interview-handbook](#11)（13.3万Star）依旧保持较高热度和星标数，说明优质内容和工具长远价值。
+- **新近项目表现强劲**，如2024年4月发布的[awesome-llm-apps](#1)，虽刚发布半年，当前已达7.8万Star，趋势Star超过350，显示AI相关应用的爆发性增长。
+- 2025年的项目（#5、#6、#9、#12、#13、#15）可能是未来预告，也体现了持续发力的技术领域，尤其是区块链、工作流自动化和AI代理。
 
-如果需要，我可以针对某个具体维度或项目做更深入的分析。
+---
+
+### 3. **趋势Star和热度对比**
+
+- 趋势Star（近期增星速度）最高的是[9001/copyparty](#2)（386）、[Shubhamsaboo/awesome-llm-apps](#1)（359）、[mtdvio/every-programmer-should-know](#3)（339），代表着新兴目标用户关注度极高，且增长迅速。
+- 热度较高的为前两者，其中[awesome-llm-apps](123)其热度较高，展现出AI项目新一轮吸金和关注热点。[copyparty](118)作为工具类项目也吸引大量用户。
+- 一些老项目的热度相对较低（如#3 106、#4 84），但由于基数庞大，累积Star依然惊人，反映出相对稳定的用户社区。
+
+---
+
+### 4. **项目类型和应用方向**
+
+- **AI相关项目集中度高**：多个项目涉及AI代理（#1,#9,#12,#15）、LLM应用（#1）、AI工具链（#13）。展现出AI技术的大热和开源驱动快速发展。
+- **工具化和自动化平台**（如n8n工作流#6，n8n自动化平台#7，copyparty文件服务器#2）依然受欢迎，强调工作效率和技术生产力。
+- **资源型项目**（如免费API列表#4、教材合集#8、面试手册#11）体现开源社区的共享精神和持续需求。
+- **前沿技术项目涉及隐私加密和区块链**（#5使用同态加密FHE，区块链集成），属于极具潜力的未来技术领域。
+
+---
+
+### 5. **综合评价**
+
+- **AI及与AI融合的工具和资源持续爆发**，特别是LLM应用库和智能开发助手。
+- **Python和TypeScript是当前开源项目开发的主流语言**，前者偏向AI和脚本化工具，后者偏向前端和全栈、工作流自动化。
+- **老项目通过丰富内容和稳定维护依然保持高热度和星标**，新项目借助新兴技术趋势快速吸纳关注，形成新老结合的开源生态。
+- **未来项目关注方向为安全隐私（FHE）、AI代理、自动化工作流等前沿领域**，值得持续跟踪。
+
+---
+
+如需针对某几个项目做更深入的竞品分析或趋势预测，也可以告知，我可提供更细致的数据解读和建议。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|524|78043|180|2024-04-29|
-|2|[9001/copyparty](https://github.com/9001/copyparty)|Python|便携式文件服务器，具有加速的可搜索上传、重复数据删除、BEP、RTP、zeroconf、媒体索引器、缩略图++全部集中在一个文件中，无需删除|389|35369|119|2019-05-26|
-|3|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|204|156435|72|2019-06-22|
-|4|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|212|40721|70|2025-05-14|
-|5|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|187|56456|63|2020-01-05|
-|6|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|163|378581|56|2016-03-20|
-|7|[milvus-io/milvus](https://github.com/milvus-io/milvus)|Go|Milvus是一个高性能、云原生载体数据库，专为可扩展的载体NN搜索而构建|139|38937|44|2019-09-16|
-|8|[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)|TypeScript|为忙碌的软件工程师精心策划的编码面试准备材料|133|132885|41|2016-07-05|
-|9|[torvalds/linux](https://github.com/torvalds/linux)|C|Linux内核源树|105|207125|37|2011-09-04|
-|10|[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)|TypeScript|freeCodeCamp.org的开源代码库和课程。免费学习数学、编程和计算机科学。|107|432186|37|2014-12-24|
-|11|[imputnet/helium](https://github.com/imputnet/helium)|Python|私人、快速且诚实的网络浏览器|123|6937|37|2025-02-15|
-|12|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|103|42461|35|2025-02-22|
-|13|[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)|TypeScript|一个开源的AI代理，将Gemini的力量直接带入您的终端。|97|82573|32|2025-04-17|
-|14|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|Python|功能丰富的命令行音频/视频下载器|99|135130|31|2020-10-26|
-|15|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|83|32889|28|2025-04-30|
+|1|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|359|78402|123|2024-04-29|
+|2|[9001/copyparty](https://github.com/9001/copyparty)|Python|便携式文件服务器，具有加速的可搜索上传、重复数据删除、BEP、RTP、zeroconf、媒体索引器、缩略图++全部集中在一个文件中，无需删除|386|35755|118|2019-05-26|
+|3|[mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)|None|每个软件开发人员都应该了解的（大部分）技术知识的集合|339|94528|106|2017-08-24|
+|4|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|251|378832|84|2016-03-20|
+|5|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|149|25240|74|2025-05-02|
+|6|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|203|40924|66|2025-05-14|
+|7|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|174|156609|66|2019-06-22|
+|8|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|191|56647|64|2020-01-05|
+|9|[oraios/serena](https://github.com/oraios/serena)|Python|强大的编码代理工具包，提供语义检索和编辑功能（HCP服务器和Agno集成）|140|15967|46|2025-03-23|
+|10|[milvus-io/milvus](https://github.com/milvus-io/milvus)|Go|Milvus是一个高性能、云原生载体数据库，专为可扩展的载体NN搜索而构建|138|39075|43|2019-09-16|
+|11|[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)|TypeScript|为忙碌的软件工程师精心策划的编码面试准备材料|135|133020|42|2016-07-05|
+|12|[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)|TypeScript|一个开源的AI代理，将Gemini的力量直接带入您的终端。|131|82704|42|2025-04-17|
+|13|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|104|95821|39|2025-03-05|
+|14|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|Python|功能丰富的命令行音频/视频下载器|107|135237|34|2020-10-26|
+|15|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|94|42555|32|2025-02-22|
 
 [所有日榜](./day/day.md)
 
