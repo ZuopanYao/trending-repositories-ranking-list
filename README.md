@@ -1,74 +1,81 @@
 Github热门开源项目榜单
 
-## 2025年11月18日
+## 2025年11月19日
 
-本期榜单分析如下：
-
-### 1. 整体趋势
-- 榜单涵盖了多个热门领域，尤其集中在人工智能（AI）、大语言模型（LLM）、工作流程自动化和开源工具等方面。
-- 近两年（2023-2025年）创建或活跃项目占比较高，说明技术更新和新项目不断涌现。
-- Python、TypeScript依旧是主流语言，尤其是在AI和工作流程自动化领域；同时Rust、Go、Roff等语言也有亮点项目出现。
-
-### 2. 热门项目和领域分析
-- **教育与资源整合**
-  - **TapXWorld/ChinaTextbook**（Roff，2020年）是榜单排名和热度最高的项目，提供涵盖小学到大学的PDF教材资源，满足大量用户的教育需求，表现出长期的高关注度（当前Star 57306，趋势Star 329）。
-  
-- **人工智能及AI代理**
-  - 多个项目围绕AI代理和大语言模型，如：
-    - **ashishpatel26/500-AI-Agents-Projects**集合了500个AI代理项目的实践案例，行业覆盖广泛（医疗、金融、教育等），展示了AI应用的多样性，当前Star超过1.6万且增长迅速（趋势Star 278）。
-    - **pathwaycom/pathway**和**pathwaycom/llm-app**都定位于实时分析、LLM管道和RAG，且更新较新（2022及2023年），显示在企业和研究领域的应用前景。
-    - **Shubhamsaboo/awesome-llm-apps**及**google-gemini/gemini-cli**均聚焦于LLM和AI代理，受到社区关注，代表了开源AI生态中的创新力量。
-  
-- **工作流程自动化**
-  - **n8n-io/n8n**和其相关工作流项目（Zie619/n8n-workflows）基于TypeScript，致力于“公平代码”平台，集成丰富，用户群大且活跃，说明自动化工具需求强劲。
-
-- **工具与实用软件**
-  - **public-apis/public-apis**收录了大量免费的API资源，Star数极为突出（超37万），说明开发者社区在开放数据和接口整合方面的强烈需求。
-  - **yt-dlp/yt-dlp**作为功能强大的多媒体下载工具，依然保持高人气，展示出实用工具的持续吸引力。
-  
-- **前沿技术探索**
-  - **zama-ai/fhevm**基于Rust的完全同态加密（FHE）与区块链的结合，代表了加密隐私和区块链领域的前沿尝试。
-  - **milvus-io/milvus**作为云原生向量数据库，支撑大规模向量搜索，适合AI搜索引擎和推荐系统，发展潜力明显。
-
-### 3. 趋势Star vs 当前Star对比
-- 新近项目（如**ashishpatel26/500-AI-Agents-Projects**、**Zie619/n8n-workflows**、**HKUDS/DeepCode**等）虽然Star总数较当前老牌项目低，但趋势Star较高，显示增长迅速，后续潜力大。
-- 传统热门项目（如**public-apis/public-apis**和**yangshun/tech-interview-handbook**）Star基数庞大，增长相对平稳，显示稳定的社区基础。
-
-### 4. 项目活跃时间段
-- 最早项目多为2016-2019年创建，主要是通用工具和资源，如**public-apis**和**tech-interview-handbook**。
-- 2020年以后，AI相关项目数量明显增加，反映AI火爆趋势。
-- 2024-2025年创建的项目虽然Star数总量较小，但趋势Star名列前茅，显示该领域仍在快速发展中。
-
-### 5. 语言和技术栈
-- **Python**：以机器学习、数据分析和自动化项目为主，适合快速开发和算法实现。
-- **TypeScript**：多用于构建现代前端和自动化流程，兼具性能和开发体验。
-- **Rust和Go**：用于高性能、系统级项目，体现对性能和安全性的重视。
-- **Roff**（用于**TapXWorld/ChinaTextbook**）较少见，显示该项目的特定文档格式属性。
+这份榜单展示了当前GitHub上多个热门开源项目的基本信息及热度表现，以下是对榜单的综合分析：
 
 ---
 
-### 总结
-本期榜单展示了开源领域中教育资源、AI代理、大语言模型、工作流程自动化及高性能工具的多样活跃景象。AI相关项目持续保持高热度和快速增长，未来仍是最值得关注的热点。传统的实用工具和资源整合项目依然稳健，形成了强大的社区和用户基础。技术栈多样化，满足不同应用场景的需求。开发者和用户可以依据个人需求，关注趋势Star高的新兴项目，或选择稳定性强、Star基数大的老牌项目。
+### 1. 项目基本情况与语言分布
+
+- **项目数量与语言分布**：
+  - Python项目最多（6个），占榜单的大约40%。Python在AI、数据科学、自动化领域应用广泛，榜单中的许多项目涉及AI代理、自动化、下载器、算法实现等，反映出Python在开源社区的广泛应用。
+  - TypeScript项目紧随其后，有4个。多数项目与AI及开发者工具相关，体现了前端/全栈开发中的AI集成趋势。
+  - 其他语言包括Rust、Go、HTML和Roff，显示了各领域中多样化的技术选型。
+
+### 2. 项目创建时间与热度趋势
+
+- **时间跨度**：项目创建时间从2016年到2025年不等，涵盖了较长的历史周期。
+  - 早期项目如 `public-apis`（2016）、`tech-interview-handbook`（2016）、`TheAlgorithms/Python`（2016）依然保持高星数与活跃度，显示经典、成熟项目的持续价值。
+  - 近期项目多集中在2024年至2025年，如排名第1的 `google-gemini/gemini-cli`（2025-04-17），星数迅速增长，显示AI领域新兴项目爆发性增长的趋势。
+
+- **热度（趋势Star）观察**：
+  - 排名前几位的项目如 `google-gemini/gemini-cli`（469趋势Star）、`OpenMind/OM1`（454趋势Star）展现出当前极高的关注度和增长速度，代表了AI代理、模块化AI运行时等前沿方向的发展热潮。
+  - 某些老牌项目虽然总Star数极高（例如 `public-apis` 37.9万Star），但趋势Star较低，反映其用户基础大但增长趋缓。
+  
+### 3. 项目类别与定位
+
+- **人工智能相关项目（AI代理、LLM、AI工具等）**：
+  - 排名靠前的如 `google-gemini/gemini-cli`、`OpenMind/OM1`、`awesome-llm-apps` 和 `500-AI-Agents-Projects`，集中体现了AI代理、LLM应用和多行业AI场景的快速发展。
+- **自动化与工作流**：
+  - `n8n-io/n8n` 和 `Zie619/n8n-workflows` 体现了面向工作流自动化的需求，以及与AI结合的趋势。
+- **教育与知识分享**：
+  - `tech-interview-handbook` 和 `ChinaTextbook` 代表了技术面试和教材资源的长期受欢迎度。
+- **工具和基础设施**：
+  - 如 `yt-dlp` (音视频下载器)、`milvus` (向量数据库)，涵盖多样化的技术应用场景，支持AI和数据密集型任务。
+
+### 4. 点评与趋势总结
+
+- **AI技术的强劲拉动**：
+  今年以来AI项目快速攀升，尤其是开源AI代理和大型语言模型周边项目。榜单前列几乎全是与AI密切相关的项目，体现出开源社区对AI研发的极大热情和投资。
+- **新项目快速崛起**：
+  多个2024-2025年创建的项目拥有高趋势Star，表明新兴项目有能力在短期内积累大量关注度，开源社区对创新的接受度高。
+- **稳固的老牌项目**：
+  一些老牌经典项目如 `public-apis`、`TheAlgorithms/Python`、`tech-interview-handbook`仍保持高Star，从侧面反映了开源项目的持久生命力。
+- **多语言生态共生**：
+  尽管Python和TypeScript占优，但榜单中的Rust、Go等项目显示了在性能敏感或特定场景领域的语言优势。
+
+---
+
+### 总结建议
+
+- **开发者关注热点**：AI代理、大型语言模型、自动化工作流是当前热门领域，值得投入和学习。
+- **技术选型建议**：结合使用Python的灵活性和TypeScript的现代前端优势，能够更好地构建全栈智能应用。
+- **项目维护与贡献**：成熟项目依然活跃，贡献者可考虑围绕热门领域发起创新项目，同时借鉴成功老项目的维护经验。
+
+---
+
+如需更具体的项目对比或趋势预测，可以提供进一步分析方向。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|329|57306|112|2020-01-05|
-|2|[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)|None|500个人工智能代理项目是各个行业人工智能代理用例的精心策划的集合。它展示了实际应用，并提供了开源项目的链接以供实施，说明了人工智能代理如何改变医疗保健、金融、教育、零售等行业。|278|16155|95|2024-12-20|
-|3|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|248|157097|93|2019-06-22|
-|4|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|287|49998|86|2022-11-27|
-|5|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|260|41518|85|2025-05-14|
-|6|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|277|47181|82|2023-07-19|
-|7|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|144|25589|74|2025-05-02|
-|8|[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)|TypeScript|为忙碌的软件工程师精心策划的编码面试准备材料|232|133549|73|2016-07-05|
-|9|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|194|379258|65|2016-03-20|
-|10|[9001/copyparty](https://github.com/9001/copyparty)|Python|便携式文件服务器，具有加速的可搜索上传、重复数据删除、BEP、RTP、zeroconf、媒体索引器、缩略图++全部集中在一个文件中，无需删除|194|36181|62|2019-05-26|
-|11|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|166|78823|55|2024-04-29|
-|12|[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)|TypeScript|一个开源的AI代理，将Gemini的力量直接带入您的终端。|143|82963|47|2025-04-17|
-|13|[milvus-io/milvus](https://github.com/milvus-io/milvus)|Go|Milvus是一个高性能、云原生载体数据库，专为可扩展的载体NN搜索而构建|153|39394|46|2019-09-16|
-|14|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|Python|功能丰富的命令行音频/视频下载器|137|135488|44|2020-10-26|
-|15|[HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)|Python|DeepCode：开放式统计编码（Paper 2Code & Text 2 Web & Text 2Backend）|128|10458|39|2025-05-14|
+|1|[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)|TypeScript|一个开源的AI代理，将Gemini的力量直接带入您的终端。|469|83432|156|2025-04-17|
+|2|[OpenMind/OM1](https://github.com/OpenMind/OM1)|Python|机器人的模块化人工智能运行时|454|1963|143|2025-01-08|
+|3|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|317|41835|109|2025-05-14|
+|4|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|285|57591|101|2020-01-05|
+|5|[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)|TypeScript|为忙碌的软件工程师精心策划的编码面试准备材料|308|133857|98|2016-07-05|
+|6|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|233|157330|85|2019-06-22|
+|7|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|233|379491|77|2016-03-20|
+|8|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|154|25743|76|2025-05-02|
+|9|[9001/copyparty](https://github.com/9001/copyparty)|Python|便携式文件服务器，具有加速的可搜索上传、重复数据删除、BEP、RTP、zeroconf、媒体索引器、缩略图++全部集中在一个文件中，无需删除|236|36417|74|2019-05-26|
+|10|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|178|79001|62|2024-04-29|
+|11|[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)|None|500个人工智能代理项目是各个行业人工智能代理用例的精心策划的集合。它展示了实际应用，并提供了开源项目的链接以供实施，说明了人工智能代理如何改变医疗保健、金融、教育、零售等行业。|151|16306|53|2024-12-20|
+|12|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|150|96259|53|2025-03-05|
+|13|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|Python|功能丰富的命令行音频/视频下载器|145|135633|46|2020-10-26|
+|14|[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)|Python|所有算法都在Python中实现|129|213421|43|2016-07-16|
+|15|[milvus-io/milvus](https://github.com/milvus-io/milvus)|Go|Milvus是一个高性能、云原生载体数据库，专为可扩展的载体NN搜索而构建|133|39527|41|2019-09-16|
 
 [所有日榜](./day/day.md)
 
