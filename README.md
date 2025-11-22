@@ -1,78 +1,100 @@
 Github热门开源项目榜单
 
-## 2025年11月21日
+## 2025年11月22日
 
-从本期榜单的数据和项目信息来看，可以做如下分析：
-
-### 一、榜单整体情况
-- **榜单发布时间**：项目最早创建时间为2014年，最晚2025年，覆盖时间跨度较大。
-- **语言分布**：
-  - TypeScript 项目数量较多且受欢迎（多达5个项目上榜，且Star数普遍较高，例如freeCodeCamp、n8n）。
-  - Python项目也占比较大，且有一些历史悠久且Star数很高的项目（如public-apis、system-design-primer）。
-  - 其他语言如HTML、Rust、Go、None、Roff也有入榜。
-  
-### 二、项目热度与Star数分析
-- **Star总量 vs 趋势Star**
-  - 部分成熟项目Star数极高，热度指标相对偏低（例如freeCodeCamp，Star达43万+，但热度32，意味着增长趋缓）。
-  - 新兴项目增长迅猛，Star数相对较低，但热度很高（例如 Zie619/n8n-workflows，当前Star约4.3万，趋势Star422，热度147，创建时间非常新，为2025年5月）。
-- **趋势Star最高的项目**
-  - Zie619/n8n-workflows（422）
-  - n8n-io/n8n（229）
-  - TapXWorld/ChinaTextbook（228）
-  - 说明这几个项目在近期有较强的关注度增长，体现出新需求或新热点。
-
-### 三、项目类型与定位
-- **自动化与AI相关项目**
-  - n8n及相关工作流程项目（第1、2名）关注流程自动化，且内置AI特性，符合自动化和智能化的趋势。
-  - google-gemini/gemini-cli专注于AI代理，定位前沿AI技术应用。
-  - awesome-llm-apps和system-prompts-and-models-of-ai-tools均围绕大语言模型和AI工具。
-- **开发者资源与工具**
-  - public-apis免费API集合、free-for-dev免费SaaS产品列表等，均为开发者提供免费的资源汇总，帮助提升开发效率。
-  - system-design-primer和tech-interview-handbook则侧重工程师知识和面试准备，备受开发者欢迎。
-- **教育与内容资源**
-  - ChinaTextbook提供教材PDF，满足学习需求。
-  - freeCodeCamp提供系统课程和学习路径，是开源学习的重要项目。
-- **技术底层和数据库**
-  - Milvus为向量数据库，专注于高性能搜索需求。
-  - zama-ai/fhevm区块链同态加密框架，属于高端加密安全方向。
-
-### 四、时间维度趋势
-- 新项目（2024-2025年创建）表现活跃，趋势Star较高，显示开源社区对新兴AI和自动化工具兴趣浓厚。
-- 老牌项目（2014-2017年创建）Star极高，代表成熟且被广泛认可的开源资源，但增长趋缓。
-
-### 五、热度指标分析
-- 热度最高的是最新项目Zie619/n8n-workflows（147），表明新项目可能更易获得短期聚焦。
-- 传统大项目热度普遍在30-70之间，说明它们是稳定且具有长期社区支持的优质项目。
+根据本期榜单数据，笔者对榜单进行以下几点分析：
 
 ---
 
-## 结论
-1. **AI与自动化是当前最热门的方向**，相关项目活跃，增长显著。
-2. **成熟项目依然受欢迎**，特别是教育资源和开发工具类项目但增长相对放缓。
-3. **新项目热度和增长潜力大**，显示开源社区对新技术和工具的快速响应。
-4. 多样化语言和项目类型满足不同用户和开发者的需求，从前端自动化到系统设计，再到安全和数据库多方面覆盖。
+### 一、整体趋势 Star 与当前 Star 对比
 
-这份榜单反映了当前技术关注点的分布趋势，AI+自动化、新兴开源项目和基础教育资源共同驱动开源生态的发展。
+- **趋势 Star** 代表项目近期一段时间内新增的 Star 数量，反映项目目前的活跃度和关注度增速。
+- **当前 Star** 代表项目累计的总 Star 数量，反映项目整体受欢迎程度和社区规模。
+
+榜单看出：
+
+- 排名前两名的项目趋势 Star 和当前 Star 都保持较高水平，分别为：
+  - Zie619/n8n-workflows：趋势 Star 260，当前 Star 43330
+  - x1xhlol/system-prompts-and-models-of-ai-tools：趋势 Star 222，当前 Star 96862
+
+  这表明这两个项目当前增长势头强劲，且累计人气较高。
+
+- 总体来看，榜单项目的趋势 Star 多在 80-260区间，显示出最近用户活跃度较高，项目热度较为集中。
+
+### 二、项目热度（综合评分）
+
+- 热度指标数值区间为 27 到 88 不等，最高热度为第1名项目 n8n-workflows（88），较早创建的老项目如 free-for-dev 和 public-apis 热度相对较低（62、52），说明近年来的新项目更受关注。
+
+- 热度排名前三的项目均创建于 2025年，说明新兴项目凭借较强的技术创新、切中时下趋势（如AI代理、自动化）获得更多关注。
+
+### 三、项目时间分布
+
+- 榜单中项目创建时间分布较广，最早为 2015 年的 free-for-dev，最新为2025年5月的 Zie619/n8n-workflows 和 HKUDS/DeepCode。
+- 部分老项目（2015-2017年创建）依旧维持较高 Star，如 public-apis (380K)、donnemartin/system-design-primer (327K)。
+- 新项目虽然绝对 Star 数较少，但凭借高趋势 Star 和热度，在排行榜中名列前茅，证实新项目在近期用户关注中的地位提升。
+
+### 四、编程语言及领域偏好分析
+
+- **语言分布**：
+  - TypeScript 项目（如 n8n、gemini-cli、opencode、tech-interview-handbook）占比明显，显示 TypeScript 作为现代前端和全栈开发热门语言的地位。
+  - Python项目数量较多（public-apis、LLMs-from-scratch、donnemartin/system-design-primer、DeepCode等），尤其聚焦AI、系统设计和数据处理领域。
+  - HTML项目多用于文档、列表类项目，如 n8n-workflows、free-for-dev。
+  - 新兴技术领域如 AI代理、LLM 则更多采用 Jupyter Notebook、TypeScript 等灵活快速开发环境。
+
+- **领域热点**：
+  - **人工智能与机器学习**：排名第2、第3、第5、第8、第11、第15项目均涉及AI代理、LLM、AI自动化，表明AI依然是当前开源最热话题。
+  - **自动化与工作流**：n8n及其衍生项目关注工作流程自动化、集成工具。
+  - **技术面试和学习资源**：如 tech-interview-handbook、system-design-primer，满足开发者技能提升需求，长期维持高人气。
+  - **API和基础设施**：public-apis、milvus等提供关键底层服务与工具。
+
+### 五、典型项目案例简析
+
+1. **Zie619/n8n-workflows**：
+   - 项目虽较新（2025年），但趋势 Star 高、热度最高，反映大量用户对自动化流程的需求及社区积极贡献。
+
+2. **x1xhlol/system-prompts-and-models-of-ai-tools**：
+   - 提供丰富AI工具和模型资源，覆盖多平台和工具，利于AI开发者快速上手。
+   
+3. **n8n-io/n8n**：
+   - 作为具有AI能力的开源工作流自动化平台，积累了近16万星，用户基础大，社区活跃。
+
+4. **public-apis/public-apis**：
+   - 长期热门的免费API集合，资源丰富，适用广泛，是开发者的必备工具之一。
+
+5. **rasbt/LLMs-from-scratch**：
+   - 针对想从点滴实现大型语言模型的学习者，强调教育价值，星数稳定上升。
+
+---
+
+### 六、总结
+
+- 本期榜单集中体现了**AI代理、自动化工作流**以及**学习资料**作为开源项目的热门领域。
+- 新项目尤其是2025年创建的，展示出强劲的成长势头，快速吸引大量关注。
+- TypeScript和Python继续作为榜单主力语言，分别支撑不同技术方向。
+- 老牌高星项目依靠资源丰富、积累深厚的用户基础依旧稳固排名。
+- 整体来看，开源生态在技术更新和社区活跃方面呈现良好发展态势，为开发者提供了多样化、高质量的技术资源。
+
+如需进一步聚焦具体项目或技术趋势，也可继续深入分析。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|422|43070|147|2025-05-14|
-|2|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|229|157789|79|2019-06-22|
-|3|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|228|58121|78|2020-01-05|
-|4|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|214|379916|73|2016-03-20|
-|5|[9001/copyparty](https://github.com/9001/copyparty)|Python|便携式文件服务器，具有加速的可搜索上传、重复数据删除、BEP、RTP、zeroconf、媒体索引器、缩略图++全部集中在一个文件中，无需删除|224|36861|67|2019-05-26|
-|6|[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)|HTML|具有DevOps和Infradev感兴趣的免费分层的SaaS、PaSaaS和ISaaS产品列表|198|115349|64|2015-03-18|
-|7|[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)|TypeScript|一个开源的AI代理，将Gemini的力量直接带入您的终端。|190|83882|61|2025-04-17|
-|8|[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)|TypeScript|为忙碌的软件工程师精心策划的编码面试准备材料|173|134233|53|2016-07-05|
-|9|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|146|79354|52|2024-04-29|
-|10|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|134|96640|51|2025-03-05|
-|11|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|85|25824|45|2025-05-02|
-|12|[milvus-io/milvus](https://github.com/milvus-io/milvus)|Go|Milvus是一个高性能、云原生载体数据库，专为可扩展的载体NN搜索而构建|127|39802|40|2019-09-16|
-|13|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)|Python|了解如何设计大型系统。准备系统设计面试。  包括Anki抽认卡。|108|327113|36|2017-02-26|
-|14|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|97|33530|33|2025-04-30|
-|15|[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)|TypeScript|freeCodeCamp.org的开源代码库和课程。免费学习数学、编程和计算机科学。|96|432776|32|2014-12-24|
+|1|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|260|43330|88|2025-05-14|
+|2|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|222|96862|82|2025-03-05|
+|3|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|176|157965|66|2019-06-22|
+|4|[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)|HTML|具有DevOps和Infradev感兴趣的免费分层的SaaS、PaSaaS和ISaaS产品列表|191|115540|62|2015-03-18|
+|5|[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)|TypeScript|一个开源的AI代理，将Gemini的力量直接带入您的终端。|158|84040|53|2025-04-17|
+|6|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|149|58270|52|2020-01-05|
+|7|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|152|380068|52|2016-03-20|
+|8|[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|Jupyter Notebook|在PyTorch中从头开始、一步一步地实施类似ChatGPT的LLM|122|79260|42|2023-07-23|
+|9|[9001/copyparty](https://github.com/9001/copyparty)|Python|便携式文件服务器，具有加速的可搜索上传、重复数据删除、BEP、RTP、zeroconf、媒体索引器、缩略图++全部集中在一个文件中，无需删除|126|36987|40|2019-05-26|
+|10|[milvus-io/milvus](https://github.com/milvus-io/milvus)|Go|Milvus是一个高性能、云原生载体数据库，专为可扩展的载体NN搜索而构建|111|39913|35|2019-09-16|
+|11|[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)|None|500个人工智能代理项目是各个行业人工智能代理用例的精心策划的集合。它展示了实际应用，并提供了开源项目的链接以供实施，说明了人工智能代理如何改变医疗保健、金融、教育、零售等行业。|91|16573|32|2024-12-20|
+|12|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)|Python|了解如何设计大型系统。准备系统设计面试。  包括Anki抽认卡。|91|327204|29|2017-02-26|
+|13|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|90|33620|29|2025-04-30|
+|14|[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)|TypeScript|为忙碌的软件工程师精心策划的编码面试准备材料|90|134323|28|2016-07-05|
+|15|[HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)|Python|DeepCode：开放式统计编码（Paper 2Code & Text 2 Web & Text 2Backend）|85|10649|27|2025-05-14|
 
 [所有日榜](./day/day.md)
 
