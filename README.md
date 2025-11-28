@@ -1,112 +1,75 @@
 Github热门开源项目榜单
 
-## 2025年11月27日
+## 2025年11月28日
 
-根据榜单数据，对本期热门项目和整体趋势进行分析如下：
+对本期排行榜（GitHub项目榜单）分析如下：
 
----
+### 一、整体趋势和热度分析
+- **趋势Star最高项目**：
+  - 第一名为`sansan0/TrendRadar`（趋势Star1014），这说明其近期增长非常迅速，受到广泛关注。该项目结合了多平台实时热点监控和AI深度分析，贴合时下热点（AI+新闻监控），具有较强的创新性和实用性。
+- **当前Star最高项目**：
+  - 第9名`codecrafters-io/build-your-own-x`拥有44.4万Star，排名靠后主要是因为趋势Star较低（254），说明其是一个经典长期热门项目，且维护已有多年（2018成立），较为成熟稳健。
+- **热度综合考量**：
+  - 热度指标综合趋势Star、Star总量及时间，榜单前列项目热度较为分散，最高416（TrendRadar），主要反映了项目的最新吸引力。
+  - 多数项目热度在60-190范围，说明目前榜单上的项目大多处于快速发展或维护阶段。
 
-### 一、整体概览
+### 二、语言及技术栈分布
+- **语言分布**：
+  - Python项目数量多且表现突出（如TrendRadar、strix、Memori），Python在AI及数据分析领域优势显著。
+  - Go语言、TypeScript、HTML、Clojure、JavaScript等也有项目入榜，展示出多语言融合趋势。
+- **技术方向**：
+  - AI相关项目多为热点（TrendRadar、strix、GibsonAI/Memori等），AI工具及自动化正受到较大关注。
+  - 免费资源类项目（Free-Certifications、FreeDomain、public-apis）热度稳定，满足用户获取免费学习与资源需求。
+  - 开源设计与工作流程平台（penpot、n8n）表现活跃，反映协作和自动化需求增长。
+  - 教育类项目（ChinaTextbook）持续受欢迎，体现知识分享的价值。
 
-- **榜单项目数**：15个
-- **时间跨度**：项目创建时间从2015年（penpot）到2025年（多项目）都有，说明榜单包含老牌热门项目和最新热门项目。
-- **编程语言多样**：涵盖Python、TypeScript、Rust、Go、Clojure、HTML、Markdown等，体现开源项目多样化趋势。
-- **项目主题热门方向**：
-  - AI与大模型相关（TrendRadar、Memori、awesome-llm-apps）
-  - 工作流自动化（n8n、n8n-workflows）
-  - 免费资源（FreeDomain、public-apis）
-  - 区块链隐私安全（fhevm）
-  - 教育资源（ChinaTextbook）
-  - 设计协作工具（Penpot）
-  - 自我技术提升（build-your-own-x）
-  - 开源游戏（open-source-games）
+### 三、项目创建时间分析
+- **老牌项目**：
+  - penpot（2015），public-apis（2016），build-your-own-x（2018）等，Star量巨大，且持续活跃，显示社区稳定支持。
+- **新兴项目**：
+  - 多数趋势Star高的项目创建于2024-2025年，如TrendRadar（2025-04）、strix（2025-08）、n8n-workflows（2025-05），代表新技术和需求快速涌现，项目更新迭代快。
 
----
-
-### 二、数据指标解读
-
-| 指标       | 说明                                                         |
-|------------|--------------------------------------------------------------|
-| 当前Star   | 项目当前在GitHub上的总star数，体现项目整体流行度             |
-| 趋势Star   | 一定时间内新增star数，反映项目近期热度增长                   |
-| 热度       | 结合新增star和其它因素的综合热度评分，辅助衡量项目关注度     |
-
----
-
-### 三、重点项目分析
-
-1. **sansan0/TrendRadar（Python）**
-   - 当前Star：30861，趋势Star：1207，热度487（全榜最高）
-   - 特征：新颖的AI新闻热点分析与多平台聚合，支持多种推送。目前新项目，上星快，显示热门AI风口。
-   - 亮点：支持多平台、AI深度分析、实时推送，具备产品级应用潜力。
-
-2. **penpot/penpot（Clojure）**
-   - 当前Star：42382，趋势Star：743，热度227
-   - 老牌设计协作工具，语言较冷门（Clojure）但社区活跃，项目稳定增长。
-   - 体现设计与代码协作的持续需求。
-
-3. **Zie619/n8n-workflows（HTML）和n8n-io/n8n（TypeScript）**
-   - n8n工作流程项目一族，展示自动化平台生态活跃，工作流效率工具受关注。
-   - n8n工作流本身不直接开发代码，关注不同场景应用。
-
-4. **DigitalPlatDev/FreeDomain（HTML）**
-   - 当前Star高达12万，趋势382，热度116
-   - 免费域名服务吸引大量关注，说明实用性强，用户基础大。
-
-5. **codecrafters-io/build-your-own-x（Markdown）**
-   - Star数巨大（44万+），热度102，说明技术学习类项目广受欢迎。
-   - 稳定的长期增长，代表了开源社区对手工构建学习路径的需求。
-
-6. **GibsonAI/Memori（Python）**
-   - 新兴内存引擎，趋势331，当前Star 7513
-   - 关注AI多代理和记忆机制，紧跟AI应用新趋势。
-
-7. **其它值得关注的**
-   - 区块链与同态加密项目（zama-ai/fhevm），反映隐私计算重要性。
-   - 跨平台终端（wavetermdev/waveterm）体现开发者工具革新需求。
-   - 教育资源（ChinaTextbook）满足教育内容数字化需求。
+### 四、项目特色亮点总结
+- **TrendRadar**：
+  - AI结合新闻多平台实时监控，支持多种推送方式和深度分析，极具实用价值。
+- **Free-Certifications**和**DigitalPlatDev/FreeDomain**：
+  - 专注免费资源整合，实用且需求广泛。
+- **n8n**与**n8n-workflows**：
+  - 自动化与集成工具，结合AI功能提升工作效率。
+- **build-your-own-x**：
+  - 教育型项目，适合编程技能提升。
 
 ---
 
-### 四、热度与趋势特点
+### 结论
+本期榜单体现了两大趋势：
+1. **AI驱动的新兴项目强势崛起**，尤其是结合热点新闻监控和自动化技术的新方案备受关注。
+2. **经典大项目依然稳固受欢迎**，如开源设计工具、编程学习集锦和免费资源库，表明社区对成熟实用项目的持续需求。
 
-- **AI相关项目增长快速**，如TrendRadar、Memori、awesome-llm-apps等。
-- **老牌项目稳健，开发者和使用者基础稳定**，如build-your-own-x、penpot、公有API项目。
-- **工具类和自动化相关项目持续受青睐**，n8n及生态说明企业和开发者关注效率工具。
-- **免费资源类项目流量大，满足广泛基础需求**，域名、教材、API资源榜上有名。
-
----
-
-### 五、总结与展望
-
-- **AI和智能分析工具未来潜力大**，榜单中新兴项目趋势Star突出，显示社区关注聚焦AI热点。
-- **开发者需求多样化**，从设计、协作、自动化，再到教育资源和区块链安全都有所覆盖。
-- **复合技术栈和跨平台融合趋势明显**，Python、TypeScript、Rust等并列领先。
-- **建议关注新兴且热度上升快的项目，尤其是AI和自动化相关领域。**
-
----
-
-如果需要，我可以针对某个具体项目或语言做更深入的分析。
+未来关注点建议：
+- 继续关注AI与多平台集成的创新项目。
+- 关注开源项目的可维护性与社区活跃度。
+- 重视免费资源和教育方向的发展潜力。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)|Python|请不要信息传递，AI帮你看新闻资讯热点，简单的情况监控分析 - 多平台热点聚合+基于CP的AI分析工具。监控35个平台（语音，知或，B站，华尔街新闻，英联邦等），智能语音选择+自动推送+AI对话分析（用自然语言深度新闻：态势追踪，情感分析，类似检测等13工具）。支持企业微信/笔记本/缩写/Telegram/mail/ntfy推送，30秒网页部门，1分钟手机通知，无需程序。支持Docker部门让算法为您服务，用AI解读热点|1207|30861|487|2025-04-28|
-|2|[penpot/penpot](https://github.com/penpot/penpot)|Clojure|Penpot：用于设计和代码协作的开源设计工具|743|42382|227|2015-12-29|
-|3|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|416|44861|155|2025-05-14|
-|4|[zama-ai/fhevm](https://github.com/zama-ai/fhevm)|Rust|FHEVC，一个用于集成完全同质加密（FHE）与区块链应用程序的全栈框架|250|26221|125|2025-05-02|
-|5|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|382|124192|116|2024-05-30|
-|6|[GibsonAI/Memori](https://github.com/GibsonAI/Memori)|Python|适用于LLM、AI代理和多代理系统的开源内存引擎|331|7513|105|2025-07-24|
-|7|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|319|443926|102|2018-05-09|
-|8|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|277|159126|98|2019-06-22|
-|9|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|265|98082|96|2025-03-05|
-|10|[coinbase/x402](https://github.com/coinbase/x402)|TypeScript|互联网支付协议。基于HTTP构建。|297|4535|92|2025-02-21|
-|11|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|242|381354|83|2016-03-20|
-|12|[wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)|Go|一个开源、跨平台终端，实现无缝工作流程|256|13917|78|2022-06-08|
-|13|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|216|59591|72|2020-01-05|
-|14|[bobeff/open-source-games](https://github.com/bobeff/open-source-games)|None|开源游戏列表。|218|8822|68|2021-09-15|
-|15|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|171|80480|64|2024-04-29|
+|1|[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)|Python|请不要信息传递，AI帮你看新闻资讯热点，简单的情况监控分析 - 多平台热点聚合+基于CP的AI分析工具。监控35个平台（语音，知或，B站，华尔街新闻，英联邦等），智能语音选择+自动推送+AI对话分析（用自然语言深度新闻：态势追踪，情感分析，类似检测等13工具）。支持企业微信/笔记本/缩写/Telegram/mail/ntfy推送，30秒网页部门，1分钟手机通知，无需程序。支持Docker部门让算法为您服务，用AI解读热点|1014|31875|416|2025-04-28|
+|2|[cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)|None|经过精心策划的具有认证的免费课程列表。也可访问https://free-certifications.com/|598|45297|191|2020-07-31|
+|3|[usestrix/strix](https://github.com/usestrix/strix)|Python|您的应用程序的开源人工智能黑客????????‍????|448|14268|145|2025-08-05|
+|4|[penpot/penpot](https://github.com/penpot/penpot)|Clojure|Penpot：用于设计和代码协作的开源设计工具|444|42826|135|2015-12-29|
+|5|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|382|45243|132|2025-05-14|
+|6|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|342|124534|103|2024-05-30|
+|7|[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)|Go|在1个文件中开放源代码实时后台|333|53465|101|2022-07-05|
+|8|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|240|159366|85|2019-06-22|
+|9|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|254|444180|81|2018-05-09|
+|10|[GibsonAI/Memori](https://github.com/GibsonAI/Memori)|Python|适用于LLM、AI代理和多代理系统的开源内存引擎|257|7770|79|2025-07-24|
+|11|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|227|381581|76|2016-03-20|
+|12|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|212|98294|75|2025-03-05|
+|13|[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)|JavaScript|现在我们已经变得很大了，和原来的想法不一样。收集各种类别的优质软件。|238|94327|75|2016-07-17|
+|14|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|213|59804|72|2020-01-05|
+|15|[wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)|Go|一个开源、跨平台终端，实现无缝工作流程|209|14126|63|2022-06-08|
 
 [所有日榜](./day/day.md)
 
