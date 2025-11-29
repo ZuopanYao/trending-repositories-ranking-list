@@ -1,75 +1,82 @@
 Github热门开源项目榜单
 
-## 2025年11月28日
+## 2025年11月29日
 
-对本期排行榜（GitHub项目榜单）分析如下：
+以下是对本期榜单的分析：
 
-### 一、整体趋势和热度分析
-- **趋势Star最高项目**：
-  - 第一名为`sansan0/TrendRadar`（趋势Star1014），这说明其近期增长非常迅速，受到广泛关注。该项目结合了多平台实时热点监控和AI深度分析，贴合时下热点（AI+新闻监控），具有较强的创新性和实用性。
-- **当前Star最高项目**：
-  - 第9名`codecrafters-io/build-your-own-x`拥有44.4万Star，排名靠后主要是因为趋势Star较低（254），说明其是一个经典长期热门项目，且维护已有多年（2018成立），较为成熟稳健。
-- **热度综合考量**：
-  - 热度指标综合趋势Star、Star总量及时间，榜单前列项目热度较为分散，最高416（TrendRadar），主要反映了项目的最新吸引力。
-  - 多数项目热度在60-190范围，说明目前榜单上的项目大多处于快速发展或维护阶段。
+### 1. 语言分布和技术栈
+- Python项目数量较多，占据了榜单中的多个位置（1、2、7、10），显示Python在开源AI和数据处理领域的活跃度依然居高不下。
+- 其他语言包括Java（3）、HTML（4、5）、Shell（6）、TypeScript（11、14）、Go（15）以及Markdown和无特定语言标注项目。
+- 多样化语言反映了不同领域和技术层面的项目活跃，例如Java在企业级工作流和自动化插件中的应用，TypeScript在前端工作流和自动化平台的使用，Go在轻量后台服务中的普及。
 
-### 二、语言及技术栈分布
-- **语言分布**：
-  - Python项目数量多且表现突出（如TrendRadar、strix、Memori），Python在AI及数据分析领域优势显著。
-  - Go语言、TypeScript、HTML、Clojure、JavaScript等也有项目入榜，展示出多语言融合趋势。
-- **技术方向**：
-  - AI相关项目多为热点（TrendRadar、strix、GibsonAI/Memori等），AI工具及自动化正受到较大关注。
-  - 免费资源类项目（Free-Certifications、FreeDomain、public-apis）热度稳定，满足用户获取免费学习与资源需求。
-  - 开源设计与工作流程平台（penpot、n8n）表现活跃，反映协作和自动化需求增长。
-  - 教育类项目（ChinaTextbook）持续受欢迎，体现知识分享的价值。
+### 2. 项目热度与成长趋势
+- **最高当前Star项目**：
+  - `build-your-own-x`（444406 Star），通过从零构建技术来学习编程，项目老牌且持续受欢迎。
+  - `public-apis`（381775 Star），集合免费API资源，长期积累形成高Star。
+  - `FreeDomain`（124894 Star）、`n8n`（159525 Star）等项目也具有非常高的Star，表明其实用性和社区基础稳固。
 
-### 三、项目创建时间分析
-- **老牌项目**：
-  - penpot（2015），public-apis（2016），build-your-own-x（2018）等，Star量巨大，且持续活跃，显示社区稳定支持。
-- **新兴项目**：
-  - 多数趋势Star高的项目创建于2024-2025年，如TrendRadar（2025-04）、strix（2025-08）、n8n-workflows（2025-05），代表新技术和需求快速涌现，项目更新迭代快。
+- **趋势Star（近期增长）突出项目**：
+  - `sansan0/TrendRadar`（趋势Star 690）增长快速，主打AI新闻热点分析和多平台监控。
+  - `usestrix/strix`（趋势Star 660）为开源AI黑客工具，显示AI辅助开发技术的关注热度。
+  - 这两者均为2025年新兴项目，非常活跃，成长潜力大。
 
-### 四、项目特色亮点总结
-- **TrendRadar**：
-  - AI结合新闻多平台实时监控，支持多种推送方式和深度分析，极具实用价值。
-- **Free-Certifications**和**DigitalPlatDev/FreeDomain**：
-  - 专注免费资源整合，实用且需求广泛。
-- **n8n**与**n8n-workflows**：
-  - 自动化与集成工具，结合AI功能提升工作效率。
-- **build-your-own-x**：
-  - 教育型项目，适合编程技能提升。
+- 热度指标（热度=趋势Star/当前Star *某种计算方式）显示，新项目虽然绝对Star较低，但增速非常快；而老牌项目Star总量大，热度稍逊，但稳定可靠。
+
+### 3. 项目分类与应用场景
+- **AI与数据分析**：
+  - `sansan0/TrendRadar` 智能新闻情报分析。
+  - `GibsonAI/Memori` 适用于LLM和多代理系统的内存引擎。
+  - `usestrix/strix` AI黑客工具。
+  
+- **开发和编程学习**：
+  - `build-your-own-x` 学习技术栈和底层构建。
+  - `mlabonne/llm-course` 语言模型课程。
+  
+- **生产力工具和平台**：
+  - `kestra-io/kestra` 工作流自动化平台。
+  - `n8n-io/n8n` 可视化及AI自动化工具。
+  - `FreeDomain` 免费域名服务，降低网站搭建门槛。
+  
+- **资源集合和服务**：
+  - `public-apis` 免费API集合。
+  - `cloudcommunity/Free-Certifications` 免费课程认证列表。
+
+- **系统与桌面应用**：
+  - `winapps-org/winapps` Linux下运行Windows程序。
+
+### 4. 创新与市场趋势观察
+- AI工具和多平台集成解决方案成为新兴热点，如TrendRadar与Strix，显示出AI智能化、自动化及跨平台应用需求的提升。
+- 教育资源和“从零做起”的学习项目依然受欢迎，反映出开发者和技术人员对提升自我技能的持续渴望。
+- 开源生产力和自动化平台如Kestra和n8n越来越注重集成AI功能和视觉化操作，表明自动化工具朝向更易用和智能化方向进化。
+  
+### 5. 时间维度
+- 老项目（2016 - 2019年创建）如public-apis、build-your-own-x、Kestra等依然活跃，体现强大的社区支撑和持续维护。
+- 新项目（2023-2025年创立）展现快速增长和创新潜力，特别是在AI及多平台整合方向。
 
 ---
 
-### 结论
-本期榜单体现了两大趋势：
-1. **AI驱动的新兴项目强势崛起**，尤其是结合热点新闻监控和自动化技术的新方案备受关注。
-2. **经典大项目依然稳固受欢迎**，如开源设计工具、编程学习集锦和免费资源库，表明社区对成熟实用项目的持续需求。
-
-未来关注点建议：
-- 继续关注AI与多平台集成的创新项目。
-- 关注开源项目的可维护性与社区活跃度。
-- 重视免费资源和教育方向的发展潜力。
+### 总结
+本期榜单集中体现了开源项目在AI应用、多平台整合、开发者教育和自动化流程的热度和趋势。Python作为主要语言依然强劲，新项目凭借创新和切实场景需求快速崛起，老牌项目稳定贡献社区价值。未来，AI赋能和无代码/低代码自动化平台将持续受到关注和发展。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)|Python|请不要信息传递，AI帮你看新闻资讯热点，简单的情况监控分析 - 多平台热点聚合+基于CP的AI分析工具。监控35个平台（语音，知或，B站，华尔街新闻，英联邦等），智能语音选择+自动推送+AI对话分析（用自然语言深度新闻：态势追踪，情感分析，类似检测等13工具）。支持企业微信/笔记本/缩写/Telegram/mail/ntfy推送，30秒网页部门，1分钟手机通知，无需程序。支持Docker部门让算法为您服务，用AI解读热点|1014|31875|416|2025-04-28|
-|2|[cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)|None|经过精心策划的具有认证的免费课程列表。也可访问https://free-certifications.com/|598|45297|191|2020-07-31|
-|3|[usestrix/strix](https://github.com/usestrix/strix)|Python|您的应用程序的开源人工智能黑客????????‍????|448|14268|145|2025-08-05|
-|4|[penpot/penpot](https://github.com/penpot/penpot)|Clojure|Penpot：用于设计和代码协作的开源设计工具|444|42826|135|2015-12-29|
-|5|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|382|45243|132|2025-05-14|
-|6|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|342|124534|103|2024-05-30|
-|7|[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)|Go|在1个文件中开放源代码实时后台|333|53465|101|2022-07-05|
-|8|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|240|159366|85|2019-06-22|
-|9|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|254|444180|81|2018-05-09|
-|10|[GibsonAI/Memori](https://github.com/GibsonAI/Memori)|Python|适用于LLM、AI代理和多代理系统的开源内存引擎|257|7770|79|2025-07-24|
-|11|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|227|381581|76|2016-03-20|
-|12|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|212|98294|75|2025-03-05|
-|13|[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)|JavaScript|现在我们已经变得很大了，和原来的想法不一样。收集各种类别的优质软件。|238|94327|75|2016-07-17|
-|14|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|213|59804|72|2020-01-05|
-|15|[wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)|Go|一个开源、跨平台终端，实现无缝工作流程|209|14126|63|2022-06-08|
+|1|[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)|Python|请不要信息传递，AI帮你看新闻资讯热点，简单的情况监控分析 - 多平台热点聚合+基于CP的AI分析工具。监控35个平台（语音，知或，B站，华尔街新闻，英联邦等），智能语音选择+自动推送+AI对话分析（用自然语言深度新闻：态势追踪，情感分析，类似检测等13工具）。支持企业微信/笔记本/缩写/Telegram/mail/ntfy推送，30秒网页部门，1分钟手机通知，无需程序。支持Docker部门让算法为您服务，用AI解读热点|690|32565|279|2025-04-28|
+|2|[usestrix/strix](https://github.com/usestrix/strix)|Python|您的应用程序的开源人工智能黑客????????‍????|660|14928|212|2025-08-05|
+|3|[kestra-io/kestra](https://github.com/kestra-io/kestra)|Java|：zap：通用工作流演示平台-以任何语言编写代码，在任何地方运行。800多个用于数据、基础设施和人工智能自动化的插件。|537|23776|162|2019-08-24|
+|4|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|360|124894|109|2024-05-30|
+|5|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|299|45542|102|2025-05-14|
+|6|[winapps-org/winapps](https://github.com/winapps-org/winapps)|Shell| 运行Windows应用程序，例如Linux（Ubuntu/Fedora）中的Microsoft Office/Adobe和NSO/TEK，就像它们是本地操作系统的一部分一样，包括Nautilus集成。https://github.com/Fmstrat/winapps/的硬分叉|294|12402|88|2023-07-05|
+|7|[GibsonAI/Memori](https://github.com/GibsonAI/Memori)|Python|适用于LLM、AI代理和多代理系统的开源内存引擎|280|8050|86|2025-07-24|
+|8|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|226|444406|75|2018-05-09|
+|9|[cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)|None|经过精心策划的具有认证的免费课程列表。也可访问https://free-certifications.com/|223|45520|72|2020-07-31|
+|10|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|194|381775|62|2016-03-20|
+|11|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|159|159525|59|2019-06-22|
+|12|[mlabonne/llm-course](https://github.com/mlabonne/llm-course)|None|通过路线图和Colab笔记本进入大型语言模型（LLM）的课程。|169|68478|56|2023-06-17|
+|13|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|153|98447|55|2025-03-05|
+|14|[CapSoftware/Cap](https://github.com/CapSoftware/Cap)|TypeScript|开源Loom替代方案。美丽、可共享的屏幕录音。|175|15233|53|2023-11-17|
+|15|[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)|Go|在1个文件中开放源代码实时后台|166|53631|51|2022-07-05|
 
 [所有日榜](./day/day.md)
 
