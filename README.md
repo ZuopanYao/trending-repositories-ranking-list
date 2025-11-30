@@ -92,85 +92,101 @@ Github热门开源项目榜单
 
 [所有日榜](./day/day.md)
 
-## 2025年第46周
+## 2025年第47周
 
-本期榜单展示了当前热门的开源项目，涵盖多种语言和领域，整体呈现出以下几个显著特点和趋势：
-
----
-
-### 1. **项目语言分布**
-- **Python**：共7个项目（如第一名的TrendRadar、第7名Memori、第13名BettaFish），显示Python仍是AI、数据分析和自动化领域的首选语言。
-- **TypeScript**：占比较高（第3、6、10、11、16、18名等），体现出前端与全栈项目，尤其是涉及AI代理、自动化流程、现代桌面客户端的活跃。
-- **HTML/Markdown及其它**：少数项目使用Markdown（第2名）和HTML等，更多作为内容类型或文档驱动。
-- 系统脚本（如Roff）较少，出现在教材分发（第8名）。
+以下是对本期榜单的整体分析：
 
 ---
 
-### 2. **项目类型与应用方向**
-- **AI与智能分析**：榜单前列多个项目集中在AI应用，如TrendRadar用AI做多平台热点监控和分析，Daytona为AI代码运行基础设施，Memori及BettaFish聚焦多Agent和AI记忆系统。
-- **开发者工具和学习资源**：类似build-your-own-x、第18名的tech-interview-handbook和public-apis等，为开发者提供学习、实操和接口资源。
-- **自动化与工作流程**：n8n（第10）和相关工作流项目（第4）强调自动化，且逐渐融合AI特性。
-- **内容与媒体资源**：数字教材、IPTV频道收集（第8、6）满足内容分发的需求。
-- **网络工具和服务**：如免费域名服务（第5名）、文件服务器（第17）等实用工具也在榜中。
+### 1. **整体趋势分析**
+
+- **项目活跃度（趋势Star）**：榜单中多款项目的趋势Star值均在800以上，代表这些项目在近期的关注度和活跃度较高，尤其是排名前三的项目趋势Star分别为6436（TrendRadar）、2185（FreeDomain）、1854（n8n-workflows），显示出极强的成长势头。
+- **当前Star情况**：很多项目累计Star已经非常高，如 `build-your-own-x` (44.4万Star)、`public-apis` (38.2万Star)、`n8n` (15.9万Star)等，这类项目属于“长青”类，资源丰富、社区活跃。
+- **热度**：热度分数与趋势Star和当前Star相结合，反映近期关注度和项目的稳定程度。最高热度项目是TrendRadar（2627），说明近期表现尤为突出。
 
 ---
 
-### 3. **热度与趋势Star对比分析**
-- **趋势Star（近期新增Star）最高为第1名TrendRadar（8446）**，表明该项目近期活跃度极高，关注度大幅上升，且项目较新（2025年4月创建）。
-- **累计Star最多的是第2名build-your-own-x（44万+）和第14名public-apis（38万+）**，属于老牌知名项目，热度（热度=趋势Star*当前Star/创建时间）相对稳定。
-- **新兴项目多集中在2024年及之后创建**，如第3名Daytona（2024年2月），第7名Memori（2025年7月），显示AI相关新项目快速涌现，备受关注。
-- **老项目仍有热度**（如build-your-own-x、public-apis和n8n），说明这些基础资源和工具依然被广泛使用和关注。
+### 2. **语言分布**
+
+- **Python** 是榜单中最常见的语言，出现在榜单前20名约7个项目中，体现了Python在AI、数据分析、API以及自动化领域的主导地位。
+- **TypeScript** 也较为活跃，代表现代前端开发和自动化工具的主流选择。
+- 其他语言包括HTML、Markdown、Clojure、Go、Roff等，表现了不同项目偏好和应用领域的多样性。
 
 ---
 
-### 4. **创建时间分布**
-- **近期项目（2024及以后）占比突出**，排名前几的大部分是近半年到一年内发布的，显示社区对新技术和新工具的快速响应。
-- 早期经典项目（2016年至2019年）如public-apis、tech-interview-handbook、build-your-own-x依然有较高活跃度，这说明经典资源具有持久生命力。
+### 3. **项目类型与功能**
+
+- **AI与智能分析类**（排名1、4、6、11、18、19、20）：如TrendRadar（一站式新闻热点智能分析）、strix（开源AI工具）、Memori（多代理AI内存引擎）、awesome-llm-apps（LLM应用集锦）、google-gemini-cli（AI代理）、BettaFish（多Agent分析助手）、call-center-ai（AI电话呼叫）。这类项目集中反映了AI新趋势，特别是多Agent系统和大模型应用。
+- **免费资源平台**（排名2、9、15）：FreeDomain免费域名、Public-APIs免费接口集合、Free-Certifications免费课程。侧重资源共享，具备很强的实用价值。
+- **工具与平台类**（排名3、5、7、8、12、13、16、17）：n8n工作流自动化、build-your-own-x教程、Penpot设计协作、clash-verge代理客户端、waveterm跨平台终端、iptv频道收集等。为开发者和普通用户提供在生产力方面的显著支持。
+- **内容类项目**（排名10、14）： ChinaTextbook教材库、open-source-games开源游戏集合，提供实用内容与娱乐。
 
 ---
 
-### 5. **项目热度与应用广泛度**
-- **TrendRadar项目以高趋势Star领先，说明热点分析类工具市场需求迅猛。**
-- **build-your-own-x项目虽趋势Star不及新项目，但拥有庞大基础用户群，适合长期学习和项目模仿。**
-- **n8n系列关注自动化与AI集成，反映开发者对工作效率提升的持续需求。**
-- **IPTV、教材、免费域名等实用工具项目，说明资源整合和免费服务仍受欢迎。**
+### 4. **项目生命周期与活跃度**
+
+- **部分老牌项目**（如public-apis 2016年创建，build-your-own-x 2018年），Star数量庞大，说明其长期的稳定贡献和社区积累。
+- **新兴项目**（2024-2025年创建）：如TrendRadar、n8n-workflows、strix、Memori等，这些项目虽然创建不久，但创新性强，增长迅速，符合当前AI和自动化发展趋势。
+- **增长潜力**：TrendRadar的趋势Star远超其他项目，显示其在热点监控和AI分析领域的领先优势，未来极可能吸引更多关注。
 
 ---
 
-### 6. **小结与建议**
-- 未来开源热度或将更多聚焦于AI代理、多Agent系统及智能化工具，且即时热点监控与分析工具具备较大发展潜力。
-- 同时，基础学习资源和开发工具依然长青，不容忽视。
-- 项目维护活跃度（通过趋势Star反映）是判断项目生命力的重要指标，适合作为选择合作或贡献对象的参考。
-- 开发者和企业可重点关注新兴AI基础设施及智能化自动化平台，紧跟技术趋势。
+### 5. **项目热度对比**
+
+| 项目名称                     | 趋势Star | 当前Star | 热度 |
+|--------------------------|--------|-------|----|
+| TrendRadar               | 6436   | 33263 | 2627 |
+| FreeDomain               | 2185   | 125276| 664  |
+| n8n-workflows            | 1854   | 45801 | 642  |
+| strix                   | 1880   | 15255 | 608  |
+| build-your-own-x         | 1798   | 444637| 582  |
+
+**解读**：TrendRadar增长迅猛，虽然总Star不及“build-your-own-x”等老项目，但短期热度极高。FreeDomain以免费域名抢占大众市场，累计Star高但近期增速稍弱。n8n-workflows和strix作为自动化和AI黑客类工具，均表现出中高火热度。
 
 ---
 
-如需更具体某类项目的深度分析，欢迎进一步提出。
+### 6. **用户关注点总结**
+
+- **AI/大模型相关项目备受关注**，符合当前开发者和企业的需求热点。
+- **免费资源和教育类内容始终受欢迎**，体现开发者对知识共享和学习支持的需求。
+- **高增长项目多为新兴领域和跨平台工具**，显示技术前沿和应用场景不断创新。
+
+---
+
+### 7. **建议**
+
+- 关注趋势Star高、热度高的新兴项目，及时跟踪其发展，获取前沿技术和工具支持。
+- 对经典大Star项目如build-your-own-x、public-apis等进行深入学习，借助其成熟资源提升技能。
+- 利用榜单信息，结合自身需求选择适合的开源项目，如AI代理、工作流自动化、免费域名等领域。
+
+---
+
+**总结**：本期榜单呈现出以AI驱动、免费资源与工具创新为核心的开源项目风向。既有大量持续沉淀的经典项目，又有高速成长的激进新星，整体展示了开源社区的活力与多样化趋势。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)|Python|请不要信息传递，AI帮你看新闻资讯热点，简单的情况监控分析 - 多平台热点聚合+基于CP的AI分析工具。监控35个平台（语音，知或，B站，华尔街新闻，英联邦等），智能语音选择+自动推送+AI对话分析（用自然语言深度新闻：态势追踪，情感分析，类似检测等13工具）。支持企业微信/笔记本/缩写/Telegram/mail/ntfy推送，30秒网页部门，1分钟手机通知，无需程序。支持Docker部门让算法为您服务，用AI解读热点|8446|25354|3377|2025-04-28|
-|2|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|2891|442329|932|2018-05-09|
-|3|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|3050|33687|922|2024-02-06|
-|4|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|2390|43648|823|2025-05-14|
-|5|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|2442|122702|740|2024-05-30|
-|6|[iptv-org/iptv](https://github.com/iptv-org/iptv)|TypeScript|收集来自世界各地的公开可用的IPTV频道|1660|102720|529|2018-11-14|
-|7|[GibsonAI/Memori](https://github.com/GibsonAI/Memori)|Python|适用于LLM、AI代理和多代理系统的开源内存引擎|1656|6247|520|2025-07-24|
-|8|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|1466|58443|509|2020-01-05|
-|9|[bobeff/open-source-games](https://github.com/bobeff/open-source-games)|None|开源游戏列表。|1571|7857|505|2021-09-15|
-|10|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|1305|158154|476|2019-06-22|
-|11|[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)|TypeScript|一个开源的AI代理，将Gemini的力量直接带入您的终端。|1366|84186|458|2025-04-17|
-|12|[usestrix/strix](https://github.com/usestrix/strix)|Python|您的应用程序的开源人工智能黑客????????‍????|1313|13203|427|2025-08-05|
-|13|[666ghj/BettaFish](https://github.com/666ghj/BettaFish)|Python|微辙：人类可以利用的多Agent肉瘤分析助手，挖掘信息切片房，还原肉瘤根源，预测未来走向，辅助决策！从0实现，不依赖任何框架。|1206|29037|415|2024-07-01|
-|14|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|1219|380283|412|2016-03-20|
-|15|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|1060|97045|376|2025-03-05|
-|16|[clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)|TypeScript|基于Tauri的现代化图形用户界面客户端，旨在在Windows、macOS和Linux中运行，以提供量身定制的代理体验|1136|83346|358|2023-11-21|
-|17|[9001/copyparty](https://github.com/9001/copyparty)|Python|便携式文件服务器，具有加速的可搜索上传、重复数据删除、BEP、RTP、zeroconf、媒体索引器、缩略图++全部集中在一个文件中，无需删除|1127|37114|350|2019-05-26|
-|18|[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)|TypeScript|为忙碌的软件工程师精心策划的编码面试准备材料|1092|134409|348|2016-07-05|
-|19|[yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)|Python|[Support 0.49.x]（重置Cursor AI MachineID &绕过更高代币限制）Cursor AI，自动重置机器ID，免费升级使用Pro功能：您已经达到了试用请求限制。/此机器上使用的免费试用帐户太多。请升级到专业版。我们制定了这个限制是为了防止滥用。如果您认为这是一个错误，请告诉我们。|1038|43323|331|2025-01-11|
-|20|[microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)|Python|在API调用中从AI代理发送电话呼叫。或者，直接从配置的电话号码呼叫机器人！|1012|4311|325|2024-01-09|
+|1|[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)|Python|请不要信息传递，AI帮你看新闻资讯热点，简单的情况监控分析 - 多平台热点聚合+基于CP的AI分析工具。监控35个平台（语音，知或，B站，华尔街新闻，英联邦等），智能语音选择+自动推送+AI对话分析（用自然语言深度新闻：态势追踪，情感分析，类似检测等13工具）。支持企业微信/笔记本/缩写/Telegram/mail/ntfy推送，30秒网页部门，1分钟手机通知，无需程序。支持Docker部门让算法为您服务，用AI解读热点|6436|33263|2627|2025-04-28|
+|2|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|2185|125276|664|2024-05-30|
+|3|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|1854|45801|642|2025-05-14|
+|4|[usestrix/strix](https://github.com/usestrix/strix)|Python|您的应用程序的开源人工智能黑客????????‍????|1880|15255|608|2025-08-05|
+|5|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|1798|444637|582|2018-05-09|
+|6|[GibsonAI/Memori](https://github.com/GibsonAI/Memori)|Python|适用于LLM、AI代理和多代理系统的开源内存引擎|1779|8284|559|2025-07-24|
+|7|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|1328|98583|474|2025-03-05|
+|8|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|1301|159679|474|2019-06-22|
+|9|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|1307|381969|444|2016-03-20|
+|10|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|1228|60070|417|2020-01-05|
+|11|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|1106|80947|412|2024-04-29|
+|12|[penpot/penpot](https://github.com/penpot/penpot)|Clojure|Penpot：用于设计和代码协作的开源设计工具|1294|42910|397|2015-12-29|
+|13|[clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)|TypeScript|基于Tauri的现代化图形用户界面客户端，旨在在Windows、macOS和Linux中运行，以提供量身定制的代理体验|1186|84836|374|2023-11-21|
+|14|[bobeff/open-source-games](https://github.com/bobeff/open-source-games)|None|开源游戏列表。|1154|9273|363|2021-09-15|
+|15|[cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)|None|经过精心策划的具有认证的免费课程列表。也可访问https://free-certifications.com/|1041|45602|333|2020-07-31|
+|16|[wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)|Go|一个开源、跨平台终端，实现无缝工作流程|978|14249|303|2022-06-08|
+|17|[iptv-org/iptv](https://github.com/iptv-org/iptv)|TypeScript|收集来自世界各地的公开可用的IPTV频道|958|103866|300|2018-11-14|
+|18|[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)|TypeScript|一个开源的AI代理，将Gemini的力量直接带入您的终端。|874|85264|295|2025-04-17|
+|19|[666ghj/BettaFish](https://github.com/666ghj/BettaFish)|Python|微辙：人类可以利用的多Agent肉瘤分析助手，挖掘信息切片房，还原肉瘤根源，预测未来走向，辅助决策！从0实现，不依赖任何框架。|875|30096|295|2024-07-01|
+|20|[microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)|Python|在API调用中从AI代理发送电话呼叫。或者，直接从配置的电话号码呼叫机器人！|887|5380|281|2024-01-09|
 
 [所有周榜](./week/week.md)
 
