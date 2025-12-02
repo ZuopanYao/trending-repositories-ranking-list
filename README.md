@@ -1,99 +1,111 @@
 Github热门开源项目榜单
 
-## 2025年12月01日
+## 2025年12月02日
 
-针对本期榜单，以下是分析内容：
-
----
-
-### 一、整体情况概述
-- 榜单项目综合了人工智能、自动化、开发工具、开源游戏等多个热门领域。
-- 今年新项目居多（2024年及以后占多数），体现了最新技术潮流和开发者关注点的变化。
-- 项目热门度、Star数差异较大，反映了项目受众及影响力的多样性。
+根据提供的榜单数据，可以从以下几个维度进行分析：
 
 ---
 
-### 二、项目趋势与热度分析
-1. **趋势Star较高的项目**
-   - **TrendRadar (1125趋势Star，当前34388 Star，热度471)**  
-     项目以AI分析新闻热点为核心，跨平台监控，集合多种AI能力（情感分析、态势追踪等），结合多样推送方式，具备较强实用性和创新性。趋势Star最高，说明近期关注度快速上涨，备受期待。
-   
-   - **FreeDomain (374趋势Star，当前125650 Star，热度113)**  
-     提供免费域名服务，Star数巨大，说明项目已有稳固用户基础和广泛认可，趋势星数较低表明增长趋于稳定。
+## 一、项目整体概况
 
-2. **经典大型开源项目**
-   - **linux内核 (2025年Star 225，20.8万Star，热度67)**  
-     老牌项目，影响深远，增长稳定，贡献者广泛，是开源领域长期的明星项目。
-   - **build-your-own-x (282趋势Star，44万当前Star，热度93)**  
-     深受开发者欢迎的学习项目，长期活跃，贡献者社区大，受众广。
-
-3. **AI与自动化相关项目占据较多席位**
-   - 如 **awesome-llm-apps**, **Memori**, **Claude-code**, **strix**，集中在AI代理、LLM应用、自动化开发等方面，反映AI技术的热度和实用开放项目需求。
-
-4. **较新的云端/自动化项目**
-   - 例如 **n8n** （自动化流程 + AI），展示低代码/无代码工具与AI结合发展趋势。
+- 榜单中的项目多样，涵盖AI工具、编程学习、开源软硬件、自动化平台、免费资源等。
+- 主要语言以Python占据主导，符合当前AI及数据科学领域的主流开发工具趋势。
+- 项目创建时间跨度较大，从2011年（Linux）到今年2025年，表明榜单既包含成熟大项目，也覆盖了最新的热门项目。
 
 ---
 
-### 三、语言分布
-- **Python项目众多（TrendRadar、Memori、strix、awesome-llm-apps等）**  
-  Python依旧是AI和数据分析领域的首选语言，占据榜单多个重要项目。
-- **TypeScript项目表现活跃（n8n、Claude-code、midday）**  
-  结合前端与服务器端，适合现代全栈开发。
-- **HTML和Markdown项目用于展现和文档（FreeDomain, build-your-own-x）**  
-  多用于资源展示和技术资料汇总。
-- **C语言作为核心系统开发代表（Linux内核）**
+## 二、具体项目分析
+
+### 1. **趋势Star与当前Star差异**
+
+- 趋势Star代表近期新增Star数量，用于衡量项目当前的活跃度和关注热度。
+- 第一名[sansan0/TrendRadar]趋势Star为1127，远超其他项目（第二名495），显示其最近极高的关注度和快速增长，项目聚焦AI新闻热点分析，符合热门技术点。
+- 第二、三、四名的趋势Star分别为495、331、353，紧随其后，也显示出强劲的增长动力。
+- 但如第七名[build-your-own-x]，当前Star最高（445,189），但趋势Star只有270，说明项目已经非常成熟，用户规模大但增长速度相对缓慢。
+
+### 2. **当前Star与热度**
+
+- 当前Star最高项目依次为：
+  - 7：[build-your-own-x]（445,189）
+  - 6：[n8n]（160,152）
+  - 13：[linux]（208,842）
+  - 4：[FreeDomain]（126,003）
+  
+- 热度指数（代表综合影响力或活跃度）最高的前三名依次为：
+  - 1：[TrendRadar]（470）
+  - 2：[strix]（162）
+  - 3：[aie-book]（110）
+
+- 说明热度主要受趋势Star拉动，而非总Star。
+
+### 3. **项目主题及内容**
+
+- **AI及热点分析：**
+  - “TrendRadar”依托多个平台数据，结合AI做深度新闻态势和情感分析，覆盖面广，技术前沿。
+  - “strix”定位人工智能黑客工具，关注安全或创新方向。
+  - “aie-book”提供AI工程师学习资料与支持书籍，具备教育价值。
+  
+- **工具平台：**
+  - “n8n”自动化工作流平台，集成AI引擎，已有大量Star和成熟生态。
+  - “n8n-workflows”作为辅助资源丰富工作流模板。
+  
+- **免费资源与基础设施：**
+  - “FreeDomain”提供免费域名服务，需求广泛。
+  - “linux”依旧作为开源系统核心项目，虽然增长缓慢，但地位不可撼动。
+  - “build-your-own-x”主要用于技术学习，学习热度稳定。
+
+- **游戏与多代理系统等：**
+  - “open-source-games”集合开源游戏，用户兴趣集中。
 
 ---
 
-### 四、项目定位及用户价值
-- **AI热点探测与分析（TrendRadar）**: 强调创新，利用AI实现全平台实时热点监控，具备较强商业应用潜力。
-- **学习资源与技术集合（build-your-own-x, aie-book）**: 为技术学习者提供系统化的资源和实践机会，有长期价值。
-- **生产力工具（n8n, midday）**: 自动化流程和时间管理工具，提升自由职业者及企业用户效率。
-- **免费服务类（FreeDomain）**: 低门槛获取资源，吸引大量普通用户。
-- **代码辅助与开发支持（Claude-code, strix）**: 利用自然语言提高开发效率，是AI助力软件开发的趋势体现。
+## 三、从时间维度分析
+
+- 2025年创建的项目占榜单前几名比例较高，反映最新项目获得快速关注。
+- 早期项目如Linux（2011）、build-your-own-x（2018）、n8n（2019）表现成熟，体现稳定的用户基础及持续贡献。
+- 近两年（2024-2025年）新项目增速明显，尤其AI相关项目，符合技术发展趋势。
 
 ---
 
-### 五、时间维度分析
-- **聚焦2024-2025年新兴项目**占比高，显示技术创新和开源活跃度集中在近两年。
-- 老牌项目虽然创建时间较早，但依然保持较高关注和用户基础，反映生态稳定。
+## 四、语言与技术栈趋势
+
+- **Python**为主，多与AI相关，显示该语言在新兴领域的无可替代性。
+- **TypeScript**出现在成熟自动化平台n8n中，反映前端及现代云端平台发展。
+- **Markdown/Roff/HTML**多作为文档或资源分类格式，辅助内容传播。
+- **C语言**在核心系统项目（Linux）中仍不可替代。
 
 ---
 
-### 六、总结与建议
-- 未来关注点：
-  - **AI结合传统工具的混合应用更受欢迎**，如自动化平台集成LLM能力。
-  - **跨平台、多功能的AI热点分析工具有广阔发展空间**，TrendRadar表现亮眼。
-  - 开源学习和开发相关内容持续吸引开发者，build-your-own-x等项目依然受欢迎。
+## 五、结论与建议
 
-- 对开发者/投资者：
-  - 优先关注新兴AI领域项目，特别是具备实用落地场景和多平台支持的产品。
-  - 老项目依然有价值，适合长期关注和贡献。
+1. **技术趋势明显：** AI相关项目增长迅速，尤其在数据采集、分析、智能推送方面表现抢眼，未来值得关注。
+2. **成熟项目稳定性强：** Linux、build-your-own-x、n8n等平台化项目拥有坚实用户基础，适合长期投入与使用。
+3. **多样化生态：**涵盖学习、工具、资源、平台、多代理系统，说明开源生态丰富且应用场景广泛。
+4. **语言选择：**新项目倾向Python与轻量级技术，大型系统则仍以C/TypeScript为主。
 
 ---
 
-如需进一步细化某领域分析，欢迎告知。
+如果需要进一步详细分析某些项目特点及行业影响，也可以提供具体方向。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)|Python|请不要信息传递，AI帮你看新闻资讯热点，简单的情况监控分析 - 多平台热点聚合+基于CP的AI分析工具。监控35个平台（语音，知或，B站，华尔街新闻，英联邦等），智能语音选择+自动推送+AI对话分析（用自然语言深度新闻：态势追踪，情感分析，类似检测等13工具）。支持企业微信/笔记本/缩写/Telegram/mail/ntfy推送，30秒网页部门，1分钟手机通知，无需程序。支持Docker部门让算法为您服务，用AI解读热点|1125|34388|471|2025-04-28|
-|2|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|374|125650|113|2024-05-30|
-|3|[chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)|Jupyter Notebook|[WIP]人工智能工程师的资源。还包含《人工智能工程》一书的支持材料（Chip Huyen，2025）|288|11707|98|2024-12-03|
-|4|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|264|81211|97|2024-04-29|
-|5|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|282|444919|93|2018-05-09|
-|6|[GibsonAI/Memori](https://github.com/GibsonAI/Memori)|Python|适用于LLM、AI代理和多代理系统的开源内存引擎|275|8559|89|2025-07-24|
-|7|[qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)|JavaScript|API、CLI和Web应用程序，用于分析和查找1000个社交媒体/网站中的个人资料|266|19573|84|2020-11-30|
-|8|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|244|46045|81|2025-05-14|
-|9|[usestrix/strix](https://github.com/usestrix/strix)|Python|您的应用程序的开源人工智能黑客????????‍????|226|15481|76|2025-08-05|
-|10|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|209|159888|74|2019-06-22|
-|11|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|216|60286|73|2020-01-05|
-|12|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|222|44174|72|2025-02-22|
-|13|[midday-ai/midday](https://github.com/midday-ai/midday)|TypeScript|收件箱、时间跟踪、文件协调、存储、财务概览和您自己的为自由职业者打造的助理|227|13203|71|2023-09-18|
-|14|[torvalds/linux](https://github.com/torvalds/linux)|C|Linux内核源树|225|208648|67|2011-09-04|
-|15|[bobeff/open-source-games](https://github.com/bobeff/open-source-games)|None|开源游戏列表。|206|9479|65|2021-09-15|
+|1|[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)|Python|请不要信息传递，AI帮你看新闻资讯热点，简单的情况监控分析 - 多平台热点聚合+基于CP的AI分析工具。监控35个平台（语音，知或，B站，华尔街新闻，英联邦等），智能语音选择+自动推送+AI对话分析（用自然语言深度新闻：态势追踪，情感分析，类似检测等13工具）。支持企业微信/笔记本/缩写/Telegram/mail/ntfy推送，30秒网页部门，1分钟手机通知，无需程序。支持Docker部门让算法为您服务，用AI解读热点|1127|35515|470|2025-04-28|
+|2|[usestrix/strix](https://github.com/usestrix/strix)|Python|您的应用程序的开源人工智能黑客????????‍????|495|15976|162|2025-08-05|
+|3|[chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)|Jupyter Notebook|[WIP]人工智能工程师的资源。还包含《人工智能工程》一书的支持材料（Chip Huyen，2025）|331|12038|110|2024-12-03|
+|4|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|353|126003|107|2024-05-30|
+|5|[HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)|Python|DeepCode：开放式统计编码（Paper 2Code & Text 2 Web & Text 2Backend）|302|11223|97|2025-05-14|
+|6|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|264|160152|92|2019-06-22|
+|7|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|270|445189|87|2018-05-09|
+|8|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|233|60519|78|2020-01-05|
+|9|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|240|46285|78|2025-05-14|
+|10|[bobeff/open-source-games](https://github.com/bobeff/open-source-games)|None|开源游戏列表。|249|9728|78|2021-09-15|
+|11|[GibsonAI/Memori](https://github.com/GibsonAI/Memori)|Python|适用于LLM、AI代理和多代理系统的开源内存引擎|253|8812|78|2025-07-24|
+|12|[yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)|Python|[Support 0.49.x]（重置Cursor AI MachineID &绕过更高代币限制）Cursor AI，自动重置机器ID，免费升级使用Pro功能：您已经达到了试用请求限制。/此机器上使用的免费试用帐户太多。请升级到专业版。我们制定了这个限制是为了防止滥用。如果您认为这是一个错误，请告诉我们。|234|44684|74|2025-01-11|
+|13|[torvalds/linux](https://github.com/torvalds/linux)|C|Linux内核源树|194|208842|67|2011-09-04|
+|14|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|154|81365|55|2024-04-29|
+|15|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|158|98918|54|2025-03-05|
 
 [所有日榜](./day/day.md)
 
