@@ -60,101 +60,114 @@ Github热门开源项目榜单
 
 [所有日榜](./day/day.md)
 
-## 2025年第47周
+## 2025年第48周
 
-以下是对本期榜单的整体分析：
-
----
-
-### 1. **整体趋势分析**
-
-- **项目活跃度（趋势Star）**：榜单中多款项目的趋势Star值均在800以上，代表这些项目在近期的关注度和活跃度较高，尤其是排名前三的项目趋势Star分别为6436（TrendRadar）、2185（FreeDomain）、1854（n8n-workflows），显示出极强的成长势头。
-- **当前Star情况**：很多项目累计Star已经非常高，如 `build-your-own-x` (44.4万Star)、`public-apis` (38.2万Star)、`n8n` (15.9万Star)等，这类项目属于“长青”类，资源丰富、社区活跃。
-- **热度**：热度分数与趋势Star和当前Star相结合，反映近期关注度和项目的稳定程度。最高热度项目是TrendRadar（2627），说明近期表现尤为突出。
+以下是对本期榜单的分析，主要从项目分类、语言分布、趋势Star（近期关注度）、当前Star（累计受欢迎度）、热度、项目更新时间及项目特点等几个方面进行总结：
 
 ---
 
-### 2. **语言分布**
+## 一、项目概况及趋势
 
-- **Python** 是榜单中最常见的语言，出现在榜单前20名约7个项目中，体现了Python在AI、数据分析、API以及自动化领域的主导地位。
-- **TypeScript** 也较为活跃，代表现代前端开发和自动化工具的主流选择。
-- 其他语言包括HTML、Markdown、Clojure、Go、Roff等，表现了不同项目偏好和应用领域的多样性。
-
----
-
-### 3. **项目类型与功能**
-
-- **AI与智能分析类**（排名1、4、6、11、18、19、20）：如TrendRadar（一站式新闻热点智能分析）、strix（开源AI工具）、Memori（多代理AI内存引擎）、awesome-llm-apps（LLM应用集锦）、google-gemini-cli（AI代理）、BettaFish（多Agent分析助手）、call-center-ai（AI电话呼叫）。这类项目集中反映了AI新趋势，特别是多Agent系统和大模型应用。
-- **免费资源平台**（排名2、9、15）：FreeDomain免费域名、Public-APIs免费接口集合、Free-Certifications免费课程。侧重资源共享，具备很强的实用价值。
-- **工具与平台类**（排名3、5、7、8、12、13、16、17）：n8n工作流自动化、build-your-own-x教程、Penpot设计协作、clash-verge代理客户端、waveterm跨平台终端、iptv频道收集等。为开发者和普通用户提供在生产力方面的显著支持。
-- **内容类项目**（排名10、14）： ChinaTextbook教材库、open-source-games开源游戏集合，提供实用内容与娱乐。
+- **总览**：榜单中项目星标数跨度大，最高当前Star超44万（`codecrafters-io/build-your-own-x`），最低约9500多，体现了成熟项目与新兴项目的共存。
+- **趋势Star**（近期增长）方面，最高3670多，最低约800，表明榜单项目近期都具备较高关注度，热度新旧兼备。
+- **项目创建时间**跨度大，从2011年（Linux内核）到近期2025年都有，说明榜单包含经典项目与前沿项目。
 
 ---
 
-### 4. **项目生命周期与活跃度**
+## 二、技术语言分布
 
-- **部分老牌项目**（如public-apis 2016年创建，build-your-own-x 2018年），Star数量庞大，说明其长期的稳定贡献和社区积累。
-- **新兴项目**（2024-2025年创建）：如TrendRadar、n8n-workflows、strix、Memori等，这些项目虽然创建不久，但创新性强，增长迅速，符合当前AI和自动化发展趋势。
-- **增长潜力**：TrendRadar的趋势Star远超其他项目，显示其在热点监控和AI分析领域的领先优势，未来极可能吸引更多关注。
+|语言|代表项目|特点|
+|-|-|-|
+|Python|TrendRadar、BettaFish、Memori、public-apis等|最多，涵盖AI热点分析、大数据、API集合等|
+|Rust|rustfs|高性能存储系统，偏向系统级软件|
+|Markdown|build-your-own-x|技术学习资源合集|
+|TypeScript|opencode、n8n等|多用于现代Web应用、AI编码代理、自动化|
+|HTML|FreeDomain、n8n-workflows|网页资源与自动化流程|
+|C|linux|经典操作系统内核|
+|Zig|bun|新兴快速JavaScript运行时|
+|Java|kestra|企业级工作流平台|
+|None（标注无语言）|500-AI-Agents、open-source-games等|多为集合或列表性质项目|
+|Roff|ChinaTextbook|特定文档格式|
 
----
-
-### 5. **项目热度对比**
-
-| 项目名称                     | 趋势Star | 当前Star | 热度 |
-|--------------------------|--------|-------|----|
-| TrendRadar               | 6436   | 33263 | 2627 |
-| FreeDomain               | 2185   | 125276| 664  |
-| n8n-workflows            | 1854   | 45801 | 642  |
-| strix                   | 1880   | 15255 | 608  |
-| build-your-own-x         | 1798   | 444637| 582  |
-
-**解读**：TrendRadar增长迅猛，虽然总Star不及“build-your-own-x”等老项目，但短期热度极高。FreeDomain以免费域名抢占大众市场，累计Star高但近期增速稍弱。n8n-workflows和strix作为自动化和AI黑客类工具，均表现出中高火热度。
+Python项目在AI、数据领域表现突出，TypeScript项目多用于智能自动化和Web相关应用，Rust和Zig代表系统性能导向项目，体现多样化技术栈。
 
 ---
 
-### 6. **用户关注点总结**
+## 三、项目热点与趋势分析
 
-- **AI/大模型相关项目备受关注**，符合当前开发者和企业的需求热点。
-- **免费资源和教育类内容始终受欢迎**，体现开发者对知识共享和学习支持的需求。
-- **高增长项目多为新兴领域和跨平台工具**，显示技术前沿和应用场景不断创新。
+### 1. **趋势Star最高项目（短期关注度）**
+
+- `rustfs/rustfs`（3644 TrendStar）：开源高性能对象存储系统，兼容S3生态，顺应云存储需求增长。
+- `sansan0/TrendRadar`（3584）：AI驱动多平台新闻热点监控，结合多模式推送与AI分析，凸显智能内容分析的热点。
+- `codecrafters-io/build-your-own-x`（2190）：技术学习项目，长期稳定受众，代表技术成长社区焦点。
+- `oven-sh/bun`（2031）：极限性能的JS运行时，JavaScript生态中的创新代表。
+- `DigitalPlatDev/FreeDomain`（1996）：免费域名服务，贴近互联网基础资源分享需求。
+
+### 2. **当前Star最高项目（累计受欢迎）**
+
+- `codecrafters-io/build-your-own-x` (447109)：技术爱好者与学习者青睐。
+- `public-apis/public-apis` (382975)：人工智能与开发者必备的免费API集合，实用性强。
+- `torvalds/linux` (209782)：经典代表，长期受众庞大。
+- `oven-sh/bun` (84483)、`clash-verge-rev/clash-verge-rev` (85941)：现代工具类项目，集成与性能优势明显。
+- `DigitalPlatDev/FreeDomain` (127646)：资源共享项目影响力大。
+
+### 3. **热度指标**
+
+热度体现项目近期活跃度和关注度，Top1 `TrendRadar` （1363）明显领先，表明AI驱动的热点分析项目备受关注。
 
 ---
 
-### 7. **建议**
+## 四、项目特点与场景聚焦
 
-- 关注趋势Star高、热度高的新兴项目，及时跟踪其发展，获取前沿技术和工具支持。
-- 对经典大Star项目如build-your-own-x、public-apis等进行深入学习，借助其成熟资源提升技能。
-- 利用榜单信息，结合自身需求选择适合的开源项目，如AI代理、工作流自动化、免费域名等领域。
+- **AI和智能应用占比大**：TrendRadar、500-AI-Agents、opencode、BettaFish、Memori等均明显聚焦AI代理、智能分析、多Agent系统等热门前沿技术。
+- **开发者工具和教育资源丰富**：build-your-own-x、open-source-games、public-apis等项目，对技术学习与开源工具生态有推动作用。
+- **系统及基础设施项目**：rustfs、linux、bun、kestra涉及存储、运行时、核心系统和工作流自动化，体现基础软件创新。
+- **多平台和多语言支持**：项目支持多平台（如TrendRadar推送多样客户端），多语言生态共生，满足不同开发需求。
 
 ---
 
-**总结**：本期榜单呈现出以AI驱动、免费资源与工具创新为核心的开源项目风向。既有大量持续沉淀的经典项目，又有高速成长的激进新星，整体展示了开源社区的活力与多样化趋势。
+## 五、时间分布与新兴趋势
+
+- 近一两年（2023-2025）创建的项目数量较多，表明新项目活跃度增高，尤其是AI相关和云原生应用领域。
+- 老牌项目如Linux、build-your-own-x依旧保持高关注，长尾效应明显。
+
+---
+
+## 六、总结建议
+
+1. **AI驱动应用的关注度持续高涨**，尤其是结合多平台数据源和自然语言处理的趋势项目。
+2. **性能优化和系统级创新依旧重要**，Rust、Zig等语言的高性能存储和运行时项目越来越受重视。
+3. **技术学习与资源整合类项目价值突出**，持续受欢迎且贡献生态人才。
+4. **项目活跃度与实际应用场景紧密结合**，多领域多场景的跨界融合是未来趋势。
+
+---
+
+如果需要对具体项目做更深度的技术分析或市场前景评估，欢迎进一步沟通！
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)|Python|请不要信息传递，AI帮你看新闻资讯热点，简单的情况监控分析 - 多平台热点聚合+基于CP的AI分析工具。监控35个平台（语音，知或，B站，华尔街新闻，英联邦等），智能语音选择+自动推送+AI对话分析（用自然语言深度新闻：态势追踪，情感分析，类似检测等13工具）。支持企业微信/笔记本/缩写/Telegram/mail/ntfy推送，30秒网页部门，1分钟手机通知，无需程序。支持Docker部门让算法为您服务，用AI解读热点|6436|33263|2627|2025-04-28|
-|2|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|2185|125276|664|2024-05-30|
-|3|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|1854|45801|642|2025-05-14|
-|4|[usestrix/strix](https://github.com/usestrix/strix)|Python|您的应用程序的开源人工智能黑客????????‍????|1880|15255|608|2025-08-05|
-|5|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|1798|444637|582|2018-05-09|
-|6|[GibsonAI/Memori](https://github.com/GibsonAI/Memori)|Python|适用于LLM、AI代理和多代理系统的开源内存引擎|1779|8284|559|2025-07-24|
-|7|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|1328|98583|474|2025-03-05|
-|8|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|1301|159679|474|2019-06-22|
-|9|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|1307|381969|444|2016-03-20|
-|10|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|1228|60070|417|2020-01-05|
-|11|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|1106|80947|412|2024-04-29|
-|12|[penpot/penpot](https://github.com/penpot/penpot)|Clojure|Penpot：用于设计和代码协作的开源设计工具|1294|42910|397|2015-12-29|
-|13|[clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)|TypeScript|基于Tauri的现代化图形用户界面客户端，旨在在Windows、macOS和Linux中运行，以提供量身定制的代理体验|1186|84836|374|2023-11-21|
-|14|[bobeff/open-source-games](https://github.com/bobeff/open-source-games)|None|开源游戏列表。|1154|9273|363|2021-09-15|
-|15|[cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)|None|经过精心策划的具有认证的免费课程列表。也可访问https://free-certifications.com/|1041|45602|333|2020-07-31|
-|16|[wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)|Go|一个开源、跨平台终端，实现无缝工作流程|978|14249|303|2022-06-08|
-|17|[iptv-org/iptv](https://github.com/iptv-org/iptv)|TypeScript|收集来自世界各地的公开可用的IPTV频道|958|103866|300|2018-11-14|
-|18|[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)|TypeScript|一个开源的AI代理，将Gemini的力量直接带入您的终端。|874|85264|295|2025-04-17|
-|19|[666ghj/BettaFish](https://github.com/666ghj/BettaFish)|Python|微辙：人类可以利用的多Agent肉瘤分析助手，挖掘信息切片房，还原肉瘤根源，预测未来走向，辅助决策！从0实现，不依赖任何框架。|875|30096|295|2024-07-01|
-|20|[microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)|Python|在API调用中从AI代理发送电话呼叫。或者，直接从配置的电话号码呼叫机器人！|887|5380|281|2024-01-09|
+|1|[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)|Python|请不要信息传递，AI帮你看新闻资讯热点，简单的情况监控分析 - 多平台热点聚合+基于CP的AI分析工具。监控35个平台（语音，知或，B站，华尔街新闻，英联邦等），智能语音选择+自动推送+AI对话分析（用自然语言深度新闻：态势追踪，情感分析，类似检测等13工具）。支持企业微信/笔记本/缩写/Telegram/mail/ntfy推送，30秒网页部门，1分钟手机通知，无需程序。支持Docker部门让算法为您服务，用AI解读热点|3584|37972|1363|2025-04-28|
+|2|[rustfs/rustfs](https://github.com/rustfs/rustfs)|Rust|ExpressRustFS是一个开源、S3兼容的高性能对象存储系统，支持与MinIO和Ceph等其他S3兼容平台的迁移和共存。|3644|15395|1117|2023-11-23|
+|3|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|2190|447109|706|2018-05-09|
+|4|[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)|None|500个人工智能代理项目是各个行业人工智能代理用例的精心策划的集合。它展示了实际应用，并提供了开源项目的链接以供实施，说明了人工智能代理如何改变医疗保健、金融、教育、零售等行业。|1983|19131|667|2024-12-20|
+|5|[oven-sh/bun](https://github.com/oven-sh/bun)|Zig|速度惊人的JavaScript运行时、调试器、测试运行器和包管理器-集于一身|2031|84483|652|2021-04-14|
+|6|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|1866|36450|606|2025-04-30|
+|7|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|1996|127646|605|2024-05-30|
+|8|[usestrix/strix](https://github.com/usestrix/strix)|Python|您的应用程序的开源人工智能黑客????????‍????|1498|16979|499|2025-08-05|
+|9|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|1220|161108|446|2019-06-22|
+|10|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|1124|47169|382|2025-05-14|
+|11|[torvalds/linux](https://github.com/torvalds/linux)|C|Linux内核源树|1134|209782|381|2011-09-04|
+|12|[kestra-io/kestra](https://github.com/kestra-io/kestra)|Java|：zap：通用工作流演示平台-以任何语言编写代码，在任何地方运行。800多个用于数据、基础设施和人工智能自动化的插件。|1215|25289|370|2019-08-24|
+|13|[666ghj/BettaFish](https://github.com/666ghj/BettaFish)|Python|微辙：人类可以利用的多Agent肉瘤分析助手，挖掘信息切片房，还原肉瘤根源，预测未来走向，辅助决策！从0实现，不依赖任何框架。|1020|31279|344|2024-07-01|
+|14|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|995|99755|343|2025-03-05|
+|15|[GibsonAI/Memori](https://github.com/GibsonAI/Memori)|Python|适用于LLM、AI代理和多代理系统的开源内存引擎|970|9529|307|2025-07-24|
+|16|[bobeff/open-source-games](https://github.com/bobeff/open-source-games)|None|开源游戏列表。|946|10425|305|2021-09-15|
+|17|[clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)|TypeScript|基于Tauri的现代化图形用户界面客户端，旨在在Windows、macOS和Linux中运行，以提供量身定制的代理体验|948|85941|298|2023-11-21|
+|18|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|833|61119|283|2020-01-05|
+|19|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|846|382975|281|2016-03-20|
+|20|[lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)|Python|Notebook LM的开源实现，具有更多灵活性和功能|859|12468|278|2024-10-21|
 
 [所有周榜](./week/week.md)
 
