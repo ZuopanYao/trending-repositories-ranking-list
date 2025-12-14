@@ -95,114 +95,111 @@ Github热门开源项目榜单
 
 [所有日榜](./day/day.md)
 
-## 2025年第48周
+## 2025年第49周
 
-以下是对本期榜单的分析，主要从项目分类、语言分布、趋势Star（近期关注度）、当前Star（累计受欢迎度）、热度、项目更新时间及项目特点等几个方面进行总结：
-
----
-
-## 一、项目概况及趋势
-
-- **总览**：榜单中项目星标数跨度大，最高当前Star超44万（`codecrafters-io/build-your-own-x`），最低约9500多，体现了成熟项目与新兴项目的共存。
-- **趋势Star**（近期增长）方面，最高3670多，最低约800，表明榜单项目近期都具备较高关注度，热度新旧兼备。
-- **项目创建时间**跨度大，从2011年（Linux内核）到近期2025年都有，说明榜单包含经典项目与前沿项目。
+本期榜单包含了20个项目，涵盖人工智能代理、机器学习入门、AI辅助工具、开源基础设施以及云服务等多个方向。以下是详细分析：
 
 ---
 
-## 二、技术语言分布
+### 1. 趋势和热门度分析
+- **趋势Star（近期新增Star）最高的是**：
+  - 第1名 [DayuanJiang/next-ai-draw-io](4916)：主打基于Next.js集成AI与draw.io的图表应用，体现了AI与可视化结合的热门趋势。
+  - 第2名 [microsoft/VibeVoice](4227)：聚焦语音AI，反映了语音识别和合成技术的受关注度。
+  - 第3名 [datawhalechina/hello-agents](2982)：从零构建智能体的教学项目，显示了学习型开源项目的热度。
+  
+- **当前Star最高的是**：
+  - 第9名 [codecrafters-io/build-your-own-x](448,938)：长期积累的知名编程学习项目，受众广泛且持续火热。
+  - 第12名 [n8n-io/n8n](162,591)：强调工作流程自动化，结合AI功能，适合自动化和无代码领域需求。
+  - 第11名 [microsoft/ML-For-Beginners](81,843)：微软官方机器学习入门教程，受众稳定。
 
-|语言|代表项目|特点|
-|-|-|-|
-|Python|TrendRadar、BettaFish、Memori、public-apis等|最多，涵盖AI热点分析、大数据、API集合等|
-|Rust|rustfs|高性能存储系统，偏向系统级软件|
-|Markdown|build-your-own-x|技术学习资源合集|
-|TypeScript|opencode、n8n等|多用于现代Web应用、AI编码代理、自动化|
-|HTML|FreeDomain、n8n-workflows|网页资源与自动化流程|
-|C|linux|经典操作系统内核|
-|Zig|bun|新兴快速JavaScript运行时|
-|Java|kestra|企业级工作流平台|
-|None（标注无语言）|500-AI-Agents、open-source-games等|多为集合或列表性质项目|
-|Roff|ChinaTextbook|特定文档格式|
+- **热度方面（综合趋势Star与当前Star）**：
+  热度高的项目多数结合了AI技术与实际应用：  
+  - AI辅助绘图、语音AI、智能体课程、以及高活跃度自动化平台如n8n。
+  
+---
 
-Python项目在AI、数据领域表现突出，TypeScript项目多用于智能自动化和Web相关应用，Rust和Zig代表系统性能导向项目，体现多样化技术栈。
+### 2. 语言和技术栈分布
+- **TypeScript**（6个项目）：Rank1,7,8,12,14,18  
+  这些项目多聚焦于前端开发、Web应用、AI代理基础设施及自动化，表明TypeScript在现代AI应用及工具开发中占据重要地位。
+  
+- **Python**（7个项目）：Rank2,3,6,13,16,17,19  
+  Python作为AI、机器学习及数据分析的主流语言，主要被用于智能体、AI代理系统、教学及内存引擎相关项目。
+  
+- **Rust**（2个项目）：Rank10,20  
+  着眼于高性能AI代理和对象存储，体现Rust在性能敏感型云服务和系统软件中的优势。
+
+- **其他**：
+  - Markdown（Rank9）：技术学习路线文档。
+  - HTML（Rank5）：免费域名相关。
+  - Jupyter Notebook（Rank11,15）：面向教学。
+  - Kotlin（Rank4）：聚焦设备（AirPods）生态解放，比较独特。
 
 ---
 
-## 三、项目热点与趋势分析
+### 3. 项目类型分类
+- **AI应用及代理类**（如智能体、AI代理系统）：
+  - [DayuanJiang/next-ai-draw-io](图表可视化+AI)
+  - [microsoft/VibeVoice](语音AI)
+  - [datawhalechina/hello-agents](智能体教学)
+  - [block/goose](Rust AI代理)
+  - [daytonaio/daytona](AI生成代码基础设施)
+  - [ashishpatel26/500-AI-Agents-Projects]（代理项目集合）
+  - 以及多代理内存引擎相關项目（Memori）
 
-### 1. **趋势Star最高项目（短期关注度）**
+- **教学项目**：
+  - [codecrafters-io/build-your-own-x]
+  - [microsoft/ML-For-Beginners]
+  - [microsoft/generative-ai-for-beginners]
 
-- `rustfs/rustfs`（3644 TrendStar）：开源高性能对象存储系统，兼容S3生态，顺应云存储需求增长。
-- `sansan0/TrendRadar`（3584）：AI驱动多平台新闻热点监控，结合多模式推送与AI分析，凸显智能内容分析的热点。
-- `codecrafters-io/build-your-own-x`（2190）：技术学习项目，长期稳定受众，代表技术成长社区焦点。
-- `oven-sh/bun`（2031）：极限性能的JS运行时，JavaScript生态中的创新代表。
-- `DigitalPlatDev/FreeDomain`（1996）：免费域名服务，贴近互联网基础资源分享需求。
-
-### 2. **当前Star最高项目（累计受欢迎）**
-
-- `codecrafters-io/build-your-own-x` (447109)：技术爱好者与学习者青睐。
-- `public-apis/public-apis` (382975)：人工智能与开发者必备的免费API集合，实用性强。
-- `torvalds/linux` (209782)：经典代表，长期受众庞大。
-- `oven-sh/bun` (84483)、`clash-verge-rev/clash-verge-rev` (85941)：现代工具类项目，集成与性能优势明显。
-- `DigitalPlatDev/FreeDomain` (127646)：资源共享项目影响力大。
-
-### 3. **热度指标**
-
-热度体现项目近期活跃度和关注度，Top1 `TrendRadar` （1363）明显领先，表明AI驱动的热点分析项目备受关注。
-
----
-
-## 四、项目特点与场景聚焦
-
-- **AI和智能应用占比大**：TrendRadar、500-AI-Agents、opencode、BettaFish、Memori等均明显聚焦AI代理、智能分析、多Agent系统等热门前沿技术。
-- **开发者工具和教育资源丰富**：build-your-own-x、open-source-games、public-apis等项目，对技术学习与开源工具生态有推动作用。
-- **系统及基础设施项目**：rustfs、linux、bun、kestra涉及存储、运行时、核心系统和工作流自动化，体现基础软件创新。
-- **多平台和多语言支持**：项目支持多平台（如TrendRadar推送多样客户端），多语言生态共生，满足不同开发需求。
+- **工具与基础设施**：
+  - [n8n-io/n8n]（自动化流程）
+  - [DigitalPlatDev/FreeDomain]（免费域名服务）
+  - [rustfs/rustfs]（高性能对象存储）
+  - [CopilotKit/CopilotKit]（AI Copilot UI基础设施）
 
 ---
 
-## 五、时间分布与新兴趋势
-
-- 近一两年（2023-2025）创建的项目数量较多，表明新项目活跃度增高，尤其是AI相关和云原生应用领域。
-- 老牌项目如Linux、build-your-own-x依旧保持高关注，长尾效应明显。
-
----
-
-## 六、总结建议
-
-1. **AI驱动应用的关注度持续高涨**，尤其是结合多平台数据源和自然语言处理的趋势项目。
-2. **性能优化和系统级创新依旧重要**，Rust、Zig等语言的高性能存储和运行时项目越来越受重视。
-3. **技术学习与资源整合类项目价值突出**，持续受欢迎且贡献生态人才。
-4. **项目活跃度与实际应用场景紧密结合**，多领域多场景的跨界融合是未来趋势。
+### 4. 创建时间及成长潜力
+- **2024-2025年新项目占多数**，其中不少2025年创立的项目已经收获高度关注，如DayuanJiang/next-ai-draw-io和microsoft/VibeVoice，这说明AI领域新项目增速快，用户关注度和社区活跃度迅速提升。
+- 老项目（2018年及之前的build-your-own-x）依然保持高热度，体现经典优质内容的长尾生命力。
 
 ---
 
-如果需要对具体项目做更深度的技术分析或市场前景评估，欢迎进一步沟通！
+### 5. 亮点与趋势总结
+- **AI+应用结合紧密**，涵盖图表、语音、代码生成、自动化工作流程等，显示AI正在深度嵌入各类软件工具。
+- **教育资源仍是关注重点**，多项目专注于从零基础教学智能体、机器学习和生成性AI，满足行业人才培养需求。
+- **多代理和内存引擎是热门方向**，针对复杂任务分解及知识管理的需求增长。
+- **类型多样，生态扩张**，覆盖从低代码工具（n8n）到底层基础服务（rustfs），语言多样但以TypeScript和Python为主流。
+
+---
+
+### 总结
+本期榜单体现了AI技术的多维度应用趋势和生态繁荣：既有新兴AI应用快速崛起，也有经典项目稳定输出；同时兼顾教学、基础设施和前沿技术。未来，AI代理、多模态交互和自动化无疑将持续成为开发者和用户关注的焦点。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)|Python|请不要信息传递，AI帮你看新闻资讯热点，简单的情况监控分析 - 多平台热点聚合+基于CP的AI分析工具。监控35个平台（语音，知或，B站，华尔街新闻，英联邦等），智能语音选择+自动推送+AI对话分析（用自然语言深度新闻：态势追踪，情感分析，类似检测等13工具）。支持企业微信/笔记本/缩写/Telegram/mail/ntfy推送，30秒网页部门，1分钟手机通知，无需程序。支持Docker部门让算法为您服务，用AI解读热点|3584|37972|1363|2025-04-28|
-|2|[rustfs/rustfs](https://github.com/rustfs/rustfs)|Rust|ExpressRustFS是一个开源、S3兼容的高性能对象存储系统，支持与MinIO和Ceph等其他S3兼容平台的迁移和共存。|3644|15395|1117|2023-11-23|
-|3|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|2190|447109|706|2018-05-09|
-|4|[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)|None|500个人工智能代理项目是各个行业人工智能代理用例的精心策划的集合。它展示了实际应用，并提供了开源项目的链接以供实施，说明了人工智能代理如何改变医疗保健、金融、教育、零售等行业。|1983|19131|667|2024-12-20|
-|5|[oven-sh/bun](https://github.com/oven-sh/bun)|Zig|速度惊人的JavaScript运行时、调试器、测试运行器和包管理器-集于一身|2031|84483|652|2021-04-14|
-|6|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|1866|36450|606|2025-04-30|
-|7|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|1996|127646|605|2024-05-30|
-|8|[usestrix/strix](https://github.com/usestrix/strix)|Python|您的应用程序的开源人工智能黑客????????‍????|1498|16979|499|2025-08-05|
-|9|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|1220|161108|446|2019-06-22|
-|10|[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)|HTML|我能找到的所有n8 n工作流程（也来自网站本身）|1124|47169|382|2025-05-14|
-|11|[torvalds/linux](https://github.com/torvalds/linux)|C|Linux内核源树|1134|209782|381|2011-09-04|
-|12|[kestra-io/kestra](https://github.com/kestra-io/kestra)|Java|：zap：通用工作流演示平台-以任何语言编写代码，在任何地方运行。800多个用于数据、基础设施和人工智能自动化的插件。|1215|25289|370|2019-08-24|
-|13|[666ghj/BettaFish](https://github.com/666ghj/BettaFish)|Python|微辙：人类可以利用的多Agent肉瘤分析助手，挖掘信息切片房，还原肉瘤根源，预测未来走向，辅助决策！从0实现，不依赖任何框架。|1020|31279|344|2024-07-01|
-|14|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|995|99755|343|2025-03-05|
-|15|[GibsonAI/Memori](https://github.com/GibsonAI/Memori)|Python|适用于LLM、AI代理和多代理系统的开源内存引擎|970|9529|307|2025-07-24|
-|16|[bobeff/open-source-games](https://github.com/bobeff/open-source-games)|None|开源游戏列表。|946|10425|305|2021-09-15|
-|17|[clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)|TypeScript|基于Tauri的现代化图形用户界面客户端，旨在在Windows、macOS和Linux中运行，以提供量身定制的代理体验|948|85941|298|2023-11-21|
-|18|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|833|61119|283|2020-01-05|
-|19|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|846|382975|281|2016-03-20|
-|20|[lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)|Python|Notebook LM的开源实现，具有更多灵活性和功能|859|12468|278|2024-10-21|
+|1|[DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)|TypeScript|next.js网络应用程序，将人工智能功能与draw.io图表集成。该应用程序允许您通过自然语言命令和人工智能辅助可视化创建、修改和增强图表。|4916|9951|1574|2025-03-23|
+|2|[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)|Python|开源前沿语音人工智能|4227|17861|1353|2025-08-25|
+|3|[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)|Python|????《从零开始构建智能体》--从零开始智能体原理与实践课程|2982|8988|954|2025-09-07|
+|4|[kavishdevar/librepods](https://github.com/kavishdevar/librepods)|Kotlin|AirPods从苹果的生态系统中解放出来。|1914|22006|606|2024-09-26|
+|5|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|1899|129824|574|2024-05-30|
+|6|[lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)|Python|Notebook LM的开源实现，具有更多灵活性和功能|1769|14794|567|2024-10-21|
+|7|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|1702|37155|520|2024-02-06|
+|8|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|1579|38670|513|2025-04-30|
+|9|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|1536|448938|495|2018-05-09|
+|10|[block/goose](https://github.com/block/goose)|Rust|一个开源、可扩展的AI代理，超越了代码建议-使用任何LLM安装、执行、编辑和测试|1568|24312|493|2024-08-23|
+|11|[microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)|Jupyter Notebook|12周，26节课，52次测验，所有人的经典机器学习|1366|81843|474|2021-03-03|
+|12|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|1275|162591|461|2019-06-22|
+|13|[666ghj/BettaFish](https://github.com/666ghj/BettaFish)|Python|微辙：人类可以利用的多Agent肉瘤分析助手，挖掘信息切片房，还原肉瘤根源，预测未来走向，辅助决策！从0实现，不依赖任何框架。|1245|32777|424|2024-07-01|
+|14|[CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)|TypeScript|React UI +用于AI Copilots、AI聊天机器人和应用内AI代理的优雅基础设施。超大的最后一英里收件箱|1234|26539|390|2023-06-19|
+|15|[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)|Jupyter Notebook|21个教训，开始使用生成性人工智能进行构建 |991|103799|378|2023-06-19|
+|16|[GibsonAI/Memori](https://github.com/GibsonAI/Memori)|Python|适用于LLM、AI代理和多代理系统的开源内存引擎|1239|10844|376|2025-07-24|
+|17|[MemoriLabs/Memori](https://github.com/MemoriLabs/Memori)|Python|适用于LLM、AI代理和多代理系统的开源内存引擎|1239|10844|376|2025-07-24|
+|18|[simstudioai/sim](https://github.com/simstudioai/sim)|TypeScript|构建和部署AI代理工作流程的开源平台。|1149|19863|363|2025-01-05|
+|19|[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)|None|500个人工智能代理项目是各个行业人工智能代理用例的精心策划的集合。它展示了实际应用，并提供了开源项目的链接以供实施，说明了人工智能代理如何改变医疗保健、金融、教育、零售等行业。|1082|20705|360|2024-12-20|
+|20|[rustfs/rustfs](https://github.com/rustfs/rustfs)|Rust|ExpressRustFS是一个开源、S3兼容的高性能对象存储系统，支持与MinIO和Ceph等其他S3兼容平台的迁移和共存。|1158|17065|360|2023-11-23|
 
 [所有周榜](./week/week.md)
 
