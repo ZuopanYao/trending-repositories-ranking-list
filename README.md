@@ -1,84 +1,86 @@
 Github热门开源项目榜单
 
-## 2025年12月15日
+## 2025年12月16日
 
-这份榜单涵盖了2024年至2025年期间多个热门开源项目，项目涵盖人工智能、前端框架、API资源、编程学习等多个领域。以下是对榜单的详细分析：
-
----
-
-### 1. 项目类型与技术栈分析
-- **语言种类**：
-  - TypeScript项目占多数（6个），体现了TypeScript在现代Web和AI应用开发中的主导地位。
-  - Python项目数量较少（2个），但包含权威API资源和智能体课程内容，显示其在AI和数据科学领域的持续重要性。
-  - 其他语言包括JavaScript、Rust、Vue、Kotlin、HTML和Markdown，展示了多样化的开发技术栈。
-  
-- **项目领域**：
-  - **人工智能与代理/工作流相关**：排名1、2、3、5、6、11、13等项目均围绕AI代理、智能体开发或AI结合的工具展开，体现了AI技术的热度与开源社区的活跃度。
-  - **工具/组件库**：如shadcn-ui/ui（第9名）为前端组件库，强调易用性和设计美学。
-  - **学习资源**：build-your-own-x（第12名）、Foundations-of-LLMs（第7名）为开发者学习编程及LLM原理提供资源。
-  - **实用平台/服务**：public-apis（第8名）提供免费API集合，FreeDomain（第15名）提供免费域名服务。
-  - **跨平台应用**：HuLa（第10名）是跨平台桌面即时通讯应用，结合Rust与Vue技术。
+本期榜单汇集了当前热门的开源项目，涉及人工智能、开发工具、教育资源等多个领域。以下是对榜单的整体分析：
 
 ---
 
-### 2. 热度与Star趋势分析
-- **当前Star量**：
-  - 最大的是openai/codex（53749）和public-apis（384492），显示它们累计较长时间的影响力和用户基础。
-  - 其他项目Star数多在几千至数万之间，表明它们多数为较新（2024-2025年创建）的项目，粉丝数增长迅速。
-  
-- **趋势Star**（近期星标增长数）：
-  - next-ai-draw-io（1488）、sim（1467）、claude-mem（1110）等项目表现出非常强劲的短期增长势头，说明最近在社区活跃并持续获得关注。
-  - 虽然像public-apis和build-your-own-x当前Star数巨大，但短期内增长较慢，体现出“老牌项目”的稳定影响力。
-  
-- **热度指数**：
-  - 通过热度指标（最高472）来看，top3项目热度远高于其他项目，代表其近期活跃度和用户关注度明显领先。
-  
----
+### 1. **项目类型与技术趋势**
 
-### 3. 创建时间分析
-- 绝大多数热门项目均为2024年~2025年初创建，显示新项目快速崛起。
-- 建立时间较早的public-apis（2016年）、build-your-own-x（2018年）依然保持着高star，体现出长远积累和社区认可。
+- **AI与智能代理平台占据主导**：
+  - 排名第1的simstudioai/sim是AI代理工作流平台，趋势Star最高（1282），表明开发者对AI代理及自动化流程的关注度持续攀升。
+  - 类似项目如thedotmack/claude-mem（第6）、sst/opencode（第10）也围绕AI编码代理，显示AI辅助开发的流行趋势。
+- **前端框架与UI库依然受欢迎**：
+  - 如shadcn-ui/ui（第11）提供设计优良、易访问的组件库，当前Star超过10万，说明前端性能和用户体验依旧是开发重点。
+- **多语言支持与生态多样性**：
+  - TypeScript项目数量最多（6个项目），说明该语言在现代Web与AI结合场景中的优势。
+  - Python项目数量紧随其后，尤其是与机器学习、API集合、教育课程相关。
+  - 还有PowerShell、Roff（排版语言）、HTML等多样化语言，展示了不同应用场景需求。
 
 ---
 
-### 4. 综合分析与趋势判断
-- **人工智能生态壮大**：榜单显示，AI工具、AI代理及相关工作流平台是开源项目的热点，例如next-ai-draw-io结合图形化工具与AI，sim支持AI代理工作流，Claude-mem针对AI编码会话上下文的管理等。
-- **新技术驱动开发**：TypeScript的普及、Rust的兴起（openai/codex、HuLa等），显示开发者倾向采用现代、高性能的编程语言去构建未来应用。
-- **学习与社区资源重视**：诸如Foundations-of-LLMs、build-your-own-x提供系统学习资源，强调开发者技能提升。
-- **项目新鲜度与活跃度关系紧密**：大部分高热度项目都是近一年内创建，反映出开源社区的快速迭代特性。
-- **跨平台、高性能成趋势**：HuLa项目使用Rust+Vue构建跨平台应用，显示开发者关注兼具性能与用户体验的解决方案。
+### 2. **时间跨度与项目活跃度**
+
+- **新旧项目并存**：
+  - 较早创建的项目如public-apis（2016年，Star最高达38.5万）、Win11Debloat（2020年）、ChinaTextbook（2020年）依然热度不减，说明优质基础项目依旧有强生命力。
+  - 2024年及2025年新创建项目大量涌现，且拥有较高趋势Star，表明新兴项目具备爆发潜力，且近期开发活跃。
+- **趋势Star与当前Star对比**：
+  - simstudioai/sim趋势Star最高（1282）且创建时间非常近（2025-01-05），意味着该项目近期获得大量关注和快速增长。
+  - public-apis当前Star最高，但趋势Star（838）较sim稍低，显示其正在维持稳定但增长趋缓。
+  - DayuanJiang/next-ai-draw-io（趋势Star 771）表现突出，结合人工智能与图形绘制，创新性明显。
 
 ---
 
-### 建议
-- **关注AI代理及工作流平台**：这些项目有极大潜力，值得深入研究和关注最新动态。
-- **利用学习资源提升能力**：例如build-your-own-x，适合提升底层技术理解。
-- **参与社区**：新兴项目活跃，适合贡献代码、提出需求，参与创新。
-- **关注跨平台项目**：现代应用趋向多平台兼容，Rust与前端框架结合值得关注。
+### 3. **热门应用场景**
+
+- **人工智能辅助和生成**：
+  - 例如next-ai-draw-io通过自然语言指令驱动图表生成，符合AI可用性提升趋势。
+  - claude-mem利用AI自动记录上下文，提升编码效率。
+- **知识与资源分享**：
+  - TapXWorld/ChinaTextbook涵盖教育教材，具有普适性和实际应用价值。
+  - datawhalechina/hello-agents针对学习智能体的课程，体现开源教育资源的价值。
+- **系统与工具优化**：
+  - Win11Debloat清理系统垃圾提升体验，满足用户定制化需求。
 
 ---
 
-总结：本期榜单集中体现了人工智能及其生态系统的火热局面，TypeScript与Rust作为主要技术被频繁采用，社区对AI代理、学习资源和跨平台应用表现出强烈关注。新项目快速崛起并成功吸引大量用户，开源生态正加速向智能化、模块化和高性能方向发展。
+### 4. **热度与星标数分析**
+
+- Star数量大部分项目处于1万至数十万之间，热度指标（相对热度）分布合理，显示榜单既兼顾“老牌爆款”也关注“新星”。
+- 例如，DigitalPlatDev/FreeDomain（免费域名服务）尽管创建时间为2024，但当前Star已达13万，增长迅速。
+
+---
+
+### 5. **总结建议**
+
+- **关注AI和智能代理相关项目**：这些领域正快速扩展，开发者和企业应投入更多资源参与。
+- **利用成熟项目资源**：public-apis、shadcn-ui/ui等项目成熟且生态完善，适合创新开发和集成。
+- **推动开源教育和工具开发**：结合实际需求，如ChinaTextbook和hello-agents，可为社区带来长远价值。
+
+---
+
+总体来说，本期榜单反映了开源生态中AI与智能代理快速发展的趋势，前端与工具库稳定增长，教育资源持续丰富。新项目展现出高度活跃与创新潜力，值得持续关注。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)|TypeScript|next.js网络应用程序，将人工智能功能与draw.io图表集成。该应用程序允许您通过自然语言命令和人工智能辅助可视化创建、修改和增强图表。|1488|11439|472|2025-03-23|
-|2|[simstudioai/sim](https://github.com/simstudioai/sim)|TypeScript|构建和部署AI代理工作流程的开源平台。|1467|21330|462|2025-01-05|
-|3|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|1110|6592|349|2025-08-31|
-|4|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|976|53749|304|2025-04-13|
-|5|[MotiaDev/motia](https://github.com/MotiaDev/motia)|TypeScript|现代后台框架将API、后台作业、工作流程和人工智能代理统一到一个具有内置可观察性和状态管理的单一核心基元中。|648|12856|198|2025-01-02|
-|6|[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)|Python|????《从零开始构建智能体》--从零开始智能体原理与实践课程|623|9611|195|2025-09-07|
-|7|[ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs)|None|一本学习法学硕士基础的书|459|14024|146|2024-06-30|
-|8|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|380|384492|124|2016-03-20|
-|9|[shadcn-ui/ui](https://github.com/shadcn-ui/ui)|TypeScript|一套设计精美、易于访问的组件和代码分发平台。与您最喜欢的框架一起使用。开源.开放代码。|348|102563|107|2023-01-04|
-|10|[HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa)|Vue|????一款基于Rust + Vue3构建的跨平台即时通讯桌面应用程序，具有卓越性能，兼容Windows、macOS、Linux、Android和iOS（一款基于Rust+Vue3致性能的|342|6166|106|2024-01-16|
-|11|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|305|37460|93|2024-02-06|
-|12|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|297|449235|92|2018-05-09|
-|13|[agentsmd/agents.md](https://github.com/agentsmd/agents.md)|TypeScript|AGENTS.md一个简单、开放的格式，用于指导编码代理|287|11789|91|2025-08-19|
-|14|[kavishdevar/librepods](https://github.com/kavishdevar/librepods)|Kotlin|AirPods从苹果的生态系统中解放出来。|278|22284|90|2024-09-26|
-|15|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|295|130119|89|2024-05-30|
+|1|[simstudioai/sim](https://github.com/simstudioai/sim)|TypeScript|构建和部署AI代理工作流程的开源平台。|1282|22612|411|2025-01-05|
+|2|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|838|385330|274|2016-03-20|
+|3|[DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)|TypeScript|next.js网络应用程序，将人工智能功能与draw.io图表集成。该应用程序允许您通过自然语言命令和人工智能辅助可视化创建、修改和增强图表。|771|12210|247|2025-03-23|
+|4|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|Roff|所有小初高，大学PDF教材。|662|62596|233|2020-01-05|
+|5|[C4illin/ConvertX](https://github.com/C4illin/ConvertX)|TypeScript|????自托管在线文件转换器。支持1000+种格式|654|11217|203|2024-04-07|
+|6|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|618|7210|194|2025-08-31|
+|7|[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)|Python|????《从零开始构建智能体》--从零开始智能体原理与实践课程|371|9982|117|2025-09-07|
+|8|[Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)|PowerShell|一个简单、轻量级的Shell脚本，可以删除预安装的应用程序、禁用遥感以及执行各种其他更改以自定义、整理和改善您的Windows体验。Win11 Debloat适用于Windows 10和Windows 11。|360|35626|110|2020-10-27|
+|9|[ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs)|None|一本学习法学硕士基础的书|342|14366|107|2024-06-30|
+|10|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|322|39247|103|2025-04-30|
+|11|[shadcn-ui/ui](https://github.com/shadcn-ui/ui)|TypeScript|一套设计精美、易于访问的组件和代码分发平台。与您最喜欢的框架一起使用。开源.开放代码。|326|102889|102|2023-01-04|
+|12|[MotiaDev/motia](https://github.com/MotiaDev/motia)|TypeScript|现代后台框架将API、后台作业、工作流程和人工智能代理统一到一个具有内置可观察性和状态管理的单一核心基元中。|317|13173|97|2025-01-02|
+|13|[HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)|Python|DeepCode：开放式统计编码（Paper 2Code & Text 2 Web & Text 2Backend）|283|12579|92|2025-05-14|
+|14|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|297|130416|90|2024-05-30|
+|15|[resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)|Python|SoTA开源TTC|266|15309|87|2025-04-23|
 
 [所有日榜](./day/day.md)
 
