@@ -1,78 +1,66 @@
 Github热门开源项目榜单
 
-## 2025年12月23日
+## 2025年12月24日
 
-对本期榜单的分析如下：
+以下是对本期榜单的整体分析：
 
-### 一、整体概况
-- 榜单共15个项目，涉及的主流语言主要是Python（5个）、TypeScript（4个）、JavaScript（1个）、Go（1个）、Markdown、HTML和无特定语言（None）各1-2个。
-- 项目创建时间分布跨度较大，最早2018年，最新2025年，且有多个未来年份（2024、2025年）项目，说明可能数据源中出现了未来时间戳或项目预期上线时间。
-- 热度（活跃度）整体在几十到几百不等，趋势Star最高在1459，最低在246左右，说明榜单均为较热门的开源项目。
+---
 
-### 二、语言与技术分布分析
-1. **Python项目（5个）**
-   - 多为AI、代理、文本处理相关项目，如基于类型的简历生成器、AI集群、代理技能库、LLM文本抽取、AI安全审计等。
-   - Star数从2千多到3万7千不等，说明Python项目在AI与工具领域具有较高的关注度。
+### 1. **语言分布**
+- **Python 项目数量较多**（6个，有明显的学术和AI应用倾向，如`rendercv`、`langextract`、`chatterbox`、`LEANN`、`exo`）
+- **TypeScript 项目也不少**（4个，偏向工具链、代理平台和企业级解决方案，如`FossFLOW`、`plane`、`opencode`、`dify`）
+- 还有少量JavaScript、HTML、Svelte和无特定语言（None）的项目，体现了一定的多样性。
 
-2. **TypeScript项目（4个）**
-   - 主要涉及终端代理工具、多功能网络应用、IPTV频道收集等，偏工具与应用开发。
-   - Star总体较高，尤其是iptv-org (106k Star) 和 opencode (41k Star)。
-   - 展示了TypeScript在现代Web及工具开发中的广泛应用。
+### 2. **项目属性与应用场景**
+- 涉及**人工智能（AI）/代理/LLM**的项目占据主导地位：
+  - 如 `langextract`（从文本提取结构化信息）、`chatterbox`（SoTA开源TTC）、`LEANN`（私有化RAG应用）、`opencode`（终端AI代理）、`dify`（代理工作平台）, 显示出AI技术的持续火热。
+- **基础设施与生产力工具**：
+  - `FossFLOW`（地图基础设施图制作），`plane`（JIRA等替代品），`FreeDomain`（免费域名服务）。
+- 教育与资源分享：
+  - `Free-Certifications` 提供免费认证课程清单。
 
-3. **JavaScript (1个) 和 Go (1个)**
-   - JavaScript主要用于CLI工具配置及管理。
-   - Go项目侧重AI增强框架，表明Go在高性能AI系统中也有应用。
+### 3. **趋势Star与当前Star对比分析**
+- 趋势Star代表近期的星标增量，当前Star代表累计星标数。
+- 例如：
+  - `rendercv`：趋势Star高（2402）但当前Star相对低（8463），暗示近期增长迅速。
+  - `anthropics/skills`：当前Star（26384）已很高，趋势Star较低（647），更多属于成熟项目。
+  - `langgenius/dify`及`DigitalPlatDev/FreeDomain`：当前Star极高（超过10万以上），但趋势Star仅中等，可能进入平稳增长期。
+- 大部分新、活跃项目趋势Star分布在几百到两千左右，整体热度偏中高。
 
-4. **Markdown和HTML**
-   - Markdown项目为技术输出与技术学习资料。
-   - HTML用于免费域名项目，体现了部分项目专注实用工具和资源分享。
+### 4. **热度（综合指标）**
+- 综合热度最高的是 `rendercv`（753），符合其趋势Star高的特点，显示出非常活跃、受关注的状态。
+- 排名前几位项目热度均较高，逐渐往后热度递减，说明排名与热度基本匹配。
+- 热度表现出差异，不一定与累积Star成正比，更反映近期关注度和活跃度。
 
-### 三、项目特色与趋势分析
-- **项目趋势Star最高的是rendercv (1459)，虽然Star相对中等，但趋势明显，表明新兴项目快速获取关注。**
-- **exo项目拥有最大当前Star（37764）和较高热度，展示了家庭AI集群的创新受欢迎度。**
-- **build-your-own-x项目Star极高(45万+)但趋势和热度较低，说明为老牌热门项目，当前关注度较稳定。**
-- **项目介绍显示，许多项目聚焦人工智能（AI）与代理技术，结合自然语言处理、代码辅助、自动化任务，说明AI相关开源项目持续引领趋势。**
-
-### 四、热度与创建时间关系
-- 较老项目如build-your-own-x（2018年）和iptv-org（2018年）Star高但活跃度热度中等，说明用户关注较为稳定，增长趋缓。
-- 新近项目（2024-2025年创建）尽管Star数较低，但趋势Star和热度表现良好，表明新项目成长迅速，市场关注度上升。
-
-### 五、应用场景与用户群体
-- 诸多针对开发者工具、AI辅助编码、代理技能库等面向专业技术用户。
-- 也有面向学者（rendercv简历生成器）、普通用户（免费证书课程、免费域名）和多媒体爱好者（iptv频道收集）。
-- 多项目强调自然语言与AI结合，提升效率，推动自动化和智能辅助，契合行业发展热点。
+### 5. **创建时间与活跃度**
+- 大多数项目创建时间集中在2023年以后，甚至有部分显示2025年（可能为预估或虚拟时间数据）。
+- 近期（如2023、2024年）新项目更注重AI相关应用和数据处理。
+- 早期的项目（例如2020年创建的`Free-Certifications`）虽然创建时间早，但仍保持一定热度，体现出稳定的用户群和持续价值。
 
 ---
 
 ### 总结
-本期榜单反映了以下趋势：
-
-1. **AI技术高度活跃且多样**，Python及TypeScript项目大量涌现，功能覆盖从AI集群、智能代理到代码辅助。
-2. **新项目增长迅速且富有潜力**，多为2024-2025年创建，用户关注逐步提升。
-3. **成熟项目仍保持稳定粉丝基础**，如build-your-own-x和iptv-org，显示技术学习和内容资源类项目依旧有价值。
-4. **项目类型丰富，服务场景多样**，涵盖开发者工具、学习资源、智能辅助等，说明社区需求多元化。
-
-建议关注新兴高趋势Star项目，特别是在AI代理和自动化领域的创新项目，同时关注老牌项目的稳定性，可综合布局学习和实践资源。
+本期榜单明显聚焦在 **AI、代理技术、生产力工具** 领域，且以Python和TypeScript为主导开发语言。新兴项目的活跃度较高，尤其是AI应用类项目增长迅速。部分成熟项目虽然增长放缓，但仍保持较高星标和用户关注。榜单整体展示了当前开源生态中以AI及相关技术推动创新和社区热度的趋势。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[rendercv/rendercv](https://github.com/rendercv/rendercv)|Python|适合学者和工程师的基于类型的简历/简历生成器|1459|6061|456|2023-06-11|
-|2|[exo-explore/exo](https://github.com/exo-explore/exo)|Python|在家中使用日常设备运行您自己的AI集群'''????️????????|1125|37764|342|2024-06-24|
-|3|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|990|25737|315|2025-09-22|
-|4|[google/langextract](https://github.com/google/langextract)|Python|一个Python库，用于使用LLM从非结构化文本中提取结构化信息，具有精确的源代码基础和交互式可视化。|423|18501|131|2025-07-08|
-|5|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|422|451441|125|2018-05-09|
-|6|[cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)|None|经过精心策划的具有认证的免费课程列表。也可访问https://free-certifications.com/|396|48325|119|2020-07-31|
-|7|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|354|41453|113|2025-04-30|
-|8|[danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)|Go|Fabric是一个使用人工智能增强人类功能的开源框架。它提供了一个模块化系统，用于使用一组可在任何地方使用的众包人工智能提示来解决特定问题。|323|36282|99|2024-01-03|
-|9|[iptv-org/iptv](https://github.com/iptv-org/iptv)|TypeScript|收集来自世界各地的公开可用的IPTV频道|311|106658|98|2018-11-14|
-|10|[lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit)|Python|DeepAudit：人类有的 AI 黑客战队，让吴宇森牵手可及。国内首个开源代码漏洞挖掘多智能体系统。小白关键部门运行，自主合作审计 + 自动化沙箱验证。支持 Ollama私人部门，关键生成报告。​让安全不再昂贵，让审计不再复杂。|338|2694|98|2025-09-19|
-|11|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|280|101710|94|2025-03-05|
-|12|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|281|132917|85|2024-05-30|
-|13|[DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)|TypeScript|next.js网络应用程序，将人工智能功能与draw.io图表集成。该应用程序允许您通过自然语言命令和人工智能辅助可视化创建、修改和增强图表。|246|14647|83|2025-03-23|
-|14|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|245|48149|78|2025-02-22|
-|15|[davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)|JavaScript|用于配置和监控Claude Code的CLI工具|249|13232|78|2025-07-04|
+|1|[rendercv/rendercv](https://github.com/rendercv/rendercv)|Python|适合学者和工程师的基于类型的简历/简历生成器|2402|8463|753|2023-06-11|
+|2|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|647|26384|205|2025-09-22|
+|3|[stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW)|TypeScript|制作美丽的等距基础设施图|471|14848|147|2025-06-30|
+|4|[google/langextract](https://github.com/google/langextract)|Python|一个Python库，用于使用LLM从非结构化文本中提取结构化信息，具有精确的源代码基础和交互式可视化。|465|18966|145|2025-07-08|
+|5|[resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)|Python|SoTA开源TTC|432|17115|138|2025-04-23|
+|6|[makeplane/plane](https://github.com/makeplane/plane)|TypeScript|????????????开源JIRA、Linear、Monday和Asana Alternative。飞机可以帮助您以地球上最简单的方式跟踪您的问题、史诗和骑自行车。|404|41329|127|2022-11-19|
+|7|[yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)|Python|RAG与Leann一起谈论一切。同时在个人设备上运行快速、准确且100%私人的RAG应用程序，享受97%的存储空间节省。|387|5723|124|2025-06-09|
+|8|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|375|41828|117|2025-04-30|
+|9|[langgenius/dify](https://github.com/langgenius/dify)|TypeScript|用于代理工作流程开发的生产就绪平台。|345|122887|117|2023-04-12|
+|10|[exo-explore/exo](https://github.com/exo-explore/exo)|Python|在家中使用日常设备运行您自己的AI集群'''????️????????|340|38104|106|2024-06-24|
+|11|[davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)|JavaScript|用于配置和监控Claude Code的CLI工具|328|13560|104|2025-07-04|
+|12|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|339|133256|103|2024-05-30|
+|13|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|288|101998|95|2025-03-05|
+|14|[open-webui/open-webui](https://github.com/open-webui/open-webui)|Svelte|用户友好的人工智能界面（支持Olama、OpenAI API等.）|276|118849|88|2023-10-06|
+|15|[cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)|None|经过精心策划的具有认证的免费课程列表。也可访问https://free-certifications.com/|282|48607|87|2020-07-31|
 
 [所有日榜](./day/day.md)
 
