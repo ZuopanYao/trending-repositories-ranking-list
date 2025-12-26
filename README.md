@@ -1,65 +1,108 @@
 Github热门开源项目榜单
 
-## 2025年12月25日
+## 2025年12月26日
 
-以下是对本期榜单的综合分析：
-
-### 1. 语言分布
-- **Python项目**占较大比例（6个/15个），显示Python仍是AI、数据处理和自动化领域的首选语言。
-- **TypeScript项目**紧随其后（6个/15个），多集中于前端开发、平台工具及AI基础设施领域。
-- 其他语言如Scala、Markdown、HTML各有少数项目出现。
-
-### 2. 项目趋势（Trend Star）
-- 趋势Star数最高的是`rendercv/rendercv`（1741），说明该项目近期受到大量关注，增长迅速。
-- 成熟项目如`anthropics/skills`和`resemble-ai/chatterbox`虽然趋势Star较低（688和472），但当前Star相对较高，说明用户基数大且稳定。
-- 新兴项目如`google/langextract`（293）和`stan-smith/FossFLOW`（269）也展现较好增长潜力。
-
-### 3. 当前Star数（项目热度体现）
-- Star数最高的是`codecrafters-io/build-your-own-x`（451,891），项目创建时间较早（2018年），累积效应明显，且具备教育和学习属性，长期受到欢迎。
-- 热门商业或实用工具项目如`DigitalPlatDev/FreeDomain`（133,680）和`langgenius/dify`（123,166）星标数量庞大，说明实际应用及用户需求强烈。
-- 新项目普遍Star较少，但结合趋势Star和热度指标可看出增长潜力。
-
-### 4. 热度指标及其意义
-- 热度数值多集中在50-200区间，部分热门项目（如`rendercv/rendercv`）热度高达543，表现出当期受到极大关注。
-- 整体来看，热度高的项目往往与人工智能、自动生成、代理服务以及生产效率相关。
-
-### 5. 项目创建时间
-- 跨时间范围较广，从2018年到2025年都有（存在未来日期，可能是预设或数据标注问题）。
-- 较早项目如`build-your-own-x`和`vendure`具备稳定粉丝群和深厚积累。
-- 近年及未来年份创建的项目多为AI相关，反映当前技术趋势和市场需求的变化。
-
-### 6. 项目类型及主要方向
-- **人工智能及自动化工具**： 如 `rendercv/rendercv`（简历生成），`sst/opencode`（AI编码代理），`daytonaio/daytona`（AI代码运行基础设施）。
-- **平台与基础设施**：如`makeplane/plane`（任务管理替代方案），`langgenius/dify`（代理工作流程平台）。
-- **公共知识库与数据提取**：如`anthropics/skills`（代理技能库），`google/langextract`（结构化信息提取）。
-- **实用工具及其他**：域名服务`DigitalPlatDev/FreeDomain`，学习项目`build-your-own-x`，推荐算法`twitter/the-algorithm`。
+以下是对本期榜单的详细分析：
 
 ---
 
-## 总结
-本期榜单显示，Python和TypeScript依然是主流语言，项目多聚焦于人工智能、自动化、生产力工具和平台建设。新兴项目增长迅速，尤其是具备实际应用价值的AI相关基础设施和工具。老牌项目依靠稳定社区积累，依然保持较高热度，体现开源生态的多样性和活力。
+### 1. 总体情况概览
+- **榜单总计15个开源项目**，涵盖Python、TypeScript、HTML、Rust、Scala、Markdown等多种编程语言。
+- **项目创建时间跨度较大**，最早为2018年，中间和晚期均有，甚至未来时间（2024/2025年）的项目也在榜单中，可能是时间信息录入或规划的因素。
+- **趋势Star值**（近期新增Star）范围从216到1733不等，展示了近期社区对这些项目的关注度和活跃度。
+- **当前Star值**差异显著，从千余到十几万甚至四十五万级别不等，表示项目的成熟度和受欢迎程度不同。
+- **热度指标**（综合考虑Star和趋势，推测为加权值）最高536，最低72，反映综合受欢迎程度。
 
-建议关注高趋势Star同时热度攀升的项目，这些可能代表未来开源领域的热点和新方向。
+---
+
+### 2. 语言分布
+| 语言       | 数量 | 典型项目名称及排名             |
+|------------|------|-----------------------------|
+| Python     | 5    | rendercv(1), skills(3), chatterbox(4), LEANN(6), Yuxi-Know(12) |
+| TypeScript | 6    | plane(5), dify(7), daytona(8), opencode(10), A2UI(11), claude-code(13) |
+| HTML       | 1    | FreeDomain(2)                |
+| Rust       | 1    | fresh(9)                    |
+| Scala      | 1    | the-algorithm(14)            |
+| Markdown   | 1    | build-your-own-x(15)        |
+
+- TypeScript和Python为主流语言，分别占据前6和前5名项目。
+- Python项目多以AI、代理、知识库相关；TypeScript项目多为开发工具、平台和代理工具。
+
+---
+
+### 3. 项目类别特征
+- **AI及代理相关项目较多**：如skills、chatterbox、LEANN、dify、opencode、claude-code、多为智能代理、RAG（检索增强生成）或AI编码助理，体现了AI技术的热点趋势。
+- **工具和平台建设类项目**：plane（项目管理替代品）、daytona（AI代码基础设施）、A2UI（Google项目，项目细节缺失）以及build-your-own-x（编程学习手册）等。
+- **创新性应用**：rendercv是基于类型的简历生成器，FreeDomain是免费域名提供平台；这类项目与实际生活、基础设施相关性强。
+- **大型知名项目**："twitter/the-algorithm"涉及大平台核心算法，星标人数多，关注度高。
+
+---
+
+### 4. 热度与星标分析
+- **最高当前Star**：  
+  - build-your-own-x：452,124（老牌学习技术项目，2018年创建）
+  - FreeDomain：134,275（提供免费域名，实际应用广泛）
+  - dify：123,477（生产就绪的代理工作流程平台）
+
+- **最高趋势Star**（近期新增）：
+  - rendercv：1,733（排名第一，热度536，显示出强劲增长潜力）
+  - FreeDomain：595（用户关注度稳健增长，具体方向聚焦免费服务）
+  - skills：411、chatterbox：390（同样保持较高增长，AI领域表现突出）
+
+- **热度指标排名**：
+  - rendercv(1)、FreeDomain(2)、skills(3)、chatterbox(4)、plane(5)依次递减，整体上趋势Star较高的自然热度也较高。
+
+---
+
+### 5. 新旧项目对比
+- **老项目优势明显**：  
+  build-your-own-x创建于2018年，积累了超45万Star，用户基础稳固。
+- **新项目表现抢眼**：  
+  rendercv（2023年创建）凭借创新简历生成方向，迅速积累趋势Star和热度。
+- **未来时间点的项目**（如2025年）可能为计划或数据录入特殊情况，但这些项目（skills、chatterbox、LEANN、opencode等）趋势Star增长强劲，说明关注度高。
+
+---
+
+### 6. 语言与项目类型的关系
+- Python项目多聚焦于AI应用、智能代理、知识库，反映Python在AI领域的优势。
+- TypeScript项目多为开发工具、生产平台相关，体现前端及工具生态的活跃。
+- Rust和Scala项目虽然数量较少，但分别代表从事高性能编辑器（fresh）和大型系统内核算法（the-algorithm）方向。
+
+---
+
+### 7. 其他观察
+- FreeDomain作为HTML语言项目排名第二，显示出基础设施性免费服务的受欢迎程度。
+- 部分项目介绍文字存在乱码或不完整（plane项目描述），需要改进展示信息。
+
+---
+
+### 总结
+- **AI技术驱动的项目持续受关注**，无论是代理技能库、AI编码辅助还是检索增强系统，均表现出强劲的星标增长。
+- **基础设施和开发工具依然是重点发展方向**，如FreeDomain、plane、daytona等项目满足用户实际需求。
+- **用户积累和成长潜力并重**，老牌项目有稳定的用户基础，而新兴项目也快速增长，尤其注重AI和智能化体验。
+- **多语言生态协同发展**，Python和TypeScript占优势，但多样语言项目互为补充，反映现代开源技术栈的多样性。
+
+整体来看，本期榜单反映了当前开源社区对**人工智能智能代理和实际应用工具的高关注度**，以及对**教育和基础设施项目的持续支持**。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[rendercv/rendercv](https://github.com/rendercv/rendercv)|Python|适合学者和工程师的基于类型的简历/简历生成器|1741|10204|543|2023-06-11|
-|2|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|688|27072|220|2025-09-22|
-|3|[resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)|Python|SoTA开源TTC|472|17587|150|2025-04-23|
-|4|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|424|133680|128|2024-05-30|
-|5|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|384|42212|125|2025-04-30|
-|6|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|285|40163|100|2024-02-06|
-|7|[makeplane/plane](https://github.com/makeplane/plane)|TypeScript|????????????开源JIRA、Linear、Monday和Asana Alternative。飞机可以帮助您以地球上最简单的方式跟踪您的问题、史诗和骑自行车。|301|41630|94|2022-11-19|
-|8|[langgenius/dify](https://github.com/langgenius/dify)|TypeScript|用于代理工作流程开发的生产就绪平台。|279|123166|92|2023-04-12|
-|9|[google/langextract](https://github.com/google/langextract)|Python|一个Python库，用于使用LLM从非结构化文本中提取结构化信息，具有精确的源代码基础和交互式可视化。|293|19259|90|2025-07-08|
-|10|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|205|451891|87|2018-05-09|
-|11|[yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)|Python|RAG与Leann一起谈论一切。同时在个人设备上运行快速、准确且100%私人的RAG应用程序，享受97%的存储空间节省。|264|5987|84|2025-06-09|
-|12|[twitter/the-algorithm](https://github.com/twitter/the-algorithm)|Scala|X推荐算法的源代码|266|68709|83|2023-03-27|
-|13|[stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW)|TypeScript|制作美丽的等距基础设施图|269|15117|83|2025-06-30|
-|14|[vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure)|TypeScript|使用TypScript、NestJS和GraphQL构建的最可定制的商务平台。 |243|7508|76|2018-06-11|
-|15|[exo-explore/exo](https://github.com/exo-explore/exo)|Python|在家中使用日常设备运行您自己的AI集群'''????️????????|172|38276|74|2024-06-24|
+|1|[rendercv/rendercv](https://github.com/rendercv/rendercv)|Python|适合学者和工程师的基于类型的简历/简历生成器|1733|11937|536|2023-06-11|
+|2|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|595|134275|180|2024-05-30|
+|3|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|411|27483|132|2025-09-22|
+|4|[resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)|Python|SoTA开源TTC|390|17977|123|2025-04-23|
+|5|[makeplane/plane](https://github.com/makeplane/plane)|TypeScript|????????????开源JIRA、Linear、Monday和Asana Alternative。飞机可以帮助您以地球上最简单的方式跟踪您的问题、史诗和骑自行车。|361|41991|112|2022-11-19|
+|6|[yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)|Python|RAG与Leann一起谈论一切。同时在个人设备上运行快速、准确且100%私人的RAG应用程序，享受97%的存储空间节省。|343|6330|107|2025-06-09|
+|7|[langgenius/dify](https://github.com/langgenius/dify)|TypeScript|用于代理工作流程开发的生产就绪平台。|311|123477|103|2023-04-12|
+|8|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|230|40393|98|2024-02-06|
+|9|[sinelaw/fresh](https://github.com/sinelaw/fresh)|Rust|终端文本编辑器：简单、强大、快速|313|3085|96|2024-12-24|
+|10|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|298|42510|95|2025-04-30|
+|11|[google/A2UI](https://github.com/google/A2UI)|TypeScript|None|276|7561|86|2025-09-24|
+|12|[xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know)|Python|结合LightRAG 知识库的知识图谱智能体平台。LangChain v1 + Vue + FastAPI。集成主流大模型，LightRAG，MinerU，PP-Architecture，Neo4j，互联网检测，工具可调。|260|3375|84|2024-07-05|
+|13|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|233|48757|75|2025-02-22|
+|14|[twitter/the-algorithm](https://github.com/twitter/the-algorithm)|Scala|X推荐算法的源代码|216|68925|72|2023-03-27|
+|15|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|233|452124|72|2018-05-09|
 
 [所有日榜](./day/day.md)
 
