@@ -1,103 +1,60 @@
 Github热门开源项目榜单
 
-## 2025年12月28日
+## 2025年12月29日
 
-这份榜单涵盖了多个热门开源项目，涉及人工智能、编程工具、教育资源等领域，以下是对榜单的综合分析：
+从提供的榜单中，我们可以对当前的趋势进行一些分析：
 
----
+### 总体观察
+1. **语言多样性**：
+   - 榜单中涉及多种编程语言，主要包括Python、Rust和TypeScript，这表明这些语言在开发新兴工具和项目中的流行程度。
+   - Shell和C#项目也占有一席之地，表明尽管它们较少出现，仍有特定应用领域的需求。
 
-### 一、整体趋势分析
+2. **项目关注度和热度**：
+   - 项目的Star数量和热度（即趋势Star）显示出开发者对项目的关注程度。较高的Star数量通常是项目受欢迎的指示，但热度趋势更能反映项目近期的活跃程度。
+   - 例如，[tw93/Mole](https://github.com/tw93/Mole) 和 [anthropics/skills](https://github.com/anthropics/skills) 都具备很高的Star数和热度，显示出他们在开发者社区中的广泛关注。
 
-1. **语言分布**
-   - Python项目数量最多（6个），显示其在AI、数据科学、工具开发方面的广泛应用与活跃。
-   - TypeScript（3个）和Rust（2个）紧随其后，Rust作为新兴语言在性能和安全上受到关注，TypeScript则在前端和AI代理工具中被大量采用。
-   - 其他语言（HTML、Markdown）也有代表，表现出跨领域和跨技术栈的多样性。
+### 高潜力项目分析
+1. **Mole** (Shell)
+   - 该项目是一款深度清洁和优化Mac的工具，凭借其高热度和Star数量，显示出用户对系统优化软件的需求持续增长。
 
-2. **创建时间分布**
-   - 多数项目成立时间较近（2023年及以后），尤其是2024、2025年启动的项目数目显著，体现开源项目的快速迭代和新兴技术的兴起。
-   - 少量老牌项目（如2016年的Python算法合集、2018年的“build-your-own-x”），依然保持着极高的Star数和影响力，表明经典项目稳定的生命力。
+2. **skills** (Python)
+   - 这个项目致力于创建一个代理技能公共知识库，属于AI和机器学习领域，反映出开发者对AI技术在实用知识共享方面的兴趣。
 
-3. **热度与趋势Star对比**
-   - 趋势Star反映近一段时间（通常是最近一个月或季度）的新关注度，当前Star则是总的受欢迎程度。
-   - 部分项目（如“agrinman/tunnelto”）虽然当前Star不算最高，但趋势Star极高，表明正在快速增长。
-   - 另外，像“FreeDomain”和“TheAlgorithms/Python”这种总Star超大、热度较低的项目，更偏向于稳定成熟的长期关注度。
+3. **vibe-kanban** (Rust)
+   - 一个旨在提升编码代理效率的工具，反映出现代开发工作流中对工具优化的关注。
 
----
+4. **chatterbox** (Python)
+   - 提供了一种开源的对话生成技术，符合当前自然语言处理领域的热点。
 
-### 二、重点项目特点
+### 程序类型趋势
+- **人工智能和机器学习**：
+  - 多个项目与AI和机器学习相关，比如 [anthropics/skills](https://github.com/anthropics/skills) 和 [pathwaycom/pathway](https://github.com/pathwaycom/pathway)，表明这些领域正在快速发展，并吸引了大量开发者的探索。
 
-1. **“agrinman/tunnelto” (Rust)**
-   - 趋势Star最高（797），显示近期较快的关注增长，表示用户对Rust生态中网络隧道工具需求上升，尤其是对本地服务公开方便性的需求。
-   - 当前Star 4213，属于中等偏上水平，说明已有稳定用户群。
+- **开发效率工具**：
+  - 多个项目旨在提升开发者的效率，例如终端工具（如Mole和vibe-kanban）。这一趋势凸显出开发者希望通过科技手段提升工作效率的强烈需求。
 
-2. **“DigitalPlatDev/FreeDomain” (HTML)**
-   - 当前Star超过13万，远超其他项目，显示免费域名服务的广泛关注和应用潜力。
-   - 趋势Star较高（450），说明其影响力还在继续扩大。
-
-3. **AI相关项目（如daytona、TrendRadar、awesome-llm-apps）**
-   - 多数项目创立于2024-2025年，显示AI及其辅助工具是本期榜单的重点。
-   - 这些项目结合自然语言处理、自动推送、智能分析，满足AI开发者和终端用户的需求。
-   - “awesome-llm-apps”拥有8.4万Star，体现社区对大型语言模型应用的强烈兴趣。
-
-4. **经典与教育项目**
-   - “TheAlgorithms/Python”以超21万Star占据榜单重要位置，是算法爱好者和学习者的重要资源。
-   - “build-your-own-x”积累了45万Star，是学习技术底层原理极佳资源，突出开源教育特质。
-
----
-
-### 三、热度（热度=趋势Star与用户参与度的综合体现）
-
-- **高热度项目**像“agrinman/tunnelto”（248）、“FreeDomain”（136）、“daytona”（134）反映了强劲的用户增长和近期关注。
-- 热度较低的成熟项目（例如“TheAlgorithms/Python”100、“build-your-own-x”72）表示渐进但持久的用户基础。
-- 热度在80以上的项目都具备较高活跃度，可能带来较多更新和社区交互。
-
----
-
-### 四、领域分布与应用场景
-
-- **网络与基础设施**  
-  如“agrinman/tunnelto”方便用户做内网穿透，具有较强的实用价值。
-
-- **AI与机器学习辅助**  
-  多个项目专注于AI代理、自动化工具和LLM应用，代表当前技术热点。
-
-- **编程工具和教育**  
-  有编辑器、算法库、技术教程等，利于程序员技能提升。
-
-- **免费资源服务**  
-  “FreeDomain”代表免费基础互联网资源，在特定群体中非常受欢迎。
-
----
-
-### 五、总结建议
-
-- 对于开发者：较新的AI工具项目（如daytona、awesome-llm-apps）值得关注和尝试，迎合前沿趋势。
-- 对于学习者：经典项目（TheAlgorithms、build-your-own-x）仍是不二选择。
-- 对于创业者和产品经理：免费项目和基础设施工具表现出巨大的用户需求和市场潜力。
-
----
-
-如果需要，我可以帮您进一步细化单个项目的技术特点、未来趋势预测以及社区活跃度分析。
+### 结论
+- 当前的开发趋势集中在AI工具、系统优化及开发效率提升工具方面，反映了对编程效率及代码管理的日益关注。随着这些技术的不断发展，相关项目可能会继续在社区中获得更多关注和支持。开发者在选择与其需求一致的项目时，可以关注热度和Star变化，以便快速跟进行业趋势。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[agrinman/tunnelto](https://github.com/agrinman/tunnelto)|Rust|使用公共URL将本地Web服务器公开到Internet。|797|4213|248|2020-03-22|
-|2|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|450|135121|136|2024-05-30|
-|3|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|355|40920|134|2024-02-06|
-|4|[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)|Python|请不要信息传递，AI帮你看新闻资讯热点，简单的情况监控分析 - 多平台热点聚合+基于CP的AI分析工具。监控35个平台（语音，知或，B站，华尔街新闻，英联邦等），智能语音选择+自动推送+AI对话分析（用自然语言深度新闻：态势追踪，情感分析，类似检测等13工具）。支持企业微信/笔记本/缩写/Telegram/mail/ntfy推送，30秒网页部门，1分钟手机通知，无需程序。支持Docker部门让算法为您服务，用AI解读热点|401|41012|133|2025-04-28|
-|5|[rendercv/rendercv](https://github.com/rendercv/rendercv)|Python|适合学者和工程师的基于类型的简历/简历生成器|398|12895|126|2023-06-11|
-|6|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|376|84745|123|2024-04-29|
-|7|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|376|28172|122|2025-09-22|
-|8|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|318|102859|111|2025-03-05|
-|9|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|340|43170|107|2025-04-30|
-|10|[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)|Python|所有算法都在Python中实现|315|215752|100|2016-07-16|
-|11|[sinelaw/fresh](https://github.com/sinelaw/fresh)|Rust|终端文本编辑器：简单、强大、快速|274|3660|83|2024-12-24|
-|12|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|234|49217|76|2025-02-22|
-|13|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|226|452585|72|2018-05-09|
-|14|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Python|机器学习系统简介|194|11784|65|2023-09-06|
-|15|[resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)|Python|SoTA开源TTC|185|18283|61|2025-04-23|
+|1|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|1409|22296|429|2025-09-23|
+|2|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|815|28987|262|2025-09-22|
+|3|[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)|Rust|从Claude Code、Codex或任何编码代理中获得10倍的收益|778|7855|245|2025-06-14|
+|4|[resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)|Python|SoTA开源TTC|649|18932|208|2025-04-23|
+|5|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|493|43663|158|2025-04-30|
+|6|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|358|103217|132|2025-03-05|
+|7|[QuantConnect/Lean](https://github.com/QuantConnect/Lean)|C#|QuantConnect开发的精益数学交易引擎（Python、C#）|382|14721|122|2014-11-28|
+|8|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|352|85097|116|2024-04-29|
+|9|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|368|135489|112|2024-05-30|
+|10|[sinelaw/fresh](https://github.com/sinelaw/fresh)|Rust|终端文本编辑器：简单、强大、快速|358|4018|112|2024-12-24|
+|11|[agrinman/tunnelto](https://github.com/agrinman/tunnelto)|Rust|使用公共URL将本地Web服务器公开到Internet。|340|4553|111|2020-03-22|
+|12|[google/A2UI](https://github.com/google/A2UI)|TypeScript|None|353|8242|110|2025-09-24|
+|13|[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)|Python|所有算法都在Python中实现|301|216053|98|2016-07-16|
+|14|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|314|49531|97|2025-02-22|
+|15|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|318|51642|96|2022-11-27|
 
 [所有日榜](./day/day.md)
 
