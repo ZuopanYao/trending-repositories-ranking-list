@@ -1,52 +1,51 @@
 Github热门开源项目榜单
 
-## 2025年12月30日
+## 2025年12月31日
 
-根据本期榜单的数据分析，我们可以得出以下几点：
+本期榜单中列出了15个开源项目，每个项目都有其独特的语言、功能介绍、当前和趋势Star数、热度排名及创建时间。以下是一些关键点和趋势分析：
 
-### 项目概览
-1. **领域和语言**: 榜单中的项目主要使用Python（7个项目）和TypeScript（3个项目），其次是Rust（1个项目），Shell（1个项目）和C#（1个项目）。这表明Python在AI和机器学习领域的主导地位，TypeScript则在前端和全栈开发中逐渐受到欢迎。
+### 项目语言分布
+- **Python**: 在榜单中占据主导地位，共有6个项目，显示出Python在机器学习和数据处理领域的广泛应用。
+- **TypeScript**和**Rust**: 各有3个项目，反映了这两种语言在现代开发中的重要性，特别是在创建高性能和可维护的应用方面。
+- **Shell**和**HTML**: 各有1个项目，显示了运维和前端开发的需求。
 
-2. **项目数量和热度**: 热度（即当前Star数与趋势Star的对比）显示出项目的受欢迎程度。从统计数据来看，大部分项目的当前Star数显著高于趋势Star，这表明它们在短时间内获得了大量关注。
+### 热度与Star增长
+- **Star数量**: 项目如 `pathwaycom/pathway` 和 `anthropics/skills` 的Star数非常高，分别达到53000和30778，表明了这些项目的受欢迎程度及活跃的社区支持。
+- **趋势Star**: "vibe-kanban" 的趋势Star达到1360，显示出其快速增长的潜力。高趋势Star通常意味着项目在近期获得了较高的关注度。
 
-### 关键项目分析
-- **排名第一的项目**: [anthropics/skills](https://github.com/anthropics/skills)是一个代理技能公共知识库，当前Star数达到29,944，表示它拥有较高的市场需求和用户认可。其热度为307，显示出良好的增长趋势。
+### 功能特色
+- 项目多集中于AI和机器学习应用，例如 `chatterbox` 和 `skills`，这反映了当前技术趋势向智能化和自动化发展的方向。
+- `Mole` 和 `Handy` 等项目则强调了个人用户的需求，提供更便捷的工具进行日常操作。
 
-- **机器学习系统入门**: [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)作为一个机器学习系统的介绍项目，吸引了不少关注，当前Star数为12,654，热度为256，显示出教育资源在开发者群体中的受欢迎程度。
+### 板块及行业
+- **前沿技术**: 许多项目涉及AI、RAG（检索增强生成）及数据流处理，说明了用户对最新技术的追捧。
+- **实用性**: 项目如 `FreeDomain` 和 `iptv` 均显示出在用户实际生活中的应用，包括提供免费资源和公共内容访问。
 
-- **丰富的AI工具集合**: [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)是一个涉及多种AI模型和工具集合的项目，当前Star数高达103,932，是榜单上关注度最高的项目，反映了开发者对AI工具丰富性的需求。
+### 创建时间
+- 多个项目时间较新，如 `cs249r_book` 和 `llm-app`，反映了技术的快速迭代和新兴领域（如AI）的发展速度。
 
-- **企业级应用的趋势**: [pathwaycom/pathway](https://github.com/pathwaycom/pathway)和[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)都是针对实时分析和企业搜索的项目，分别有52,233和49,311的当前Star数，表明对企业级应用和实时数据处理的需求正在增加。
-
-### 趋势分析
-- **教育与学习资源**: 机器学习和AI领域的教育资源受到了越来越多开发者的青睐，尤其是与实际应用相关的教程和框架。
-
-- **工具和整合**: 由于市场上对快速开发和高效工具的需求不断增长，相关的工具和框架项目获得了更高的关注，如用于AI编码代理和实时分析的项目。
-
-- **多样性和集成性**: 项目如[STIRLING-PDF](https://github.com/Stirling-Tools/Stirling-PDF)展示了开发者对本地化和自我托管应用的兴趣，特别是在处理文档等日常任务中。
-
-### 结论
-总体而言，榜单中的项目覆盖了多个有潜力的领域，尤其是与AI、机器学习及工具集成相关的项目展现了强劲的趋势。这些项目不仅吸引了大量开发者关注，也反映了当前技术行业中的热点和未来发展方向。持续关注这些项目将有助于把握技术发展的脉动。
+### 总体趋势
+整体而言，本期榜单突出了AI和机器学习领域的开放源码项目的增长，显示出开发者和企业对这些技术解决方案的强烈需求。同时，项目的数量和质量表明，在各个领域都有越来越多的利用开源技术来解决现实问题的趋势。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|957|29944|307|2025-09-22|
-|2|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Python|机器学习系统简介|784|12654|256|2023-09-06|
-|3|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|715|103932|250|2025-03-05|
-|4|[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)|Rust|从Claude Code、Codex或任何编码代理中获得10倍的收益|765|8620|243|2025-06-14|
-|5|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|670|22966|206|2025-09-23|
-|6|[resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)|Python|SoTA开源TTC|569|19501|185|2025-04-23|
-|7|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|591|52233|178|2022-11-27|
-|8|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|590|49311|178|2023-07-19|
-|9|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|543|44206|173|2025-04-30|
-|10|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|254|41309|123|2024-02-06|
-|11|[QuantConnect/Lean](https://github.com/QuantConnect/Lean)|C#|QuantConnect开发的精益数学交易引擎（Python、C#）|391|15112|123|2014-11-28|
-|12|[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)|TypeScript|????终极社交媒体调度工具，带有一堆AI????|354|25599|113|2023-07-08|
-|13|[Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)|Java|#1本地托管的Web应用程序，允许您对PDF文件执行各种操作|354|72287|112|2023-01-27|
-|14|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|321|85418|107|2024-04-29|
-|15|[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)|Python|请不要信息传递，AI帮你看新闻资讯热点，简单的情况监控分析 - 多平台热点聚合+基于CP的AI分析工具。监控35个平台（语音，知或，B站，华尔街新闻，英联邦等），智能语音选择+自动推送+AI对话分析（用自然语言深度新闻：态势追踪，情感分析，类似检测等13工具）。支持企业微信/笔记本/缩写/Telegram/mail/ntfy推送，30秒网页部门，1分钟手机通知，无需程序。支持Docker部门让算法为您服务，用AI解读热点|301|41578|102|2025-04-28|
+|1|[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)|Rust|从Claude Code、Codex或任何编码代理中获得10倍的收益|1360|9980|428|2025-06-14|
+|2|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Python|机器学习系统简介|1078|13732|355|2023-09-06|
+|3|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|834|30778|265|2025-09-22|
+|4|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|767|53000|231|2022-11-27|
+|5|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|766|50077|230|2023-07-19|
+|6|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|620|44826|201|2025-04-30|
+|7|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|515|104447|180|2025-03-05|
+|8|[yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)|Python|RAG与Leann一起谈论一切。同时在个人设备上运行快速、准确且100%私人的RAG应用程序，享受97%的存储空间节省。|551|7201|174|2025-06-09|
+|9|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|567|23533|172|2025-09-23|
+|10|[resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)|Python|SoTA开源TTC|389|19890|127|2025-04-23|
+|11|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|325|136133|97|2024-05-30|
+|12|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|274|85692|96|2024-04-29|
+|13|[cjpais/Handy](https://github.com/cjpais/Handy)|TypeScript|一个免费的、开源的、可扩展的语音转文本应用程序，完全离线工作。|311|9642|96|2025-02-13|
+|14|[iptv-org/iptv](https://github.com/iptv-org/iptv)|TypeScript|收集来自世界各地的公开可用的IPTV频道|298|107915|96|2018-11-14|
+|15|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|257|50070|82|2025-02-22|
 
 [所有日榜](./day/day.md)
 
