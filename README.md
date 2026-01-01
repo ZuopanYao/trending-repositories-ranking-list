@@ -1,51 +1,70 @@
 Github热门开源项目榜单
 
-## 2025年12月31日
+## 2026年01月01日
 
-本期榜单中列出了15个开源项目，每个项目都有其独特的语言、功能介绍、当前和趋势Star数、热度排名及创建时间。以下是一些关键点和趋势分析：
+在本期榜单中，我们可以看到一些引人注目的项目，涉及不同语言和应用领域。以下是对榜单的详细分析：
 
-### 项目语言分布
-- **Python**: 在榜单中占据主导地位，共有6个项目，显示出Python在机器学习和数据处理领域的广泛应用。
-- **TypeScript**和**Rust**: 各有3个项目，反映了这两种语言在现代开发中的重要性，特别是在创建高性能和可维护的应用方面。
-- **Shell**和**HTML**: 各有1个项目，显示了运维和前端开发的需求。
+### 1. 项目概述
 
-### 热度与Star增长
-- **Star数量**: 项目如 `pathwaycom/pathway` 和 `anthropics/skills` 的Star数非常高，分别达到53000和30778，表明了这些项目的受欢迎程度及活跃的社区支持。
-- **趋势Star**: "vibe-kanban" 的趋势Star达到1360，显示出其快速增长的潜力。高趋势Star通常意味着项目在近期获得了较高的关注度。
+- **Python项目**：
+  - `pathwaycom/pathway` 和 `pathwaycom/llm-app` 是两个在榜单中排名第一和第二的项目，均针对流处理和实时数据分析，显示出对大语言模型(LLM)和检索增强生成（RAG）的深刻关注。
+  - 其他如 `harvard-edge/cs249r_book` 提供了机器学习系统的学习材料，适合学术和研究应用。
 
-### 功能特色
-- 项目多集中于AI和机器学习应用，例如 `chatterbox` 和 `skills`，这反映了当前技术趋势向智能化和自动化发展的方向。
-- `Mole` 和 `Handy` 等项目则强调了个人用户的需求，提供更便捷的工具进行日常操作。
+- **Rust和Go项目**：
+  - `BloopAI/vibe-kanban` 利用Rust语言致力于提高生产力，显示出Rust在高性能应用场景中的潜力。
+  - `aaPanel/BillionMail` 提供开源邮件服务项目，为开发者提供自托管选项，体现了对隐私和自主性的重视。
 
-### 板块及行业
-- **前沿技术**: 许多项目涉及AI、RAG（检索增强生成）及数据流处理，说明了用户对最新技术的追捧。
-- **实用性**: 项目如 `FreeDomain` 和 `iptv` 均显示出在用户实际生活中的应用，包括提供免费资源和公共内容访问。
+- **TypeScript和Shell项目**：
+  - `afkarxyz/SpotiFLAC` 作为音乐下载工具在当前流行音乐消费者中可能具有吸引力，同时 `sst/opencode` 则以AI编码代理为特色，适合开发者在终端环境中使用。
+  - `tw93/Mole` 是一个针对Mac用户的优化工具，可能望吸引追求性能优化的用户群体。
 
-### 创建时间
-- 多个项目时间较新，如 `cs249r_book` 和 `llm-app`，反映了技术的快速迭代和新兴领域（如AI）的发展速度。
+### 2. 热度与流行度
 
-### 总体趋势
-整体而言，本期榜单突出了AI和机器学习领域的开放源码项目的增长，显示出开发者和企业对这些技术解决方案的强烈需求。同时，项目的数量和质量表明，在各个领域都有越来越多的利用开源技术来解决现实问题的趋势。
+- **趋势Star与当前Star**：
+  - `pathwaycom/pathway` 以796的趋势Star和53796的当前Star引领榜单，显示出其受欢迎的程度以及持续增长的潜力。
+  - `DigitalPlatDev/FreeDomain` 项目虽然热度较低，但在免费域名提供方面有其独特的市场需求。
+
+- **热度分析**：
+  - 有些项目热度较高但星数相对较低如 `afkarxyz/SpotiFLAC`，这可能意味着项目刚推出且在快速获得用户关注，或处于推广阶段。
+
+### 3. 创新与社区支持
+
+- **社区参与**：
+  - 多个项目如 `organicmaps/organicmaps` 强调社区驱动的发展，提倡用户捐赠支持开发，展现了强的社区参与和支持的意愿。
+  
+- **功能聚焦**：
+  - 许多项目着眼于用户需求，如 `anthropics/claude-code`，提供智能编码支持，表明开发者对提升编程效率的关注。
+
+### 4. 未来趋势
+
+- **技术方向**：
+  - AI和机器学习领域的项目持续增长，显示出对智能化工具的需求上升。
+  - 流程自动化和优化仍然是开发者们关注的重点，尤其是在日常开发任务管理上的工具。
+
+- **语言选择**：
+  - Python依旧是数据科学和AI领域的主流语言，而Rust和TypeScript则在性能和现代Web开发中扮演着越来越重要的角色。
+
+综上所述，本期榜单的项目反映了技术领域的热门趋势，尤其是AI和实时数据处理的迅速发展。同时，社区支持和用户反馈在项目成功中也扮演着重要角色。开发者们可以从中获取灵感，关注这些热门项目的动向和发展。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)|Rust|从Claude Code、Codex或任何编码代理中获得10倍的收益|1360|9980|428|2025-06-14|
-|2|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Python|机器学习系统简介|1078|13732|355|2023-09-06|
-|3|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|834|30778|265|2025-09-22|
-|4|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|767|53000|231|2022-11-27|
-|5|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|766|50077|230|2023-07-19|
-|6|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|620|44826|201|2025-04-30|
-|7|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|515|104447|180|2025-03-05|
-|8|[yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)|Python|RAG与Leann一起谈论一切。同时在个人设备上运行快速、准确且100%私人的RAG应用程序，享受97%的存储空间节省。|551|7201|174|2025-06-09|
-|9|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|567|23533|172|2025-09-23|
-|10|[resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)|Python|SoTA开源TTC|389|19890|127|2025-04-23|
-|11|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|325|136133|97|2024-05-30|
-|12|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|274|85692|96|2024-04-29|
-|13|[cjpais/Handy](https://github.com/cjpais/Handy)|TypeScript|一个免费的、开源的、可扩展的语音转文本应用程序，完全离线工作。|311|9642|96|2025-02-13|
-|14|[iptv-org/iptv](https://github.com/iptv-org/iptv)|TypeScript|收集来自世界各地的公开可用的IPTV频道|298|107915|96|2018-11-14|
-|15|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|257|50070|82|2025-02-22|
+|1|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|796|53796|240|2022-11-27|
+|2|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|786|50863|237|2023-07-19|
+|3|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Python|机器学习系统简介|564|14296|184|2023-09-06|
+|4|[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)|Rust|从Claude Code、Codex或任何编码代理中获得10倍的收益|552|10532|173|2025-06-14|
+|5|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|495|31273|157|2025-09-22|
+|6|[yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)|Python|RAG与Leann一起谈论一切。同时在个人设备上运行快速、准确且100%私人的RAG应用程序，享受97%的存储空间节省。|478|7679|149|2025-06-09|
+|7|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|410|23943|124|2025-09-23|
+|8|[afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC)|TypeScript|从Tidal、Qobuz和Amazon Music获取真正的FLAC格式的Spotify曲目-无需帐户。|378|1773|117|2025-01-09|
+|9|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|292|45118|91|2025-04-30|
+|10|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|255|136388|77|2024-05-30|
+|11|[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)|Go|BillionMail为您提供开源Mail服务器、NewsLetter、电子邮件营销-完全自托管、开发人员友好且免月费。加入不和：https://discord.gg/asfXzBUhZr|198|12823|68|2025-02-14|
+|12|[nocodb/nocodb](https://github.com/nocodb/nocodb)|TypeScript|????????????Open Source Airtable Alternative|214|59730|68|2017-10-29|
+|13|[organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)|C++|????Organic Maps是一款免费的Android和iOS离线地图应用程序，适合旅行者、游客、徒步旅行者和骑自行车的人。它使用众包的OpenStreetMap数据，并受到社区的喜爱开发。没有广告、没有跟踪、没有数据收集、没有垃圾软件。请捐款支持发展！|217|12715|67|2020-12-27|
+|14|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|198|50268|65|2025-02-22|
+|15|[resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)|Python|SoTA开源TTC|193|20083|62|2025-04-23|
 
 [所有日榜](./day/day.md)
 
