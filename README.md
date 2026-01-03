@@ -1,56 +1,48 @@
 Github热门开源项目榜单
 
-## 2026年01月02日
+## 2026年01月03日
 
-根据本期榜单的数据，以下是对各项目的分析：
+本期榜单显示了几个优秀的开源项目，涵盖了多个领域，包括笔记服务、流处理、AI等。以下是对榜单的分析：
 
-### 一、项目概览
-本期榜单列出了15个开源项目，涵盖了Python、Go、Rust、TypeScript和Shell等多种编程语言。这些项目主要集中在人工智能（AI）、机器学习（ML）、实时数据处理和开发工具等领域，其中涉及的应用包括数据流处理、云模板、笔记服务、AI编码等。
+### 1. 项目类型和语言
+- **项目类型多样**：榜单上的项目涉及笔记服务、流处理框架、AI编码工具、Android模拟器等，显示出当前技术趋势与开发者的多样化需求。
+- **使用语言**：主要使用的编程语言包括 Go、Python、TypeScript、Rust 等，显示出现代项目开发中对多种编程语言的灵活性和适应性。
 
-### 二、趋势分析
-1. **流处理与实时分析：**
-   - 前两个项目（`pathway`和`llm-app`）均与流处理和实时分析相关，显示了在AI和数据分析领域的持续关注。这类应用通常需要高效的数据处理能力，因此在工业和学术界都有很大需求。
+### 2. 当前热度和趋势
+- **Star 数量**：从当前 Star 数来看，`memos` 项目以 49,633 的 Star 数量居首，其次是 `pathway` 和 `llm-app`，显示出对开发者的吸引力。
+- **趋势 Star**：`memos` 是热度最高的项目，趋势 Star 达到 1009，显示出其在开发者社区中的活跃度。而 `pathway` 和 `llm-app` 同样显示出很高的关注度，表明流处理和 AI 相关开发需求持续上升。
   
-2. **自托管解决方案：**
-   - 第三项目`memos`的自托管笔记服务吸引了较多关注，表明越来越多的用户重视数据隐私和控制，尤其是在当前数据安全问题备受关注的背景下。
+### 3. 项目创建时间
+- **时间跨度**：项目创建时间跨度从 2017 到 2025，反映了新的技术和项目不断涌现，其中较新的项目（如 `llm-app`）显示出对人工智能和实时数据处理的关注。
+  
+### 4. 行业应用与趋势
+- **AI 应用的增长**：从榜单来看，许多项目与人工智能相关，表明 AI 技术在开发领域的广泛应用。`pathwaycom` 的项目尤为突出，它们专注于构建 AI 管道。
+- **自托管和隐私**：`memos` 的自托管特性吸引了关注，反映出开发者对数据隐私和控制权的重视。
 
-3. **AI和LLM应用：**
-   - 多个项目涉及到大语言模型（LLM）、如`awesome-llm-apps`和`skills`，这些项目的趋势星数和软件热度显示了对AI技术的极大兴趣，反映了AI迅速发展的趋势。
+### 5. 总体观察
+当前趋势显示封闭且受限的传统应用被自托管和开源解决方案所替代，特别是在笔记服务、流处理和 AI 项目中的应用。随着更多开发者和企业对能够拥有数据的灵活性和控制权的需求，相关开源项目预计会越来越受欢迎。
 
-4. **容器化与云应用：**
-   - `docker-android`和`daytona`等项目展示了对Docker和云基础设施的需求，这为开发者提供了更灵活的开发和部署解决方案。
-
-### 三、项目热度与Star数
-- 项目`pathway`和`llm-app`拥有最高的Star数（分别为55137和52205），表明它们在开发者社区中得到了广泛认可。与此相对，项目`docker-android`的Star数相对较低（1550），可能是因为它的市场需求较小，或者该项目仍在发展中。
-
-- 项目热度方面，与Star数和趋势Star相结合，`memos`和`BloopAI/vibe-kanban`的热度值为239和229，显示出良好的用户参与度，但与流行度（Star数）相比略显不足，可能需要更多的推广或功能扩展来吸引更多关注。
-
-### 四、未来展望
-- 由于数据隐私和实时分析的需求持续增长，能够提供高效、可定制的解决方案的项目有望继续获得用户的青睐。
-- 随着人工智能技术的不断进步，LLM及其相关应用将成为开发热点，关注这些新技术的项目可能会快速获得用户的关注和认可。
-- 自托管和数据安全将在未来的趋势中扮演重要角色，因此提供安全、私密的解决方案的项目将具备良好的成长潜力。
-
-总的来说，尽管整体项目的热度和关注度不一，但开源社区仍在不断发展，未来有望孕育出更多创新的解决方案。
+总的来说，本期榜单中的项目反映了技术进步与用户需求之间的动态关系，未来预计会有更多创新和解决方案涌现。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|1341|55137|405|2022-11-27|
-|2|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|1342|52205|405|2023-07-19|
-|3|[usememos/memos](https://github.com/usememos/memos)|Go|一项开源、自托管的笔记服务。您的想法、您的数据、您的控制-没有跟踪、没有广告、没有订阅费。|757|48624|239|2021-12-08|
-|4|[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)|Rust|从Claude Code、Codex或任何编码代理中获得10倍的收益|715|11247|229|2025-06-14|
-|5|[HQarroum/docker-android](https://github.com/HQarroum/docker-android)|Shell|????一个最小且可定制的Docker镜像，将Android模拟器作为服务运行。|518|1550|162|2023-02-08|
-|6|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Python|机器学习系统简介|477|14773|154|2023-09-06|
-|7|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|439|31712|143|2025-09-22|
-|8|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|384|45502|124|2025-04-30|
-|9|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|279|86154|96|2024-04-29|
-|10|[DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)|TypeScript|next.js网络应用程序，将人工智能功能与draw.io图表集成。该应用程序允许您通过自然语言命令和人工智能辅助可视化创建、修改和增强图表。|305|16365|96|2025-03-23|
-|11|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|310|24253|94|2025-09-23|
-|12|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|296|41787|91|2024-02-06|
-|13|[ourongxing/newsnow](https://github.com/ourongxing/newsnow)|TypeScript|优雅阅读实时和最热门的新闻|246|15935|84|2024-09-23|
-|14|[afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC)|TypeScript|从Tidal、Qobuz和Amazon Music获取真正的FLAC格式的Spotify曲目-无需帐户。|265|2038|83|2025-01-09|
-|15|[yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)|Python|RAG与Leann一起谈论一切。同时在个人设备上运行快速、准确且100%私人的RAG应用程序，享受97%的存储空间节省。|263|7942|82|2025-06-09|
+|1|[usememos/memos](https://github.com/usememos/memos)|Go|一项开源、自托管的笔记服务。您的想法、您的数据、您的控制-没有跟踪、没有广告、没有订阅费。|1009|49633|317|2021-12-08|
+|2|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|703|55840|213|2022-11-27|
+|3|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|639|52844|193|2023-07-19|
+|4|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|581|46083|185|2025-04-30|
+|5|[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)|Rust|从Claude Code、Codex或任何编码代理中获得10倍的收益|540|11787|173|2025-06-14|
+|6|[HQarroum/docker-android](https://github.com/HQarroum/docker-android)|Shell|????一个最小且可定制的Docker镜像，将Android模拟器作为服务运行。|474|2024|150|2023-02-08|
+|7|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|428|32140|139|2025-09-22|
+|8|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|399|24652|121|2025-09-23|
+|9|[nocodb/nocodb](https://github.com/nocodb/nocodb)|TypeScript|????????????Open Source Airtable Alternative|310|60152|98|2017-10-29|
+|10|[ourongxing/newsnow](https://github.com/ourongxing/newsnow)|TypeScript|优雅阅读实时和最热门的新闻|285|16220|96|2024-09-23|
+|11|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|222|105065|79|2025-03-05|
+|12|[GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)|None|坚持分享 GitHub 上高质量、有趣实用的开发技术教程、开发者工具、编程网站、技术资讯。GitHub上很酷、有趣的项目列表。|250|43968|78|2018-12-30|
+|13|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|230|42017|75|2024-02-06|
+|14|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|244|136899|75|2024-05-30|
+|15|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|231|453862|74|2018-05-09|
 
 [所有日榜](./day/day.md)
 
