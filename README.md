@@ -57,101 +57,69 @@ Github热门开源项目榜单
 
 [所有日榜](./day/day.md)
 
-## 2025年第51周
+## 2025年第52周
 
-根据本期榜单数据，我们可以从项目热度、增长趋势、领域分布、语言分布等方面进行如下分析：
+根据提供的榜单数据，我们可以做如下分析：
 
----
+### 1. 项目统计分析
+- **总项目数**：20个
+- **语言分布**：
+  - Python：6个项目
+  - TypeScript：6个项目
+  - Rust：1个项目
+  - Markdown：1个项目
+  - Jupyter Notebook：1个项目
+  - Shell：1个项目
+  - None（缺乏明确语言标记）：1个项目
+- **创建时间分布**：项目的创建时间从2017年到2025年不等，显示出一个活跃的开发趋势，尤其是2023年和2024年创建的项目。
 
-### 一、整体概况
+### 2. 热度与Star分析
+- **热门项目**：
+  - `pathwaycom/pathway`：当前Star 56319，热度 1417，展示了极高的关注度和用户参与度。
+  - `DigitalPlatDev/FreeDomain`：当前Star 137220，尽管热度较低，但在社区中的认可度相当高，可能因其特定的功能（提供免费域名）。
+  
+- **较新但关注度高的项目**：
+  - `pathwaycom/llm-app`：当前Star 53108，虽创建时间较短（2023年7月），但迅速积累了较高的Star数量，表明市场需求旺盛。
 
-1. **项目总量与语言分布**
-   - Python项目最多（9个），占比较大，显示Python在AI、数据处理、RAG等领域的核心地位。
-   - TypeScript项目紧随其后（6个），多聚焦于AI代理、自动化和前端相关领域。
-   - 其他语言如HTML、Go、Scala和Markdown分别占少数。
+### 3. 技术趋势
+- **AI相关项目**：
+  - 许多项目都和AI、机器学习、实时数据处理以及自我编码相关，这反映了当前技术的趋势。比如，`BloopAI/vibe-kanban`和`pathwaycom/llm-app`都是围绕AI和代码优化的主题。
+  
+- **全栈集成**：
+  - 项目如`n8n-io/n8n`与`nocodb/nocodb`，强调集成性与自动化，体现了开源项目日益重视的可扩展性与易用性。
 
-2. **热度与明星数对比**
-   - 最高当前Star的是`build-your-own-x` (452,585)、`FreeDomain` (135,121) 和 `dify` (123,866)，说明用户基础广泛，尤其是教学、工具类项目受欢迎。
-   - 趋势Star（近期增长）最高的是`rendercv/rendercv`（8,293）和`anthropics/skills`（3,425），新项目或者热门领域项目增长迅速。
+### 4. 未来趋势预测
+- 随着AI、数据科学和云计算的迅速发展，预计将会有更多围绕实时数据处理和机器学习技术的项目推出。
+- 项目的多样性（如支持多种语言和平台）可能会继续增加，以适应不同的开发者需求。
+- 开源社区的参与度将持续影响项目的发展，具有高Star数和持续活跃维护的项目将成为开发者的优先选择。
 
-3. **创建时间分布**
-   - 有相当一部分项目是近期创建（2023-2025年），表明新兴项目活跃。
-   - 老牌项目仍拥有很高Star，如`build-your-own-x`（2018年），`n8n`（2019年）。
-
----
-
-### 二、重点项目分析
-
-|排名|项目|语言|描述|热点表现|分析|
-|-|-|-|-|-|-|
-|1|rendercv|Python|基于类型的简历生成器|趋势Star：8293，当前Star：12895|新兴项目，因简历自动化定位明确，Python实现便于学者和工程师使用，增长迅速。|
-|2|anthropics/skills|Python|代理技能公共知识库|趋势Star：3425，当前Star：28172|专注于代理技能库，符合AI代理的热点方向，星标增长快，用户关注度高。|
-|3|FreeDomain|HTML|免费域名服务|趋势Star：2485，当前Star：135121|域名服务普及，用户基础庞大，项目持续受关注。|
-|8|build-your-own-x|Markdown|从零搭建技术项目|趋势Star：1566，当前Star：452585|经典学习资源，积累多年的用户基础，增长稳定。|
-|15|n8n|TypeScript|自动化工作流程，有AI功能|趋势Star：974，当前Star：165152|工作流自动化结合AI功能，企业用户多，实际应用场景丰富。|
-
----
-
-### 三、趋势与热点概览
-
-- **AI代理和自动化**: 多个项目（如`sst/opencode`,`exo-explore/exo`,`daytonaio/daytona`,`anthropics/claude-code`） 聚焦AI代理、集群和自动化，显示市场需求旺盛。
-- **RAG与知识应用**: `yichuan-w/LEANN`等RAG(检索增强生成)相关项目受到关注，尤其强调隐私和本地化。
-- **开源工具与学习资源**: 学习、构建、示范类项目依旧抢眼，满足开发者学习和实践需求。
-- **垂直领域应用**: IPTV频道、推荐算法（Twitter）、简历生成器等项目显示出针对具体垂直应用的多样化探索。
-
----
-
-### 四、语言与领域趋势
-
-- **Python优势明显**，依然是AI、机器学习和数据科学的主力军，同时Python项目多集中于智能体、RAG、数据提取和知识库建设。
-- **TypeScript快速发展**，特别是在AI编码代理和自动化平台领域，结合前端工具链和服务端能力，有广泛的实用场景。
-- **非主流语言虽然数量较少，但仍有重要项目和领域探索**，如Go语言在AI增强框架中的体现，Scala用于推荐算法。
-
----
-
-### 五、结论
-
-- 新兴AI工具和代理相关项目增长迅速，AI自动化、代理技能库和RAG技术成为热门方向。
-- 经典的学习资源和基础工具仍然是社区关注的焦点，体现了技术积累和教学的持续价值。
-- 语言多样化趋势较明显，Python和TypeScript竞争并存，分别在不同的细分领域展现优势。
-- 项目热度和趋势Star的结合，既体现了成熟项目的持续价值，也反映了新兴项目快速获取关注的态势。
-
----
-
-### 六、建议
-
-- 对于开发者：关注AI代理和自动化领域的新品，掌握Python和TypeScript的结合应用，将有助于跟进行业前沿。
-- 对于社区建设者：可以推广“从零开始”的学习项目，推动生态持续健康发展。
-- 对于企业用户：关注自动化工作流和RAG技术，提升业务智能化水平。
-
----
-
-以上为本期榜单的总体分析，如需针对具体项目或领域做更详细的深挖，欢迎告知。
+### 5. 结论
+这个榜单为我们提供了一个快速了解当前技术趋势和社区关注焦点的良好视角，各项目之间展现出明显的技术倾向和未来发展的潜力。尤其是与AI相关的项目尤为受到欢迎，可能在不久的将来会引领更多的开发方向。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[rendercv/rendercv](https://github.com/rendercv/rendercv)|Python|适合学者和工程师的基于类型的简历/简历生成器|8293|12895|2595|2023-06-11|
-|2|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|3425|28172|1096|2025-09-22|
-|3|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|2485|135121|754|2024-05-30|
-|4|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|2071|43170|662|2025-04-30|
-|5|[exo-explore/exo](https://github.com/exo-explore/exo)|Python|在家中使用日常设备运行您自己的AI集群'''????️????????|2005|38644|627|2024-06-24|
-|6|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|1412|40920|539|2024-02-06|
-|7|[resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)|Python|SoTA开源TTC|1658|18283|531|2025-04-23|
-|8|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|1566|452585|494|2018-05-09|
-|9|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|1429|102859|483|2025-03-05|
-|10|[langgenius/dify](https://github.com/langgenius/dify)|TypeScript|用于代理工作流程开发的生产就绪平台。|1436|123866|479|2023-04-12|
-|11|[google/langextract](https://github.com/google/langextract)|Python|一个Python库，用于使用LLM从非结构化文本中提取结构化信息，具有精确的源代码基础和交互式可视化。|1516|19594|474|2025-07-08|
-|12|[yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)|Python|RAG与Leann一起谈论一切。同时在个人设备上运行快速、准确且100%私人的RAG应用程序，享受97%的存储空间节省。|1449|6596|460|2025-06-09|
-|13|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|1313|49217|422|2025-02-22|
-|14|[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)|Python|????《从零开始构建智能体》--从零开始智能体原理与实践课程|1175|12951|378|2025-09-07|
-|15|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|974|165152|348|2019-06-22|
-|16|[danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)|Go|Fabric是一个使用人工智能增强人类功能的开源框架。它提供了一个模块化系统，用于使用一组可在任何地方使用的众包人工智能提示来解决特定问题。|1111|37070|347|2024-01-03|
-|17|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|1003|84745|339|2024-04-29|
-|18|[twitter/the-algorithm](https://github.com/twitter/the-algorithm)|Scala|X推荐算法的源代码|1030|69033|337|2023-03-27|
-|19|[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)|Python|请不要信息传递，AI帮你看新闻资讯热点，简单的情况监控分析 - 多平台热点聚合+基于CP的AI分析工具。监控35个平台（语音，知或，B站，华尔街新闻，英联邦等），智能语音选择+自动推送+AI对话分析（用自然语言深度新闻：态势追踪，情感分析，类似检测等13工具）。支持企业微信/笔记本/缩写/Telegram/mail/ntfy推送，30秒网页部门，1分钟手机通知，无需程序。支持Docker部门让算法为您服务，用AI解读热点|969|41012|331|2025-04-28|
-|20|[iptv-org/iptv](https://github.com/iptv-org/iptv)|TypeScript|收集来自世界各地的公开可用的IPTV频道|973|107320|328|2018-11-14|
+|1|[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)|Rust|从Claude Code、Codex或任何编码代理中获得10倍的收益|4520|12375|1439|2025-06-14|
+|2|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|4677|56319|1417|2022-11-27|
+|3|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|4387|53108|1324|2023-07-19|
+|4|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|3889|32876|1248|2025-09-22|
+|5|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|3614|47277|1148|2025-04-30|
+|6|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Python|机器学习系统简介|3320|15190|1088|2023-09-06|
+|7|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|2734|25030|839|2025-09-23|
+|8|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|2228|105445|780|2025-03-05|
+|9|[resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)|Python|SoTA开源TTC|1617|20549|527|2025-04-23|
+|10|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|1731|137220|525|2024-05-30|
+|11|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|1501|51032|486|2025-02-22|
+|12|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|1406|86503|479|2024-04-29|
+|13|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|1265|42320|455|2024-02-06|
+|14|[yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)|Python|RAG与Leann一起谈论一切。同时在个人设备上运行快速、准确且100%私人的RAG应用程序，享受97%的存储空间节省。|1420|8048|445|2025-06-09|
+|15|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|1296|454117|416|2018-05-09|
+|16|[DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)|TypeScript|next.js网络应用程序，将人工智能功能与draw.io图表集成。该应用程序允许您通过自然语言命令和人工智能辅助可视化创建、修改和增强图表。|1159|16678|371|2025-03-23|
+|17|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|1041|166430|370|2019-06-22|
+|18|[nocodb/nocodb](https://github.com/nocodb/nocodb)|TypeScript|????????????Open Source Airtable Alternative|1129|60498|360|2017-10-29|
+|19|[iptv-org/iptv](https://github.com/iptv-org/iptv)|TypeScript|收集来自世界各地的公开可用的IPTV频道|1003|108447|327|2018-11-14|
+|20|[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)|Python|????《从零开始构建智能体》--从零开始智能体原理与实践课程|990|14175|325|2025-09-07|
 
 [所有周榜](./week/week.md)
 
