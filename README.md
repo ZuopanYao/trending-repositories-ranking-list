@@ -1,59 +1,51 @@
 Github热门开源项目榜单
 
-## 2026年01月04日
+## 2026年01月05日
 
-本期榜单展示了一系列热门开源项目，涉及不同的编程语言和用途。以下是对榜单的分析：
+在本期榜单中，我们可以看到多个开源项目的趋势和热度表现。以下是对这些项目的分析：
 
-### 项目类型
-1. **笔记服务**：
-   - **memos**（项目 1）是一个自托管的笔记服务，强调用户隐私和数据控制，符合当前对个人数据保护的高度关注。
+### 1. 项目分类
+- 本榜单中的项目使用了多种语言，其中TypeScript和Python是出现频率最高的语言。这表明这两种语言在开源领域中仍然具有强大的影响力和应用场景。
+- Go和Rust等其他语言的项目虽然数量较少，但也展现出特定应用领域的专业性，比如Go的自托管笔记服务和Rust的效率工具。
 
-2. **编码代理**：
-   - 项目 2、3 和 11 都是与代码生成和管理相关的工具。这类工具的流行显示出开发者越来越依赖人工智能来提高编码效率和简化流程。
+### 2. 热度与Star数据
+- **热度**：热度值反映了项目在社区中的活跃程度。从榜单来看，项目“anomalyco/opencode”和“sst/opencode”是热度最高的两个项目，它们均为AI编码代理，且在短时间内获得了大量关注。
+- **当前Star数量**：当前Star数量显示了项目的受欢迎程度。大部分项目均拥有较高的Star数，尤其是“DigitalPlatDev/FreeDomain”，其Star数接近137517，显示该项目的广泛接受度。这标志着这个项目可能解决了一些普遍存在的问题，如免费域名服务。
 
-3. **金融数据分析**：
-   - **OpenBB**（项目 8）为分析师和量化分析师提供金融数据平台，显示出对金融科技领域的持续需求。
+### 3. 特点和趋势
+- 当前榜单中的多个项目与AI和机器学习相关，显示出这一领域的快速发展和社区对相关技术的兴趣。
+- 例如，“anthropics/claude-code”和“harvard-edge/cs249r_book”项目提供了与AI编码和机器学习教育相关的内容，表明开发者们在寻求易于使用的工具和学习材料。
 
-4. **实时分析和流处理**：
-   - **pathway**（项目 6）为实时分析提供框架，反映出大数据和实时数据处理的重要性。
+### 4. 创建时间影响
+- 创建时间较新的项目，如“5rahim/seanime”，“x1xhlol/system-prompts-and-models-of-ai-tools”相对较少的Star数可能与其上架时间较短有关，突显出新项目需要时间来积累关注和用户基础。
+- 较早创建的项目，如“nocodb”，由于已经在社区中积累了多年的影响力，因此表现出更高的Star数量和热度。
 
-5. **综合工具**：
-   - **system-prompts-and-models-of-ai-tools**（项目 7）汇集了多种工具和模型，旨在为不同的开发需求提供解决方案。
+### 5. 总体趋势
+- 此次榜单强烈反映出开源项目向AI、自动化和数据处理方向的倾斜。
+- 随着技术的演变，开源软件不仅在协作和共享知识方面发挥着重要作用，也在推动开发者工具和基础设施的进步。
 
-### 星标趋势
-- 当前每个项目的Star数显示了其流行程度。如 **memos** 和 **nocodb**（项目 12）均有较高的Star数，表明这些项目受到了广泛的关注和使用。
-- **stability** 的高趋势Star数（如 **usememos/memos** 和 **sst/opencode**）也表明它们可能在特定社区中已经建立了强大的用户基础。
-
-### 热度分析
-- 热度评分显示出用户对项目的持续兴趣，尽管热度值有所波动，但一些项目（如 **memos** 和 **pathway**）在各自的领域中仍保持高热度。
-
-### 未来趋势
-- 随着AI与编程工具的融合，编码代理类工具的开发可能会继续增加。
-- 数据隐私和自托管服务（如 **memos**）的流行趋势可能会推动更多同类项目的出现。
-- 在金融科技和实时数据处理中，新的解决方案仍然有巨大的市场潜力。
-
-### 总结
-本期榜单显示，在不断变化的技术环境中，开源项目的多样性和用户需求的转变体现了技术社区的活力与创新。开发者们在选择工具时越来越倾向于那些关注隐私、自托管和高效能的解决方案。
+### 结论
+本期榜单中的开源项目展示了技术趋势及开发者社区的兴趣点，尤其是在AI编码、知识管理和数据处理等领域。开发者应关注这些项目的发展及其背后所反映的技术变化，以便在未来的开发工作中获取灵感和资源。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[usememos/memos](https://github.com/usememos/memos)|Go|一项开源、自托管的笔记服务。您的想法、您的数据、您的控制-没有跟踪、没有广告、没有订阅费。|1451|51084|456|2021-12-08|
-|2|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|1194|47277|372|2025-04-30|
-|3|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|1196|47284|372|2025-04-30|
-|4|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|736|32876|234|2025-09-22|
-|5|[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)|Rust|从Claude Code、Codex或任何编码代理中获得10倍的收益|588|12375|191|2025-06-14|
-|6|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|479|56319|148|2022-11-27|
-|7|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|380|105445|130|2025-03-05|
-|8|[OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)|Python|适合分析师、量化分析师和人工智能代理的金融数据平台。|395|56692|127|2020-12-20|
-|9|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|378|25030|118|2025-09-23|
-|10|[HQarroum/docker-android](https://github.com/HQarroum/docker-android)|Shell|????一个最小且可定制的Docker镜像，将Android模拟器作为服务运行。|368|2392|116|2023-02-08|
-|11|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|358|51032|115|2025-02-22|
-|12|[nocodb/nocodb](https://github.com/nocodb/nocodb)|TypeScript|????????????Open Source Airtable Alternative|346|60498|110|2017-10-29|
-|13|[ourongxing/newsnow](https://github.com/ourongxing/newsnow)|TypeScript|优雅阅读实时和最热门的新闻|301|16521|105|2024-09-23|
-|14|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|321|137220|97|2024-05-30|
-|15|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|297|9055|93|2025-08-04|
+|1|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|1892|49176|596|2025-04-30|
+|2|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|1889|49166|595|2025-04-30|
+|3|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|724|33600|230|2025-09-22|
+|4|[usememos/memos](https://github.com/usememos/memos)|Go|一项开源、自托管的笔记服务。您的想法、您的数据、您的控制-没有跟踪、没有广告、没有订阅费。|642|51726|201|2021-12-08|
+|5|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Python|机器学习系统简介|574|15764|188|2023-09-06|
+|6|[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)|Rust|从Claude Code、Codex或任何编码代理中获得10倍的收益|495|12870|157|2025-06-14|
+|7|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|482|42802|148|2024-02-06|
+|8|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|424|51456|136|2025-02-22|
+|9|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|400|25430|123|2025-09-23|
+|10|[OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)|Python|适合分析师、量化分析师和人工智能代理的金融数据平台。|375|57067|120|2020-12-20|
+|11|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|343|105788|117|2025-03-05|
+|12|[5rahim/seanime](https://github.com/5rahim/seanime)|Go|开源媒体服务器，具有Web界面和动漫桌面应用程序。|373|2344|115|2023-10-23|
+|13|[nocodb/nocodb](https://github.com/nocodb/nocodb)|TypeScript|????????????Open Source Airtable Alternative|350|60848|110|2017-10-29|
+|14|[danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)|TypeScript|用于升级人类的个人人工智能基础设施。|282|3507|91|2025-09-08|
+|15|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|297|137517|90|2024-05-30|
 
 [所有日榜](./day/day.md)
 
