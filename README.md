@@ -1,47 +1,57 @@
 Github热门开源项目榜单
 
-## 2026年01月06日
+## 2026年01月07日
 
-本期榜单中列出了15个开源项目，涵盖了各种编程语言和应用场景，主要集中在人工智能和编码代理领域。以下是对排行榜的分析：
+这个榜单展示了当前流行的开源项目，主要集中在人工智能、编码工具和开发者资源等领域。以下是对榜单的一些分析：
 
-### 1. 项目分布
-- **语言选择**: 大部分项目使用 TypeScript 和 Python，这表明这两种语言在现代开源项目中仍然占据主导地位。TypeScript 的使用，特别是在前端开发和与 AI 工具集成的背景下，正在逐渐增加。
-- **功能聚焦**: 多个项目（如 `opencode` 和 `claude-code`）专注于编码助手和代理工具，反映了当前开发趋势对提高效率和简化编码流程的需求。
+### 总体趋势
 
-### 2. 热度与 Star 数
-- **高热度项目**: `anomalyco/opencode` 和 `sst/opencode` 这两个项目均有较高的热度和 Star 数，说明用户对 AI 编码代理的关注度很高。这表明市场对于使用 AI 工具提升编码效率的期待。
-- **其他项目**: `microsoft/BitNet` 和 `anthropics/skills` 也是高 Star 的项目，突显出在 AI 应用领域的流行趋势，尤其是针对大型语言模型（LLM）的工具。
+1. **AI驱动的工具**: 榜单中大部分项目与人工智能有关，体现了当前技术发展的一个重要方向，即利用AI提升开发效率。例如，项目如`sst/opencode`和`anthropics/claude-code` 都是AI编码代理，旨在帮助开发者更快地完成编码任务。
 
-### 3. 创建时间
-- **新项目**: 大部分项目的创建时间在2024年及以后，很多项目正处于活跃开发阶段，表明这一领域仍有广阔的创新空间和机会。
-- **成熟项目**: 较早创建的项目（如 `usememos/memos` 和 `harvard-edge/cs249r_book`）虽 Star 数未必最高，但却之外显示出稳定的用户基础，这些项目可能在各自领域有较强的长 tail 潜力。
+2. **多语言支持**: 以TypeScript为主流，但也涵盖了Python、JavaScript、Rust等多种编程语言，显示了多样化的生态选择。
 
-### 4. 未来趋势
-- **AI 助手**: 开源编码代理的兴起显示出开发者对自动化和智能辅助的需求，这一趋势可能会继续增长。
-- **隐私和控制**: 类似 `memos` 的自托管项目越来越受用户欢迎，反映了用户在数据隐私和控制权方面的关注。
+3. **共享经济和合作**: 多个项目（如`marcelscruz/public-apis`）强调了开放和共享的理念，鼓励开发者共同维护和使用公共API，这也促进了开发者社区的形成。
 
-### 5. 结论
-本期榜单整体上反映了技术领域的前沿动态，特别是在 AI 编码工具和用户自主权的方面。随着技术的不断进步和社区的发展，相关项目的用户群体和关注度预计将持续扩大。开发者们应该密切关注这些趋势，以便抓住未来的创新机会。
+4. **创建时间的分布**: 从创建时间来看，部分项目如`PowerToys`和`n8n`已经存在几年，而一些新兴项目如`sst/opencode`和`anomalyco/opencode`则是在2025年创建，显示出新技术和新需求的快速变化。
+
+### 突出项目分析
+
+1. **`sst/opencode`和`anomalyco/opencode`**: 这两个项目在热度和star数上表现突出，说明它们解决了当前开发者迫切的需求。特别是在使用AI辅助编码的背景下，这类工具在开发者群体中可能会越来越受欢迎。
+
+2. **功能广泛的OSINT工具**: `Lissy93/web-check`项目的存在说明了开发者对安全与信息获取的重视，尤其是在复杂的网络环境中。
+
+3. **基于视频的AI产品**: `Olow304/memvid`以创新的方式存储和检索信息，展示了AI技术在信息管理领域的潜力，可能会吸引对媒体内容管理有需求的开发者。
+
+4. **高Star数的工具**: 如`microsoft/PowerToys`和`DigitalPlatDev/FreeDomain`等项目，在社区中有高的认可度和较强的影响力，表明开发者对实用工具的需求永远存在。
+
+### 热度与当前Star的关系
+
+- 一些项目的当前Star（如`sst/opencode`和`anomalyco/opencode`）与热度非常匹配，表明这些项目在短时间内获得了大量关注和认可。
+- 反观一些项目如`n8n-io/n8n`和`DigitalPlatDev/FreeDomain`，尽管Star数目较高，热度分数却相对较低，可能是因为这些项目已经在市场上扎根，处于一个较为稳定的阶段。
+
+### 总结
+
+这个榜单反映了开源项目的活跃生态和技术的演化，特别是在AI工具和开发资源方面的发展。开发者可以通过这些项目找到合适的工具，以提高工作效率和编码体验。同时，社区的互动和贡献在推动这些项目成长方面起到了关键作用。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|2000|51176|629|2025-04-30|
-|2|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|1998|51164|628|2025-04-30|
-|3|[microsoft/BitNet](https://github.com/microsoft/BitNet)|Python|1位LLM的官方推理框架|806|25311|262|2024-08-05|
-|4|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|749|34349|240|2025-09-22|
-|5|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|626|10965|200|2025-08-31|
-|6|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|599|52055|189|2025-02-22|
-|7|[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)|Rust|从Claude Code、Codex或任何编码代理中获得10倍的收益|512|13382|162|2025-06-14|
-|8|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Python|机器学习系统简介|482|16246|157|2023-09-06|
-|9|[usememos/memos](https://github.com/usememos/memos)|Go|一项开源、自托管的笔记服务。您的想法、您的数据、您的控制-没有跟踪、没有广告、没有订阅费。|504|52230|157|2021-12-08|
-|10|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|495|43297|149|2024-02-06|
-|11|[Olow304/memvid](https://github.com/Olow304/memvid)|Python|基于视频的人工智能内存库。通过闪电般的语义搜索将数百万个文本块存储在MP4文件中。不需要数据库。|420|10970|131|2025-05-27|
-|12|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|411|25841|127|2025-09-23|
-|13|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|368|106156|125|2025-03-05|
-|14|[patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)|Jupyter Notebook|有关LLM、RAG和现实世界的AI代理应用程序的深入教程。|278|24964|104|2024-10-21|
-|15|[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)|Python|开源前沿语音人工智能|324|19991|101|2025-08-25|
+|1|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|1849|53013|592|2025-04-30|
+|2|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|1848|53024|592|2025-04-30|
+|3|[Lissy93/web-check](https://github.com/Lissy93/web-check)|TypeScript|????️‍️用于分析任何网站的多功能一体化OSINT工具|791|28321|249|2023-06-25|
+|4|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|688|11653|221|2025-08-31|
+|5|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|686|35035|221|2025-09-22|
+|6|[marcelscruz/public-apis](https://github.com/marcelscruz/public-apis)|JavaScript|面向开发人员的公共API协作列表|437|7162|137|2022-05-11|
+|7|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|414|52469|133|2025-02-22|
+|8|[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)|Rust|从Claude Code、Codex或任何编码代理中获得10倍的收益|338|13720|110|2025-06-14|
+|9|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|311|106467|103|2025-03-05|
+|10|[microsoft/PowerToys](https://github.com/microsoft/PowerToys)|C#|Windows系统实用程序可最大限度地提高生产力|329|127514|102|2019-05-01|
+|11|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|321|43618|98|2024-02-06|
+|12|[Olow304/memvid](https://github.com/Olow304/memvid)|Python|基于视频的人工智能内存库。通过闪电般的语义搜索将数百万个文本块存储在MP4文件中。不需要数据库。|295|11265|95|2025-05-27|
+|13|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|267|167107|91|2019-06-22|
+|14|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|299|138113|90|2024-05-30|
+|15|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|283|26124|86|2025-09-23|
 
 [所有日榜](./day/day.md)
 
