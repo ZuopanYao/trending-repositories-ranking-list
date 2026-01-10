@@ -1,52 +1,49 @@
 Github热门开源项目榜单
 
-## 2026年01月09日
+## 2026年01月10日
 
-通过对本期榜单的分析，可以得出以下几个重要趋势和观察：
+本期榜单涵盖了一些最新的开源项目，其中大多数项目涉及人工智能和编码工具，反映了当前技术领域的热门趋势。以下是对榜单中几个项目的详细分析：
 
-1. **主流语言**：
-   - TypeScript是榜单中的主流语言，前四名均使用该语言。这表明TypeScript在当前开源项目中受欢迎程度高，特别是在AI和编码工具方面。
-   - Python也占据了重要位置，特别是在AI、机器学习和代理技能相关的项目中。
+1. **项目主题**：
+   - 大部分项目（如`anomalyco/opencode`和`sst/opencode`）聚焦于开源编码代理和AI辅助编码，显示出开发者对提高编码效率和降低开发障碍的关注。
+   - 其他项目如`bytedance/UI-TARS-desktop`和`anthropics/claude-code`则强调引入多模式AI代理，以增强开发者的工作流程。
 
-2. **项目类型**：
-   - 多个项目关注于AI编码代理和自动化工具。如`sst/opencode`和`anthropics/claude-code`，表明市场对提高编程效率的工具有着强烈需求。
-   - 其他项目如`Mole`和`skills`则分别关注于系统优化和知识库管理，显示出开源社区广泛的需求满足。
+2. **语言使用**：
+   - 主要语言为TypeScript和Python，显示出这两种语言在现代开发中的广泛应用，尤其是在构建前端应用和深度学习方面。
+   - Shell和HTML等其它语言的项目数量相对较少，可能反映出这些领域的需求相对小众。
 
-3. **热度和增长趋势**：
-   - `sst/opencode`和`anomalyco/opencode`的Star数和热度都非常高，表明它们在开发者社区中受到了广泛关注和使用。
-   - 尽管较小的项目（如`MiroThinker`和`memU`）的Star数较低，但它们的功能和应用背景可能被特定的用户群体所追捧。
+3. **Star趋势与热度**：
+   - `opencode`系列项目（特别是`anomalyco/opencode`和`sst/opencode`）获得了极高的当前Star和热度，显示出其在开发者社区中的受欢迎程度。
+   - 例如，`bytedance/UI-TARS-desktop`和`anthropics/claude-code`也有较好的Star数量，说明这些项目在其特定领域内也受到了较多关注。
 
-4. **近期项目与成熟项目的对比**：
-   - 许多项目的创建时间都在2025年，这些项目大多是较新的，仍在快速成长阶段。
-   - 相较之下，一些较早的项目（如`DigitalPlat/FreeDomain`）则显示出高热度和Star数，表明其在用户中积累了持久的受欢迎度。
+4. **创建时间**：
+   - 部分项目创建时间较新（例如`anthropics/skills`和`daytona`），这表明这些项目可能是在近年来需求增加的背景下快速响应市场需求而推出的。
 
-5. **功能多样性**：
-   - 排行榜上的项目功能多样，从编码和调试工具到AI代理搜索、服务器管理等都能找到，反映出当前开发者在工具需求上的多样化。
+5. **特殊项目**：
+   - `codecrafters-io/build-your-own-x`项目是一个引导用户从头开始实现技术的学习工具，虽然它的创建时间较早（2018年），但其高Star数量（超过45万）显示出了其持久的吸引力。
+   - `tailwindlabs/tailwindcss`作为一个流行的CSS框架，虽然创建时间较早但仍在保持热度，表明它在UI开发中的重要性。
 
-6. **未来发展潜力**：
-   - 随着AI技术的快速进步，AI编码代理类项目的数量有望持续增加，且这些项目可能在功能上提供更为强大的支持。
-
-结论上，本期榜单反映出编码代理工具作为一种新兴趋势在开发者社区中的强大吸引力，随着时间的推移，这一领域内的创新和竞争将愈发激烈。同时采用TypeScript和Python的趋势将延续，成为未来项目开发的主流。
+从整体来看，这一期的榜单反映了开发者对AI与编码工具的浓厚兴趣，以及对提高编程效率和实现创新的不断追求。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|1917|56835|617|2025-04-30|
-|2|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|1911|56840|616|2025-04-30|
-|3|[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)|TypeScript|开源多模式人工智能代理栈：连接尖端人工智能模型和代理基础设施|880|21531|287|2025-01-19|
-|4|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|739|53928|237|2025-02-22|
-|5|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|778|27335|235|2025-09-23|
-|6|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|703|36407|224|2025-09-22|
-|7|[MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker)|Python|MiroThinker是一系列开源搜索代理，旨在提高工具增强推理和信息搜索能力。|561|3853|176|2025-08-07|
-|8|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|445|12781|139|2025-08-31|
-|9|[NevaMind-AI/memU](https://github.com/NevaMind-AI/memU)|Python|LLM和AI代理的内存基础设施|408|4072|128|2025-07-29|
-|10|[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)|TypeScript|用于编码代理的Chrome DevTools|406|19651|127|2025-09-11|
-|11|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|406|138868|123|2024-05-30|
-|12|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|378|44436|114|2024-02-06|
-|13|[xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)|Java|从本地桌面访问整个服务器基础设施|343|13064|106|2023-01-27|
-|14|[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)|Rust|从Claude Code、Codex或任何编码代理中获得10倍的收益|267|14330|85|2025-06-14|
-|15|[HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG)|Python|[KDD' 2026]“VideoRAG：与您的视频聊天”|270|2221|84|2025-02-03|
+|1|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|2284|59124|733|2025-04-30|
+|2|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|2269|59104|728|2025-04-30|
+|3|[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)|TypeScript|开源多模式人工智能代理栈：连接尖端人工智能模型和代理基础设施|661|22192|212|2025-01-19|
+|4|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|619|54547|201|2025-02-22|
+|5|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|586|36993|188|2025-09-22|
+|6|[C4illin/ConvertX](https://github.com/C4illin/ConvertX)|TypeScript|????自托管在线文件转换器。支持1000+种格式|377|14153|118|2024-04-07|
+|7|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|378|27713|116|2025-09-23|
+|8|[imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)|None|不断发展的保护Linux服务器的方法指南。|361|24065|113|2019-02-09|
+|9|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|316|44752|96|2024-02-06|
+|10|[davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)|JavaScript|用于配置和监控Claude Code的CLI工具|287|15300|94|2025-07-04|
+|11|[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)|TypeScript|用于编码代理的Chrome DevTools|292|19943|91|2025-09-11|
+|12|[MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker)|Python|MiroThinker是一系列开源搜索代理，旨在提高工具增强推理和信息搜索能力。|290|4143|90|2025-08-07|
+|13|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|295|139163|89|2024-05-30|
+|14|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|281|455515|89|2018-05-09|
+|15|[tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)|TypeScript|用于快速UI开发的实用性优先的CSS框架。|274|92642|87|2017-10-06|
 
 [所有日榜](./day/day.md)
 
