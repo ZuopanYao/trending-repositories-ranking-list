@@ -47,69 +47,65 @@ Github热门开源项目榜单
 
 [所有日榜](./day/day.md)
 
-## 2025年第52周
+## 2026年第01周
 
-根据提供的榜单数据，我们可以做如下分析：
+本期榜单的项目主要集中在开源编码、人工智能助手和开发工具等领域，反映出当前技术发展的热门趋势。以下是对榜单的详细分析：
 
-### 1. 项目统计分析
-- **总项目数**：20个
-- **语言分布**：
-  - Python：6个项目
-  - TypeScript：6个项目
-  - Rust：1个项目
-  - Markdown：1个项目
-  - Jupyter Notebook：1个项目
-  - Shell：1个项目
-  - None（缺乏明确语言标记）：1个项目
-- **创建时间分布**：项目的创建时间从2017年到2025年不等，显示出一个活跃的开发趋势，尤其是2023年和2024年创建的项目。
-
-### 2. 热度与Star分析
-- **热门项目**：
-  - `pathwaycom/pathway`：当前Star 56319，热度 1417，展示了极高的关注度和用户参与度。
-  - `DigitalPlatDev/FreeDomain`：当前Star 137220，尽管热度较低，但在社区中的认可度相当高，可能因其特定的功能（提供免费域名）。
+### 1. **项目主题分析**
+- **开源编码和AI编码代理**：
+  大部分项目都与开源编码代理和AI编码工具相关。例如，排名前两个项目 `anomalyco/opencode` 和 `sst/opencode` 都是TypeScript开发的开源编码代理，证实了开源社区在AI与编码结合方面的积极开发态势。
   
-- **较新但关注度高的项目**：
-  - `pathwaycom/llm-app`：当前Star 53108，虽创建时间较短（2023年7月），但迅速积累了较高的Star数量，表明市场需求旺盛。
+- **人工智能驱动的开发工具**：
+  项目如 `anthropics/claude-code` 和 `bytedance/UI-TARS-desktop` 提供了集成AI功能的工具，显示了AI技术在软件开发中的应用愈发广泛，尤其是在代码自动化和优化领域。
 
-### 3. 技术趋势
-- **AI相关项目**：
-  - 许多项目都和AI、机器学习、实时数据处理以及自我编码相关，这反映了当前技术的趋势。比如，`BloopAI/vibe-kanban`和`pathwaycom/llm-app`都是围绕AI和代码优化的主题。
+### 2. **语言使用情况**
+- **TypeScript的主导地位**：
+  在前20个项目中，TypeScript的使用频率很高，显示出开发者对其在大型应用中的强大支持。TypeScript因其类型安全和更好的开发体验而被广泛采用。
+
+- **Python的多样性**：
+  Python作为深度学习和数据科学领域的主要语言，在榜单中也占据了一席之地，尤其是在处理自然语言处理和AI模型方面。
+
+### 3. **热度和Star数量**
+- **高热度项目**：
+  排名前两个项目的热度高达3834和3830，显示出开发者对AI编码辅助工具的极大兴趣。
   
-- **全栈集成**：
-  - 项目如`n8n-io/n8n`与`nocodb/nocodb`，强调集成性与自动化，体现了开源项目日益重视的可扩展性与易用性。
+- **相对较高的Star数量**：
+  许多项目的当前Star数超过10000，尤其是涉及AI技术的项目（如 `n8n` 和 `codecrafters-io/build-your-own-x`），显示出它们的受欢迎程度和社区支持。
 
-### 4. 未来趋势预测
-- 随着AI、数据科学和云计算的迅速发展，预计将会有更多围绕实时数据处理和机器学习技术的项目推出。
-- 项目的多样性（如支持多种语言和平台）可能会继续增加，以适应不同的开发者需求。
-- 开源社区的参与度将持续影响项目的发展，具有高Star数和持续活跃维护的项目将成为开发者的优先选择。
+### 4. **创建时间**
+- **新旧项目并存**：
+  创建时间跨度较广，最早的项目创建于2018年，最近的项目则在2025年创建，显示出该领域的持续创新与迭代。
 
-### 5. 结论
-这个榜单为我们提供了一个快速了解当前技术趋势和社区关注焦点的良好视角，各项目之间展现出明显的技术倾向和未来发展的潜力。尤其是与AI相关的项目尤为受到欢迎，可能在不久的将来会引领更多的开发方向。
+- **近期项目发展势头强劲**：
+  新近创建的项目（如2025年发布的项目）虽然相对年轻，但某些项目已经积累了相当的Star和热度，预示着这些新项目可能会对未来开发动向产生重要影响。
+
+### 5. **总结**
+整体现阶段，开源编码代理及人工智能技术的集成成为趋势。随着技术的不断进步，这类工具将进一步优化开发者的工作流程，提高编程效率。未来，开发者应该密切关注这些新兴项目的进展，以便把握技术革新的脉搏。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)|Rust|从Claude Code、Codex或任何编码代理中获得10倍的收益|4520|12375|1439|2025-06-14|
-|2|[pathwaycom/pathway](https://github.com/pathwaycom/pathway)|Python|用于流处理、实时分析、LLM管道和RAG的Python RTL框架。|4677|56319|1417|2022-11-27|
-|3|[pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)|Jupyter Notebook|用于RAG、AI管道和具有实时数据的企业搜索的即可运行云模板。对Docker友好。|4387|53108|1324|2023-07-19|
-|4|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|3889|32876|1248|2025-09-22|
-|5|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|3614|47277|1148|2025-04-30|
-|6|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Python|机器学习系统简介|3320|15190|1088|2023-09-06|
-|7|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|2734|25030|839|2025-09-23|
-|8|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|2228|105445|780|2025-03-05|
-|9|[resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)|Python|SoTA开源TTC|1617|20549|527|2025-04-23|
-|10|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|1731|137220|525|2024-05-30|
-|11|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|1501|51032|486|2025-02-22|
-|12|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|1406|86503|479|2024-04-29|
-|13|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|1265|42320|455|2024-02-06|
-|14|[yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)|Python|RAG与Leann一起谈论一切。同时在个人设备上运行快速、准确且100%私人的RAG应用程序，享受97%的存储空间节省。|1420|8048|445|2025-06-09|
-|15|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|1296|454117|416|2018-05-09|
-|16|[DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)|TypeScript|next.js网络应用程序，将人工智能功能与draw.io图表集成。该应用程序允许您通过自然语言命令和人工智能辅助可视化创建、修改和增强图表。|1159|16678|371|2025-03-23|
-|17|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|1041|166430|370|2019-06-22|
-|18|[nocodb/nocodb](https://github.com/nocodb/nocodb)|TypeScript|????????????Open Source Airtable Alternative|1129|60498|360|2017-10-29|
-|19|[iptv-org/iptv](https://github.com/iptv-org/iptv)|TypeScript|收集来自世界各地的公开可用的IPTV频道|1003|108447|327|2018-11-14|
-|20|[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)|Python|????《从零开始构建智能体》--从零开始智能体原理与实践课程|990|14175|325|2025-09-07|
+|1|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|11977|61153|3834|2025-04-30|
+|2|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|11966|61132|3830|2025-04-30|
+|3|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|3950|37550|1269|2025-09-22|
+|4|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|3645|55101|1166|2025-02-22|
+|5|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|2840|13179|901|2025-08-31|
+|6|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|2581|28011|789|2025-09-23|
+|7|[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)|TypeScript|开源多模式人工智能代理栈：连接尖端人工智能模型和代理基础设施|2241|22642|729|2025-01-19|
+|8|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|2260|45062|684|2024-02-06|
+|9|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|1994|139511|604|2024-05-30|
+|10|[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)|Rust|从Claude Code、Codex或任何编码代理中获得10倍的收益|1865|14735|599|2025-06-14|
+|11|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|1570|107358|527|2025-03-05|
+|12|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|1454|168115|507|2019-06-22|
+|13|[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)|TypeScript|用于编码代理的Chrome DevTools|1602|20268|500|2025-09-11|
+|14|[Olow304/memvid](https://github.com/Olow304/memvid)|Python|基于视频的人工智能内存库。通过闪电般的语义搜索将数百万个文本块存储在MP4文件中。不需要数据库。|1549|12099|489|2025-05-27|
+|15|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|1402|455744|450|2018-05-09|
+|16|[usememos/memos](https://github.com/usememos/memos)|Go|一项开源、自托管的笔记服务。您的想法、您的数据、您的控制-没有跟踪、没有广告、没有订阅费。|1312|53038|406|2021-12-08|
+|17|[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)|Python|????《从零开始构建智能体》--从零开始智能体原理与实践课程|1240|15667|401|2025-09-07|
+|18|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|1211|10546|381|2025-08-04|
+|19|[microsoft/BitNet](https://github.com/microsoft/BitNet)|Python|1位LLM的官方推理框架|1141|25646|376|2024-08-05|
+|20|[patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)|Jupyter Notebook|有关LLM、RAG和现实世界的AI代理应用程序的深入教程。|1077|25763|375|2024-10-21|
 
 [所有周榜](./week/week.md)
 
