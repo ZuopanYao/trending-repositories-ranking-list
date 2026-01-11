@@ -1,49 +1,49 @@
 Github热门开源项目榜单
 
-## 2026年01月10日
+## 2026年01月11日
 
-本期榜单涵盖了一些最新的开源项目，其中大多数项目涉及人工智能和编码工具，反映了当前技术领域的热门趋势。以下是对榜单中几个项目的详细分析：
+根据提供的榜单数据，我们可以对当前的热门开源项目进行一些分析。以下是对每个项目的总结和趋势观察：
 
-1. **项目主题**：
-   - 大部分项目（如`anomalyco/opencode`和`sst/opencode`）聚焦于开源编码代理和AI辅助编码，显示出开发者对提高编码效率和降低开发障碍的关注。
-   - 其他项目如`bytedance/UI-TARS-desktop`和`anthropics/claude-code`则强调引入多模式AI代理，以增强开发者的工作流程。
+### 项目概览
+1. **AI编码代理项目** 
+   - **第1-5名的项目**均集中在AI编码代理领域，显示出这个领域的高热度和强劲的市场需求。
+   - 项目如 `sst/opencode` 和 `anomalyco/opencode` 主要都是以 TypeScript 开发，当前的 Star 数量和热度相对较高，且它们都紧跟 AI 编程趋势。
 
-2. **语言使用**：
-   - 主要语言为TypeScript和Python，显示出这两种语言在现代开发中的广泛应用，尤其是在构建前端应用和深度学习方面。
-   - Shell和HTML等其它语言的项目数量相对较少，可能反映出这些领域的需求相对小众。
+2. **工具和基础设施**
+   - **第6名 (UI-TARS-desktop)** 作为开源多模式AI代理栈，致力于将前沿技术与代理基础设施结合，吸引了相当数量的开发者。
+   - **第12名 (daytona)** 作为安全和灵活的AI生成代码基础设施，显示出对安全和灵活性的重视日益增长。
 
-3. **Star趋势与热度**：
-   - `opencode`系列项目（特别是`anomalyco/opencode`和`sst/opencode`）获得了极高的当前Star和热度，显示出其在开发者社区中的受欢迎程度。
-   - 例如，`bytedance/UI-TARS-desktop`和`anthropics/claude-code`也有较好的Star数量，说明这些项目在其特定领域内也受到了较多关注。
+3. **多样化的项目**
+   - **第7名 (DigitalPlat FreeDomain)** 提供了免费的域名服务，适合不同用户的需求。
+   - **第10名至第15名的项目** 各种工具（如ConvertX和清洁Mac工具）展现了功能上的多样性，可能面向更广泛的用户群体。
 
-4. **创建时间**：
-   - 部分项目创建时间较新（例如`anthropics/skills`和`daytona`），这表明这些项目可能是在近年来需求增加的背景下快速响应市场需求而推出的。
+### 趋势观察
+- **AI相关项目的崛起**：AI编程工具的Key特色是能够提升开发效率和代码质量，为开发者提供极大的便利，因此这些项目的持续上升趋势是值得关注的。
+- **选择TypeScript的增多**：大部分前几名项目均采用TypeScript语言，表明开发者对TypeScript的偏好增加，这可能与其类型安全性和开发体验有关。
+- **社区支持和文档需求**：如 **awesome-copilot** 等项目强调社区支持，显示出开发者对共享知识和工具的需求正在增长。未来对于文档和使用提示的需求可能会进一步增加。
 
-5. **特殊项目**：
-   - `codecrafters-io/build-your-own-x`项目是一个引导用户从头开始实现技术的学习工具，虽然它的创建时间较早（2018年），但其高Star数量（超过45万）显示出了其持久的吸引力。
-   - `tailwindlabs/tailwindcss`作为一个流行的CSS框架，虽然创建时间较早但仍在保持热度，表明它在UI开发中的重要性。
-
-从整体来看，这一期的榜单反映了开发者对AI与编码工具的浓厚兴趣，以及对提高编程效率和实现创新的不断追求。
+### 总结
+本期榜单显示，AI编码相关的开源项目依然是开发者的热门选择，TypeScript作为开发语言的占比逐渐增加，而单纯的工具和基础设施建设的多样化也促进了开源社区的繁荣。适应性和安全性将在未来的项目中越来越受到重视。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|2284|59124|733|2025-04-30|
-|2|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|2269|59104|728|2025-04-30|
-|3|[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)|TypeScript|开源多模式人工智能代理栈：连接尖端人工智能模型和代理基础设施|661|22192|212|2025-01-19|
-|4|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|619|54547|201|2025-02-22|
-|5|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|586|36993|188|2025-09-22|
-|6|[C4illin/ConvertX](https://github.com/C4illin/ConvertX)|TypeScript|????自托管在线文件转换器。支持1000+种格式|377|14153|118|2024-04-07|
-|7|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|378|27713|116|2025-09-23|
-|8|[imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)|None|不断发展的保护Linux服务器的方法指南。|361|24065|113|2019-02-09|
-|9|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|316|44752|96|2024-02-06|
-|10|[davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)|JavaScript|用于配置和监控Claude Code的CLI工具|287|15300|94|2025-07-04|
-|11|[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)|TypeScript|用于编码代理的Chrome DevTools|292|19943|91|2025-09-11|
-|12|[MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker)|Python|MiroThinker是一系列开源搜索代理，旨在提高工具增强推理和信息搜索能力。|290|4143|90|2025-08-07|
-|13|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|295|139163|89|2024-05-30|
-|14|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|281|455515|89|2018-05-09|
-|15|[tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)|TypeScript|用于快速UI开发的实用性优先的CSS框架。|274|92642|87|2017-10-06|
+|1|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|2028|61132|651|2025-04-30|
+|2|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|2029|61153|651|2025-04-30|
+|3|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|728|16687|230|2025-10-09|
+|4|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|557|37550|179|2025-09-22|
+|5|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|554|55101|175|2025-02-22|
+|6|[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)|TypeScript|开源多模式人工智能代理栈：连接尖端人工智能模型和代理基础设施|450|22642|148|2025-01-19|
+|7|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|348|139511|106|2024-05-30|
+|8|[frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code)|Shell|具有智能出口检测功能的Claude Code自主AI开发循环|332|1385|106|2025-08-27|
+|9|[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)|TypeScript|用于编码代理的Chrome DevTools|325|20268|100|2025-09-11|
+|10|[C4illin/ConvertX](https://github.com/C4illin/ConvertX)|TypeScript|????自托管在线文件转换器。支持1000+种格式|322|14475|99|2024-04-07|
+|11|[twentyhq/twenty](https://github.com/twentyhq/twenty)|TypeScript|在社区的支持下构建Salesforce的现代替代方案。|313|38552|99|2022-12-01|
+|12|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|310|45062|93|2024-02-06|
+|13|[makeplane/plane](https://github.com/makeplane/plane)|TypeScript|????????????开源JIRA、Linear、Monday和Asana Alternative。飞机可以帮助您以地球上最简单的方式跟踪您的问题、史诗和骑自行车。|282|43371|91|2022-11-19|
+|14|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|298|28011|91|2025-09-23|
+|15|[github/awesome-copilot](https://github.com/github/awesome-copilot)|JavaScript|社区提供的说明、提示和配置可帮助您充分利用GitHub Copilot。|248|17074|78|2025-06-11|
 
 [所有日榜](./day/day.md)
 
