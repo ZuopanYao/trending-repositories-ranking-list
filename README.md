@@ -1,49 +1,49 @@
 Github热门开源项目榜单
 
-## 2026年01月11日
+## 2026年01月12日
 
-根据提供的榜单数据，我们可以对当前的热门开源项目进行一些分析。以下是对每个项目的总结和趋势观察：
+在本期榜单中，我们可以从多个维度分析这些开源项目。
 
-### 项目概览
-1. **AI编码代理项目** 
-   - **第1-5名的项目**均集中在AI编码代理领域，显示出这个领域的高热度和强劲的市场需求。
-   - 项目如 `sst/opencode` 和 `anomalyco/opencode` 主要都是以 TypeScript 开发，当前的 Star 数量和热度相对较高，且它们都紧跟 AI 编程趋势。
+### 1. 项目语言分布
+- 多数项目使用 TypeScript（7个项目），接着是 Python（2个项目），Shell（3个项目），Rust（1个项目），Go（1个项目），JavaScript（1个项目）和C（1个项目），显示出 TypeScript 在现代开发中的广泛应用，特别是在与 AI 和编码助手相关的项目中。
 
-2. **工具和基础设施**
-   - **第6名 (UI-TARS-desktop)** 作为开源多模式AI代理栈，致力于将前沿技术与代理基础设施结合，吸引了相当数量的开发者。
-   - **第12名 (daytona)** 作为安全和灵活的AI生成代码基础设施，显示出对安全和灵活性的重视日益增长。
+### 2. 项目介绍及功能
+- 许多项目聚焦于 AI 编码助手，帮助开发者提高编码效率。特别是 `opencode`（排名前两位的项目）与 `claude-code`，都是旨在通过自然语言命令来简化编码过程的工具。
+- 还有一些项目提供其他实用功能，如免费 IPTV 频道的播放列表与自托管笔记服务，这些功能满足了社区不同的需求。
 
-3. **多样化的项目**
-   - **第7名 (DigitalPlat FreeDomain)** 提供了免费的域名服务，适合不同用户的需求。
-   - **第10名至第15名的项目** 各种工具（如ConvertX和清洁Mac工具）展现了功能上的多样性，可能面向更广泛的用户群体。
+### 3. 报告趋势和热度
+- 热度较高的项目包括 `opencode` 和 `claude-code`，都是围绕编码助手设计，随着 AI 技术的普及，这类项目的需求明显上升。
+- 尽管有些项目如 `linux`内核在 GitHub 上的 Star 数量极高，带有一定的历史沉淀，但新兴项目（如 `opencode` 和 `anthropics/skills`）显示出强劲的增长势头，表明用户对于新技术和工具的追求。
 
-### 趋势观察
-- **AI相关项目的崛起**：AI编程工具的Key特色是能够提升开发效率和代码质量，为开发者提供极大的便利，因此这些项目的持续上升趋势是值得关注的。
-- **选择TypeScript的增多**：大部分前几名项目均采用TypeScript语言，表明开发者对TypeScript的偏好增加，这可能与其类型安全性和开发体验有关。
-- **社区支持和文档需求**：如 **awesome-copilot** 等项目强调社区支持，显示出开发者对共享知识和工具的需求正在增长。未来对于文档和使用提示的需求可能会进一步增加。
+### 4. 创建时间分析
+- 大多数项目在2025年创建，显示出当前的技术潮流偏好，尤其是围绕 AI 和自主编码工具的快速发展。这也意味着开发者在探索新工具与技术时，倾向于采用最新的解决方案。
+- 较早创建的项目如 `linux` 内核显示了坚实的基础，但随着时间的推移，更新频率和适应性可能会面临挑战。
 
-### 总结
-本期榜单显示，AI编码相关的开源项目依然是开发者的热门选择，TypeScript作为开发语言的占比逐渐增加，而单纯的工具和基础设施建设的多样化也促进了开源社区的繁荣。适应性和安全性将在未来的项目中越来越受到重视。
+### 5. 未来趋势
+- 随着 AI 技术的快速发展，预计未来将有更多相关项目出现。开发者对自动化工具和高效编码工具的需求将不断增加，因此在这一领域的开源项目有潜力达到更高的热度和关注度。
+
+### 结论
+本期榜单的项目集中在提升开发效率和使用 AI 的精确性，反映出开发者对创新工具和技术的渴求。在未来的技术发展中，这一趋势预计将继续维持。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|2028|61132|651|2025-04-30|
-|2|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|2029|61153|651|2025-04-30|
-|3|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|728|16687|230|2025-10-09|
-|4|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|557|37550|179|2025-09-22|
-|5|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|554|55101|175|2025-02-22|
-|6|[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)|TypeScript|开源多模式人工智能代理栈：连接尖端人工智能模型和代理基础设施|450|22642|148|2025-01-19|
-|7|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|348|139511|106|2024-05-30|
-|8|[frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code)|Shell|具有智能出口检测功能的Claude Code自主AI开发循环|332|1385|106|2025-08-27|
-|9|[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)|TypeScript|用于编码代理的Chrome DevTools|325|20268|100|2025-09-11|
-|10|[C4illin/ConvertX](https://github.com/C4illin/ConvertX)|TypeScript|????自托管在线文件转换器。支持1000+种格式|322|14475|99|2024-04-07|
-|11|[twentyhq/twenty](https://github.com/twentyhq/twenty)|TypeScript|在社区的支持下构建Salesforce的现代替代方案。|313|38552|99|2022-12-01|
-|12|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|310|45062|93|2024-02-06|
-|13|[makeplane/plane](https://github.com/makeplane/plane)|TypeScript|????????????开源JIRA、Linear、Monday和Asana Alternative。飞机可以帮助您以地球上最简单的方式跟踪您的问题、史诗和骑自行车。|282|43371|91|2022-11-19|
-|14|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|298|28011|91|2025-09-23|
-|15|[github/awesome-copilot](https://github.com/github/awesome-copilot)|JavaScript|社区提供的说明、提示和配置可帮助您充分利用GitHub Copilot。|248|17074|78|2025-06-11|
+|1|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|3155|64287|1001|2025-04-30|
+|2|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|3143|64296|998|2025-04-30|
+|3|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1667|18354|523|2025-10-09|
+|4|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|809|38359|261|2025-09-22|
+|5|[Free-TV/IPTV](https://github.com/Free-TV/IPTV)|Python|免费电视频道的M3 U播放列表|744|10169|239|2021-04-13|
+|6|[frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code)|Shell|具有智能出口检测功能的Claude Code自主AI开发循环|658|2043|204|2025-08-27|
+|7|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|533|55634|168|2025-02-22|
+|8|[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)|Rust|从Claude Code、Codex或任何编码代理中获得10倍的收益|501|15236|158|2025-06-14|
+|9|[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)|TypeScript|开源多模式人工智能代理栈：连接尖端人工智能模型和代理基础设施|467|23109|151|2025-01-19|
+|10|[makeplane/plane](https://github.com/makeplane/plane)|TypeScript|????????????开源JIRA、Linear、Monday和Asana Alternative。飞机可以帮助您以地球上最简单的方式跟踪您的问题、史诗和骑自行车。|447|43818|140|2022-11-19|
+|11|[usememos/memos](https://github.com/usememos/memos)|Go|一项开源、自托管的笔记服务。您的想法、您的数据、您的控制-没有跟踪、没有广告、没有订阅费。|434|53472|138|2021-12-08|
+|12|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|367|28378|113|2025-09-23|
+|13|[C4illin/ConvertX](https://github.com/C4illin/ConvertX)|TypeScript|????自托管在线文件转换器。支持1000+种格式|345|14820|107|2024-04-07|
+|14|[torvalds/linux](https://github.com/torvalds/linux)|C|Linux内核源树|330|213546|106|2011-09-04|
+|15|[davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)|JavaScript|用于配置和监控Claude Code的CLI工具|313|15787|100|2025-07-04|
 
 [所有日榜](./day/day.md)
 
