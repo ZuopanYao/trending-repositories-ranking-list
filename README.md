@@ -1,47 +1,56 @@
 Github热门开源项目榜单
 
-## 2026年01月13日
+## 2026年01月14日
 
-根据您提供的榜单数据，我们可以从几个维度分析当前的趋势和特征。
+根据本期榜单的数据，我们可以对项目进行如下分析：
 
-### 1. 项目类型与语言
-- **主流技术栈**：当前榜单上有多个使用TypeScript开发的项目（如1、2、6、9、10、15），说明TypeScript在构建现代Web应用和工具中的重要性。Python和Rust项目也占据了榜单，尤其是Python在AI和数据处理相关项目中表现突出。
-- **多样化技术领域**：榜单中的项目涵盖了多种功能，包括AI编码工具、实时视频处理、开源笔记服务等，显示出开发者在不同领域的广泛探索。
+### 总体趋势
+1. **编程语言分布**：
+   - TypeScript在榜单中占据主导地位，前五个项目中有四个使用该语言，显示了其在现代开发中的受欢迎程度和应用场景广泛性。
+   - Python和Shell也有多个项目，这表明这两种语言在特定领域（如科学计算、系统管理和自动化）中的重要性。
 
-### 2. 项目热度与趋势
-- **热门项目**：项目如[sst/opencode](https://github.com/sst/opencode)和[anomalyco/opencode](https://github.com/anomalyco/opencode)不仅有很高的当前Star数（66467和66479），而且热度相近，代表出色的社区反馈和需求。
-- **增长趋势**：大多数项目的趋势Star数（如2180和2183）表明它们在共同增长，可能吸引了越来越多的开发者关注。新项目[frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code)和[ruvnet/claude-flow](https://github.com/ruvnet/claude-flow)虽然当前Star较少，但其定位明确，可能在特定社区中增长潜力大。
+2. **项目主题**：
+   - 大多数项目涉及人工智能（AI）和编码代理，这反映了当前技术的趋势，尤其是与AI相关的开发工具和增强开发者生产力的工具。
+   - 一些项目如`clean`、`tiny-gpu`和`Mole`，则聚焦于系统优化和硬件设计，突显了开发者对于系统性能和效率的关注。
 
-### 3. 创造时间与稳定性
-- **项目年龄**：大部分项目的创建时间相对较新，例如[daytonaio/daytona](https://github.com/daytonaio/daytona)和[frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code)都是2024年和2025年创建，这可能反映出当前技术潮流的迅速变化。
-- **早期项目稳定性**：像[torvalds/linux](https://github.com/torvalds/linux)这样成熟的项目（创建于2011年），它们的Star数（213864）表明长久以来的稳定和持续的社区支持，成为了开发者的基石。
+### 热度与Star数量
+- **高热度项目**：
+   - `sst/opencode`和`anomalyco/opencode`两者都是编码代理项目，热度均为737，显示了极高的关注度和活跃度。它们的创建时间接近（都是2025年），可能表明这是一个热门的开发领域。
+   - `obra/superpowers`以567的热度，在编程工具中表现不俗，核心技能库的概念可能吸引了较多的开发者。
 
-### 4. 总体趋势与展望
-- **AI与工具化**: 许多项目旨在提升开发效率（如编码助手和自动化工具），反映出市场对于易用性和代码生产力的追求。
-- **去中心化与自托管**：如[usememos/memos](https://github.com/usememos/memos)显示出越来越多的开发者倾向于掌握自己的数据和应用，反映出隐私和数据控制的需求。
+- **新兴项目**：
+   - 一些新近创建的项目如`daytonaio/daytona`和`anthropics/claude-code`显示了良好的Star增长，表明它们正在吸引越来越多的开发者关注。
+
+### 创新与实用性
+- 项目如`chidiwilliams/buzz`以及`icloud-photos-downloader/icloud_photos_downloader`，虽不在热度榜单前列，但通过提供实用工具（音频转录和下载工具）显然满足了特定用户需求。
+- `BloopAI/vibe-kanban`则聚焦于团队协作工具，强调了在软件开发中协同工作的必要性。
+
+### 未来发展
+- 随着AI技术的持续发展，我们能预见更多基于AI的工具将不断涌现。在未来的榜单中，可能会看到更多关于自动化和智能化的项目占据榜首。
+- 对于开发者来说，关注热度和Star增长的项目，可以帮助他们找到前沿技术和趋势，进而提升自身技术能力和项目竞争力。
 
 ### 结论
-此次榜单展示了当前技术社区对AI、工具化开发、去中心化的强烈兴趣和快速响应。随着技术不断发展，这些领域可能会吸引更多的用户和开发者，未来的市场和技术发展值得关注。
+本期榜单显示了开发者对于AI相关工具的高度关注，同时也反映了开发领域对于系统处理能力和便利工具的需求。随着技术的演变，这些项目有可能改变开发者的工作方式和行业标准。建议开发者关注这些项目的发展，参与到相关项目中以保持技术的前瞻性。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|2180|66467|704|2025-04-30|
-|2|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|2183|66479|704|2025-04-30|
-|3|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1613|19967|503|2025-10-09|
-|4|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|979|39338|319|2025-09-22|
-|5|[DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)|Rust|适用于Web、桌面和移动设备的全栈应用程序框架。|520|33963|162|2021-01-15|
-|6|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|489|45864|147|2024-02-06|
-|7|[frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code)|Shell|具有智能出口检测功能的Claude Code自主AI开发循环|463|2506|145|2025-08-27|
-|8|[NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)|Python|小红书笔记 |评论虫虫，房间音视频|评论虫虫，快速视频|评论虫子，B 站视频|评论蚯蚓，微生物豆芽子|评论虫虫，百年酒吧豆芽子| 百度贴吧评论回复爬虫  | 知乎问答文章|评论爬虫|425|42507|138|2023-06-09|
-|9|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|416|56050|135|2025-02-22|
-|10|[usememos/memos](https://github.com/usememos/memos)|Go|一项开源、自托管的笔记服务。您的想法、您的数据、您的控制-没有跟踪、没有广告、没有订阅费。|379|53851|120|2021-12-08|
-|11|[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)|Rust|从Claude Code、Codex或任何编码代理中获得10倍的收益|344|15580|109|2025-06-14|
-|12|[torvalds/linux](https://github.com/torvalds/linux)|C|Linux内核源树|318|213864|104|2011-09-04|
-|13|[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)|Python|实时人脸交换和仅使用单个图像的一键视频Deepfake|312|77702|103|2023-09-24|
-|14|[ruvnet/claude-flow](https://github.com/ruvnet/claude-flow)|JavaScript|????Claude领先的代理编排平台。部署智能多主体群、协调自主工作流程并构建对话式人工智能系统。特征    企业级架构、分布式群智能、RAG集成以及通过MCP协议提供的本地Claude Code支持。在基于代理的框架中排名第一。|333|11889|103|2025-06-02|
-|15|[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)|TypeScript|开源多模式人工智能代理栈：连接尖端人工智能模型和代理基础设施|307|23416|100|2025-01-19|
+|1|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|2302|68769|737|2025-04-30|
+|2|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|2303|68782|737|2025-04-30|
+|3|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1795|21762|567|2025-10-09|
+|4|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|1073|40411|344|2025-09-22|
+|5|[chidiwilliams/buzz](https://github.com/chidiwilliams/buzz)|Python|Buzz在您的个人计算机上离线转录和翻译音频。由OpenAI的Whisper提供支持。|456|17048|143|2022-09-24|
+|6|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|468|29093|142|2025-09-23|
+|7|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|457|46321|139|2024-02-06|
+|8|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|389|56439|126|2025-02-22|
+|9|[adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu)|SystemVerilog|Verilog中的最小图形处理器设计，从头开始了解图形处理器的工作方式|411|10109|126|2024-04-09|
+|10|[Free-TV/IPTV](https://github.com/Free-TV/IPTV)|Python|免费电视频道的M3 U播放列表|376|10860|117|2021-04-13|
+|11|[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)|Rust|从Claude Code、Codex或任何编码代理中获得10倍的收益|371|15951|117|2025-06-14|
+|12|[twitter/the-algorithm](https://github.com/twitter/the-algorithm)|Scala|X推荐算法的源代码|341|69778|110|2023-03-27|
+|13|[onlook-dev/onlook](https://github.com/onlook-dev/onlook)|TypeScript|设计师的指针·开源AI优先设计工具·使用AI视觉构建、设计和编辑您的React应用程序|355|24339|109|2024-06-25|
+|14|[icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)|Python|从iCloud下载照片的命令行工具|327|11210|100|2016-05-13|
+|15|[blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)|TypeScript|具有IP摄像机实时本地对象检测功能的NVR|310|29177|98|2019-01-26|
 
 [所有日榜](./day/day.md)
 
