@@ -1,52 +1,47 @@
 Github热门开源项目榜单
 
-## 2026年01月15日
+## 2026年01月16日
 
-通过对本期榜单的数据分析，我们可以总结出以下几点：
+在本期的GitHub项目榜单中，可以观察到几个趋势和特点，以下是对榜单的分析：
 
-### 1. **热门语言趋势**
-在本榜单中，TypeScript占据了最多的项目数量，共有6个项目。这显示出TypeScript在开源社区中的受欢迎程度，特别是在与AI和编码助手相关的应用中。其他语言如Shell、Python、Go、Rust和Scala各有一两个项目，显示了多样性，但整体数量较少。
+### 项目语言分布
+- **TypeScript** 和 **Python** 在榜单中占据了较大比例，显示出这两种语言在现代软件开发中的受欢迎程度和应用广泛性。尤其是与AI和机器学习相关的项目，多数使用Python，而与前端开发和大多数工具类应用相关的项目则倾向于使用TypeScript。
 
-### 2. **Star趋势**
-- 排名前两位的项目（anomalyco/opencode和sst/opencode）都接近70,000个Star，显示其在社区中的极大受欢迎程度。这表明这两个项目在开源编码代理领域的领先地位。
-- 项目热度（热度列）也反映了当前的关注度，前几名的项目热度均高于600，表明它们在用户中引发了广泛的讨论和使用。
+### 项目主题
+- **AI与机器学习**：许多项目都涉及AI编码助手、编码代理等，体现了当前技术的发展趋势。例如，`sst/opencode`、`anomalyco/opencode` 和 `anthropics/claude-code` 都是有关编码自动化的工具，说明开发者希望通过智能工具提高编码效率。
+- **工具与生产力提升**：如 `eigent-ai/eigent` 和 `anthropics/skills` 等项目旨在提升开发者的生产力，突出显示了对高效工具的需求。
+- **开发环境工具**：项目如 `puckeditor/puck` 和 `farion1231/cc-switch` 均致力于改善开发者的工作流，表明对于优化工具和提高用户体验的重视。
 
-### 3. **项目功能特性**
-- 许多项目都专注于提供编码助手服务，如AI编码代理和代码生成工具。尤其是像anomalyco/opencode和sst/opencode这样的项目，都是以提高开发效率为目标。
-- 其他项目如LocalAI旨在提供基于AI的本地解决方案，强调自我托管和兼容性，吸引那些希望避免使用云服务的开发者。
+### 当前热度与趋势
+- **Star数与趋势Star**：项目的Star数可以反映出其受欢迎程度。`sst/opencode`和`anomalyco/opencode`同为最受关注的项目，当前的Star数皆在七万以上，显示出用户对AI编码代理的极高认可。
+- **热度分布**：热度虽然相对较低，但是有些项目如`ultralytics/ultralytics`和`codecrafters-io/build-your-own-x`的热度表现仍然不俗，说明这些项目在特定社区中有独特影响力。
 
-### 4. **创建时间和活跃度**
-- 新兴项目如LocalAI和anthropics/claude-code自2023年开始创建，它们接受了近年来车载AI和本地计算的潮流。而较早的项目，比如codecrafters-io/build-your-own-x（创建于2018年），仍然保持着高热度，说明其持续的使用价值和教育性质。
-- 创建时间近的项目普遍显示出较高的Current Stars和趋势Star数，与其他项目相比更容易吸引用户的注意。
+### 新兴与成熟项目的对比
+- **新兴项目**：创建时间较新（如2025年的项目）表明了这些项目通常会吸引试图获取新技术的开发者。
+- **成熟项目**：如`codecrafters-io/build-your-own-x`成立于2018年，但依然保持了极高的Star数（457203），说明其在教育和学习领域中的持续价值。
 
-### 5. **社区互动**
-- 热门项目的高Star数和热度通常伴随着活跃的社区支持，很多用户愿意为项目贡献代码或参与讨论，形成良好的生态。
-
-### 6. **未来发展**
-- 随着AI和自动化工具的快速发展，涉及这些技术的开源项目可能会出现更多创新且实用的工具，值得开发者和用户密切关注。
-
-### 总结
-本榜单展示了当前开源领域中关于AI与编码辅助工具的强劲趋势，显示出TypeScript语言在此类项目中的主导地位。随着技术的快速更迭，相关的工具和库预计会进一步丰富，满足更广泛的开发需求。开发者们应积极参与这些项目，以保持技术的前沿性和实用性。
+### 结论
+总体来看，这份榜单突出了AI辅助开发工具和现代开发环境的需求，同时也展示了技术社区对新兴工具的积极响应。随着技术的不断迭代，针对开发者的工具和资源的关注度预计还会继续增长，值得后续关注。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|2152|70934|693|2025-04-30|
-|2|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|2150|70919|692|2025-04-30|
-|3|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|2097|23859|660|2025-10-09|
-|4|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|1255|41666|403|2025-09-22|
-|5|[cjpais/Handy](https://github.com/cjpais/Handy)|TypeScript|一个免费的、开源的、可扩展的语音转文本应用程序，完全离线工作。|503|11317|154|2025-02-13|
-|6|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|435|456898|140|2018-05-09|
-|7|[mudler/LocalAI](https://github.com/mudler/LocalAI)|Go|：机器人：OpenAI、Claude等人的免费开源替代品。自我托管和本地优先。OpenAI的直接替代品，在消费级硬件上运行。无需GPU。变压器，扩散器和更多。功能：生成文本，音频，视频，图像，语音克隆，分布式，P2P和分散推理|421|41826|134|2023-03-18|
-|8|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|378|56817|121|2025-02-22|
-|9|[twitter/the-algorithm](https://github.com/twitter/the-algorithm)|Scala|X推荐算法的源代码|363|70141|116|2023-03-27|
-|10|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|363|46684|109|2024-02-06|
-|11|[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)|Rust|从Claude Code、Codex或任何编码代理中获得10倍的收益|300|16251|95|2025-06-14|
-|12|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|251|169197|89|2019-06-22|
-|13|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|293|140725|88|2024-05-30|
-|14|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|266|108406|86|2025-03-05|
-|15|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|271|29364|83|2025-09-23|
+|1|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|2116|73035|682|2025-04-30|
+|2|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|2115|73049|681|2025-04-30|
+|3|[eigent-ai/eigent](https://github.com/eigent-ai/eigent)|TypeScript|Eigent：开源同事桌面，提高您卓越的生产力。|1892|7339|601|2025-07-29|
+|4|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1794|25653|567|2025-10-09|
+|5|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|1226|42892|399|2025-09-22|
+|6|[puckeditor/puck](https://github.com/puckeditor/puck)|TypeScript|React的视觉编辑器|477|10940|148|2023-06-02|
+|7|[google/langextract](https://github.com/google/langextract)|Python|一个Python库，用于使用LLM从非结构化文本中提取结构化信息，具有精确的源代码基础和交互式可视化。|408|21052|128|2025-07-08|
+|8|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|375|57192|121|2025-02-22|
+|9|[davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)|JavaScript|用于配置和监控Claude Code的CLI工具|378|16486|121|2025-07-04|
+|10|[ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)|Python|超催化剂YOLO????|370|51684|115|2022-09-11|
+|11|[cjpais/Handy](https://github.com/cjpais/Handy)|TypeScript|一个免费的、开源的、可扩展的语音转文本应用程序，完全离线工作。|352|11669|107|2025-02-13|
+|12|[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)|Rust|从Claude Code、Codex或任何编码代理中获得10倍的收益|317|16568|101|2025-06-14|
+|13|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|305|457203|99|2018-05-09|
+|14|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|275|11749|84|2025-08-04|
+|15|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|277|29641|84|2025-09-23|
 
 [所有日榜](./day/day.md)
 
