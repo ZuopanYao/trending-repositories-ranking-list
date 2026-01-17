@@ -1,47 +1,57 @@
 Github热门开源项目榜单
 
-## 2026年01月16日
+## 2026年01月17日
 
-在本期的GitHub项目榜单中，可以观察到几个趋势和特点，以下是对榜单的分析：
+本期榜单包含了一些技术前沿的开源项目，主要集中在编码、人工智能和工具类应用。以下是对榜单的详细分析：
 
-### 项目语言分布
-- **TypeScript** 和 **Python** 在榜单中占据了较大比例，显示出这两种语言在现代软件开发中的受欢迎程度和应用广泛性。尤其是与AI和机器学习相关的项目，多数使用Python，而与前端开发和大多数工具类应用相关的项目则倾向于使用TypeScript。
+### 项目特点与趋势
 
-### 项目主题
-- **AI与机器学习**：许多项目都涉及AI编码助手、编码代理等，体现了当前技术的发展趋势。例如，`sst/opencode`、`anomalyco/opencode` 和 `anthropics/claude-code` 都是有关编码自动化的工具，说明开发者希望通过智能工具提高编码效率。
-- **工具与生产力提升**：如 `eigent-ai/eigent` 和 `anthropics/skills` 等项目旨在提升开发者的生产力，突出显示了对高效工具的需求。
-- **开发环境工具**：项目如 `puckeditor/puck` 和 `farion1231/cc-switch` 均致力于改善开发者的工作流，表明对于优化工具和提高用户体验的重视。
+1. **技术领域集中：**
+   - 大部分项目（如 `anomalyco/opencode`、`sst/opencode` 和 `eigent-ai/eigent`）使用 TypeScript 和 Python，显示出这两种语言在开发现代 web 和 AI 应用方面的流行。
 
-### 当前热度与趋势
-- **Star数与趋势Star**：项目的Star数可以反映出其受欢迎程度。`sst/opencode`和`anomalyco/opencode`同为最受关注的项目，当前的Star数皆在七万以上，显示出用户对AI编码代理的极高认可。
-- **热度分布**：热度虽然相对较低，但是有些项目如`ultralytics/ultralytics`和`codecrafters-io/build-your-own-x`的热度表现仍然不俗，说明这些项目在特定社区中有独特影响力。
+2. **人工智能发展：**
+   - 多个项目（例如，`anthropics/skills` 和 `daytonaio/daytona`）专注于人工智能助手和代码生成，表明市场对智能编码助手的高度需求。这些工具旨在提升开发者的效率，尤其是在处理复杂任务时。
 
-### 新兴与成熟项目的对比
-- **新兴项目**：创建时间较新（如2025年的项目）表明了这些项目通常会吸引试图获取新技术的开发者。
-- **成熟项目**：如`codecrafters-io/build-your-own-x`成立于2018年，但依然保持了极高的Star数（457203），说明其在教育和学习领域中的持续价值。
+3. **用户体验与功能：**
+   - 项目如 `iOfficeAI/AionUi` 和 `anthropics/claude-code` 提供了与终端集成的功能，提高了用户在实际编码中的体验与效率。
 
-### 结论
-总体来看，这份榜单突出了AI辅助开发工具和现代开发环境的需求，同时也展示了技术社区对新兴工具的积极响应。随着技术的不断迭代，针对开发者的工具和资源的关注度预计还会继续增长，值得后续关注。
+4. **广泛应用场景：**
+   - 一些项目（如 `cjpais/Handy` 和 `DigitalPlatDev/FreeDomain`）关注于实用工具的开发，服务更广泛的用户群体，从转换语音到文本，到提供免费域名，关注点各异。
+
+### 星标与热度分析
+
+- **高星标项目：**
+  - `codecrafters-io/build-your-own-x` 的 Star 数量高达 457,542，显示出其在开发者中的广泛认可和应用。这一项目鼓励学习基础技术，极具教育意义。
+
+- **热度分布：**
+  - 带有较高热度（如 500+ 的热度）项目主要集中在编码助手和 AI 工具，这与当下学习与实际开发过程中的需求相吻合。
+
+- **新项目潜力：**
+  - 新创建的项目（如 `eigent-ai/eigent` 和 `iOfficeAI/AionUi`），尽管创建时间较短，但已显示出很好的 Star 增长趋势，表明了潜在的市场需求。
+
+### 小结
+
+本期榜单展示了当前开源项目中强调工具和技术提高开发效率的趋势，尤其是在人工智能辅助编码方面。随着技术的发展，这些项目的影响力有望继续增长，开发者可以通过参与这些项目或使用它们来进一步提升自身的技能和工作效率。建议开发者关注这些项目中的热门工具，并积极尝试以优化自己的开发流程。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|2116|73035|682|2025-04-30|
-|2|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|2115|73049|681|2025-04-30|
-|3|[eigent-ai/eigent](https://github.com/eigent-ai/eigent)|TypeScript|Eigent：开源同事桌面，提高您卓越的生产力。|1892|7339|601|2025-07-29|
-|4|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1794|25653|567|2025-10-09|
-|5|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|1226|42892|399|2025-09-22|
-|6|[puckeditor/puck](https://github.com/puckeditor/puck)|TypeScript|React的视觉编辑器|477|10940|148|2023-06-02|
-|7|[google/langextract](https://github.com/google/langextract)|Python|一个Python库，用于使用LLM从非结构化文本中提取结构化信息，具有精确的源代码基础和交互式可视化。|408|21052|128|2025-07-08|
-|8|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|375|57192|121|2025-02-22|
-|9|[davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)|JavaScript|用于配置和监控Claude Code的CLI工具|378|16486|121|2025-07-04|
-|10|[ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)|Python|超催化剂YOLO????|370|51684|115|2022-09-11|
-|11|[cjpais/Handy](https://github.com/cjpais/Handy)|TypeScript|一个免费的、开源的、可扩展的语音转文本应用程序，完全离线工作。|352|11669|107|2025-02-13|
-|12|[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)|Rust|从Claude Code、Codex或任何编码代理中获得10倍的收益|317|16568|101|2025-06-14|
-|13|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|305|457203|99|2018-05-09|
-|14|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|275|11749|84|2025-08-04|
-|15|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|277|29641|84|2025-09-23|
+|1|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|1544|74593|500|2025-04-30|
+|2|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|1543|74578|499|2025-04-30|
+|3|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1383|27036|437|2025-10-09|
+|4|[eigent-ai/eigent](https://github.com/eigent-ai/eigent)|TypeScript|Eigent：开源同事桌面，提高您卓越的生产力。|893|8232|286|2025-07-29|
+|5|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|783|43675|252|2025-09-22|
+|6|[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)|TypeScript|Gemini CLI、Claude Code、Codex、Opencode、Qwen Code、Goose Cli、Auggie等的免费、本地、开源Cowk|如果????你喜欢的话就明星吧！|606|4691|189|2025-08-07|
+|7|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|425|47347|127|2024-02-06|
+|8|[google/langextract](https://github.com/google/langextract)|Python|一个Python库，用于使用LLM从非结构化文本中提取结构化信息，具有精确的源代码基础和交互式可视化。|400|21452|126|2025-07-08|
+|9|[cjpais/Handy](https://github.com/cjpais/Handy)|TypeScript|一个免费的、开源的、可扩展的语音转文本应用程序，完全离线工作。|351|12020|109|2025-02-13|
+|10|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|339|457542|108|2018-05-09|
+|11|[puckeditor/puck](https://github.com/puckeditor/puck)|TypeScript|React的视觉编辑器|320|11260|100|2023-06-02|
+|12|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|292|57484|94|2025-02-22|
+|13|[patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)|Jupyter Notebook|有关LLM、RAG和现实世界的AI代理应用程序的深入教程。|250|26380|87|2024-10-21|
+|14|[afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC)|TypeScript|从Tidal、Qobuz和Amazon Music获取真正的FLAC格式的Spotify曲目-无需帐户。|259|3424|80|2025-01-09|
+|15|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|255|141252|77|2024-05-30|
 
 [所有日榜](./day/day.md)
 
