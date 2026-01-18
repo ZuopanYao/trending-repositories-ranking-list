@@ -50,65 +50,57 @@ Github热门开源项目榜单
 
 [所有日榜](./day/day.md)
 
-## 2026年第01周
+## 2026年第02周
 
-本期榜单的项目主要集中在开源编码、人工智能助手和开发工具等领域，反映出当前技术发展的热门趋势。以下是对榜单的详细分析：
+本期榜单展示了多个开源项目，目前的趋势和流行度可以从以下几个方面进行分析：
 
-### 1. **项目主题分析**
-- **开源编码和AI编码代理**：
-  大部分项目都与开源编码代理和AI编码工具相关。例如，排名前两个项目 `anomalyco/opencode` 和 `sst/opencode` 都是TypeScript开发的开源编码代理，证实了开源社区在AI与编码结合方面的积极开发态势。
-  
-- **人工智能驱动的开发工具**：
-  项目如 `anthropics/claude-code` 和 `bytedance/UI-TARS-desktop` 提供了集成AI功能的工具，显示了AI技术在软件开发中的应用愈发广泛，尤其是在代码自动化和优化领域。
+1. **项目类型分布**：
+   - 榜单中的项目包括编码代理（如`opencode`和`claude-code`系列）、编程学习工具（如`build-your-own-x`）、自动化工具（如`n8n`）和数据处理库（如`langextract`）。这种多样性表明，对开发者工具和学习资源的需求持续增长。
 
-### 2. **语言使用情况**
-- **TypeScript的主导地位**：
-  在前20个项目中，TypeScript的使用频率很高，显示出开发者对其在大型应用中的强大支持。TypeScript因其类型安全和更好的开发体验而被广泛采用。
+2. **语言使用**：
+   - TypeScript和Python在榜单中占据重要位置，反映了它们在现代软件开发中的广泛应用。TypeScript项目（如`anomalyco/opencode`和`sst/opencode`）尤其受欢迎，这表明开发者对类型安全和易维护性的重视。
 
-- **Python的多样性**：
-  Python作为深度学习和数据科学领域的主要语言，在榜单中也占据了一席之地，尤其是在处理自然语言处理和AI模型方面。
+3. **Star趋势**：
+   - `anomalyco/opencode` 和 `sst/opencode` 的 Star 数量均超过 76,000，显示了对开源编码代理的强烈兴趣。此外，项目的趋势 Star 也很高，说明这些项目未来可能会继续受到关注并获得更多用户。
 
-### 3. **热度和Star数量**
-- **高热度项目**：
-  排名前两个项目的热度高达3834和3830，显示出开发者对AI编码辅助工具的极大兴趣。
-  
-- **相对较高的Star数量**：
-  许多项目的当前Star数超过10000，尤其是涉及AI技术的项目（如 `n8n` 和 `codecrafters-io/build-your-own-x`），显示出它们的受欢迎程度和社区支持。
+4. **热度分析**：
+   - 热度值显示了项目近期的关注度，`anomalyco/opencode` 和 `sst/opencode` 的热度接近 3900，显示出它们在社群中的活跃程度。与其他项目相比，它们的热度显著更高，这可能与其新颖性和功能性有关。
 
-### 4. **创建时间**
-- **新旧项目并存**：
-  创建时间跨度较广，最早的项目创建于2018年，最近的项目则在2025年创建，显示出该领域的持续创新与迭代。
+5. **创建时间**：
+   - 最新的项目大多是在 2025 年创建的，这可能与当前 AI 和编码自动化技术的迅速发展密切相关。反观一些老牌项目，如`codecrafters-io/build-your-own-x`（创建于2018年），尽管创建时间较早，但仍保持了较高的 Star 数量（超过 45,000），显示其稳定的受欢迎程度。
 
-- **近期项目发展势头强劲**：
-  新近创建的项目（如2025年发布的项目）虽然相对年轻，但某些项目已经积累了相当的Star和热度，预示着这些新项目可能会对未来开发动向产生重要影响。
+6. **独特性与创新性**：
+   - 许多项目专注于将 AI 技术与编码结合（如`daytona`和`claude-code`），这说明市场对智能开发助手的强烈需求。这类工具能够提高开发效率，使程序员能够更专注于创意和设计，而无须陷入繁琐的编码细节中。
 
-### 5. **总结**
-整体现阶段，开源编码代理及人工智能技术的集成成为趋势。随着技术的不断进步，这类工具将进一步优化开发者的工作流程，提高编程效率。未来，开发者应该密切关注这些新兴项目的进展，以便把握技术革新的脉搏。
+7. **社区与维护**：
+   - 项目的维护及活跃度是考虑其成功的关键因素。榜单中的项目大多由活跃的开发者维护，这也为它们的持久流行提供了保障。
+
+总结来看，本期榜单反映了对编码工具和 AI 集成的强烈需求，项目的活跃性、类型种类、技术语言等方面的多样性，以及新技术趋势，都在推动着开源社区的不断发展。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|11977|61153|3834|2025-04-30|
-|2|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|11966|61132|3830|2025-04-30|
-|3|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|3950|37550|1269|2025-09-22|
-|4|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|3645|55101|1166|2025-02-22|
-|5|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|2840|13179|901|2025-08-31|
-|6|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|2581|28011|789|2025-09-23|
-|7|[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)|TypeScript|开源多模式人工智能代理栈：连接尖端人工智能模型和代理基础设施|2241|22642|729|2025-01-19|
-|8|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|2260|45062|684|2024-02-06|
-|9|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|1994|139511|604|2024-05-30|
-|10|[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)|Rust|从Claude Code、Codex或任何编码代理中获得10倍的收益|1865|14735|599|2025-06-14|
-|11|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|1570|107358|527|2025-03-05|
-|12|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|1454|168115|507|2019-06-22|
-|13|[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)|TypeScript|用于编码代理的Chrome DevTools|1602|20268|500|2025-09-11|
-|14|[Olow304/memvid](https://github.com/Olow304/memvid)|Python|基于视频的人工智能内存库。通过闪电般的语义搜索将数百万个文本块存储在MP4文件中。不需要数据库。|1549|12099|489|2025-05-27|
-|15|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|1402|455744|450|2018-05-09|
-|16|[usememos/memos](https://github.com/usememos/memos)|Go|一项开源、自托管的笔记服务。您的想法、您的数据、您的控制-没有跟踪、没有广告、没有订阅费。|1312|53038|406|2021-12-08|
-|17|[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)|Python|????《从零开始构建智能体》--从零开始智能体原理与实践课程|1240|15667|401|2025-09-07|
-|18|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|1211|10546|381|2025-08-04|
-|19|[microsoft/BitNet](https://github.com/microsoft/BitNet)|Python|1位LLM的官方推理框架|1141|25646|376|2024-08-05|
-|20|[patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)|Jupyter Notebook|有关LLM、RAG和现实世界的AI代理应用程序的深入教程。|1077|25763|375|2024-10-21|
+|1|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|12024|76320|3871|2025-04-30|
+|2|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|12020|76307|3870|2025-04-30|
+|3|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|9810|28164|3103|2025-10-09|
+|4|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|6065|44424|1963|2025-09-22|
+|5|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|2488|47863|751|2024-02-06|
+|6|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|2184|57818|706|2025-02-22|
+|7|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|2076|458022|670|2018-05-09|
+|8|[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)|Rust|从Claude Code、Codex或任何编码代理中获得10倍的收益|1728|16964|552|2025-06-14|
+|9|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|1710|141529|518|2024-05-30|
+|10|[frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code)|Shell|具有智能出口检测功能的Claude Code自主AI开发循环|1638|3681|514|2025-08-27|
+|11|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|1652|30030|505|2025-09-23|
+|12|[cjpais/Handy](https://github.com/cjpais/Handy)|TypeScript|一个免费的、开源的、可扩展的语音转文本应用程序，完全离线工作。|1586|12219|490|2025-02-13|
+|13|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|1390|109045|477|2025-03-05|
+|14|[n8n-io/n8n](https://github.com/n8n-io/n8n)|TypeScript|具有原生人工智能功能的公平代码工作流程自动化平台。将视觉构建与自定义代码、自主机或云、400+集成相结合。|1342|169752|462|2019-06-22|
+|15|[google/langextract](https://github.com/google/langextract)|Python|一个Python库，用于使用LLM从非结构化文本中提取结构化信息，具有精确的源代码基础和交互式可视化。|1330|21876|420|2025-07-08|
+|16|[davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)|JavaScript|用于配置和监控Claude Code的CLI工具|1261|17048|414|2025-07-04|
+|17|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|1302|12052|403|2025-08-04|
+|18|[usememos/memos](https://github.com/usememos/memos)|Go|一项开源、自托管的笔记服务。您的想法、您的数据、您的控制-没有跟踪、没有广告、没有订阅费。|1207|54679|380|2021-12-08|
+|19|[twitter/the-algorithm](https://github.com/twitter/the-algorithm)|Scala|X推荐算法的源代码|1151|70469|374|2023-03-27|
+|20|[steveyegge/beads](https://github.com/steveyegge/beads)|Go|珠子-编码代理的内存升级|1164|10939|363|2025-10-12|
 
 [所有周榜](./week/week.md)
 
