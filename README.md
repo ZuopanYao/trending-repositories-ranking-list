@@ -1,50 +1,52 @@
 Github热门开源项目榜单
 
-## 2026年01月19日
+## 2026年01月20日
 
-从以上榜单可以看出，当前在开源项目领域中，特别是在 AI 编程辅助和编码代理方面有明显的热度和趋势。以下是对这份榜单的分析：
+本期榜单主要关注于开源项目，尤其是与编码代理、人工智能和开发工具相关的项目。以下是对榜单的详细分析：
 
-### 1. **主流语言**
-- **TypeScript** 和 **Python** 是本期榜单中最流行的编程语言，显示出对开发者友好的特性和强大的生态系统。例如，前四个项目均使用 TypeScript，且涉及 AI 编码辅助。
+### 1. 项目类型分析
+榜单中的项目主要以TypeScript和Python为主。其中，TypeScript项目占据了多数，反映出在前端和后端开发中，使用TypeScript的趋势日益增长。Python项目则反映了数据科学和人工智能领域的需求。
 
-### 2. **项目类型**
-- 众多项目聚焦于 **AI 编程代理** 及相关工具。这类工具旨在通过自然语言理解帮助开发者提高编码效率。这些项目中，有的专注于使编码更加简单直观（如 `sst/opencode` 和 `anthropics/claude-code`），而有的则提供更为丰富的功能（如 `iOfficeAI/AionUi`）。
+### 2. 项目热度与Star数
+1. **anomalyco/opencode** 和 **sst/opencode** 项目在Star数和热度上遥遥领先，表明这些编码代理工具的广泛认可和使用。这两个项目都是相对较新的，并且有相似的功能，可能存在竞争关系。
+  
+2. **obra/superpowers** 和 **anthropics/skills** 作为排名第三和第四的项目，同样获得了大量的Star数和热度，表明它们在开发者社区中的受欢迎程度。
 
-### 3. **趋势与热度**
-- **趋势Star**：大多数项目的趋势Star数值都在一千以上，显示出逐渐上升的关注度，特别是 **sst/opencode** 和 **anomalyco/opencode** 的趋势Star都接近2000，显示出其受欢迎程度不断增加。
-- **热度**：目前热度较高的项目，如 `sst/opencode` 和 `anomalyco/opencode`，表明这些工具在实际使用中可能获得了开发者的积极反馈。
+3. 尽管**public-apis/public-apis**是一个相对较早创建的项目（2016），但是其Star数仍非常可观，显示出稳定的社区支持。
 
-### 4. **社区与贡献**
-- 许多项目的Star数量庞大，显示了良好的社区支持和开发活跃度，例如 `yt-dlp` 的Star达到了142736。这不仅反映了项目的受欢迎程度，也说明了良好的用户反馈和维护。
+### 3. 创建时间
+大部分项目的创建时间在2025年，这表明当前的开源潮流集中在新兴工具和技术上，尤其是与AI和智能编码相关的工具。项目例如**AionUi**和**awesome-claude-skills**显示出开发者对高效工作流程的追求。
 
-### 5. **新兴技术**
-- 设立在自然语言处理与生成技术上的项目（如 `OpenBMB/VoxCPM` 和 `google/langextract`），反映出用户对语音生成和信息提取的需求正在增长，这表明 AI 在各行业中的广泛应用潜力。
+### 4. 项目专注领域
+- **编码代理**: 大多数排名靠前的项目都是针对AI编码代理，旨在提高开发效率。
+- **知识库与技能**: 部分项目（如`anthropics/skills`）致力于提供社区共享的知识库，帮助开发者更好地利用AI技能。
+- **数据提取与处理**: 项目如`google/langextract`则专注于从非结构化数据中提取信息，适应当前数据驱动的开发趋势。
 
-### 6. **长期项目的存在**
-- 虽然许多项目较新（比如2025年创建），仍有一些较早的项目如 `codecrafters-io/build-your-own-x`（创建于2018年），表明了它们在技术学习和社区建设上的持久性。
+### 5. 总体趋势
+整体来看，本期榜单反映了开源项目的快速发展尤其是在人工智能和自动化开发工具领域。开发者越来越趋向于使用AI辅助工具来提升编程效率和质量。同时，社区的参与积极性也显著提高，推动了开源项目的快速迭代和完善。
 
-### 总结
-本期榜单显示了 AI 编程助手及相关工具的蓬勃发展，主要开发语言集中在 TypeScript 和 Python。开发者对现代编程工具的需求正在推动项目的快速增长和活跃。随着人工智能技术的进一步进化，相关工具和平台有着广泛的前景。
+### 结论
+建议对热门项目进行持续关注，了解它们的更新和新功能，同时鼓励开发者参与开源社区，贡献自己的代码和想法，以推动技术的进一步发展。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|1937|78244|620|2025-04-30|
-|2|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|1929|78249|618|2025-04-30|
-|3|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1350|29514|426|2025-10-09|
-|4|[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)|TypeScript|Gemini CLI、Claude Code、Codex、Opencode、Qwen Code、Goose Cli、Auggie等的免费、本地、开源Cowk|如果????你喜欢的话就明星吧！|1213|6580|383|2025-08-07|
-|5|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|1035|45459|337|2025-09-22|
-|6|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|701|21822|223|2025-10-17|
-|7|[OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)|Python|VoxCPM：用于上下文感知语音生成和逼真语音克隆的无令牌转换器|686|4714|222|2025-09-16|
-|8|[google/langextract](https://github.com/google/langextract)|Python|一个Python库，用于使用LLM从非结构化文本中提取结构化信息，具有精确的源代码基础和交互式可视化。|652|22528|205|2025-07-08|
-|9|[nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)|Rust|一个高性能的算法交易平台和事件驱动的回测器|490|17937|153|2018-06-25|
-|10|[eigent-ai/eigent](https://github.com/eigent-ai/eigent)|TypeScript|Eigent：开源同事桌面，提高您卓越的生产力。|428|9622|145|2025-07-29|
-|11|[davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)|JavaScript|用于配置和监控Claude Code的CLI工具|406|17454|133|2025-07-04|
-|12|[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|Python|功能丰富的命令行音频/视频下载器|405|142736|128|2020-10-26|
-|13|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|386|458408|122|2018-05-09|
-|14|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|370|58188|117|2025-02-22|
-|15|[yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)|Python|RAG与Leann一起谈论一切。同时在个人设备上运行快速、准确且100%私人的RAG应用程序，享受97%的存储空间节省。|356|9215|111|2025-06-09|
+|1|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|1829|80078|595|2025-04-30|
+|2|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|1822|80066|593|2025-04-30|
+|3|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1203|30717|381|2025-10-09|
+|4|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|1131|46590|369|2025-09-22|
+|5|[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)|TypeScript|Gemini CLI、Claude Code、Codex、Opencode、Qwen Code、Goose Cli、Auggie等的免费、本地、开源Cowk|如果????你喜欢的话就明星吧！|969|7549|305|2025-08-07|
+|6|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|746|22568|237|2025-10-17|
+|7|[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)|Rust|从Claude Code、Codex或任何编码代理中获得10倍的收益|542|17785|173|2025-06-14|
+|8|[OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)|Python|VoxCPM：用于上下文感知语音生成和逼真语音克隆的无令牌转换器|528|5242|171|2025-09-16|
+|9|[google/langextract](https://github.com/google/langextract)|Python|一个Python库，用于使用LLM从非结构化文本中提取结构化信息，具有精确的源代码基础和交互式可视化。|531|23059|165|2025-07-08|
+|10|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|412|392273|133|2016-03-20|
+|11|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|384|58572|125|2025-02-22|
+|12|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|359|109711|122|2025-03-05|
+|13|[eigent-ai/eigent](https://github.com/eigent-ai/eigent)|TypeScript|Eigent：开源同事桌面，提高您卓越的生产力。|365|9987|118|2025-07-29|
+|14|[ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)|Python|None|347|16137|111|2025-03-07|
+|15|[czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp)|TypeScript|用于Claude Desktop / Claude Code / Windsurf / Cursor的MCP，为您构建n8 n工作流程 |349|12409|110|2025-06-07|
 
 [所有日榜](./day/day.md)
 
