@@ -1,59 +1,46 @@
 Github热门开源项目榜单
 
-## 2026年01月23日
+## 2026年01月24日
 
-### 本期榜单分析
+根据提供的榜单信息，我们可以分析出以下几个关键趋势和项目特点：
 
-#### 总体趋势
-本期榜单主要集中在AI编码代理、生成式UI和文档索引等领域，反映出开发者对提升编码效率、简化视频制作、以及增强AI助手能力的强烈需求。以下是对榜单中各项目的详细分析：
+### 项目语言分布
+- 大部分项目使用 **TypeScript** 和 **Python** 这两种语言。其中，TypeScript 的项目数量较多，说明在网页和应用开发中，TypeScript正在成为一种流行的选择。
+- Shell 和 Rust 项目数量较少，可能是由于这些语言在特定领域（如系统编程和低级编程）的应用。
 
-#### 项目分类分析
-1. **AI编码代理（TypeScript & Python）**:
-   - **前两名 (#1 & #2)**: `sst/opencode` 和 `anomalyco/opencode`都是AI编码代理工具，专为终端用户设计，各自的Star数目几乎相同，显示出该领域的竞争和关注度高。它们的热度值均为539，显示出高度一致的受欢迎程度。
-   - **#3**: `anthropics/skills`也是一个与AI相关的项目，旨在提供代理技能的公共知识库，虽然Star数不及前二，但仍有超过5万个Star，反映出有关技能的需求。
+### 项目趋势和热度
+- **趋势Star** 和 **当前Star** 的差距可以体现出项目的成长潜力。例如，**VectifyAI/PageIndex** 的当前Star达到8018，远超其趋势Star 1364，显示出强烈的增长趋势。
+- **热度** 数值显示了用户对这些项目的关注度，尽管热度不一定直接与Star值成正比，但可以看作是用户对项目内容的实际兴趣，例如项目**remotion**和**anomalyco/opencode**都显示了较高的热度。
 
-2. **生成式UI（TypeScript）**:
-   - **#6**: `tambo` 项目作为一个生成式UI SDK，显示出编程过程中对UI生成的关注。虽然其Star数与前面的项目差距较大，但其较高的热度显示出市场对此类工具的持续需求。
-   - **#4**: `remotion`利用React进行视频制作，表明了开发者们也在寻找新的方式来简化多媒体内容的创建。
+### 项目类型和功能
+- 大部分项目都围绕着AI和编程支持展开，例如编码代理、RAG（检索增强生成）等。表明当前开发者对AI辅助开发工具的需求日益增加。
+- 一些项目如 **anthropics/claude-code** 和 **microsoft/VibeVoice** 关注于提高编程效率和语音AI，这两者都是当前技术发展的热点。
 
-3. **视频下载工具（TypeScript）**:
-   - **#7**: `VidBee`专注于下载视频，显示出用户对于多平台内容获取的需求。
+### 创建时间
+- 榜单中的项目创建时间分布较为分散，但新项目较多（如2025年设定的未来项目）。这表明技术仍在快速发展，尤其在AI和开发工具领域，创新层出不穷。
 
-4. **教育与学习（Markdown & Jupyter Notebook）**:
-   - **#10 & #11**: `build-your-own-x` 和 `Data-Science-For-Beginners`是面向学习者的重要项目，强调了教育资源的价值，反映出编程学习和数据科学教育的热潮。
-
-5. **深度金融研究（TypeScript）**:
-   - **#12**: `dexter`专注于深度金融研究的自主代理，显示了金融技术领域的增长潜力。
-
-6. **文档索引（Python）**:
-   - **#15**: `VectifyAI/PageIndex`突出了对文档处理和信息检索的需求，尤其是在AI和机器学习日趋流行的背景下。
-
-#### 热度与Stars对比
-- 从热度与Star数的对比来看，某些项目（如`build-your-own-x`）虽然Star数较高，但热度相对较低，可能需要考虑如何提升项目的活跃度和使用率。
-- Another insight is that although `tambo` and `VidBee` have lower Star counts, their heat indices suggest a rising interest that could translate into future growth.
-
-#### 结论
-总体来看，本期榜单反映了技术领域对AI工具、教育资源以及多媒体处理的广泛需求。开发者正在寻求更高效的编码工具和学习材料，同时，AI在各行各业的应用也呈上升趋势。未来，保持对这些领域的关注，将可能引领产业的进一步发展与变革。
+### 结论
+综合来看，榜单展现了当前开发者在AI辅助、编程工具和相关技术领域的浓厚兴趣。TypeScript和Python继续受欢迎，并且新兴项目表现出强劲的市场潜力。随着AI技术的进步，未来可能会有更多此类项目出现，进一步推动工具和应用的发展。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|1674|85172|539|2025-04-30|
-|2|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|1669|85179|539|2025-04-30|
-|3|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|1533|50782|505|2025-09-22|
-|4|[remotion-dev/remotion](https://github.com/remotion-dev/remotion)|TypeScript|????      使用React以编程方式制作视频|1496|28024|470|2020-06-23|
-|5|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1115|34320|353|2025-10-09|
-|6|[tambo-ai/tambo](https://github.com/tambo-ai/tambo)|TypeScript|React生成式UI SDK|864|4500|260|2024-06-15|
-|7|[nexmoe/VidBee](https://github.com/nexmoe/VidBee)|TypeScript|从全球几乎所有网站下载视频|777|5159|239|2025-10-22|
-|8|[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)|TypeScript|Gemini CLI、Claude Code、Codex、Opencode、Qwen Code、Goose Cli、Auggie等的免费、本地、开源Cowk|如果????你喜欢的话就明星吧！|642|9683|202|2025-08-07|
-|9|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|630|24706|202|2025-10-17|
-|10|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|535|459886|178|2018-05-09|
-|11|[microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)|Jupyter Notebook|10周，20堂课，全民数据科学！|505|33212|158|2021-03-03|
-|12|[virattt/dexter](https://github.com/virattt/dexter)|TypeScript|深度金融研究的自主代理|478|8715|150|2025-10-14|
-|13|[block/goose](https://github.com/block/goose)|Rust|一个开源、可扩展的AI代理，超越了代码建议-使用任何LLM安装、执行、编辑和测试|473|27467|147|2024-08-23|
-|14|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|383|59769|124|2025-02-22|
-|15|[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)|Python|SEARCH PageIndex：基于推理的RAG的文档索引|351|6654|109|2025-04-01|
+|1|[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)|Python|SEARCH PageIndex：基于推理的RAG的文档索引|1364|8018|428|2025-04-01|
+|2|[remotion-dev/remotion](https://github.com/remotion-dev/remotion)|TypeScript|????      使用React以编程方式制作视频|1194|29218|380|2020-06-23|
+|3|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|1022|86201|336|2025-04-30|
+|4|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|1019|86191|335|2025-04-30|
+|5|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|965|51747|316|2025-09-22|
+|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|797|35117|255|2025-10-09|
+|7|[OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG)|Python|UltraRAG v3：用于构建复杂和创新的RAG管道的低代码LCP框架|589|3335|179|2025-01-16|
+|8|[block/goose](https://github.com/block/goose)|Rust|一个开源、可扩展的AI代理，超越了代码建议-使用任何LLM安装、执行、编辑和测试|509|27976|161|2024-08-23|
+|9|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|446|25152|146|2025-10-17|
+|10|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|440|60209|140|2025-02-22|
+|11|[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)|Python|开源前沿语音人工智能|440|21529|138|2025-08-25|
+|12|[tambo-ai/tambo](https://github.com/tambo-ai/tambo)|TypeScript|React生成式UI SDK|422|4922|129|2024-06-15|
+|13|[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)|TypeScript|Gemini CLI、Claude Code、Codex、Opencode、Qwen Code、Goose Cli、Auggie等的免费、本地、开源Cowk|如果????你喜欢的话就明星吧！|386|10069|122|2025-08-07|
+|14|[browser-use/browser-use](https://github.com/browser-use/browser-use)|Python|让人工智能代理可以访问网站。轻松在线自动化任务。|376|76635|117|2024-10-31|
+|15|[lyogavin/airllm](https://github.com/lyogavin/airllm)|Jupyter Notebook|AirLLM 70 B推理，采用单个4GB图形处理器|348|8835|110|2023-06-12|
 
 [所有日榜](./day/day.md)
 
