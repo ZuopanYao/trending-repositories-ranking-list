@@ -1,46 +1,54 @@
 Github热门开源项目榜单
 
-## 2026年01月24日
+## 2026年01月25日
 
-根据提供的榜单信息，我们可以分析出以下几个关键趋势和项目特点：
+在本期榜单中，我们看到了多种编程语言的开源项目，主要集中在TypeScript和Python。以下是对榜单的详细分析：
 
-### 项目语言分布
-- 大部分项目使用 **TypeScript** 和 **Python** 这两种语言。其中，TypeScript 的项目数量较多，说明在网页和应用开发中，TypeScript正在成为一种流行的选择。
-- Shell 和 Rust 项目数量较少，可能是由于这些语言在特定领域（如系统编程和低级编程）的应用。
+### 综合趋势
+1. **语言分布**：TypeScript和Python在榜单上占据了大部分项目。TypeScript注重前端开发和与React相关的项目，而Python则涵盖了AI、数据处理和自动化等应用领域。
+   
+2. **趋势与热度**：趋势Star数量的高低说明了这些项目在开发者中的当前关注度。热度指标则可以反映项目的实际使用情况及受欢迎程度。
 
-### 项目趋势和热度
-- **趋势Star** 和 **当前Star** 的差距可以体现出项目的成长潜力。例如，**VectifyAI/PageIndex** 的当前Star达到8018，远超其趋势Star 1364，显示出强烈的增长趋势。
-- **热度** 数值显示了用户对这些项目的关注度，尽管热度不一定直接与Star值成正比，但可以看作是用户对项目内容的实际兴趣，例如项目**remotion**和**anomalyco/opencode**都显示了较高的热度。
+3. **创建时间**：大部分项目创建于近几年，这表明市场对新技术的快速采用和响应。
 
-### 项目类型和功能
-- 大部分项目都围绕着AI和编程支持展开，例如编码代理、RAG（检索增强生成）等。表明当前开发者对AI辅助开发工具的需求日益增加。
-- 一些项目如 **anthropics/claude-code** 和 **microsoft/VibeVoice** 关注于提高编程效率和语音AI，这两者都是当前技术发展的热点。
+### 项目分析
+1. **前五名**：
+   - **remotion-dev/remotion**：作为制作视频的工具，结合了React和TypeScript，适合想要便捷制作动态内容的开发者，当前Star数高达30328。
+   - **sst/opencode** 和 **anomalyco/opencode**：这两个项目都是AI编码代理，分别针对不同的使用场景，这表明AI工具在开发者社区引起了极大的兴趣。
+   - **anthropics/skills**：展示了AI领域中的共享知识库的潜力，特别是在代理技能方面的应用。
 
-### 创建时间
-- 榜单中的项目创建时间分布较为分散，但新项目较多（如2025年设定的未来项目）。这表明技术仍在快速发展，尤其在AI和开发工具领域，创新层出不穷。
+2. **AI与自动化**：多个项目涉及到AI和自动化，例如 **block/goose** 和 **browser-use/browser-use**，反映出开发者对智能工具的请求与需求增加。
 
-### 结论
-综合来看，榜单展现了当前开发者在AI辅助、编程工具和相关技术领域的浓厚兴趣。TypeScript和Python继续受欢迎，并且新兴项目表现出强劲的市场潜力。随着AI技术的进步，未来可能会有更多此类项目出现，进一步推动工具和应用的发展。
+3. **音频和语音处理**：如 **Blaizzy/mlx-audio** 和 **microsoft/VibeVoice**项目，展示了语音识别和合成技术在编程工具中的应用，引领了语音交互的趋势。
+
+4. **教育与学习**：**codecrafters-io/build-your-own-x** 是一个教育项目，旨在通过实践让用户学习编程，显示出学习和成长的重要性。
+
+### 未来展望
+- **继续关注AI和自动化**：随着技术的进步，更多基于AI的开发工具将会涌现，这对于提升开发效率至关重要。
+- **多人协作与知识共享**：项目如 **anthropics/skills** 显示出协作和知识共享的重要性，未来可能会有更多此类型的工具出现。
+- **综合开发环境的整合**：随着工具的增多，如何整合各种功能，提升开发者的工作效率，将成为下一个发展的关键。
+
+结合以上分析，可以看出开源社区正在快速适应新技术，并为开发者提供越来越多的工具和资源，以满足日益增长的需求。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)|Python|SEARCH PageIndex：基于推理的RAG的文档索引|1364|8018|428|2025-04-01|
-|2|[remotion-dev/remotion](https://github.com/remotion-dev/remotion)|TypeScript|????      使用React以编程方式制作视频|1194|29218|380|2020-06-23|
-|3|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|1022|86201|336|2025-04-30|
-|4|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|1019|86191|335|2025-04-30|
-|5|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|965|51747|316|2025-09-22|
-|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|797|35117|255|2025-10-09|
-|7|[OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG)|Python|UltraRAG v3：用于构建复杂和创新的RAG管道的低代码LCP框架|589|3335|179|2025-01-16|
-|8|[block/goose](https://github.com/block/goose)|Rust|一个开源、可扩展的AI代理，超越了代码建议-使用任何LLM安装、执行、编辑和测试|509|27976|161|2024-08-23|
-|9|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|446|25152|146|2025-10-17|
-|10|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|440|60209|140|2025-02-22|
-|11|[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)|Python|开源前沿语音人工智能|440|21529|138|2025-08-25|
-|12|[tambo-ai/tambo](https://github.com/tambo-ai/tambo)|TypeScript|React生成式UI SDK|422|4922|129|2024-06-15|
-|13|[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)|TypeScript|Gemini CLI、Claude Code、Codex、Opencode、Qwen Code、Goose Cli、Auggie等的免费、本地、开源Cowk|如果????你喜欢的话就明星吧！|386|10069|122|2025-08-07|
-|14|[browser-use/browser-use](https://github.com/browser-use/browser-use)|Python|让人工智能代理可以访问网站。轻松在线自动化任务。|376|76635|117|2024-10-31|
-|15|[lyogavin/airllm](https://github.com/lyogavin/airllm)|Jupyter Notebook|AirLLM 70 B推理，采用单个4GB图形处理器|348|8835|110|2023-06-12|
+|1|[remotion-dev/remotion](https://github.com/remotion-dev/remotion)|TypeScript|????      使用React以编程方式制作视频|1110|30328|352|2020-06-23|
+|2|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|969|87160|319|2025-04-30|
+|3|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|971|87172|318|2025-04-30|
+|4|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|938|52685|311|2025-09-22|
+|5|[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)|Python|SEARCH PageIndex：基于推理的RAG的文档索引|861|8879|271|2025-04-01|
+|6|[block/goose](https://github.com/block/goose)|Rust|一个开源、可扩展的AI代理，超越了代码建议-使用任何LLM安装、执行、编辑和测试|773|28749|248|2024-08-23|
+|7|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|652|35769|207|2025-10-09|
+|8|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|480|25632|154|2025-10-17|
+|9|[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)|TypeScript|Gemini CLI、Claude Code、Codex、Opencode、Qwen Code、Goose Cli、Auggie等的免费、本地、开源Cowk|如果????你喜欢的话就明星吧！|485|10554|153|2025-08-07|
+|10|[OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG)|Python|UltraRAG v3：用于构建复杂和创新的RAG管道的低代码LCP框架|489|3824|152|2025-01-16|
+|11|[Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio)|Python|基于Apple MLX框架构建的文本到语音（TTC）、语音到文本（STT）和语音到语音（STS）库，在Apple Silicon上提供高效的语音分析。|450|3885|141|2024-11-27|
+|12|[browser-use/browser-use](https://github.com/browser-use/browser-use)|Python|让人工智能代理可以访问网站。轻松在线自动化任务。|376|77011|119|2024-10-31|
+|13|[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)|Python|开源前沿语音人工智能|367|21896|116|2025-08-25|
+|14|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|315|460532|101|2018-05-09|
+|15|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|291|60500|92|2025-02-22|
 
 [所有日榜](./day/day.md)
 
