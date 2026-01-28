@@ -1,64 +1,54 @@
 Github热门开源项目榜单
 
-## 2026年01月27日
+## 2026年01月28日
 
-根据本期榜单的信息，我们可以进行以下分析：
+在本期榜单中，我们可以看到一系列有趣的开源项目，主要集中在人工智能（AI）、编程、编码工具以及与之相关的技能库和应用程序。这些项目涉及到多种编程语言，主要是Python和TypeScript。以下是对各个项目的一些分析：
 
-### 总体趋势
-1. **功能导向**: 当前榜单上的项目大多数集中在开发和利用人工智能（AI）的工具和应用上，尤其是在编码、数据科学和视频制作等领域。大多数工具旨在提高效率和简化工作流程，为用户提供更直观和强大的功能。
+### 项目概述
 
-2. **编程语言偏好**: TypeScript 和 Python 在榜单中占主导地位，显示出这两种语言在开发现代应用程序和工具方面的广泛使用和流行程度。尤其是在AI和深度学习领域，这两种语言提供了丰富的库和支持。
+1. **高关注项目**：
+   - **[anthropics/skills](https://github.com/anthropics/skills)** 和 **[sst/opencode](https://github.com/sst/opencode)** 是榜单中的热门项目，分别具有56797和91070的Star数量，体现出强大的社区支持和实际应用潜力。它们都是围绕AI代理的技能和编码服务展开，表明AI工具越来越受到开发者的追捧和重视。
 
-### 各项目分析
-1. **技能库的建立 (anthropics/skills)**:
-   - 项目介绍为“代理技能公共知识库”，当前Star数达到55486，趋势Star为1472，显示出用户对于技能共享和生态系统构建的强烈需求。
+2. **多样化语言**：
+   - 项目采用了Python、TypeScript、Shell等多种编程语言，这显示了开发者在选择技术栈时的多样性。例如，Python强大的数据处理和AI能力，以及TypeScript在前端开发中的优势，满足了不同开发需求。
 
-2. **AI编码助手 (sst/opencode & anomalyco/opencode)**:
-   - 这两个项目均为开源AI编码工具，TypeScript为主要开发语言，强调了AI在编码过程中的辅助作用。Trend Star和当前Star的高数值反映了它们的受欢迎程度和影响力。
+3. **丰富的工具和应用**：
+   - 一些项目如**[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)**和**[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)**提供了构建AI工作流的工具和资源，促进了开源社区的知识分享和合作。
 
-3. **视频制作工具 (remotion-dev/remotion)**:
-   - 使用React进行视频制作的项目表明AI在创作领域的影响力日益增强。当前Star接近32721，这显示出市场对于创新音视频编程工具的需求。
+4. **新技术趋势**：
+   - 英雄席位如**[anthropics/claude-code](https://github.com/anthropics/claude-code)**和**[badlogic/pi-mono](https://github.com/badlogic/pi-mono)**展示了如何通过自然语言与代码交互，提高编程效率。这种AI与软件开发的结合，可能预示着未来编程模式的变革。
 
-4. **Claude AI的工具和资源 (anthropics/claude-code & ComposioHQ/awesome-claude-skills)**:
-   - 有关Claude相关的工具和资源汇集了丰富的功能，有效推动了Claude AI的应用，现有Star数显著，表明用户对灵活的AI应用和自定义功能的需求。
+### 热度与趋势分析
 
-5. **金融分析助手 (AI4Finance-Foundation/FinRobot)**:
-   - 作为一个使用LLM进行财经分析的开源AI平台，抓住了金融科技与人工智能结合的市场需求。
+- **热度指标**：
+  - 项目热度（如“热度”一项）与Star数量的比例能反映出一个项目在特定时间段的热度变化。例如，虽然**[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)**已有461562个Star，但其热度分数相对较低，可能因为该项目已经成熟，活跃度有所下降。
 
-6. **内存管理 (supermemoryai/supermemory)**:
-   - 面向AI时代的内存API工具，强调对现代应用程序性能的提升。
+- **创建时间**：
+  - 项目的创建时间对热度也有一定的影响。较新的项目如**[anthropics/skills](https://github.com/anthropics/skills)**和**[sst/opencode](https://github.com/sst/opencode)**在短时间内获得高热度，显示出新兴技术或话题能够迅速吸引关注。
 
-7. **教育和学习相关项目 (codecrafters-io/build-your-own-x)**:
-   - “从头开始”项目吸引了很多想掌握编程技巧的学习者，也显示出教育领域对实践性的关注。
+### 总体结论
 
-### 值得关注的趋势
-- **AI与编码结合**: 许多新工具和项目正围绕AI技术展开，特别是自动化和智能助手的特点，使得编程效率大大提升。
-  
-- **高阶功能集成**: 如在金融和音视频领域，集成多种功能以满足特定需求的工具越来越受到青睐，显示出市场对综合性解决方案的需求。
-
-- **社区和开源**: 较高的Star数量及活跃的开发者社区表明开源工具和资源在推动技术进步方面的巨大潜力。
-
-结合以上分析，可以看出，未来的技术发展将继续围绕AI与编程、创作、数据科学等领域的深度整合，社区的力量和开源精神将持续推动这一趋势。
+本期榜单展示了人工智能方面的创新和开源社区的活跃性。从项目的类型和语言使用上来看，这一领域正在快速发展，开发者对高效工具的需求日益增加。预期未来在AI和工具开发方面会持续出现新的突破和合作机会。依托强大的社区支持，这些项目可能在实际应用中发挥越来越重要的作用。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|1472|55486|473|2025-09-22|
-|2|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|1269|89840|418|2025-04-30|
-|3|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|1267|89844|417|2025-04-30|
-|4|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1059|37801|337|2025-10-09|
-|5|[remotion-dev/remotion](https://github.com/remotion-dev/remotion)|TypeScript|????      使用React以编程方式制作视频|1068|32721|334|2020-06-23|
-|6|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|585|26797|186|2025-10-17|
-|7|[business-science/ai-data-science-team](https://github.com/business-science/ai-data-science-team)|Python|由人工智能驱动的数据科学代理团队可帮助您以10倍的速度执行常见数据科学任务。|481|4466|150|2024-12-11|
-|8|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|450|61340|143|2025-02-22|
-|9|[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)|Python|SEARCH PageIndex：基于推理的RAG的文档索引|445|10047|139|2025-04-01|
-|10|[supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)|TypeScript|内存引擎和应用程序速度极快、可扩展。适合人工智能时代的内存API。|434|15416|136|2024-02-27|
-|11|[AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)|Jupyter Notebook|FinRobot：一个使用LLM进行财务分析的开源AI代理平台???????????? |418|5957|131|2024-02-27|
-|12|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|371|89963|125|2024-04-29|
-|13|[Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio)|Python|基于Apple MLX框架构建的文本到语音（TTC）、语音到文本（STT）和语音到语音（STS）库，在Apple Silicon上提供高效的语音分析。|397|5357|123|2024-11-27|
-|14|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|341|461179|114|2018-05-09|
-|15|[lyogavin/airllm](https://github.com/lyogavin/airllm)|Jupyter Notebook|AirLLM 70 B推理，采用单个4GB图形处理器|358|9456|112|2023-06-12|
+|1|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|1311|56797|426|2025-09-22|
+|2|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|1230|91070|390|2025-04-30|
+|3|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|1232|91076|390|2025-04-30|
+|4|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|979|38780|309|2025-10-09|
+|5|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|613|90576|202|2024-04-29|
+|6|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|516|27313|163|2025-10-17|
+|7|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|427|25993|153|2025-05-03|
+|8|[remotion-dev/remotion](https://github.com/remotion-dev/remotion)|TypeScript|????      使用React以编程方式制作视频|490|33211|153|2020-06-23|
+|9|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|440|2999|140|2025-08-09|
+|10|[immich-app/immich](https://github.com/immich-app/immich)|TypeScript|高性能自托管照片和视频管理解决方案。|451|90629|136|2022-02-03|
+|11|[Free-TV/IPTV](https://github.com/Free-TV/IPTV)|Python|免费电视频道的M3 U播放列表|427|12805|136|2021-04-13|
+|12|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|402|61742|129|2025-02-22|
+|13|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|383|461562|125|2018-05-09|
+|14|[supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)|TypeScript|内存引擎和应用程序速度极快、可扩展。适合人工智能时代的内存API。|383|15799|118|2024-02-27|
+|15|[NevaMind-AI/memU](https://github.com/NevaMind-AI/memU)|Python|LLM和AI代理的内存基础设施|321|5368|102|2025-07-29|
 
 [所有日榜](./day/day.md)
 
