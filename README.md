@@ -1,54 +1,52 @@
 Github热门开源项目榜单
 
-## 2026年01月28日
+## 2026年01月29日
 
-在本期榜单中，我们可以看到一系列有趣的开源项目，主要集中在人工智能（AI）、编程、编码工具以及与之相关的技能库和应用程序。这些项目涉及到多种编程语言，主要是Python和TypeScript。以下是对各个项目的一些分析：
+根据本期榜单的数据分析，我们可以观察到以下几点：
 
-### 项目概述
+### 1. 项目语言分布
+- **Python**和**TypeScript**是榜单上最常见的编程语言，分别占据了多个项目。这表明这两种语言在AI和开发工具领域的流行程度。
+- **JavaScript**和**Shell**也有项目入选，虽然数量较少，但在某些特定领域，如前端开发和系统管理，仍然发挥着重要作用。
 
-1. **高关注项目**：
-   - **[anthropics/skills](https://github.com/anthropics/skills)** 和 **[sst/opencode](https://github.com/sst/opencode)** 是榜单中的热门项目，分别具有56797和91070的Star数量，体现出强大的社区支持和实际应用潜力。它们都是围绕AI代理的技能和编码服务展开，表明AI工具越来越受到开发者的追捧和重视。
+### 2. 热度与Star趋势
+- **asgeirtj/system_prompts_leaks**项目以1287的趋势Stars和27280的当前Stars位居榜首，说明其在社区中的影响力和实用性强，特别是在提取聊天机器人系统脚本方面。
+- **anthropics/skills**则凭借57898的当前Stars和1101的趋势Stars，显示出它的持久受欢迎程度，反映了对代理技能的持续需求。
+- **sst/opencode**和**anomalyco/opencode**虽然趋势Stars相近，但由于当前Stars数的悬殊，表明其用户接受度及应用范围存在不同。
 
-2. **多样化语言**：
-   - 项目采用了Python、TypeScript、Shell等多种编程语言，这显示了开发者在选择技术栈时的多样性。例如，Python强大的数据处理和AI能力，以及TypeScript在前端开发中的优势，满足了不同开发需求。
+### 3. 新项目与成熟项目
+- 榜单中有一些较新（创建时间在2025年）的项目，例如**MoonshotAI/kimi-cli**和**badlogic/pi-mono**，显示了AI工具领域的快速发展趋势。
+- 相对成熟的项目，例如**remotion-dev/remotion**，创建时间早于2025年，依然得到良好的关注度，表示其稳定性和可靠性。
 
-3. **丰富的工具和应用**：
-   - 一些项目如**[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)**和**[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)**提供了构建AI工作流的工具和资源，促进了开源社区的知识分享和合作。
+### 4. 项目功能多样性
+- 许多项目专注于AI编码与代理，显示出市场对AI自身生成代码的强烈需求。
+- 例如，**anthropics/claude-code**结合了自然语言处理与代码理解，提供了一种"智能编码助手"的体验。
+- 另外，涉及**流媒体**和**多代理支持**的项目（例如**lobehub/lobe-chat**）表明对于跨平台及多源AI集成的需求在增长。
 
-4. **新技术趋势**：
-   - 英雄席位如**[anthropics/claude-code](https://github.com/anthropics/claude-code)**和**[badlogic/pi-mono](https://github.com/badlogic/pi-mono)**展示了如何通过自然语言与代码交互，提高编程效率。这种AI与软件开发的结合，可能预示着未来编程模式的变革。
+### 5. 未来趋势
+- 随着技术的不断进步，开发者对于工具的需求将会越来越多样化，涉及更多的AI应用场景。
+- 未来可以期待更多基于机器学习的工具和服务，特别是在编码自动化、工作流优化及定制化服务等领域，可能会成为新的增长点。
 
-### 热度与趋势分析
-
-- **热度指标**：
-  - 项目热度（如“热度”一项）与Star数量的比例能反映出一个项目在特定时间段的热度变化。例如，虽然**[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)**已有461562个Star，但其热度分数相对较低，可能因为该项目已经成熟，活跃度有所下降。
-
-- **创建时间**：
-  - 项目的创建时间对热度也有一定的影响。较新的项目如**[anthropics/skills](https://github.com/anthropics/skills)**和**[sst/opencode](https://github.com/sst/opencode)**在短时间内获得高热度，显示出新兴技术或话题能够迅速吸引关注。
-
-### 总体结论
-
-本期榜单展示了人工智能方面的创新和开源社区的活跃性。从项目的类型和语言使用上来看，这一领域正在快速发展，开发者对高效工具的需求日益增加。预期未来在AI和工具开发方面会持续出现新的突破和合作机会。依托强大的社区支持，这些项目可能在实际应用中发挥越来越重要的作用。
+总体而言，榜单中的项目体现了当今AI开发领域的热度和多样性，也显示了开发者对高效和智能工具的追求。未来，随着技术的提升和用户需求的变化，更多创新项目可能会涌现。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|1311|56797|426|2025-09-22|
-|2|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|1230|91070|390|2025-04-30|
-|3|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|1232|91076|390|2025-04-30|
-|4|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|979|38780|309|2025-10-09|
-|5|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|613|90576|202|2024-04-29|
-|6|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|516|27313|163|2025-10-17|
-|7|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|427|25993|153|2025-05-03|
-|8|[remotion-dev/remotion](https://github.com/remotion-dev/remotion)|TypeScript|????      使用React以编程方式制作视频|490|33211|153|2020-06-23|
-|9|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|440|2999|140|2025-08-09|
-|10|[immich-app/immich](https://github.com/immich-app/immich)|TypeScript|高性能自托管照片和视频管理解决方案。|451|90629|136|2022-02-03|
-|11|[Free-TV/IPTV](https://github.com/Free-TV/IPTV)|Python|免费电视频道的M3 U播放列表|427|12805|136|2021-04-13|
-|12|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|402|61742|129|2025-02-22|
-|13|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|383|461562|125|2018-05-09|
-|14|[supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)|TypeScript|内存引擎和应用程序速度极快、可扩展。适合人工智能时代的内存API。|383|15799|118|2024-02-27|
-|15|[NevaMind-AI/memU](https://github.com/NevaMind-AI/memU)|Python|LLM和AI代理的内存基础设施|321|5368|102|2025-07-29|
+|1|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|1287|27280|460|2025-05-03|
+|2|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|1101|57898|358|2025-09-22|
+|3|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|981|92051|326|2025-04-30|
+|4|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|979|92055|325|2025-04-30|
+|5|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|898|39678|284|2025-10-09|
+|6|[NevaMind-AI/memU](https://github.com/NevaMind-AI/memU)|Python|LLM和AI代理的内存基础设施|560|5928|174|2025-07-29|
+|7|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|489|27802|158|2025-10-17|
+|8|[GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents)|Python|流媒体开放视野代理。使用任何型号或视频提供商快速构建Vision Agents。使用Stream的边缘网络实现超低延迟。|475|4494|148|2025-08-11|
+|9|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|376|51282|146|2024-02-06|
+|10|[MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)|Python|Kimi Code CLI是您的下一个CLI代理。|444|4857|138|2025-10-15|
+|11|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|397|3396|126|2025-08-09|
+|12|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|377|62119|120|2025-02-22|
+|13|[remotion-dev/remotion](https://github.com/remotion-dev/remotion)|TypeScript|????      使用React以编程方式制作视频|350|33561|110|2020-06-23|
+|14|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|312|111879|109|2025-03-05|
+|15|[lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)|TypeScript|DeliverLobe Chat -一个开源、现代设计的人工智能聊天框架。支持多个人工智能提供商（OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen）、知识库（文件上传/ RAG）、一键安装LCP Marketplace和Artifacts / Thinking。一键免费部署您的私人AI Agent应用程序。|312|71082|100|2023-05-21|
 
 [所有日榜](./day/day.md)
 
