@@ -1,51 +1,54 @@
 Github热门开源项目榜单
 
-## 2026年01月31日
+## 2026年02月01日
 
-本期榜单展示了15个在GitHub上的热门项目，整体来看，项目主要集中在人工智能助手、编码代理以及相关工具库。
+### 本期榜单分析
 
-### 主要分析点：
+本期榜单列出了15个项目，其中大多数集中在人工智能（AI）和编程相关工具，尤其是以TypeScript和Python语言编写的项目占据了前列。以下是对榜单的具体分析：
 
-1. **语言分布**：
-   - TypeScript 和 Python 是主流的编程语言，分别占据榜单的大部分项目。TypeScript的项目较多，这可能反映出开发者对Web应用和前端开发工具的偏好。
-   - 还有若干JavaScript、Shell和HTML项目，显示了多样化的技术栈选择。
+#### 1. 项目分布和语言
 
-2. **热门主题**：
-   - 很多项目都涉及到人工智能助手或编码代理，反映出AI在软件开发和日常工作中的重要性。例如，榜单前两位项目 `moltbot/moltbot` 和 `openclaw/openclaw` 都是个人AI助手。
-   - 项目如 `sst/opencode` 和 `anomalyco/opencode` 专注于AI编码代理，表明开发者对于自动化编码工具的浓厚兴趣。
+- **主要语言**：榜单中绝大多数项目是用TypeScript和Python这两种语言编写。其中TypeScript项目特别突出，前五名中有四个项目都是使用TypeScript，显示了这一语言在AI和工具开发中的广泛应用。
+- **Lua和Shell**：除了流行的TypeScript和Python外，榜单中也包含了Lua和Shell语言的项目，这表明开发者在选择工具和框架时对语言的多样性有一定的需求。
 
-3. **明星数与热度**：
-   - `moltbot/moltbot` 和 `openclaw/openclaw` 以极高的Star数及热度位居榜首，表明它们的广泛关注和潜在应用场景。
-   - 其他项目如 `anthropics/skills` 和 `asgeirtj/system_prompts_leaks` 也显示出稳定的受欢迎程度，但总体热度较低，表明这些项目的具体应用场景可能比较小众。
+#### 2. 项目主题
 
-4. **项目年龄**：
-   - 排行榜中的项目创建时间跨度较广，最早的项目是创建于2025年，而最晚的则是2023年，这显示出在短时间内新兴项目的快速增长。
+- **个人人工智能助理**：前两名项目（openclaw/openclaw 和 moltbot/moltbot）都提供个人人工智能助理的功能，反映了市场对个性化AI助手的强烈需求。
+- **AI编码代理**：多个项目（如opencode, pi-mono等）专注于AI编码代理，这表明了利用AI自动化和增强编码过程的趋势。
+- **知识库和插件**：项目如 skills 和 claude-plugins-official展示了对知识管理和插件系统的重视，表明开发者关注如何提升AI系统的知识能力和扩展性。
 
-5. **市场趋势**：
-   - AI与工具开发的结合越来越紧密，尤其是处理自然语言和代码生成等方面，这可能是未来开发者工具的主要方向。
+#### 3. 热度与Star数量
 
-### 小结：
-整体来看，榜单中的项目不仅涉及人工智能技术的应用，还有助于提高开发效率，符合当前市场对效率与智能化的追求趋势，未来可能会持续吸引更多的关注和贡献。
+- **高热度**：前几名项目的热度数字都相对较高，显示出当前对个人人工智能助理的关注程度极高。
+- **Star数量**：虽然每个项目的Star数量不同，但如openclaw/openclaw 和 moltbot/moltbot有着非常接近的Star成长，显示了它们在开发者社区中的人气。
+
+#### 4. 创建时间
+
+- **近期创建**：大部分项目在2024年和2025年创建，这显示出这些工具和框架是针对当前技术趋势的即时反应，特别是人工智能技术的快速发展。
+
+#### 5. 结论
+
+本期榜单的项目在主题和功能上反映了当今开发者的关注点和需求，尤其是在人工智能领域。同时，TypeScript和Python的流行程度也表明了现代编程语言的趋势。随着AI技术的快速进步，未来可能会有更多类似的工具出现，为开发者提供更高效的工作方式。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |14596|129200|4878|2025-11-24|
-|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |14594|129200|4877|2025-11-24|
-|3|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|727|93793|239|2025-04-30|
-|4|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|725|93794|238|2025-04-30|
-|5|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|674|59491|217|2025-09-22|
-|6|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|635|28940|213|2025-05-03|
-|7|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|429|52049|187|2024-02-06|
-|8|[microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)|Python|点亮人工智能特工的绝对教练。|496|12462|160|2025-06-18|
-|9|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|499|40947|159|2025-10-09|
-|10|[NevaMind-AI/memU](https://github.com/NevaMind-AI/memU)|Python|LLM和AI代理的内存基础设施|316|6672|98|2025-07-29|
-|11|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|306|28554|96|2025-10-17|
-|12|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|313|144870|94|2024-05-30|
-|13|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|262|91406|90|2024-04-29|
-|14|[lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)|TypeScript|DeliverLobe Chat -一个开源、现代设计的人工智能聊天框架。支持多个人工智能提供商（OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen）、知识库（文件上传/ RAG）、一键安装LCP Marketplace和Artifacts / Thinking。一键免费部署您的私人AI Agent应用程序。|282|71733|89|2023-05-21|
-|15|[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)|Python|SEARCH PageIndex：基于推理的RAG的文档索引|284|11067|89|2025-04-01|
+|1|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |9987|139187|3439|2025-11-24|
+|2|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |9986|139186|3438|2025-11-24|
+|3|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|701|94495|232|2025-04-30|
+|4|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|699|94492|231|2025-04-30|
+|5|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|710|4635|226|2025-08-09|
+|6|[ThePrimeagen/99](https://github.com/ThePrimeagen/99)|Lua|Neovim AI代理做得对|697|2644|214|2025-11-22|
+|7|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|642|41589|202|2025-10-09|
+|8|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|618|60109|199|2025-09-22|
+|9|[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)|Python|SEARCH PageIndex：基于推理的RAG的文档索引|543|11610|170|2025-04-01|
+|10|[microsoft/BitNet](https://github.com/microsoft/BitNet)|Python|1位LLM的官方推理框架|494|27520|155|2024-08-05|
+|11|[microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)|Python|点亮人工智能特工的绝对教练。|379|12841|121|2025-06-18|
+|12|[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)|Shell|官方、人类管理的高质量Claude Code插件目录。|341|6064|106|2025-11-20|
+|13|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|297|29237|101|2025-05-03|
+|14|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|263|52312|101|2024-02-06|
+|15|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|302|462725|97|2018-05-09|
 
 [所有日榜](./day/day.md)
 
