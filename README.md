@@ -52,52 +52,61 @@ Github热门开源项目榜单
 
 [所有日榜](./day/day.md)
 
-## 2026年第03周
+## 2026年第04周
 
-本期榜单展示了一系列开源项目，主要集中在编码代理、AI技能库和工具的开发上。以下是针对榜单的分析：
+本期榜单所列项目主要集中在AI和编程相关的工具和资源，以下是对榜单项目的一些分析：
 
-### 1. 项目类型与语言
-- **主要语言**：TypeScript 和 Python 是两种最受欢迎的编程语言，多个项目均基于此，例如 `anomalyco/opencode` 和 `anthropics/skills`，显示出这些语言在开源AI编码及工具开发中的主导地位。
-- **其他语言**：Rust 和 Shell 也有几个项目，但相对较少，说明市场对这些语言的需求较低。
+### 总体趋势
+1. **AI代理与编码工具**：榜单中多个项目（如 `sst/opencode`、`anomalyco/opencode`、`anthropics/claude-code`）都是与AI编码代理相关的工具，表明市场对提升编程效率的工具需求旺盛，尤其是结合AI的编程助手正日益受到关注。
+   
+2. **多语言支持**：项目涉及多种编程语言，包括Python、TypeScript、JavaScript等。这表明开发者社群对不同编程环境和需求的广泛覆盖。
 
-### 2. 项目趋势与热度
-- **热度高的项目**：`anomalyco/opencode` 和 `sst/opencode` 以接近2900的热度遥遥领先，显示出它们在开源编码领域的受欢迎程度。而 `codecrafters-io/build-your-own-x` 则由于其丰富的内容和高达460532的Star数，成为一个学习资源的热门集合。
-- **新兴项目关注度**：像 `iOfficeAI/AionUi` 和 `ComposioHQ/awesome-claude-skills` 展示出对整合多个AI工具的强烈兴趣，反映出开发者对多功能解决方案的需求增加。
+3. **开源趋势**：大多数项目都是开源的（如 `anthropics/skills`、`codecrafters-io/build-your-own-x`），这反映了开发者在代码共享和社区协作方面的重视，开源项目越多，社区参与感越强。
 
-### 3. 项目成立时间
-- **新旧项目结合**：虽然榜单中有一些较新的项目（例如 `anthropics/skills` 创建于2025年），但仍有老项目（如 `public-apis` 于2016年建立）在持续获得关注，这表明一些历久弥新的项目依旧成为开发者的重要参考。
+### 数据分析
+1. **Star数量和热度**：
+   - **`anthropics/skills`**：虽然创建时间较新（2025年），但其当前Star数已达到60109，显示出强劲的社区支持和关注。
+   - **`codecrafters-io/build-your-own-x`**：尽管它的热度较低（618），但其Star数量达到462725，表明其长期受欢迎和广泛应用。
 
-### 4. 极具参考价值的项目
-- **编码代理**：如 `anthropics/claude-code` 以及 `iOfficeAI/AionUi` 反映出开发者对高效编码工具的渴望，且它们通过自然语言理解，加快了开发过程。
-- **多功能集成**：项目如 `DigitalPlatDev/FreeDomain` 提供免费域名，而 `Twitter/the-algorithm` 展示了其背后的算法，具有实用性和技术深度。
+2. **项目更新频率**：一些项目（如`microsoft/BitNet` 和 `farion1231/cc-switch`）的创建时间相对较新（2024年），但它们的Star增长速度和热度仍然有待观察。
 
-### 总结
-总体来看，本期榜单揭示了开源软件开发中对于AI和编码工具的强烈需求，以及程序员社区的合作和知识共享精神。随着AI技术的不断完善，这些项目无疑将在未来的开发活动中发挥更重要的作用。开发者可以从这些项目中获得灵感，并为其自己的工作流程带来创新思路。
+3. **社区活跃度**：
+   - 项目如`remotion-dev/remotion`虽然创建于2020年，但依然能保持较高的热度（822），说明其功能和实用性得到了广泛认可。
+   - 项目`DigitalPlatDev/FreeDomain`虽然创建较早，但其高Star数（145088）表明其可能已经形成了一定的用户基础。
+
+### 未来展望
+1. **AI工具的普及**：随着AI编码助手和代理工具的逐渐成熟，它们将可能在开发工作流中扮演越来越重要的角色，未来可能会涌现出更多结合AI与编程的创新项目。
+
+2. **不断迭代和更新**：开发者将持续寻求功能完善和用户友好的工具，因此那些具有持续更新能力和社区支持的项目将更具竞争力。
+
+3. **安全性与隐私**：随着AI和开源项目的普及，关于数据安全和用户隐私的话题也将愈发重要，未来项目可能需要在这方面进行优化和增强。
+
+总体来看，这份榜单反映了当前AI与编程结合领域的热门趋势，以及开发者社区对高效工具的需求增长。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|8923|87172|2900|2025-04-30|
-|2|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|8916|87160|2898|2025-04-30|
-|3|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|7226|52685|2367|2025-09-22|
-|4|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|6255|35769|1993|2025-10-09|
-|5|[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)|TypeScript|Gemini CLI、Claude Code、Codex、Opencode、Qwen Code、Goose Cli、Auggie等的免费、本地、开源Cowk|如果????你喜欢的话就明星吧！|3974|10554|1261|2025-08-07|
-|6|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|3810|25632|1222|2025-10-17|
-|7|[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)|Python|SEARCH PageIndex：基于推理的RAG的文档索引|3348|8879|1052|2025-04-01|
-|8|[block/goose](https://github.com/block/goose)|Rust|一个开源、可扩展的AI代理，超越了代码建议-使用任何LLM安装、执行、编辑和测试|2623|28749|839|2024-08-23|
-|9|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|2312|60500|743|2025-02-22|
-|10|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|2124|460532|688|2018-05-09|
-|11|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|2125|50328|641|2024-02-06|
-|12|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|1642|110994|583|2025-03-05|
-|13|[eigent-ai/eigent](https://github.com/eigent-ai/eigent)|TypeScript|Eigent：开源同事桌面，提高您卓越的生产力。|1751|11373|579|2025-07-29|
-|14|[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)|Rust|从Claude Code、Codex或任何编码代理中获得10倍的收益|1690|18933|542|2025-06-14|
-|15|[frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code)|Shell|具有智能出口检测功能的Claude Code自主AI开发循环|1674|5585|533|2025-08-27|
-|16|[twitter/the-algorithm](https://github.com/twitter/the-algorithm)|Scala|X推荐算法的源代码|1563|72127|515|2023-03-27|
-|17|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|1504|393365|489|2016-03-20|
-|18|[virattt/dexter](https://github.com/virattt/dexter)|TypeScript|深度金融研究的自主代理|1457|8885|472|2025-10-14|
-|19|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|1533|143354|464|2024-05-30|
-|20|[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)|Python|开源前沿语音人工智能|1452|21896|462|2025-08-25|
+|1|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|6095|60109|1970|2025-09-22|
+|2|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|5921|94492|1936|2025-04-30|
+|3|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|5918|94495|1935|2025-04-30|
+|4|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|4847|41589|1537|2025-10-09|
+|5|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|3906|29237|1364|2025-05-03|
+|6|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|2633|28845|840|2025-10-17|
+|7|[remotion-dev/remotion](https://github.com/remotion-dev/remotion)|TypeScript|????      使用React以编程方式制作视频|2615|34268|822|2020-06-23|
+|8|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|2271|4635|726|2025-08-09|
+|9|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|1891|52312|719|2024-02-06|
+|10|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|1999|91591|672|2024-04-29|
+|11|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|2062|62952|661|2025-02-22|
+|12|[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)|Python|SEARCH PageIndex：基于推理的RAG的文档索引|2008|11610|628|2025-04-01|
+|13|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|1887|462725|618|2018-05-09|
+|14|[NevaMind-AI/memU](https://github.com/NevaMind-AI/memU)|Python|LLM和AI代理的内存基础设施|1875|6816|590|2025-07-29|
+|15|[microsoft/BitNet](https://github.com/microsoft/BitNet)|Python|1位LLM的官方推理框架|1687|27520|541|2024-08-05|
+|16|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|1358|112543|463|2025-03-05|
+|17|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|1492|145088|449|2024-05-30|
+|18|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|1383|15327|430|2025-08-04|
+|19|[lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)|TypeScript|DeliverLobe Chat -一个开源、现代设计的人工智能聊天框架。支持多个人工智能提供商（OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen）、知识库（文件上传/ RAG）、一键安装LCP Marketplace和Artifacts / Thinking。一键免费部署您的私人AI Agent应用程序。|1256|71791|404|2023-05-21|
+|20|[immich-app/immich](https://github.com/immich-app/immich)|TypeScript|高性能自托管照片和视频管理解决方案。|1262|91324|388|2022-02-03|
 
 [所有周榜](./week/week.md)
 
