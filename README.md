@@ -1,54 +1,76 @@
 Github热门开源项目榜单
 
-## 2026年02月01日
+## 2026年02月02日
 
-### 本期榜单分析
+根据您提供的榜单数据，可以进行以下分析：
 
-本期榜单列出了15个项目，其中大多数集中在人工智能（AI）和编程相关工具，尤其是以TypeScript和Python语言编写的项目占据了前列。以下是对榜单的具体分析：
+### 整体趋势
 
-#### 1. 项目分布和语言
+1. **项目数量**
+   - 本期榜单中共有15个项目，涵盖多种编程语言，主要以TypeScript和Python为主。
 
-- **主要语言**：榜单中绝大多数项目是用TypeScript和Python这两种语言编写。其中TypeScript项目特别突出，前五名中有四个项目都是使用TypeScript，显示了这一语言在AI和工具开发中的广泛应用。
-- **Lua和Shell**：除了流行的TypeScript和Python外，榜单中也包含了Lua和Shell语言的项目，这表明开发者在选择工具和框架时对语言的多样性有一定的需求。
+2. **热门项目**
+   - 前两名均为"moltbot"和"openclaw"，它们都是个人人工智能助理，显示出市场对此类智能助手的强烈需求和关注，这可能与当前AI的流行趋势密切相关。
 
-#### 2. 项目主题
+3. **创建时间**
+   - 大多数项目的创建时间都在2025年，表明这些项目正处于迅速发展的过程中。
 
-- **个人人工智能助理**：前两名项目（openclaw/openclaw 和 moltbot/moltbot）都提供个人人工智能助理的功能，反映了市场对个性化AI助手的强烈需求。
-- **AI编码代理**：多个项目（如opencode, pi-mono等）专注于AI编码代理，这表明了利用AI自动化和增强编码过程的趋势。
-- **知识库和插件**：项目如 skills 和 claude-plugins-official展示了对知识管理和插件系统的重视，表明开发者关注如何提升AI系统的知识能力和扩展性。
+### 具体项目分析
 
-#### 3. 热度与Star数量
+1. **moltbot 和 openclaw**
+   - **语言**: TypeScript
+   - **Star数量**: 累计149617的Star，显示出极高的社区关注度。
+   - **热度**: 同样的热度3567，意味着这两个项目处于相同的受欢迎程度。
+   - **特点**: 提供跨平台的个人AI助理，给用户带来了极大的便利，尤其是在多设备使用场景下。
 
-- **高热度**：前几名项目的热度数字都相对较高，显示出当前对个人人工智能助理的关注程度极高。
-- **Star数量**：虽然每个项目的Star数量不同，但如openclaw/openclaw 和 moltbot/moltbot有着非常接近的Star成长，显示了它们在开发者社区中的人气。
+2. **claude-mem**
+   - **语言**: JavaScript
+   - **Star数量**: 17563，显著低于前两名，但依然表现良好。
+   - **功能**: 自动捕获编码过程中的上下文，增强了AI助手的智能性。
 
-#### 4. 创建时间
+3. **opencode（anomalyco/opencode和sst/opencode）**
+   - **语言**: TypeScript
+   - **Star数量**: 主项目的Star接近95,000，显示出AI在开发中的广泛应用。
+   - **功能**: AI编码代理，这反映了对开发者工具的关注。
 
-- **近期创建**：大部分项目在2024年和2025年创建，这显示出这些工具和框架是针对当前技术趋势的即时反应，特别是人工智能技术的快速发展。
+4. **其他项目**
+   - 包括"superpowers"、"skills"、"tambo"等，覆盖了诸多AI工具和资源，这显示出一个不断扩张的生态系统，开发者和用户对各种功能的需求正在增加。
 
-#### 5. 结论
+### 具体语言分析
 
-本期榜单的项目在主题和功能上反映了当今开发者的关注点和需求，尤其是在人工智能领域。同时，TypeScript和Python的流行程度也表明了现代编程语言的趋势。随着AI技术的快速进步，未来可能会有更多类似的工具出现，为开发者提供更高效的工作方式。
+- **TypeScript**: 
+  - 占据了榜单的大部分，显示出在开发AI工具时，TypeScript的受欢迎程度，可能与其静态类型和良好的开发工具支持有关。
+
+- **Python 和 JavaScript**:
+  - 这些语言在机器学习和AI开发中广泛应用，反映出开发者偏好使用这些熟悉的工具来构建AI解决方案。
+
+### 总体结论
+
+- 当前AI项目正以惊人的速度发展，社区对AI工具的关注度不断上升。
+- 类型多样的项目和强大的支持技术（如TypeScript、Python）为开发者提供了极大的灵活性和创造空间。
+- 未来可能会看到更多基于这些项目的创新应用，以及对AI的进一步集成和实用化。
+
+这种趋势表明，AI的应用将会越来越普及，影响到多个行业，包括软件开发、咨询服务、教育等。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |9987|139187|3439|2025-11-24|
-|2|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |9986|139186|3438|2025-11-24|
-|3|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|701|94495|232|2025-04-30|
-|4|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|699|94492|231|2025-04-30|
-|5|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|710|4635|226|2025-08-09|
-|6|[ThePrimeagen/99](https://github.com/ThePrimeagen/99)|Lua|Neovim AI代理做得对|697|2644|214|2025-11-22|
-|7|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|642|41589|202|2025-10-09|
-|8|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|618|60109|199|2025-09-22|
-|9|[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)|Python|SEARCH PageIndex：基于推理的RAG的文档索引|543|11610|170|2025-04-01|
-|10|[microsoft/BitNet](https://github.com/microsoft/BitNet)|Python|1位LLM的官方推理框架|494|27520|155|2024-08-05|
-|11|[microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)|Python|点亮人工智能特工的绝对教练。|379|12841|121|2025-06-18|
-|12|[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)|Shell|官方、人类管理的高质量Claude Code插件目录。|341|6064|106|2025-11-20|
-|13|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|297|29237|101|2025-05-03|
-|14|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|263|52312|101|2024-02-06|
-|15|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|302|462725|97|2018-05-09|
+|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |10431|149617|3567|2025-11-24|
+|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |10430|149617|3567|2025-11-24|
+|3|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|1645|17563|517|2025-08-31|
+|4|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|1025|95520|333|2025-04-30|
+|5|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|1020|95512|331|2025-04-30|
+|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|874|42463|282|2025-10-09|
+|7|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|855|60964|277|2025-09-22|
+|8|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|796|5431|251|2025-08-09|
+|9|[tambo-ai/tambo](https://github.com/tambo-ai/tambo)|TypeScript|React生成式UI SDK|821|7295|250|2024-06-15|
+|10|[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)|Python|SEARCH PageIndex：基于推理的RAG的文档索引|725|12335|231|2025-04-01|
+|11|[steipete/CodexBar](https://github.com/steipete/CodexBar)|Swift|无需登录即可显示OpenAI Codex和Claude Code的使用统计数据。|485|4206|149|2025-11-16|
+|12|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|388|29233|122|2025-10-17|
+|13|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|353|29590|116|2025-05-03|
+|14|[microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)|Python|点亮人工智能特工的绝对教练。|363|13204|114|2025-06-18|
+|15|[lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)|Rust|专业反重力客户经理和切换员。反重力工具的一键无缝帐户切换。使用Tauri v2 + React（Rust）构建。专业的反重力符号管理与更换工具。为 Antigravity 提供无缝键无极号切换功能。|327|20501|106|2025-11-26|
 
 [所有日榜](./day/day.md)
 
