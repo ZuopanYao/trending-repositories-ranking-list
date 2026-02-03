@@ -1,76 +1,50 @@
 Github热门开源项目榜单
 
-## 2026年02月02日
+## 2026年02月03日
 
-根据您提供的榜单数据，可以进行以下分析：
+本期榜单展示了一系列与人工智能助理、编码代理及相关技能库的开源项目。以下是对本期榜单的分析：
 
-### 整体趋势
+### 1. 项目趋势
+- **趋势主题**：榜单上的项目大多集中在人工智能（AI）助理和编码辅助工具方面，反映出目前开发者对提升编码效率、智能化协作的需求。
+- **TypeScript的主导**：前五名项目中，TypeScript占据主要地位，表明这一语言在构建现代Web和应用程序中的受欢迎程度。
 
-1. **项目数量**
-   - 本期榜单中共有15个项目，涵盖多种编程语言，主要以TypeScript和Python为主。
+### 2. 热门项目
+- **moltbot/moltbot 和 openclaw/openclaw**：这两个项目均提供个人人工智能助理的功能，且市场反响热烈，当前Star数都超过156,000，显现了用户的高度关注与需求。
+- **claude-mem**：作为一个特定于Claude AI的工具，能够自动捕捉编码会话的信息并将其注入未来会话中，为使用Claude AI的开发者提供价值，其功能吸引了市场的关注。
 
-2. **热门项目**
-   - 前两名均为"moltbot"和"openclaw"，它们都是个人人工智能助理，显示出市场对此类智能助手的强烈需求和关注，这可能与当前AI的流行趋势密切相关。
+### 3. 语言分布
+- **Python和TypeScript的结合**：榜单中Python和TypeScript是主要的编程语言，Python在机器学习和自然语言处理（NLP）方面的强大功能，结合TypeScript的系统性和安全性，为开发者提供了丰富的选择。
 
-3. **创建时间**
-   - 大多数项目的创建时间都在2025年，表明这些项目正处于迅速发展的过程中。
+### 4. 创新与实用性
+- **多代理协作**：如ChatDev等项目提供基于LLM的多代理协作，这种创新可能会加速团队之间的协作和生产力。
+- **插件化和技能库**：诸如技能库（如anthropics/skills）和Claude Code（如anthropics/claude-code）的插件选择，强调了可扩展性和灵活性，能够根据不同用户需求进行定制。
 
-### 具体项目分析
+### 5. 未来发展
+- **增长潜力**：随着人工智能技术的快速发展，相关工具和项目将会逐渐增多。特别是在数据处理、智能处理和自动化等领域，开发者可能会继续探索并创建新的工具来满足市场需求。
+- **社区支持和参与**：开源项目的活跃度以及社区的参与度将是项目成功的关键，催生更多的合作与创新。
 
-1. **moltbot 和 openclaw**
-   - **语言**: TypeScript
-   - **Star数量**: 累计149617的Star，显示出极高的社区关注度。
-   - **热度**: 同样的热度3567，意味着这两个项目处于相同的受欢迎程度。
-   - **特点**: 提供跨平台的个人AI助理，给用户带来了极大的便利，尤其是在多设备使用场景下。
-
-2. **claude-mem**
-   - **语言**: JavaScript
-   - **Star数量**: 17563，显著低于前两名，但依然表现良好。
-   - **功能**: 自动捕获编码过程中的上下文，增强了AI助手的智能性。
-
-3. **opencode（anomalyco/opencode和sst/opencode）**
-   - **语言**: TypeScript
-   - **Star数量**: 主项目的Star接近95,000，显示出AI在开发中的广泛应用。
-   - **功能**: AI编码代理，这反映了对开发者工具的关注。
-
-4. **其他项目**
-   - 包括"superpowers"、"skills"、"tambo"等，覆盖了诸多AI工具和资源，这显示出一个不断扩张的生态系统，开发者和用户对各种功能的需求正在增加。
-
-### 具体语言分析
-
-- **TypeScript**: 
-  - 占据了榜单的大部分，显示出在开发AI工具时，TypeScript的受欢迎程度，可能与其静态类型和良好的开发工具支持有关。
-
-- **Python 和 JavaScript**:
-  - 这些语言在机器学习和AI开发中广泛应用，反映出开发者偏好使用这些熟悉的工具来构建AI解决方案。
-
-### 总体结论
-
-- 当前AI项目正以惊人的速度发展，社区对AI工具的关注度不断上升。
-- 类型多样的项目和强大的支持技术（如TypeScript、Python）为开发者提供了极大的灵活性和创造空间。
-- 未来可能会看到更多基于这些项目的创新应用，以及对AI的进一步集成和实用化。
-
-这种趋势表明，AI的应用将会越来越普及，影响到多个行业，包括软件开发、咨询服务、教育等。
+### 总结
+本期榜单集中了多样化的开源项目，表明了当前AI及编码辅助工具的趋势，以及开发者对于效率与协作的追求。未来，随着技术的进一步演进，相关项目的功能将会变得更加丰富，同时也可能衍生出新的应用场景与需求。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |10431|149617|3567|2025-11-24|
-|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |10430|149617|3567|2025-11-24|
-|3|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|1645|17563|517|2025-08-31|
-|4|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|1025|95520|333|2025-04-30|
-|5|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|1020|95512|331|2025-04-30|
-|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|874|42463|282|2025-10-09|
-|7|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|855|60964|277|2025-09-22|
-|8|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|796|5431|251|2025-08-09|
-|9|[tambo-ai/tambo](https://github.com/tambo-ai/tambo)|TypeScript|React生成式UI SDK|821|7295|250|2024-06-15|
-|10|[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)|Python|SEARCH PageIndex：基于推理的RAG的文档索引|725|12335|231|2025-04-01|
-|11|[steipete/CodexBar](https://github.com/steipete/CodexBar)|Swift|无需登录即可显示OpenAI Codex和Claude Code的使用统计数据。|485|4206|149|2025-11-16|
-|12|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|388|29233|122|2025-10-17|
-|13|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|353|29590|116|2025-05-03|
-|14|[microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)|Python|点亮人工智能特工的绝对教练。|363|13204|114|2025-06-18|
-|15|[lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)|Rust|专业反重力客户经理和切换员。反重力工具的一键无缝帐户切换。使用Tauri v2 + React（Rust）构建。专业的反重力符号管理与更换工具。为 Antigravity 提供无缝键无极号切换功能。|327|20501|106|2025-11-26|
+|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |6715|156332|2352|2025-11-24|
+|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |6716|156333|2352|2025-11-24|
+|3|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|1898|19461|593|2025-08-31|
+|4|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|964|61928|312|2025-09-22|
+|5|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|968|96480|311|2025-04-30|
+|6|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|965|96485|310|2025-04-30|
+|7|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|810|43273|256|2025-10-09|
+|8|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|606|6037|195|2025-08-09|
+|9|[YaLTeR/niri](https://github.com/YaLTeR/niri)|Rust|一个滚动平铺韦兰合成器。|620|18715|186|2023-08-10|
+|10|[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)|Python|SEARCH PageIndex：基于推理的RAG的文档索引|532|12867|169|2025-04-01|
+|11|[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)|Python|ChatDev 2.0：通过LLM支持的多代理协作进行开发|464|29707|145|2023-08-28|
+|12|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|439|29672|140|2025-10-17|
+|13|[karpathy/nanochat](https://github.com/karpathy/nanochat)|Python|100美元可以买到的最好ChatGPT。|434|41933|140|2025-10-13|
+|14|[microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)|Python|点亮人工智能特工的绝对教练。|373|13577|122|2025-06-18|
+|15|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|342|63617|114|2025-02-22|
 
 [所有日榜](./day/day.md)
 
