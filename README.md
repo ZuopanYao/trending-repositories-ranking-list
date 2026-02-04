@@ -1,50 +1,55 @@
 Github热门开源项目榜单
 
-## 2026年02月03日
+## 2026年02月04日
 
-本期榜单展示了一系列与人工智能助理、编码代理及相关技能库的开源项目。以下是对本期榜单的分析：
+根据本期榜单的数据，我们可以进行以下分析：
 
-### 1. 项目趋势
-- **趋势主题**：榜单上的项目大多集中在人工智能（AI）助理和编码辅助工具方面，反映出目前开发者对提升编码效率、智能化协作的需求。
-- **TypeScript的主导**：前五名项目中，TypeScript占据主要地位，表明这一语言在构建现代Web和应用程序中的受欢迎程度。
+### 实际数据概况
+榜单中的项目主要集中在人工智能助手和编码工具领域，大部分项目采用 TypeScript 语言开发，反映了TypeScript在现代开发中的流行与活跃度。
 
-### 2. 热门项目
-- **moltbot/moltbot 和 openclaw/openclaw**：这两个项目均提供个人人工智能助理的功能，且市场反响热烈，当前Star数都超过156,000，显现了用户的高度关注与需求。
-- **claude-mem**：作为一个特定于Claude AI的工具，能够自动捕捉编码会话的信息并将其注入未来会话中，为使用Claude AI的开发者提供价值，其功能吸引了市场的关注。
+### 项目热度与趋势
+1. **热门项目：**
+   - **moltbot/moltbot**和**openclaw/openclaw**并列第一，都是关于个人AI助手的项目，且拥有相同的当前Stars和创建时间，表明这两个项目在功能和定位上非常相似，反映出市场对个人人工智能助理的浓厚兴趣。
+   - **thedotmack/claude-mem**和**anthropics/skills**的热度较高，显示出AI在编码和技能库方面的应用也备受关注。
 
-### 3. 语言分布
-- **Python和TypeScript的结合**：榜单中Python和TypeScript是主要的编程语言，Python在机器学习和自然语言处理（NLP）方面的强大功能，结合TypeScript的系统性和安全性，为开发者提供了丰富的选择。
+2. **热度排行：**
+   - **moltbot/moltbot**和**openclaw/openclaw**的热度相同（1990），但它们的Stars远超榜单中的其他项目，表明其在GitHub社区的影响力。
+   - 其它项目如**sato/opencode**和**anomalyco/opencode**尽管定位相近，但当前Stars稍低，说明市场竞争较为激烈。
 
-### 4. 创新与实用性
-- **多代理协作**：如ChatDev等项目提供基于LLM的多代理协作，这种创新可能会加速团队之间的协作和生产力。
-- **插件化和技能库**：诸如技能库（如anthropics/skills）和Claude Code（如anthropics/claude-code）的插件选择，强调了可扩展性和灵活性，能够根据不同用户需求进行定制。
+### 语言选择
+- **TypeScript**是榜单上最流行的语言，出现在多个项目中。这可能与TypeScript的类型安全和良好的开发体验有关，特别是在涉及大型项目和复杂代码库时。
+- **Python**作为第二大语言，主要应用于AI和数据处理方面，也反映了AI领域中Python的普遍应用。
 
-### 5. 未来发展
-- **增长潜力**：随着人工智能技术的快速发展，相关工具和项目将会逐渐增多。特别是在数据处理、智能处理和自动化等领域，开发者可能会继续探索并创建新的工具来满足市场需求。
-- **社区支持和参与**：开源项目的活跃度以及社区的参与度将是项目成功的关键，催生更多的合作与创新。
+### 创建时间
+- 大多数项目的创建时间集中在2025年，这表明当前技术的快速发展与创新周期很短，尤其是在AI领域。
+- 提到的项目新颖度和上手难易程度可能会影响其用户反馈和后续发展。
+
+### 未来趋势
+- AI助手和编码工具将持续是技术发展的一个重要方向，随着技术的进步，尤其是大语言模型的应用，未来可能会出现更多相关工具和项目。
+- 值得注意的是，持续的社区支持和更新是维持项目热度的重要因素，开发者需要在此方面给予足够关注。
 
 ### 总结
-本期榜单集中了多样化的开源项目，表明了当前AI及编码辅助工具的趋势，以及开发者对于效率与协作的追求。未来，随着技术的进一步演进，相关项目的功能将会变得更加丰富，同时也可能衍生出新的应用场景与需求。
+整体而言，本期榜单凸显了个人人工智能助手的市场热情和AI在编程辅助方面的潜力。参与开发的团队和创意者需要把握这一潮流，深入研究用户需求以提升项目质量与吸引力。同时，持续的技术创新与社区互动将是推动这些项目成功的关键。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |6715|156332|2352|2025-11-24|
-|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |6716|156333|2352|2025-11-24|
-|3|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|1898|19461|593|2025-08-31|
-|4|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|964|61928|312|2025-09-22|
-|5|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|968|96480|311|2025-04-30|
-|6|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|965|96485|310|2025-04-30|
-|7|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|810|43273|256|2025-10-09|
-|8|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|606|6037|195|2025-08-09|
-|9|[YaLTeR/niri](https://github.com/YaLTeR/niri)|Rust|一个滚动平铺韦兰合成器。|620|18715|186|2023-08-10|
-|10|[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)|Python|SEARCH PageIndex：基于推理的RAG的文档索引|532|12867|169|2025-04-01|
-|11|[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)|Python|ChatDev 2.0：通过LLM支持的多代理协作进行开发|464|29707|145|2023-08-28|
-|12|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|439|29672|140|2025-10-17|
-|13|[karpathy/nanochat](https://github.com/karpathy/nanochat)|Python|100美元可以买到的最好ChatGPT。|434|41933|140|2025-10-13|
-|14|[microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)|Python|点亮人工智能特工的绝对教练。|373|13577|122|2025-06-18|
-|15|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|342|63617|114|2025-02-22|
+|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |5733|162065|1990|2025-11-24|
+|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |5732|162065|1990|2025-11-24|
+|3|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|2466|21927|772|2025-08-31|
+|4|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|1002|62930|326|2025-09-22|
+|5|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|978|44251|306|2025-10-09|
+|6|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|849|97329|281|2025-04-30|
+|7|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|849|97334|281|2025-04-30|
+|8|[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)|TypeScript|开源多模式人工智能代理栈：连接尖端人工智能模型和代理基础设施|775|26006|254|2025-01-19|
+|9|[j178/prek](https://github.com/j178/prek)|Rust|Better“预提交”，在Rust中重新设计|745|5166|225|2024-10-07|
+|10|[openai/skills](https://github.com/openai/skills)|Python|Codex技能目录|680|3495|211|2025-11-25|
+|11|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|508|6545|161|2025-08-09|
+|12|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|456|30128|144|2025-10-17|
+|13|[virattt/dexter](https://github.com/virattt/dexter)|TypeScript|深度金融研究的自主代理|423|10397|135|2025-10-14|
+|14|[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)|TypeScript|最佳特工。认识一下西西弗斯：包含电池的特工，代码像你一样。|394|28074|123|2025-12-03|
+|15|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|371|63988|119|2025-02-22|
 
 [所有日榜](./day/day.md)
 
