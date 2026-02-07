@@ -1,48 +1,54 @@
 Github热门开源项目榜单
 
-## 2026年02月06日
+## 2026年02月07日
 
-根据您提供的榜单，可以对当前热门项目进行以下分析：
+在本期榜单中，我们看到了关于人工智能及其相关工具的多个项目，主要集中在TypeScript和Python语言的开发上。以下是对此榜单的一些分析：
 
-### 1. 项目类型与编程语言分布
-- **主流语言**：榜单中的项目普遍使用 **TypeScript** 和 **Python**。TypeScript 项目占据了一定比例，呈现出用于前端和后端的趋势。而 Python 项目则主要集中于人工智能相关的工具和库。
-- **Shell 和 Swift**：相对较少的 SKU 还使用 Shell 和 Swift，这表明了对于脚本和移动开发的关注。
+### 项目概况与趋势
+1. **项目方向**：
+   - 多数项目聚焦于人工智能助理、编码代理和技能库。
+   - TypeScript项目数量较多，标志着这个语言在AI工具开发中的受欢迎程度。
 
-### 2. 项目特点及应用
-- **智能助理和编码代理**：榜单中前几名项目（如 **moltbot/moltbot** 和 **openclaw/openclaw**）均为个人人工智能助理，展示出使用 AI 助手来提升个人工作效率的趋势。
-- **工具与资源**：多个项目（如 **anthropics/skills** 和 **openai/skills**）提供了与 AI 编码相关的工具和知识库，说明开发者对提升自身和团队编程效率的需求正在增加。
-- **插件和扩展功能**：一些项目如 **thedotmack/claude-mem** 提供了与 AI 相关的插件功能，自动化和增强编码体验。
+2. **热门项目**：
+   - **moltbot/moltbot**和**openclaw/openclaw**，这两个项目名相同，均角逐排行榜首位，显然是为了创建个人人工智能助手。二者的具体情况相仿，说明市场对个性化AI助理的需求很高。
 
-### 3. 项目热度与星级趋势
-- **热度与 Star 数**：某些项目（如 **moltbot/moltbot** 和 **openclaw/openclaw**）在 Star 数和热度上特别突出，表明这些项目引起了广泛的关注和社区参与。
-- **新兴项目**：一些项目如 **badlogic/pi-mono** 和 **bytedance/UI-TARS-desktop** 的创建时间较新，随着开发者对 AI 工具需求的增加，未来可能会继续增长。
+3. **技能与资源库**：
+   - **openai/skills**和**anthropics/skills**等项目展示了技能库的重要性，这些可帮助开发者更好地利用现有AI模型进行开发。
 
-### 4. 创新与未来展望
-- **AI 与开发工具的结合**：通过使用 AI 加速编码和提供额外的功能，开发人员可能会在未来更多地利用这些工具来提高效率。
-- **开放源代码的共享文化**：这些项目普遍是开源的，允许开发者学习和修改，推动了开源竞争的趋势。
+4. **应用场景**：
+   - 项目如**virattt/dexter**和**daytonaio/daytona**显示了AI在行业（如金融）和基础设施中的应用潜力，暗示AI在深度研究和基础服务中的逐渐重要性。
+
+### 热度与流行度
+- 使用**Star**作为流行度的指标，可以看出：
+   - **public-apis/public-apis** 项目虽然创建于2016年，但仍然有高度的关注，表明良好的API资源管理是永恒的需求。
+   - 一些新项目如**smt/opencode**系列获得了迅速增长的热度，反映了现阶段对AI编码助手的强烈需求。
+
+### 制作与维护现状
+- 当前大多数项目创建于2025年，表明这是一个新兴且快速发展的领域，预测未来会有更多类似项目出现。
+- 鉴于许多项目都在建立自己的AI助理，未来可能会融合更多功能，提高用户体验和效能。
 
 ### 总结
-当前榜单的项目体现了 AI 技术在开发工具领域的快速发展，特别是在编程助手和编码代理方面的应用。随着开发者对提高工作效率的需求不断上升，预计未来会有更多类似项目涌现，推动这一领域的发展。开发者可以关注这些热门项目，参与贡献或将其应用于实际工作中，以提升自己的开发能力。
+本期榜单展示出AI工具的热潮和发展趋势。特别是针对编码和个人助手的工具越来越受到欢迎，未来可能会有更多创新和实用的项目出现。对于开发者来说，探索这些项目无疑有助于提高工作效率并促进技术进步。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |3751|170550|1322|2025-11-24|
-|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |3751|170550|1322|2025-11-24|
-|3|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|909|46022|286|2025-10-09|
-|4|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|835|99061|274|2025-04-30|
-|5|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|834|99054|273|2025-04-30|
-|6|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|808|64612|264|2025-09-22|
-|7|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|685|24172|213|2025-08-31|
-|8|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|584|31190|192|2025-10-17|
-|9|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|584|7539|185|2025-08-09|
-|10|[openai/skills](https://github.com/openai/skills)|Python|Codex技能目录|569|4683|179|2025-11-25|
-|11|[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)|TypeScript|开源多模式人工智能代理栈：连接尖端人工智能模型和代理基础设施|463|27020|148|2025-01-19|
-|12|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|460|64791|147|2025-02-22|
-|13|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|480|53609|146|2024-02-06|
-|14|[steipete/CodexBar](https://github.com/steipete/CodexBar)|Swift|无需登录即可显示OpenAI Codex和Claude Code的使用统计数据。|465|5115|144|2025-11-16|
-|15|[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)|TypeScript|最佳特工。认识一下西西弗斯：包含电池的特工，代码像你一样。|412|28857|129|2025-12-03|
+|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2656|173206|956|2025-11-24|
+|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2656|173206|956|2025-11-24|
+|3|[openai/skills](https://github.com/openai/skills)|Python|Codex技能目录|819|5502|257|2025-11-25|
+|4|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|687|46709|219|2025-10-09|
+|5|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|563|99617|189|2025-04-30|
+|6|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|560|99621|188|2025-04-30|
+|7|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|558|65170|186|2025-09-22|
+|8|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|519|31709|170|2025-10-17|
+|9|[virattt/dexter](https://github.com/virattt/dexter)|TypeScript|深度金融研究的自主代理|511|11197|169|2025-10-14|
+|10|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|504|54113|151|2024-02-06|
+|11|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|358|24530|113|2025-08-31|
+|12|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|306|7845|100|2025-08-09|
+|13|[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)|TypeScript|最佳特工。认识一下西西弗斯：包含电池的特工，代码像你一样。|317|29174|100|2025-12-03|
+|14|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|300|395844|95|2016-03-20|
+|15|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|268|65059|88|2025-02-22|
 
 [所有日榜](./day/day.md)
 
