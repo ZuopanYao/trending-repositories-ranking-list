@@ -52,61 +52,63 @@ Github热门开源项目榜单
 
 [所有日榜](./day/day.md)
 
-## 2026年第04周
+## 2026年第05周
 
-本期榜单所列项目主要集中在AI和编程相关的工具和资源，以下是对榜单项目的一些分析：
+本期榜单展示了各种编程语言开发的热门项目，这些项目主要集中在人工智能（AI）代理、编码助手以及相关工具。以下是对此榜单的一些分析：
 
 ### 总体趋势
-1. **AI代理与编码工具**：榜单中多个项目（如 `sst/opencode`、`anomalyco/opencode`、`anthropics/claude-code`）都是与AI编码代理相关的工具，表明市场对提升编程效率的工具需求旺盛，尤其是结合AI的编程助手正日益受到关注。
-   
-2. **多语言支持**：项目涉及多种编程语言，包括Python、TypeScript、JavaScript等。这表明开发者社群对不同编程环境和需求的广泛覆盖。
+1. **AI领域的热潮**：
+   - 大部分项目都围绕人工智能特别是编码助手和AI代理构建。这显示出开发者对利用AI提升生产力的浓厚兴趣。
+   - 项目如[moltbot/moltbot](https://github.com/moltbot/moltbot)和[openclaw/openclaw](https://github.com/openclaw/openclaw)作为榜单前两名，展示了对个人人工智能助理的需求。
 
-3. **开源趋势**：大多数项目都是开源的（如 `anthropics/skills`、`codecrafters-io/build-your-own-x`），这反映了开发者在代码共享和社区协作方面的重视，开源项目越多，社区参与感越强。
+2. **流行语言**：
+   - TypeScript 作为主要语言，出现在榜单中的多个项目，表明该语言在开发AI工具方面的流行。此外，Python也占据了一定份额，尤其是在处理数据和机器学习相关的项目。
 
-### 数据分析
-1. **Star数量和热度**：
-   - **`anthropics/skills`**：虽然创建时间较新（2025年），但其当前Star数已达到60109，显示出强劲的社区支持和关注。
-   - **`codecrafters-io/build-your-own-x`**：尽管它的热度较低（618），但其Star数量达到462725，表明其长期受欢迎和广泛应用。
+### 项目特点
+1. **高热度项目**：
+   - 排名前两位的项目都有高热度（9174）。这部分归因于人们对创建个性化AI助理的兴趣，能在任何操作系统和平台上使用无疑提升了其吸引力。
 
-2. **项目更新频率**：一些项目（如`microsoft/BitNet` 和 `farion1231/cc-switch`）的创建时间相对较新（2024年），但它们的Star增长速度和热度仍然有待观察。
+2. **技术创新**：
+   - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) 项目引入了自动捕获与上下文注入功能，为AI提升编码体验提供了创新思路。
+   - [anthropics/skills](https://github.com/anthropics/skills) 作为一个代理技能的公共知识库，展示了如何系统化地共享和复用AI能力。
 
-3. **社区活跃度**：
-   - 项目如`remotion-dev/remotion`虽然创建于2020年，但依然能保持较高的热度（822），说明其功能和实用性得到了广泛认可。
-   - 项目`DigitalPlatDev/FreeDomain`虽然创建较早，但其高Star数（145088）表明其可能已经形成了一定的用户基础。
+3. **多样化功能**：
+   - 项目如[badlogic/pi-mono](https://github.com/badlogic/pi-mono)和[virattt/dexter](https://github.com/virattt/dexter)展示了如何结合CLI和UI提供全面的AI代理体验，涵盖编码、研究等功能。
 
-### 未来展望
-1. **AI工具的普及**：随着AI编码助手和代理工具的逐渐成熟，它们将可能在开发工作流中扮演越来越重要的角色，未来可能会涌现出更多结合AI与编程的创新项目。
+### 潜在影响
+- **开发效率**：
+  - 随着越来越多的自动化工具和AI助手的出现，开发人员的效率将进一步提高，传统的编码方式可能会发生重大变化。
+  
+- **未来发展**：
+  - 随着对AI技能和工具需求的增长，未来可能会涌现出更多关于AI的项目，尤其是在社区驱动的开源生态系统里。
 
-2. **不断迭代和更新**：开发者将持续寻求功能完善和用户友好的工具，因此那些具有持续更新能力和社区支持的项目将更具竞争力。
-
-3. **安全性与隐私**：随着AI和开源项目的普及，关于数据安全和用户隐私的话题也将愈发重要，未来项目可能需要在这方面进行优化和增强。
-
-总体来看，这份榜单反映了当前AI与编程结合领域的热门趋势，以及开发者社区对高效工具的需求增长。
+### 总结
+本期榜单的项目反映了当前市场对AI助手和编码代理的强烈需求。这些工具的持续发展及其逐渐丰富的功能将会深刻改变开发者的工作方式，值得关注和研究。开发人员在选择这些工具时，应考虑其实际需求和团队的技术栈，以期最大化利用这些资源。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|6095|60109|1970|2025-09-22|
-|2|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|5921|94492|1936|2025-04-30|
-|3|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|5918|94495|1935|2025-04-30|
-|4|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|4847|41589|1537|2025-10-09|
-|5|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|3906|29237|1364|2025-05-03|
-|6|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|2633|28845|840|2025-10-17|
-|7|[remotion-dev/remotion](https://github.com/remotion-dev/remotion)|TypeScript|????      使用React以编程方式制作视频|2615|34268|822|2020-06-23|
-|8|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|2271|4635|726|2025-08-09|
-|9|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|1891|52312|719|2024-02-06|
-|10|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|1999|91591|672|2024-04-29|
-|11|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|2062|62952|661|2025-02-22|
-|12|[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)|Python|SEARCH PageIndex：基于推理的RAG的文档索引|2008|11610|628|2025-04-01|
-|13|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|1887|462725|618|2018-05-09|
-|14|[NevaMind-AI/memU](https://github.com/NevaMind-AI/memU)|Python|LLM和AI代理的内存基础设施|1875|6816|590|2025-07-29|
-|15|[microsoft/BitNet](https://github.com/microsoft/BitNet)|Python|1位LLM的官方推理框架|1687|27520|541|2024-08-05|
-|16|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|1358|112543|463|2025-03-05|
-|17|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|1492|145088|449|2024-05-30|
-|18|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|1383|15327|430|2025-08-04|
-|19|[lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)|TypeScript|DeliverLobe Chat -一个开源、现代设计的人工智能聊天框架。支持多个人工智能提供商（OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen）、知识库（文件上传/ RAG）、一键安装LCP Marketplace和Artifacts / Thinking。一键免费部署您的私人AI Agent应用程序。|1256|71791|404|2023-05-21|
-|20|[immich-app/immich](https://github.com/immich-app/immich)|TypeScript|高性能自托管照片和视频管理解决方案。|1262|91324|388|2022-02-03|
+|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |26136|175753|9174|2025-11-24|
+|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |26136|175753|9174|2025-11-24|
+|3|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|7697|25260|2415|2025-08-31|
+|4|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|5051|47514|1598|2025-10-09|
+|5|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|4740|65704|1556|2025-09-22|
+|6|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|4689|100201|1540|2025-04-30|
+|7|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|4684|100204|1538|2025-04-30|
+|8|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|3287|32520|1057|2025-10-17|
+|9|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|2635|8066|853|2025-08-09|
+|10|[virattt/dexter](https://github.com/virattt/dexter)|TypeScript|深度金融研究的自主代理|2502|12287|816|2025-10-14|
+|11|[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)|TypeScript|开源多模式人工智能代理栈：连接尖端人工智能模型和代理基础设施|2224|27394|724|2025-01-19|
+|12|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|2019|65294|660|2025-02-22|
+|13|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|1904|54349|615|2024-02-06|
+|14|[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)|Python|SEARCH PageIndex：基于推理的RAG的文档索引|1848|14183|585|2025-04-01|
+|15|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|1622|396470|520|2016-03-20|
+|16|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|1584|464543|512|2018-05-09|
+|17|[lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)|Rust|专业反重力客户经理和切换员。反重力工具的一键无缝帐户切换。使用Tauri v2 + React（Rust）构建。专业的反重力符号管理与更换工具。为 Antigravity 提供无缝键无极号切换功能。|1575|22076|509|2025-11-26|
+|18|[NevaMind-AI/memU](https://github.com/NevaMind-AI/memU)|Python|LLM和AI代理的内存基础设施|1381|8396|448|2025-07-29|
+|19|[j178/prek](https://github.com/j178/prek)|Rust|Better“预提交”，在Rust中重新设计|1469|5848|446|2024-10-07|
+|20|[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)|Python|ChatDev 2.0：通过LLM支持的多代理协作进行开发|1303|30546|417|2023-08-28|
 
 [所有周榜](./week/week.md)
 
