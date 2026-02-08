@@ -1,54 +1,54 @@
 Github热门开源项目榜单
 
-## 2026年02月07日
+## 2026年02月08日
 
-在本期榜单中，我们看到了关于人工智能及其相关工具的多个项目，主要集中在TypeScript和Python语言的开发上。以下是对此榜单的一些分析：
+本期榜单展示了一系列优秀的开源项目，主要集中在人工智能和编程工具领域。以下是对榜单的详细分析：
 
-### 项目概况与趋势
-1. **项目方向**：
-   - 多数项目聚焦于人工智能助理、编码代理和技能库。
-   - TypeScript项目数量较多，标志着这个语言在AI工具开发中的受欢迎程度。
+### 项目概述
+1. **类型和语言**：榜单中大部分项目使用了 TypeScript 和 Python 语言，显示了这两种语言在现代开发中的受欢迎程度。TypeScript 在前端开发和许多新兴项目中越来越普及，而 Python 则在机器学习和数据分析领域有着广泛的应用。
 
-2. **热门项目**：
-   - **moltbot/moltbot**和**openclaw/openclaw**，这两个项目名相同，均角逐排行榜首位，显然是为了创建个人人工智能助手。二者的具体情况相仿，说明市场对个性化AI助理的需求很高。
+2. **项目方向**：许多项目聚焦于人工智能助手和算法工具，例如个人 AI 助手（如 `moltbot` 和 `openclaw`）和针对特定任务的技能集合（如 `openai/skills` 和 `anthropics/skills`）。这种趋势表明，开发去简化用户的常见任务的 AI 工具仍然是一个热门领域。
 
-3. **技能与资源库**：
-   - **openai/skills**和**anthropics/skills**等项目展示了技能库的重要性，这些可帮助开发者更好地利用现有AI模型进行开发。
+3. **趋势和热度**：项目的热度（如趋势 Star 和当前 Star 的对比）显示了一些项目拥有快速增长的用户基础。例如，`moltbot` 和 `openclaw` 在短短几个月内就吸引到了大量的 Star，说明其市场潜力和吸引力。
 
-4. **应用场景**：
-   - 项目如**virattt/dexter**和**daytonaio/daytona**显示了AI在行业（如金融）和基础设施中的应用潜力，暗示AI在深度研究和基础服务中的逐渐重要性。
+### 各项目分析
+1. **Shannon**：
+   - 作为最受欢迎的项目，其重点在于 AI 驱动的安全漏洞发现，具有确定的市场需求，尤其是在网络安全领域。
 
-### 热度与流行度
-- 使用**Star**作为流行度的指标，可以看出：
-   - **public-apis/public-apis** 项目虽然创建于2016年，但仍然有高度的关注，表明良好的API资源管理是永恒的需求。
-   - 一些新项目如**smt/opencode**系列获得了迅速增长的热度，反映了现阶段对AI编码助手的强烈需求。
+2. **Moltbot 和 Openclaw**：
+   - 这两个项目看似相似，但在功能或实现上可能存在差异，建议深入探索它们的具体功能。这种针对个人 AI 助手的需求也反映了日常生活中对更智能化工具的需求。
 
-### 制作与维护现状
-- 当前大多数项目创建于2025年，表明这是一个新兴且快速发展的领域，预测未来会有更多类似项目出现。
-- 鉴于许多项目都在建立自己的AI助理，未来可能会融合更多功能，提高用户体验和效能。
+3. **Dexter 和 Superpowers**：
+   - 这两个项目提供专注于金融研究和代码能力的 AI 解决方案，显示了行业特定需求的 AI 应用潜力。
+
+4. **公共 API 集合**：
+   - `public-apis` 项目是较早建立的，依旧保持高关注度，表明 API 资源对于开发者的持续重要性。
+
+5. **新兴项目**：
+   - `gitbutler` 和 `AionUi` 代表了潜在的新兴项目，提供版本控制和使用新技术栈构建的 UI 工具，值得关注其未来的发展。
 
 ### 总结
-本期榜单展示出AI工具的热潮和发展趋势。特别是针对编码和个人助手的工具越来越受到欢迎，未来可能会有更多创新和实用的项目出现。对于开发者来说，探索这些项目无疑有助于提高工作效率并促进技术进步。
+本期榜单双方向在 AI 领域的工具和资源上取得了成功，人工智能的快速发展和数据驱动的决策使得相关项目不断涌现。开发者们对高效、智能化工具的需求推动了这些项目的兴起，未来随着更多用户的参与，这些项目有望进一步成长。在选择关注或参与的项目时，可以考虑它们的创新性、应用场景以及活跃度等多个因素。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2656|173206|956|2025-11-24|
-|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2656|173206|956|2025-11-24|
-|3|[openai/skills](https://github.com/openai/skills)|Python|Codex技能目录|819|5502|257|2025-11-25|
-|4|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|687|46709|219|2025-10-09|
-|5|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|563|99617|189|2025-04-30|
-|6|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|560|99621|188|2025-04-30|
-|7|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|558|65170|186|2025-09-22|
-|8|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|519|31709|170|2025-10-17|
-|9|[virattt/dexter](https://github.com/virattt/dexter)|TypeScript|深度金融研究的自主代理|511|11197|169|2025-10-14|
-|10|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|504|54113|151|2024-02-06|
-|11|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|358|24530|113|2025-08-31|
-|12|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|306|7845|100|2025-08-09|
-|13|[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)|TypeScript|最佳特工。认识一下西西弗斯：包含电池的特工，代码像你一样。|317|29174|100|2025-12-03|
-|14|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|300|395844|95|2016-03-20|
-|15|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|268|65059|88|2025-02-22|
+|1|[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)|TypeScript|完全自主的人工智能黑客可以在您的网络应用程序中发现实际漏洞。Shannon在无提示、源代码感知的XBOW Benchmark上取得了96.15%的成功率。|3290|11942|1053|2025-09-27|
+|2|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2547|175753|910|2025-11-24|
+|3|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2547|175753|910|2025-11-24|
+|4|[openai/skills](https://github.com/openai/skills)|Python|Codex技能目录|1284|6786|402|2025-11-25|
+|5|[virattt/dexter](https://github.com/virattt/dexter)|TypeScript|深度金融研究的自主代理|1090|12287|355|2025-10-14|
+|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|805|47514|257|2025-10-09|
+|7|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|811|32520|256|2025-10-17|
+|8|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|730|25260|231|2025-08-31|
+|9|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|626|396470|211|2016-03-20|
+|10|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|584|100201|192|2025-04-30|
+|11|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|583|100204|192|2025-04-30|
+|12|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|534|65704|177|2025-09-22|
+|13|[google/langextract](https://github.com/google/langextract)|Python|一个Python库，用于使用LLM从非结构化文本中提取结构化信息，具有精确的源代码基础和交互式可视化。|438|24609|140|2025-07-08|
+|14|[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)|Rust|GitButler版本控制客户端，由Git支持，由Tauri/Rust/Svelte提供支持|390|18223|120|2023-01-31|
+|15|[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)|TypeScript|Gemini CLI、Claude Code、Codex、Opencode、Qwen Code、Goose Cli、Auggie等的免费、本地、开源Cowk|如果????你喜欢的话就明星吧！|348|13000|110|2025-08-07|
 
 [所有日榜](./day/day.md)
 
