@@ -1,54 +1,57 @@
 Github热门开源项目榜单
 
-## 2026年02月08日
+## 2026年02月09日
 
-本期榜单展示了一系列优秀的开源项目，主要集中在人工智能和编程工具领域。以下是对榜单的详细分析：
+本期榜单中包含了一系列关于人工智能、编程和金融研究的开源项目，具体分析如下：
 
-### 项目概述
-1. **类型和语言**：榜单中大部分项目使用了 TypeScript 和 Python 语言，显示了这两种语言在现代开发中的受欢迎程度。TypeScript 在前端开发和许多新兴项目中越来越普及，而 Python 则在机器学习和数据分析领域有着广泛的应用。
+### 项目亮点
 
-2. **项目方向**：许多项目聚焦于人工智能助手和算法工具，例如个人 AI 助手（如 `moltbot` 和 `openclaw`）和针对特定任务的技能集合（如 `openai/skills` 和 `anthropics/skills`）。这种趋势表明，开发去简化用户的常见任务的 AI 工具仍然是一个热门领域。
+1. **当前趋势与热门语言**:
+   - 榜单中的项目主要使用 TypeScript 和 Python，显示出这两种语言在 AI 和开发工具领域的高需求和广泛应用。
+   - TypeScript 项目在列表中占据了前几名，显示出开发者对强类型语言的偏好，尤其是在构建大规模应用时。
 
-3. **趋势和热度**：项目的热度（如趋势 Star 和当前 Star 的对比）显示了一些项目拥有快速增长的用户基础。例如，`moltbot` 和 `openclaw` 在短短几个月内就吸引到了大量的 Star，说明其市场潜力和吸引力。
+2. **项目功能与创新**:
+   - 排行榜首位的 **Shannon** 项目专注于自动发现应用程序中的安全漏洞，在无提示和源代码感知的环境中表现优异，显示了在网络安全领域的创新需求。
+   - **moltbot** 和 **openclaw** 提供个人人工智能助理的功能，体现了个性化和智能助手在日常生活中的重要性。
 
-### 各项目分析
-1. **Shannon**：
-   - 作为最受欢迎的项目，其重点在于 AI 驱动的安全漏洞发现，具有确定的市场需求，尤其是在网络安全领域。
+3. **其他值得关注的项目**:
+   - **Monty** 是一个用 Rust 编写的高效 Python 解释器，这在性能和安全性上都有显著优势，表明了对编程语言本身的重新审视和创新。
+   - **Dexter** 是一个针对深度金融研究的自主代理，表明金融科技领域对自动化和智能化的持续追求。
 
-2. **Moltbot 和 Openclaw**：
-   - 这两个项目看似相似，但在功能或实现上可能存在差异，建议深入探索它们的具体功能。这种针对个人 AI 助手的需求也反映了日常生活中对更智能化工具的需求。
+### 热度与用户反馈
 
-3. **Dexter 和 Superpowers**：
-   - 这两个项目提供专注于金融研究和代码能力的 AI 解决方案，显示了行业特定需求的 AI 应用潜力。
+- **Star数与热度**:
+  - 多个项目的 Star 数量和热度指数相对较高，显示出社区的兴趣。例如，**moltbot** 和 **openclaw** 拥有接近 18 万的 Star，表明其广泛的认可和使用。
+  - 而较新的项目如 **Monty** 也逐渐受到关注，随着用户的不断反馈，未来可能快速增长。
 
-4. **公共 API 集合**：
-   - `public-apis` 项目是较早建立的，依旧保持高关注度，表明 API 资源对于开发者的持续重要性。
+### 时间与更新
 
-5. **新兴项目**：
-   - `gitbutler` 和 `AionUi` 代表了潜在的新兴项目，提供版本控制和使用新技术栈构建的 UI 工具，值得关注其未来的发展。
+- **创建时间**:
+  - 大部分项目创建于 2025 年，显示这些项目是新兴技术的实践代表，反映出技术的快速发展和更新换代。
 
 ### 总结
-本期榜单双方向在 AI 领域的工具和资源上取得了成功，人工智能的快速发展和数据驱动的决策使得相关项目不断涌现。开发者们对高效、智能化工具的需求推动了这些项目的兴起，未来随着更多用户的参与，这些项目有望进一步成长。在选择关注或参与的项目时，可以考虑它们的创新性、应用场景以及活跃度等多个因素。
+
+本期榜单展示了在人工智能、自主代理和金融科技领域的最新开源趋势。许多项目不仅在社区内获得了广泛的支持，也表明了用户对安全、个性化和高性能工具的需求。这些项目的成功可能会进一步推动这些领域的发展，吸引更多开发者参与其中。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)|TypeScript|完全自主的人工智能黑客可以在您的网络应用程序中发现实际漏洞。Shannon在无提示、源代码感知的XBOW Benchmark上取得了96.15%的成功率。|3290|11942|1053|2025-09-27|
-|2|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2547|175753|910|2025-11-24|
-|3|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2547|175753|910|2025-11-24|
-|4|[openai/skills](https://github.com/openai/skills)|Python|Codex技能目录|1284|6786|402|2025-11-25|
-|5|[virattt/dexter](https://github.com/virattt/dexter)|TypeScript|深度金融研究的自主代理|1090|12287|355|2025-10-14|
-|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|805|47514|257|2025-10-09|
-|7|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|811|32520|256|2025-10-17|
-|8|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|730|25260|231|2025-08-31|
-|9|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|626|396470|211|2016-03-20|
-|10|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|584|100201|192|2025-04-30|
-|11|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|583|100204|192|2025-04-30|
-|12|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|534|65704|177|2025-09-22|
-|13|[google/langextract](https://github.com/google/langextract)|Python|一个Python库，用于使用LLM从非结构化文本中提取结构化信息，具有精确的源代码基础和交互式可视化。|438|24609|140|2025-07-08|
-|14|[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)|Rust|GitButler版本控制客户端，由Git支持，由Tauri/Rust/Svelte提供支持|390|18223|120|2023-01-31|
-|15|[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)|TypeScript|Gemini CLI、Claude Code、Codex、Opencode、Qwen Code、Goose Cli、Auggie等的免费、本地、开源Cowk|如果????你喜欢的话就明星吧！|348|13000|110|2025-08-07|
+|1|[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)|TypeScript|完全自主的人工智能黑客可以在您的网络应用程序中发现实际漏洞。Shannon在无提示、源代码感知的XBOW Benchmark上取得了96.15%的成功率。|4223|16165|1338|2025-09-27|
+|2|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |3146|178899|1097|2025-11-24|
+|3|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |3146|178899|1097|2025-11-24|
+|4|[pydantic/monty](https://github.com/pydantic/monty)|Rust|一个用Rust编写的最小、安全的Python解释器，供AI使用|1260|3618|392|2023-05-28|
+|5|[virattt/dexter](https://github.com/virattt/dexter)|TypeScript|深度金融研究的自主代理|1047|13334|334|2025-10-14|
+|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|868|48382|272|2025-10-09|
+|7|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|839|26099|266|2025-08-31|
+|8|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|781|100982|260|2025-04-30|
+|9|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|782|100986|259|2025-04-30|
+|10|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|765|66469|248|2025-09-22|
+|11|[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)|TypeScript|Gemini CLI、Claude Code、Codex、Opencode、Qwen Code、Goose Cli、Auggie等的免费、本地、开源Cowk|如果????你喜欢的话就明星吧！|653|13653|208|2025-08-07|
+|12|[openai/skills](https://github.com/openai/skills)|Python|Codex技能目录|614|7400|193|2025-11-25|
+|13|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|559|33079|179|2025-10-17|
+|14|[google/langextract](https://github.com/google/langextract)|Python|一个Python库，用于使用LLM从非结构化文本中提取结构化信息，具有精确的源代码基础和交互式可视化。|516|25125|163|2025-07-08|
+|15|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|439|396909|143|2016-03-20|
 
 [所有日榜](./day/day.md)
 
