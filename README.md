@@ -1,57 +1,50 @@
 Github热门开源项目榜单
 
-## 2026年02月09日
+## 2026年02月10日
 
-本期榜单中包含了一系列关于人工智能、编程和金融研究的开源项目，具体分析如下：
+根据提供的榜单数据，我们可以对项目进行多角度的分析，包括语言、热度、Star数量、趋势和项目用途等。
 
-### 项目亮点
+1. **语言分布**:
+   - 项目主要以TypeScript和Python为主，TypeScript有较多的选择（如moltbot、openclaw、badlogic/pi-mono等），而Python项目涵盖广泛的应用，包括数据提取（langextract）、代理技能库（skills）等。
+   - 也有Rust和Shell语言的项目（如pydantic/monty和obra/superpowers），显示了语言的多样性。
 
-1. **当前趋势与热门语言**:
-   - 榜单中的项目主要使用 TypeScript 和 Python，显示出这两种语言在 AI 和开发工具领域的高需求和广泛应用。
-   - TypeScript 项目在列表中占据了前几名，显示出开发者对强类型语言的偏好，尤其是在构建大规模应用时。
+2. **项目用途**:
+   - 大多数项目都与人工智能相关，包括个人助手（moltbot、openclaw）、安全测试（shannon）、代理工具（pi-mono、opencode、skills）等，显示了AI应用的普遍趋势。
+   - 一些项目专注于具体的功能，如用LLM提取信息（langextract）或进行金融交易（TradingAgents-CN）。
 
-2. **项目功能与创新**:
-   - 排行榜首位的 **Shannon** 项目专注于自动发现应用程序中的安全漏洞，在无提示和源代码感知的环境中表现优异，显示了在网络安全领域的创新需求。
-   - **moltbot** 和 **openclaw** 提供个人人工智能助理的功能，体现了个性化和智能助手在日常生活中的重要性。
+3. **流行度和热度**:
+   - 从当前Star数量来看，多个项目获得了较高的Star数，尤其是openclaw和moltbot，显示了用户对这些项目的高度关注和认可。
+   - 热度排名中，moltbot和openclaw均以1103的热度值排列在前列，这可能与其相似的项目介绍和功能设计有关。
 
-3. **其他值得关注的项目**:
-   - **Monty** 是一个用 Rust 编写的高效 Python 解释器，这在性能和安全性上都有显著优势，表明了对编程语言本身的重新审视和创新。
-   - **Dexter** 是一个针对深度金融研究的自主代理，表明金融科技领域对自动化和智能化的持续追求。
+4. **趋势Star与当前Star的关系**:
+   - 可以观察到趋势Star数量与当前Star数量之间的差异，例如shannon与其他项目相比，尽管该项目较新但在Star数量上表现出色，可能是由于其独特的功能（自动发现漏洞）。
+   - 一些项目虽然创建时间较早，但仍然保持较高的热度和Star数，像public-apis项目，显示了它的长期受欢迎程度。
 
-### 热度与用户反馈
+5. **创建时间**:
+   - 项目创建时间跨度较大，从2016年的public-apis到最新的2025年项目，显示了社区对新技术和算法不断追求的态度。
+   - 一些较新的项目（如相关金融交易的框架）标识出市场对AI在金融领域需求的增长。
 
-- **Star数与热度**:
-  - 多个项目的 Star 数量和热度指数相对较高，显示出社区的兴趣。例如，**moltbot** 和 **openclaw** 拥有接近 18 万的 Star，表明其广泛的认可和使用。
-  - 而较新的项目如 **Monty** 也逐渐受到关注，随着用户的不断反馈，未来可能快速增长。
-
-### 时间与更新
-
-- **创建时间**:
-  - 大部分项目创建于 2025 年，显示这些项目是新兴技术的实践代表，反映出技术的快速发展和更新换代。
-
-### 总结
-
-本期榜单展示了在人工智能、自主代理和金融科技领域的最新开源趋势。许多项目不仅在社区内获得了广泛的支持，也表明了用户对安全、个性化和高性能工具的需求。这些项目的成功可能会进一步推动这些领域的发展，吸引更多开发者参与其中。
+综上所述，这个榜单不仅展示了当前AI技术的热点项目，还反映了各项目在不同编程语言中被广泛采用的趋势，同时也表明了AI领域的快速发展和用户对新工具的期待。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)|TypeScript|完全自主的人工智能黑客可以在您的网络应用程序中发现实际漏洞。Shannon在无提示、源代码感知的XBOW Benchmark上取得了96.15%的成功率。|4223|16165|1338|2025-09-27|
-|2|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |3146|178899|1097|2025-11-24|
-|3|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |3146|178899|1097|2025-11-24|
-|4|[pydantic/monty](https://github.com/pydantic/monty)|Rust|一个用Rust编写的最小、安全的Python解释器，供AI使用|1260|3618|392|2023-05-28|
-|5|[virattt/dexter](https://github.com/virattt/dexter)|TypeScript|深度金融研究的自主代理|1047|13334|334|2025-10-14|
-|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|868|48382|272|2025-10-09|
-|7|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|839|26099|266|2025-08-31|
-|8|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|781|100982|260|2025-04-30|
-|9|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|782|100986|259|2025-04-30|
-|10|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|765|66469|248|2025-09-22|
-|11|[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)|TypeScript|Gemini CLI、Claude Code、Codex、Opencode、Qwen Code、Goose Cli、Auggie等的免费、本地、开源Cowk|如果????你喜欢的话就明星吧！|653|13653|208|2025-08-07|
-|12|[openai/skills](https://github.com/openai/skills)|Python|Codex技能目录|614|7400|193|2025-11-25|
-|13|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|559|33079|179|2025-10-17|
-|14|[google/langextract](https://github.com/google/langextract)|Python|一个Python库，用于使用LLM从非结构化文本中提取结构化信息，具有精确的源代码基础和交互式可视化。|516|25125|163|2025-07-08|
-|15|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|439|396909|143|2016-03-20|
+|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |3138|182037|1103|2025-11-24|
+|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |3138|182037|1103|2025-11-24|
+|3|[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)|TypeScript|完全自主的人工智能黑客可以在您的网络应用程序中发现实际漏洞。Shannon在无提示、源代码感知的XBOW Benchmark上取得了96.15%的成功率。|3164|19329|996|2025-09-27|
+|4|[google/langextract](https://github.com/google/langextract)|Python|一个Python库，用于使用LLM从非结构化文本中提取结构化信息，具有精确的源代码基础和交互式可视化。|2249|27374|704|2025-07-08|
+|5|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|1524|9927|481|2025-08-09|
+|6|[pydantic/monty](https://github.com/pydantic/monty)|Rust|一个用Rust编写的最小、安全的Python解释器，供AI使用|780|4398|243|2023-05-28|
+|7|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|736|67205|239|2025-09-22|
+|8|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|709|397618|227|2016-03-20|
+|9|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|685|101667|223|2025-04-30|
+|10|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|683|101669|223|2025-04-30|
+|11|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|690|49072|217|2025-10-09|
+|12|[virattt/dexter](https://github.com/virattt/dexter)|TypeScript|深度金融研究的自主代理|645|13979|211|2025-10-14|
+|13|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|628|26727|199|2025-08-31|
+|14|[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)|TypeScript|Gemini CLI、Claude Code、Codex、Opencode、Qwen Code、Goose Cli、Auggie等的免费、本地、开源Cowk|如果????你喜欢的话就明星吧！|605|14258|191|2025-08-07|
+|15|[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)|Python|基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版|491|16615|157|2025-06-26|
 
 [所有日榜](./day/day.md)
 
