@@ -1,50 +1,45 @@
 Github热门开源项目榜单
 
-## 2026年02月10日
+## 2026年02月11日
 
-根据提供的榜单数据，我们可以对项目进行多角度的分析，包括语言、热度、Star数量、趋势和项目用途等。
+对本期榜单进行分析，可以从以下几个方面进行探讨：
 
-1. **语言分布**:
-   - 项目主要以TypeScript和Python为主，TypeScript有较多的选择（如moltbot、openclaw、badlogic/pi-mono等），而Python项目涵盖广泛的应用，包括数据提取（langextract）、代理技能库（skills）等。
-   - 也有Rust和Shell语言的项目（如pydantic/monty和obra/superpowers），显示了语言的多样性。
+### 1. 项目类型和技术栈
+大多数项目使用 **TypeScript** 和 **Python** 作为开发语言，反映了这两种语言在人工智能和开发工具领域的广泛应用。TypeScript 更加强调类型安全和现代化开发，而 Python 则因其丰富的库和工具生态被广泛用于机器学习和数据处理。
 
-2. **项目用途**:
-   - 大多数项目都与人工智能相关，包括个人助手（moltbot、openclaw）、安全测试（shannon）、代理工具（pi-mono、opencode、skills）等，显示了AI应用的普遍趋势。
-   - 一些项目专注于具体的功能，如用LLM提取信息（langextract）或进行金融交易（TradingAgents-CN）。
+### 2. 热度和趋势
+- 项目热度（热度值）和当前星标（Star）数目反映了项目的受欢迎程度和社区的活跃度。其中 **moltbot/moltbot** 和 **openclaw/openclaw** 两个项目同样是围绕“个人人工智能助理”展开的，其当前星标数达到了185053，显示出极大的市场需求。尽管它们在项目介绍中呈现相似的功能，却能独立并获得如此关注，这说明相关需求的多样性和竞争激烈。
+- **google/langextract** 作为一个专注于信息提取的库，其热度相对较高，显示出数据处理和信息萃取在当前的大趋势中也占有一席之地。
 
-3. **流行度和热度**:
-   - 从当前Star数量来看，多个项目获得了较高的Star数，尤其是openclaw和moltbot，显示了用户对这些项目的高度关注和认可。
-   - 热度排名中，moltbot和openclaw均以1103的热度值排列在前列，这可能与其相似的项目介绍和功能设计有关。
+### 3. 项目创新性和应用场景
+- 项目 **KeygraphHQ/shannon** 提供了一个自主的AI黑客工具，展示了安全性和漏洞挖掘工具的需求。AI在安全领域的应用正负责提升系统的主动防御能力。
+- **anthropics/skills** 项目则进一步推动了对代理技能的开发，展示了知识库在人工智能助理中的重要性，比如在编程助手等场景中的应用。
 
-4. **趋势Star与当前Star的关系**:
-   - 可以观察到趋势Star数量与当前Star数量之间的差异，例如shannon与其他项目相比，尽管该项目较新但在Star数量上表现出色，可能是由于其独特的功能（自动发现漏洞）。
-   - 一些项目虽然创建时间较早，但仍然保持较高的热度和Star数，像public-apis项目，显示了它的长期受欢迎程度。
+### 4. 创建时间和未来展望
+当前榜上的项目创建时间多在2025年，显示出这些项目大多为新兴应用，可能是在近期 AI 领域的快速发展和普及背景下诞生的。从未来发展来看，这些项目中的一些（如个人人工智能助理）有望随着技术的成熟，进入更广泛的市场和应用。
 
-5. **创建时间**:
-   - 项目创建时间跨度较大，从2016年的public-apis到最新的2025年项目，显示了社区对新技术和算法不断追求的态度。
-   - 一些较新的项目（如相关金融交易的框架）标识出市场对AI在金融领域需求的增长。
-
-综上所述，这个榜单不仅展示了当前AI技术的热点项目，还反映了各项目在不同编程语言中被广泛采用的趋势，同时也表明了AI领域的快速发展和用户对新工具的期待。
+### 结论
+整体上，该榜单展示了当前人工智能开发领域的多样性及成长潜力，尤其是在个人人工智能助理、安全性、和信息处理等领域的项目，正吸引着越来越多的开发者和用户的关注。随着技术的进步和应用场景的扩展，预计这些工具将在未来发挥更为重要的角色。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |3138|182037|1103|2025-11-24|
-|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |3138|182037|1103|2025-11-24|
-|3|[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)|TypeScript|完全自主的人工智能黑客可以在您的网络应用程序中发现实际漏洞。Shannon在无提示、源代码感知的XBOW Benchmark上取得了96.15%的成功率。|3164|19329|996|2025-09-27|
-|4|[google/langextract](https://github.com/google/langextract)|Python|一个Python库，用于使用LLM从非结构化文本中提取结构化信息，具有精确的源代码基础和交互式可视化。|2249|27374|704|2025-07-08|
-|5|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|1524|9927|481|2025-08-09|
-|6|[pydantic/monty](https://github.com/pydantic/monty)|Rust|一个用Rust编写的最小、安全的Python解释器，供AI使用|780|4398|243|2023-05-28|
-|7|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|736|67205|239|2025-09-22|
-|8|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|709|397618|227|2016-03-20|
-|9|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|685|101667|223|2025-04-30|
-|10|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|683|101669|223|2025-04-30|
-|11|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|690|49072|217|2025-10-09|
-|12|[virattt/dexter](https://github.com/virattt/dexter)|TypeScript|深度金融研究的自主代理|645|13979|211|2025-10-14|
-|13|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|628|26727|199|2025-08-31|
-|14|[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)|TypeScript|Gemini CLI、Claude Code、Codex、Opencode、Qwen Code、Goose Cli、Auggie等的免费、本地、开源Cowk|如果????你喜欢的话就明星吧！|605|14258|191|2025-08-07|
-|15|[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)|Python|基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版|491|16615|157|2025-06-26|
+|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |3016|185053|1059|2025-11-24|
+|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |3016|185053|1059|2025-11-24|
+|3|[google/langextract](https://github.com/google/langextract)|Python|一个Python库，用于使用LLM从非结构化文本中提取结构化信息，具有精确的源代码基础和交互式可视化。|2685|30059|838|2025-07-08|
+|4|[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)|TypeScript|完全自主的人工智能黑客可以在您的网络应用程序中发现实际漏洞。Shannon在无提示、源代码感知的XBOW Benchmark上取得了96.15%的成功率。|1140|20469|365|2025-09-27|
+|5|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|823|68028|268|2025-09-22|
+|6|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|791|102460|255|2025-04-30|
+|7|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|788|102455|254|2025-04-30|
+|8|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|763|10690|245|2025-08-09|
+|9|[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)|TypeScript|Gemini CLI、Claude Code、Codex、Opencode、Qwen Code、Goose Cli、Auggie等的免费、本地、开源Cowk|如果????你喜欢的话就明星吧！|662|14920|210|2025-08-07|
+|10|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|651|49723|207|2025-10-09|
+|11|[Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)|Python|适合全栈开发人员的65项专业技能。将Claude Code转变为您的专家配对程序员。|577|1164|180|2025-10-20|
+|12|[virattt/dexter](https://github.com/virattt/dexter)|TypeScript|深度金融研究的自主代理|535|14514|173|2025-10-14|
+|13|[danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)|TypeScript|用于升级人类的个人人工智能基础设施。|496|6948|160|2025-09-08|
+|14|[cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)|Python|可通过API访问的免费LLM推理资源列表。|479|9037|152|2024-07-04|
+|15|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|454|93926|149|2024-04-29|
 
 [所有日榜](./day/day.md)
 
