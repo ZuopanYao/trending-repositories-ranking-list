@@ -1,28 +1,57 @@
 Github热门开源项目榜单
 
-## 2026年02月12日
+## 2026年02月13日
 
-对本期榜单的分析可以从以下几个方面入手： ### 1. 项目类别与技术栈 - 该榜单中的项目主要涉及人工智能（AI）和语言模型（LLM）相关的工具和资源。其中，使用的编程语言以TypeScript和Python为主，分别涵盖了6个和5个项目。这表明，TypeScript在构建现代Web应用和AI工具中越来越受欢迎，而Python则一直是AI和数据科学领域的首选语言。 ### 2. 热度和Star数量 - 项目`moltbot`和`openclaw`在Star数量上位列前茅，其特点是个人人工智能助理，吸引了大量的关注和参与（当前Star分别为188105和188106）。这种高关注度表明市场对个人人工智能助理的需求增加，可能与当今用户对个性化和智能化体验的追求密切相关。 - 其他项目的Star数量也比较可观，大部分项目的Star数量达到了数万级别，这表明这些项目都引起了一定的社区关注。 ### 3. 创建时间 - 大部分项目的创建时间较为接近，集中在2024年和2025年。这表明当前是开发相关AI工具和资源的活跃期，开发者们对相关领域充满热情，积极拓展应用场景和功能。 ### 4. 项目功能与创新 - `free-llm-api-resources`和`langextract`等项目，展示了从API获取和处理LLM集成的能力，这为开发者提供了可行的解决方案，帮助他们在各自的项目中实现更复杂的AI功能。 - `ai-engineering-hub`项目则提供了丰富的教程，表明在AI快速发展的背景下，教育和知识传播的需求同样重要。 ### 5. 潜在趋势 - 随着AI技术的不断进步，功能丰富且易于访问的AI工具和代理项目正逐渐受到青睐，这有助于降低技术门槛，使更多开发者能够参与到AI应用的开发中。 - 从项目内容来看，安全性和漏洞检测将会是未来的重要方向，这可以从`shannon`项目的描述中看出，其专注于网络应用的安全性。 ### 结论 综上所述，本期榜单展示了快速发展的AI工具和资源，反映出开发者对个性化智能助理和语言模型服务的高度关注，同时也揭示了教育和安全性在AI发展中的重要性。未来，随着技术的成熟与普及，相关项目的应用可能会更加广泛，社区的参与度也可能进一步提升。
+根据本期榜单，我们可以观察到一些显著的趋势和特点。这些项目主要集中在人工智能（AI）助理和编程工具的开发，尤其是在TypeScript和Python等编程语言中。
+
+### 项目分析
+
+1. **AI助理的崛起**：
+   - **moltbot/moltbot** 和 **openclaw/openclaw** 这两个项目名列前茅，表明个人人工智能助理的需求正在增加。它们提供跨平台的解决方案，适用于不同的操作系统，显示出市场对通用性和易用性的重视。
+
+2. **编程代理工具**：
+   - **opencode** 和 **anomalyco/opencode** 项目都提供AI编码代理的功能，说明对自动化编程和代码辅助的需求不断增长。这类工具可以提升开发者的工作效率，减少重复性工作。
+
+3. **信息提取工具**：
+   - **google/langextract**的存在表明，利用大语言模型（LLM）从非结构化文本中提取结构化信息是一项重要的功能，特别是在数据处理和分析方面。
+
+4. **技能库和知识共享**：
+   - **anthropics/skills** 和 **Jeffallan/claude-skills**等项目提供了专业技能的集合，促进了知识共享与开发者之间的合作。这种知识的集中有助于提升开发者的能力。
+
+### 趋势观察
+
+- **语言选择**：
+  - TypeScript在榜单中占据主导地位，这反映了开发者对于前端技术栈的重视，以及TypeScript在大型项目中的优势。
+
+- **热度与Star数**：
+  - 高热度和Star数的项目通常意味着更活跃的开发社区和更大的用户基础。例如，**moltbot/moltbot**和**openclaw/openclaw**都拥有非常高的Star数和热度，这可能促进了更多开发者的关注和使用。
+
+- **创建时间**：
+  - 项目的创建时间普遍较新，大多数项目都在2025年创建。这表明当前AI技术及其应用的快速发展趋势，开发者们在不断推出新项目以适应市场需求。
+
+### 总结
+
+本期榜单中的项目反映了当前技术发展的前沿方向，特别是在AI和编程工具领域。随着人工智能技术的不断成熟和广泛应用，开发者需要关注这些项目，以更好地适应行业变化，并利用新工具和技术提升自身的工作效率。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |3052|188105|1063|2025-11-24|
-|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |3053|188106|1063|2025-11-24|
-|3|[cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)|Python|可通过API访问的免费LLM推理资源列表。|982|10019|322|2024-07-04|
-|4|[google/langextract](https://github.com/google/langextract)|Python|一个Python库，用于使用LLM从非结构化文本中提取结构化信息，具有精确的源代码基础和交互式可视化。|1009|31068|318|2025-07-08|
-|5|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|770|103230|256|2025-04-30|
-|6|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|767|103222|255|2025-04-30|
-|7|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|670|68698|219|2025-09-22|
-|8|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|651|50374|209|2025-10-09|
-|9|[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)|TypeScript|完全自主的人工智能黑客可以在您的网络应用程序中发现实际漏洞。Shannon在无提示、源代码感知的XBOW Benchmark上取得了96.15%的成功率。|577|21046|184|2025-09-27|
-|10|[patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)|Jupyter Notebook|有关LLM、RAG和现实世界的AI代理应用程序的深入教程。|535|28956|178|2024-10-21|
-|11|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|447|11137|146|2025-08-09|
-|12|[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)|TypeScript|用于编码代理的Chrome DevTools|437|24278|138|2025-09-11|
-|13|[Free-TV/IPTV](https://github.com/Free-TV/IPTV)|Python|免费电视频道的M3 U播放列表|429|13705|136|2021-04-13|
-|14|[HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)|Jupyter Notebook|O ' Reilly图书的官方代码回购-“动手大型语言模型”|351|20806|126|2024-06-28|
-|15|[danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)|TypeScript|用于升级人类的个人人工智能基础设施。|390|7338|126|2025-09-08|
+|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2969|191074|1052|2025-11-24|
+|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2968|191074|1052|2025-11-24|
+|3|[google/langextract](https://github.com/google/langextract)|Python|一个Python库，用于使用LLM从非结构化文本中提取结构化信息，具有精确的源代码基础和交互式可视化。|803|31871|255|2025-07-08|
+|4|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|646|103868|205|2025-04-30|
+|5|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|644|103874|204|2025-04-30|
+|6|[Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)|Python|适合全栈开发人员的65项专业技能。将Claude Code转变为您的专家配对程序员。|599|2067|185|2025-10-20|
+|7|[danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)|TypeScript|用于升级人类的个人人工智能基础设施。|561|7899|180|2025-09-08|
+|8|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|550|69248|179|2025-09-22|
+|9|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|550|50924|173|2025-10-09|
+|10|[tambo-ai/tambo](https://github.com/tambo-ai/tambo)|TypeScript|React生成式UI SDK|493|9341|153|2024-06-15|
+|11|[cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)|Python|可通过API访问的免费LLM推理资源列表。|455|10474|150|2024-07-04|
+|12|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|461|94678|149|2024-04-29|
+|13|[rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)|TypeScript|开源人工智能同事，有内存|444|5430|140|2025-01-13|
+|14|[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)|TypeScript|完全自主的人工智能黑客可以在您的网络应用程序中发现实际漏洞。Shannon在无提示、源代码感知的XBOW Benchmark上取得了96.15%的成功率。|432|21478|137|2025-09-27|
+|15|[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)|TypeScript|Gemini CLI、Claude Code、Codex、Opencode、Qwen Code、Goose Cli、Auggie等的免费、本地、开源Cowk|如果????你喜欢的话就明星吧！|423|15648|130|2025-08-07|
 
 [所有日榜](./day/day.md)
 
