@@ -1,52 +1,52 @@
 Github热门开源项目榜单
 
-## 2026年02月14日
+## 2026年02月15日
 
-从本期榜单的分析中，我们可以看到以下几个趋势和特点：
+这份榜单展示了一些备受关注的开源项目，主要聚焦于人工智能、系统设计和开发工具等领域。以下是对榜单的分析：
 
-### 1. 语言偏好
-- **TypeScript** 是榜单中出现频率最高的编程语言，前14个项目中有9个使用TypeScript。TypeScript因其强类型和良好的工具支持，越来越受到开发者的青睐，特别是在需要构建大型应用或提高代码可维护性的场景下。
+### 项目分类分析
+1. **人工智能相关**：
+   - **moltbot/moltbot**和**openclaw/openclaw**这两个项目都是提供个人人工智能助理的工具，展示了人工智能在日常生活和工作中的潜力。
+   - **rowboatlabs/rowboat**和**tambo-ai/tambo**也同样关注AI，前者是有内存的开源AI同事，后者是生成式UI SDK，显示出生成式AI在用户界面开发中的应用。
+   - **anthropics/skills**和**KeygraphHQ/shannon**则是更专注于安全和技能的AI应用，尤其是前者的公共知识库和后者的漏洞检测能力，体现了AI在网络安全领域的实用性。
 
-### 2. 人工智能助理项目
-- **moltbot/moltbot** 和 **openclaw/openclaw** 这两个项目分别位于榜单的前两位，都是围绕“个人人工智能助理”的概念构建的。这表明，个性化的人工智能工具正在成为热门趋势。
+2. **系统设计与开发工具**：
+   - **ashishps1/awesome-system-design-resources**是一个针对系统设计学习的项目，非常适合准备面试的人，并显示了在开发者社区中系统设计的重要性。
+   - **obra/superpowers**和**gsd-build/get-shit-done**则提供了开发者在使用AI时所需的工具和上下文支持，帮助提高开发效率。
 
-### 3. 代理与编码工具
-- 有多个项目专注于AI编码代理，例如 **sst/opencode** 和 **anomalyco/opencode**。这种编码代理的需求反映出开发者需要通过AI来提升编程效率和自动化一些重复的任务。
+3. **数据库与数据处理**：
+   - **alibaba/zvec**是一个轻量级的数据库项目，提供了处理流程的数据存储解决方案，这对需要处理大量数据的应用尤为重要。
 
-### 4. 教育与资源共享
-- 项目如 **cheahjs/free-llm-api-resources** 和 **patchy631/ai-engineering-hub** 指向了对开源资源和教育材料的需求，开发者希望能够获得更多的学习和应用AI的资源。
+### 热度与Star数量
+- 榜单中的项目Star数整体较高，尤其是**moltbot/moltbot**和**openclaw/openclaw**，显示出巨大的受欢迎程度和用户社区支持。
+- **ashishps1/awesome-system-design-resources**也有不错的Star数量，说明其资源对开发者是非常有吸引力的。
 
-### 5. 项目热度与Star趋势
-- **moltbot/moltbot** 和 **openclaw/openclaw** 具备极高的当前Star（近19万），这表明这些项目得到了广泛关注和认可。尽管它们的趋势Star相同，当前Star的巨大差异可能源于早期推广和社区参与度的不同。
+### 趋势与发展
+- 多个项目创建于2025年，表示这些工具和资源是相对新的项目，可能采用了最新的技术趋势。
+- 项目如**tambo**和**rowboat**展示了AI与用户界面的结合，预示着未来开发中AI将扮演越来越重要的角色。
 
-### 6. 创新与多样性
-- 项目中涵盖了多种功能，从技能库到安全漏洞检测，显示出人工智能应用的多样性。例如，**KeygraphHQ/shannon** 项目于网络安全的应用体现了AI技术在不同领域的创新潜力。
-
-### 7. 更新频率
-- 项目创建时间大多是在2025年，表明这些工具和资源是非常新的，可能会有更多的更新和迭代，关注这些项目的开发动态可以帮助开发者保持技术前沿。
-
-### 总结
-当前榜单展示了人工智能和编程工具的交汇点，对开发者而言，使用AI技术来提升开发效率和代码质量正成为一个重要的趋势。此外，教育资源和社区支持在推动这些项目的成功方面也起到了关键作用。随着人工智能技术持续发展，未来可能会出现更多创新的应用和工具。
+### 结论
+总体来看，此榜单中的项目反映了开源社区在人工智能、开发效率和系统设计等领域的发展趋势。高Star数量和社区热度表示这些项目可能会在未来持续受欢迎，并可能对开发者的日常工作产生显著影响。鼓励关注和参与这些开源项目，以利用最新的技术进展。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2666|193740|967|2025-11-24|
-|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2666|193740|967|2025-11-24|
-|3|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|577|104445|192|2025-04-30|
-|4|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|575|104449|192|2025-04-30|
-|5|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|494|69742|168|2025-09-22|
-|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|476|51400|151|2025-10-09|
-|7|[cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)|Python|可通过API访问的免费LLM推理资源列表。|466|10940|151|2024-07-04|
-|8|[patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)|Jupyter Notebook|有关LLM、RAG和现实世界的AI代理应用程序的深入教程。|445|29523|143|2024-10-21|
-|9|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|408|11943|132|2025-08-09|
-|10|[danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)|TypeScript|用于升级人类的个人人工智能基础设施。|408|8307|131|2025-09-08|
-|11|[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)|TypeScript|完全自主的人工智能黑客可以在您的网络应用程序中发现实际漏洞。Shannon在无提示、源代码感知的XBOW Benchmark上取得了96.15%的成功率。|401|21879|130|2025-09-27|
-|12|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|356|28123|113|2025-08-31|
-|13|[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)|TypeScript|用于编码代理的Chrome DevTools|358|24968|112|2025-09-11|
-|14|[Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)|Python|适合全栈开发人员的65项专业技能。将Claude Code转变为您的专家配对程序员。|341|2408|108|2025-10-20|
-|15|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|349|56095|105|2024-02-06|
+|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2377|196117|853|2025-11-24|
+|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2377|196117|852|2025-11-24|
+|3|[ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)|Java|学习系统设计概念并使用免费资源为面试做准备。|949|31144|326|2023-10-25|
+|4|[rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)|TypeScript|开源人工智能同事，有内存|864|6552|282|2025-01-13|
+|5|[alibaba/zvec](https://github.com/alibaba/zvec)|C++|一个轻量级、闪电般的过程中载体数据库|798|1834|248|2025-12-05|
+|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|550|51950|177|2025-10-09|
+|7|[tambo-ai/tambo](https://github.com/tambo-ai/tambo)|TypeScript|React生成式UI SDK|550|10032|171|2024-06-15|
+|8|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|502|104947|164|2025-04-30|
+|9|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|498|104947|163|2025-04-30|
+|10|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|420|70162|140|2025-09-22|
+|11|[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)|TypeScript|完全自主的人工智能黑客可以在您的网络应用程序中发现实际漏洞。Shannon在无提示、源代码感知的XBOW Benchmark上取得了96.15%的成功率。|420|22299|133|2025-09-27|
+|12|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |347|6377|110|2025-06-07|
+|13|[gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)|JavaScript|一个轻量级且强大的元提示、上下文工程和规范驱动的开发系统，适用于Claude Code和OpenCode。|353|14271|110|2025-12-14|
+|14|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|327|12270|105|2025-08-09|
+|15|[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)|TypeScript|用于编码代理的Chrome DevTools|322|25290|100|2025-09-11|
 
 [所有日榜](./day/day.md)
 
