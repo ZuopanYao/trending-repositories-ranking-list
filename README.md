@@ -1,52 +1,57 @@
 Github热门开源项目榜单
 
-## 2026年02月15日
+## 2026年02月16日
 
-这份榜单展示了一些备受关注的开源项目，主要聚焦于人工智能、系统设计和开发工具等领域。以下是对榜单的分析：
+本期榜单显示了一系列在各自领域中颇具潜力和热度的开源项目，涵盖了人工智能助理、数据库、系统设计、自动化工具等多个方向。以下是对榜单中各个项目的分析：
 
-### 项目分类分析
-1. **人工智能相关**：
-   - **moltbot/moltbot**和**openclaw/openclaw**这两个项目都是提供个人人工智能助理的工具，展示了人工智能在日常生活和工作中的潜力。
-   - **rowboatlabs/rowboat**和**tambo-ai/tambo**也同样关注AI，前者是有内存的开源AI同事，后者是生成式UI SDK，显示出生成式AI在用户界面开发中的应用。
-   - **anthropics/skills**和**KeygraphHQ/shannon**则是更专注于安全和技能的AI应用，尤其是前者的公共知识库和后者的漏洞检测能力，体现了AI在网络安全领域的实用性。
+### 项目分类和技术栈：
 
-2. **系统设计与开发工具**：
-   - **ashishps1/awesome-system-design-resources**是一个针对系统设计学习的项目，非常适合准备面试的人，并显示了在开发者社区中系统设计的重要性。
-   - **obra/superpowers**和**gsd-build/get-shit-done**则提供了开发者在使用AI时所需的工具和上下文支持，帮助提高开发效率。
+1. **人工智能助理（TypeScript）**
+   - **moltbot** 和 **openclaw**，这两个项目都是个人人工智能助理，具备跨平台特性，并且都在榜单中位列前两名，表明了对快捷、灵活的AI助手的需求不断增长。
+   - **rowboat** 也是一个AI同事，有内存的特点可能意味着它会更好地学习和适应用户的需求。
 
-3. **数据库与数据处理**：
-   - **alibaba/zvec**是一个轻量级的数据库项目，提供了处理流程的数据存储解决方案，这对需要处理大量数据的应用尤为重要。
+2. **数据库和数据处理（C++ 和 Rust）**
+   - **zvec** 是一个轻量级的数据库库，适合对性能有高要求的应用。而 **nautilus_trader** 的高性能算法交易平台则显示了在金融科技领域内强烈的市场需求。
 
-### 热度与Star数量
-- 榜单中的项目Star数整体较高，尤其是**moltbot/moltbot**和**openclaw/openclaw**，显示出巨大的受欢迎程度和用户社区支持。
-- **ashishps1/awesome-system-design-resources**也有不错的Star数量，说明其资源对开发者是非常有吸引力的。
+3. **系统设计和开发工具（Java, JavaScript, Python等）**
+   - **awesome-system-design-resources** 提供了系统设计学习资源，显示了备战技术面试的持续需求。
+   - 与之相关的还有 **get-shit-done**，它提供了一种轻量化的开发系统，这可能会吸引众多开发者关注。
 
-### 趋势与发展
-- 多个项目创建于2025年，表示这些工具和资源是相对新的项目，可能采用了最新的技术趋势。
-- 项目如**tambo**和**rowboat**展示了AI与用户界面的结合，预示着未来开发中AI将扮演越来越重要的角色。
+4. **自动化和命令行工具（Go 和 Shell）**
+   - **gogcli** 是针对Google Suite的命令行工具，无疑能够提升用户的工作效率，受到了广泛的关注。
+   - **superpowers** 则强调了代码开发中的“超能力”，这可能与更高效的开发技巧和工具相关联。
 
-### 结论
-总体来看，此榜单中的项目反映了开源社区在人工智能、开发效率和系统设计等领域的发展趋势。高Star数量和社区热度表示这些项目可能会在未来持续受欢迎，并可能对开发者的日常工作产生显著影响。鼓励关注和参与这些开源项目，以利用最新的技术进展。
+### 热度和趋势分析：
+
+- **Star数量和热度**：尽管许多项目的热度较高（如 **moltbot**、**openclaw**），但Star数量相对较低的项目（如 **gogcli**）也显示了较强的潜力。
+- **新兴技术的趋势**：很多项目都利用现代语言（如TypeScript和Rust）来提升效率和性能，显示出开发者的技术选择是朝着更现代和高效的方向发展的。
+
+### 未来展望：
+
+- **人工智能应用的爆发**：随着AI技术的发展，个人AI助理等项目将可能成为开发者和用户日常生活的重要部分。
+- **金融科技工具**：如 **nautilus_trader** 这样的项目在算法交易领域的持续重视，体现了技术与金融结合的趋势。
+
+综上所述，本期榜单反映出技术生态中对于灵活、高效和自动化工具的强烈需求，同时也揭示了AI及系统设计领域的广泛兴趣和潜在市场。随着这些项目的成长和成熟，未来在这些领域内可能会产生更多创新和机会。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2377|196117|853|2025-11-24|
-|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2377|196117|852|2025-11-24|
-|3|[ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)|Java|学习系统设计概念并使用免费资源为面试做准备。|949|31144|326|2023-10-25|
-|4|[rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)|TypeScript|开源人工智能同事，有内存|864|6552|282|2025-01-13|
-|5|[alibaba/zvec](https://github.com/alibaba/zvec)|C++|一个轻量级、闪电般的过程中载体数据库|798|1834|248|2025-12-05|
-|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|550|51950|177|2025-10-09|
-|7|[tambo-ai/tambo](https://github.com/tambo-ai/tambo)|TypeScript|React生成式UI SDK|550|10032|171|2024-06-15|
-|8|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|502|104947|164|2025-04-30|
-|9|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|498|104947|163|2025-04-30|
-|10|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|420|70162|140|2025-09-22|
-|11|[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)|TypeScript|完全自主的人工智能黑客可以在您的网络应用程序中发现实际漏洞。Shannon在无提示、源代码感知的XBOW Benchmark上取得了96.15%的成功率。|420|22299|133|2025-09-27|
-|12|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |347|6377|110|2025-06-07|
-|13|[gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)|JavaScript|一个轻量级且强大的元提示、上下文工程和规范驱动的开发系统，适用于Claude Code和OpenCode。|353|14271|110|2025-12-14|
-|14|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|327|12270|105|2025-08-09|
-|15|[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)|TypeScript|用于编码代理的Chrome DevTools|322|25290|100|2025-09-11|
+|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |4121|200238|1551|2025-11-24|
+|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |4122|200239|1551|2025-11-24|
+|3|[alibaba/zvec](https://github.com/alibaba/zvec)|C++|一个轻量级、闪电般的过程中载体数据库|1265|3099|396|2025-12-05|
+|4|[ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)|Java|学习系统设计概念并使用免费资源为面试做准备。|1092|32236|370|2023-10-25|
+|5|[p-e-w/heretic](https://github.com/p-e-w/heretic)|Python|语言模型的全自动审查删除|1012|6181|329|2025-09-21|
+|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|746|52696|239|2025-10-09|
+|7|[rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)|TypeScript|开源人工智能同事，有内存|617|7169|197|2025-01-13|
+|8|[steipete/gogcli](https://github.com/steipete/gogcli)|Go|Google Suite CLI：Gmail、GCal、GDrive、GContacts。|595|3343|186|2025-12-12|
+|9|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|482|105429|163|2025-04-30|
+|10|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|484|105431|163|2025-04-30|
+|11|[nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)|Rust|一个高性能的算法交易平台和事件驱动的回测器|521|19650|163|2018-06-25|
+|12|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|497|12767|161|2025-08-09|
+|13|[gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)|JavaScript|一个轻量级且强大的元提示、上下文工程和规范驱动的开发系统，适用于Claude Code和OpenCode。|430|14701|133|2025-12-14|
+|14|[moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)|C|面向边缘设备的快速准确自动语音识别（ASB）|430|4072|132|2024-10-04|
+|15|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|382|70544|128|2025-09-22|
 
 [所有日榜](./day/day.md)
 
