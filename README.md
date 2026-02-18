@@ -1,53 +1,47 @@
 Github热门开源项目榜单
 
-## 2026年02月17日
+## 2026年02月18日
 
-### 榜单分析
+根据上述榜单，我们可以进行以下分析：
 
-本期榜单展示了一系列热门开源项目，从中可以提炼出一些趋势和特点，以下是针对榜单的分析：
+### 1. 榜单概述
+- **项目数量**: 本期榜单共列出15个项目，其中大多数项目聚焦于人工智能（AI）或代码生成相关的工具和库。
+- **语言分布**: TypeScript是最受欢迎的编程语言，有超过一半（约七个）的项目使用它。Python紧随其后，使用了四个项目。其他语言如Shell、C++、Java和JavaScript也有代表。
 
-#### 1. 编程语言分布
-- **TypeScript**: 该语言在榜单中占据主导地位，共有6个项目。TypeScript因其类型安全和良好的开发体验受到了越来越多开发者的青睐，尤其是在开发现代Web应用和与AI相关的项目时。
-- **Python**: Python有4个项目，因其在数据科学和机器学习领域的强大支持能力，依然是开发者的热门选择。
-- **C++、Shell、Java、Go**: 这几种语言各有一个项目，主要集中在系统级开发和工具类项目上。
+### 2. 热度和趋势
+- **热门项目**: “moltbot/moltbot”和“openclaw/openclaw”在榜单中占据首位，均为个人人工智能助理，当前Star数目接近207746，且热度为1323，这表明其在社区中的极高关注度。
+- **快速增长**: 值得注意的是，由于创建时间较近的项目，如“daytona”和“superpowers”也显示出不错的热度，分别为233和271。
 
-#### 2. 项目特点
-- **人工智能助理**: 前两个项目（moltbot、openclaw）都是个人AI助理，表明用户对个性化AI工具的需求增加。这种项目可以跨平台运行，提供了灵活性。
-- **开源工具**: 很多项目是为了增强开发者体验，如opencode相关的两个项目和针对加密货币交易的hummingbot，显示出开源社区对增强开发效率和业务效益的重视。
-- **安全性相关**: 如shannon项目，专注于安全性自动化，体现了对安全测试需求的上升。
+### 3. 项目多样性
+- **应用场景**: 榜单中的项目涵盖了从AI助理到语言模型审查的多种应用，展示了不同领域内对人工智能技术的多元需求。诸如“hummingbot/hummingbot”则聚焦于加密货币领域，显示了AI在金融科技中的潜力。
+- **功能特性**: 许多项目如“get-shit-done”和“summarize”都强调了增强开发者工作效率的功能，表明市场对工具和系统的需求日益增长。
 
-#### 3. 热度与星标
-- **高热度项目**: 如moltbot和openclaw，热度都超过1400，说明它们在社区中引起了较大反响，可能涉及热门话题。
-- **新兴项目**: 尽管当前Star数量相对较少的一些项目，像zvec，依然以其独特的功能定位 (轻量级数据库) 吸引了关注，可能会在未来获得更多用户。
-- **时间因素**: 从创建时间来看，较新的项目如moltbot和openclaw创建于2025年，展现了当前技术潮流和需求的即时反应。相比之下，hummingbot由于历史较长，已经建立了一定的用户基础。
+### 4. 未来趋势
+- **AI助理的持续关注**: 从榜单中可以看出，个人人工智能助理类项目持续受到青睐，可能预示着这一领域仍将继续快速发展。
+- **工具和库的增加需求**: 如“AI编码代理”和“系统设计资源”这类项目的受欢迎程度显示，开发者对于提高编程效率的工具有强烈需求，这可能引导更多的开发者朝着创建和使用这些工具的方向努力。
 
-#### 4. 未来趋势
-- **AI工具的进一步发展**: 随着AI技术的进一步成熟和普及，预计会有更多相关项目出现在市场上，尤其是在个性化和自动化领域。
-- **安全性强化**: 对于网络安全的关注将持续上升，更多工具会出现以应对安全威胁和提升代码质量。
-- **多语言支持**: 项目的多样性和跨平台能力将会是未来项目开发的重要特征。
-
-### 总结
-本期榜单中的项目反映了当前开发者对于AI、自动化工具和开发效率的重视，同时也显示出安全性在软件开发中的重要性。可以预见，未来将有更多基于这些趋势的创新项目涌现。
+### 5. 总结
+整体而言，本期榜单展现了动态的技术趋势，尤其是在人工智能和自动化工具领域。开发者对于提高工作效率的解决方案有高度需求，预示着未来可能将有更多创新项目涌现。关注这些项目的发展，能够帮助我们了解AI及其应用的未来走向。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |3901|204139|1477|2025-11-24|
-|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |3900|204139|1476|2025-11-24|
-|3|[alibaba/zvec](https://github.com/alibaba/zvec)|C++|一个轻量级、闪电般的过程中载体数据库|1219|4318|383|2025-12-05|
-|4|[p-e-w/heretic](https://github.com/p-e-w/heretic)|Python|语言模型的全自动审查删除|680|6861|219|2025-09-21|
-|5|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|599|53295|190|2025-10-09|
-|6|[hummingbot/hummingbot](https://github.com/hummingbot/hummingbot)|Python|开源软件可帮助您创建和部署高频加密货币交易机器人|537|16867|170|2019-04-02|
-|7|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|510|105939|169|2025-04-30|
-|8|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|511|105942|169|2025-04-30|
-|9|[gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)|JavaScript|一个轻量级且强大的元提示、上下文工程和规范驱动的开发系统，适用于Claude Code和OpenCode。|480|15181|152|2025-12-14|
-|10|[ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)|Java|学习系统设计概念并使用免费资源为面试做准备。|444|32680|149|2023-10-25|
-|11|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|423|70967|141|2025-09-22|
-|12|[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)|TypeScript|完全自主的人工智能黑客可以在您的网络应用程序中发现实际漏洞。Shannon在无提示、源代码感知的XBOW Benchmark上取得了96.15%的成功率。|427|23113|137|2025-09-27|
-|13|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Python|机器学习系统简介|406|18728|131|2023-09-06|
-|14|[steipete/gogcli](https://github.com/steipete/gogcli)|Go|Google Suite CLI：Gmail、GCal、GDrive、GContacts。|416|3759|131|2025-12-12|
-|15|[rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)|TypeScript|开源人工智能同事，有内存|351|7520|111|2025-01-13|
+|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |3607|207746|1323|2025-11-24|
+|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |3607|207746|1323|2025-11-24|
+|3|[p-e-w/heretic](https://github.com/p-e-w/heretic)|Python|语言模型的全自动审查删除|912|7773|294|2025-09-21|
+|4|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|853|54148|271|2025-10-09|
+|5|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|777|57644|233|2024-02-06|
+|6|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Python|机器学习系统简介|702|19430|231|2023-09-06|
+|7|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|509|106448|166|2025-04-30|
+|8|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|511|106453|166|2025-04-30|
+|9|[alibaba/zvec](https://github.com/alibaba/zvec)|C++|一个轻量级、闪电般的过程中载体数据库|458|4776|146|2025-12-05|
+|10|[gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)|JavaScript|一个轻量级且强大的元提示、上下文工程和规范驱动的开发系统，适用于Claude Code和OpenCode。|455|15636|141|2025-12-14|
+|11|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|389|71356|131|2025-09-22|
+|12|[hummingbot/hummingbot](https://github.com/hummingbot/hummingbot)|Python|开源软件可帮助您创建和部署高频加密货币交易机器人|359|17226|113|2019-04-02|
+|13|[ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)|Java|学习系统设计概念并使用免费资源为面试做准备。|329|33009|105|2023-10-25|
+|14|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|320|13398|104|2025-08-09|
+|15|[steipete/summarize](https://github.com/steipete/summarize)|TypeScript|指向任何URL/YouTube/播客或文件。明白要点。CLI和Chrome扩展。|318|3623|97|2025-12-17|
 
 [所有日榜](./day/day.md)
 
