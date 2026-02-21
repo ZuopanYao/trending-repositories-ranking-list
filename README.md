@@ -1,60 +1,47 @@
 Github热门开源项目榜单
 
-## 2026年02月20日
+## 2026年02月21日
 
-根据榜单分析，以下是对当前项目的趋势、特点和潜在影响的总结：
+本期榜单展示了一些在GitHub上具有较高关注度和活跃度的开源项目。从这些数据中可以提炼出几个关键观察点：
 
-### 项目趋势分析
+### 1. 项目主题与趋势
+- **人工智能助理**: 榜单前两项目（`moltbot`和`openclaw`）都专注于创建个人人工智能助理，且都使用TypeScript语言。这表明在智能助理领域，市场需求仍然非常强烈，开发者对此类项目表现出浓厚的兴趣。
+- **AI相关工具与应用**: 多个项目（如`opencode`和`skills`）也围绕AI开发和代理技能进行，显示出开发者希望通过开源合作来提升AI的开发效率和应用场景。
 
-1. **人工智能助理（AI Assistants）**:
-   - 榜单的前两名项目（moltbot和openclaw）是围绕个人人工智能助理开发的，均使用TypeScript。这表明市场对个性化AI助理的需求逐渐上升，尤其是在跨平台应用中的表现。
-   - 增加的“Star”数量（即213623和213624）表示这些项目广受欢迎，活跃用户群体大。
+### 2. 编程语言分布
+- **TypeScript的优势**: 从榜单可以看到，TypeScript占据了较大的比例（前五个项目中有四个是TypeScript），表明TypeScript在现代Web和API开发中的受欢迎程度。同时，TypeScript的静态类型特性使得大型项目的构建和维护更加安全和高效。
+- **多样化的语言使用**: 除了TypeScript，榜单中还包括了Go、C++、Python和Shell等其他语言，这显示出各个项目依赖的技术栈是非常多样化的，以满足不同的功能需求。
 
-2. **开源编码代理（Open Code Agents）**:
-   - 项目如open代码（anomalyco/opencode和sst/opencode）显示出对AI编码代理的关注，显示出在提高开发效率和支持软件开发人员方面，AI工具将越来越重要。这些项目都获得了较高的热度，表明其在开发者社区中的良好反馈。
+### 3. 社区活跃度与关注趋势
+- **Star数量与热度**: 大多数项目的Star数与热度值（当前Star/趋势Star）呈现较好的增长关系，这可能反映出项目最近的更新或公告促进了用户的关注。例如，`moltbot`和`openclaw`的Star数量均非常高，突显了这些项目的受欢迎程度。
+- **新创建项目**: 一些项目如`pentagi`和`timesfm`的创建时间较新，但仍显示出相对较好的不俗表现，说明新兴技术或想法受到开发者欢迎。
 
-3. **教育与学习资源**:
-   - Hands-On-Large-Language-Models等项目提供了教育性资源，旨在帮助开发者掌握大型语言模型的实践。这表明对AI技术的学习需求在上升，急需相关的支持材料和代码示例。
-
-### 热门语言与技术
-
-- **TypeScript的兴起**:
-  - 许多热门项目使用TypeScript，表明开发者越来越倾向于使用强类型语言来提升代码的可读性和可维护性。这也显示TypeScript在现代Web开发中的重要性进一步增强。
-
-- **Python的稳定性**:
-  - Python依然在数据科学和机器学习领域占据重要地位，多个项目（如skills和freemocap）强调了其在高效开发和实现复杂任务中的优势。
-
-### 潜在影响
-
-- **开发者工具的转变**:
-  - 有关AI编码代理的项目可能会改变开发者的工作方式，使其不再单纯依赖传统开发工具，而是借助AI辅助进行编码，这种趋势可能会加速软件开发过程。
-
-- **安全性和检测**:
-  - 项目如shannon展示了AI在发现安全漏洞方面的潜力，暗示着未来对应用安全性的重视将可能推动更多这样的工具的开发和应用。
+### 4. 功能与实用性
+- **多功能性**: 项目如`get-shit-done`展示了融合多种功能的灵活性，结合上下文工程和规范驱动开发，可以适用于多种开发环境。这类项目的实用性高，有利于吸引开发者采用和贡献。
+- **专注于性能与优化**: 像`Mole`和`airllm`这样的项目表明了开发者关注性能优化和效率，尤其是在处理大型语言模型时，以适应当前计算资源的限制。
 
 ### 总结
-
-当前榜单显示，人工智能技术及其在各类工具中的应用正在快速发展。随着开发者的需求变化，以及对高效、安全开发环境的追求，对这些工具的探索和支持将会持续增长。同时，TypeScript和Python作为主要语言，显示出其在未来开发趋势中的关键地位。
+本期榜单反映了人工智能和开发工具的持续增长趋势，开发者对开源协作的兴趣增强，并且对高效、强大且易于使用的工具需求旺盛。随著技术的不断演进和社区的维护，未来这些项目有望继续发展和完善，为开发者和用户提供更好的技术支持。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2687|213623|967|2025-11-24|
-|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2688|213624|967|2025-11-24|
-|3|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|900|55984|286|2025-10-09|
-|4|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|551|107524|183|2025-04-30|
-|5|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|547|107517|181|2025-04-30|
-|6|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|497|72321|163|2025-09-22|
-|7|[HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)|Jupyter Notebook|O ' Reilly图书的官方代码回购-“动手大型语言模型”|462|22084|153|2024-06-28|
-|8|[freemocap/freemocap](https://github.com/freemocap/freemocap)|Python|适合每个人的免费动作捕捉????|422|5476|132|2021-04-12|
-|9|[HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64)|C++|N64使用libdragon和tiny 3d的游戏引擎和编辑器|410|2000|127|2025-09-23|
-|10|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|377|14144|123|2025-08-09|
-|11|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Python|机器学习系统简介|395|20423|121|2023-09-06|
-|12|[gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)|JavaScript|一个轻量级且强大的元提示、上下文工程和规范驱动的开发系统，适用于Claude Code和OpenCode。|382|16498|121|2025-12-14|
-|13|[p-e-w/heretic](https://github.com/p-e-w/heretic)|Python|语言模型的全自动审查删除|349|8708|111|2025-09-21|
-|14|[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)|TypeScript|完全自主的人工智能黑客可以在您的网络应用程序中发现实际漏洞。Shannon在无提示、源代码感知的XBOW Benchmark上取得了96.15%的成功率。|320|23938|106|2025-09-27|
-|15|[google-research/timesfm](https://github.com/google-research/timesfm)|Python|TimesFM（时间序列基础模型）是Google Research开发的一个预训练的时间序列基础模型，用于时间序列预测。|326|8730|100|2024-04-29|
+|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2041|215664|761|2025-11-24|
+|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2040|215664|760|2025-11-24|
+|3|[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)|Go|完全自主的AI Agents系统能够执行复杂的渗透测试任务|1868|4988|601|2025-01-06|
+|4|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|741|56725|233|2025-10-09|
+|5|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|472|107989|155|2025-04-30|
+|6|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|471|107995|155|2025-04-30|
+|7|[alibaba/zvec](https://github.com/alibaba/zvec)|C++|一个轻量级、闪电般的过程中载体数据库|484|5744|151|2025-12-05|
+|8|[blackboardsh/electrobun](https://github.com/blackboardsh/electrobun)|C++|使用Typescript构建超快、微型且跨平台的桌面应用程序。|482|6297|149|2024-02-28|
+|9|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|423|72744|137|2025-09-22|
+|10|[gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)|JavaScript|一个轻量级且强大的元提示、上下文工程和规范驱动的开发系统，适用于Claude Code和OpenCode。|428|16926|135|2025-12-14|
+|11|[HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)|Jupyter Notebook|O ' Reilly图书的官方代码回购-“动手大型语言模型”|332|22416|112|2024-06-28|
+|12|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|331|35925|101|2025-09-23|
+|13|[lyogavin/airllm](https://github.com/lyogavin/airllm)|Jupyter Notebook|AirLLM 70 B推理，采用单个4GB图形处理器|316|11842|101|2023-06-12|
+|14|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|326|59099|98|2024-02-06|
+|15|[google-research/timesfm](https://github.com/google-research/timesfm)|Python|TimesFM（时间序列基础模型）是Google Research开发的一个预训练的时间序列基础模型，用于时间序列预测。|302|9032|96|2024-04-29|
 
 [所有日榜](./day/day.md)
 
