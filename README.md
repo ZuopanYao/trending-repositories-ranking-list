@@ -1,47 +1,60 @@
 Github热门开源项目榜单
 
-## 2026年02月21日
+## 2026年02月22日
 
-本期榜单展示了一些在GitHub上具有较高关注度和活跃度的开源项目。从这些数据中可以提炼出几个关键观察点：
+本期榜单展示了一系列与人工智能和编程相关的项目，以下是对榜单的详细分析：
 
-### 1. 项目主题与趋势
-- **人工智能助理**: 榜单前两项目（`moltbot`和`openclaw`）都专注于创建个人人工智能助理，且都使用TypeScript语言。这表明在智能助理领域，市场需求仍然非常强烈，开发者对此类项目表现出浓厚的兴趣。
-- **AI相关工具与应用**: 多个项目（如`opencode`和`skills`）也围绕AI开发和代理技能进行，显示出开发者希望通过开源合作来提升AI的开发效率和应用场景。
+### 总体概览
+- **主要语言**：榜单中大部分项目使用了 TypeScript（如前两名）和 Python，其次是 JavaScript、Go 和 C++，显示出TypeScript在当前AI项目开发中的流行。
+- **创建时间**：绝大多数项目是在2025年创建，说明这一领域的技术和应用正在迅速发展。
 
-### 2. 编程语言分布
-- **TypeScript的优势**: 从榜单可以看到，TypeScript占据了较大的比例（前五个项目中有四个是TypeScript），表明TypeScript在现代Web和API开发中的受欢迎程度。同时，TypeScript的静态类型特性使得大型项目的构建和维护更加安全和高效。
-- **多样化的语言使用**: 除了TypeScript，榜单中还包括了Go、C++、Python和Shell等其他语言，这显示出各个项目依赖的技术栈是非常多样化的，以满足不同的功能需求。
+### 项目分析
+1. **moltbot/moltbot 和 openclaw/openclaw**：
+   - 这两个项目均是个人人工智能助理，虽然介绍相似，但存在不同的实现和功能细节。它们拥有极高的 Star 数量，显示出用户对这类工具的浓厚兴趣。
 
-### 3. 社区活跃度与关注趋势
-- **Star数量与热度**: 大多数项目的Star数与热度值（当前Star/趋势Star）呈现较好的增长关系，这可能反映出项目最近的更新或公告促进了用户的关注。例如，`moltbot`和`openclaw`的Star数量均非常高，突显了这些项目的受欢迎程度。
-- **新创建项目**: 一些项目如`pentagi`和`timesfm`的创建时间较新，但仍显示出相对较好的不俗表现，说明新兴技术或想法受到开发者欢迎。
+2. **system-prompts-and-models-of-ai-tools**：
+   - 该项目聚焦于多种 AI 工具和模型的集成，Star 数较高，说明其在社区中具有良好的接受度，可能被视为一个“综合工具箱”。
 
-### 4. 功能与实用性
-- **多功能性**: 项目如`get-shit-done`展示了融合多种功能的灵活性，结合上下文工程和规范驱动开发，可以适用于多种开发环境。这类项目的实用性高，有利于吸引开发者采用和贡献。
-- **专注于性能与优化**: 像`Mole`和`airllm`这样的项目表明了开发者关注性能优化和效率，尤其是在处理大型语言模型时，以适应当前计算资源的限制。
+3. **pentagi**：
+   - 一个专注于渗透测试的 AI 系统，体现了 AI 技术在安全领域的应用潜力。项目的功能性和针对性可能吸引了特定的用户群体。
 
-### 总结
-本期榜单反映了人工智能和开发工具的持续增长趋势，开发者对开源协作的兴趣增强，并且对高效、强大且易于使用的工具需求旺盛。随著技术的不断演进和社区的维护，未来这些项目有望继续发展和完善，为开发者和用户提供更好的技术支持。
+4. **zvec**：
+   - 轻量级数据库，开发者可以利用其过程载体数据库的特性来实现快速的数据处理，从而提升应用的性能。
+
+5. **superpowers 和其他编码代理**：
+   - 这些项目均致力于提升编程效率，尤其是 AI 驱动的编码代理（如 claude-code 和 opencode），显示出编程助手在软件开发中的重要作用。
+
+### 热度与趋势
+- **热度**：Star 数和趋势 Star 数之间的差距，有些项目虽然当前 Star 数不高，但趋势 Star 可以反映出即将受到更多关注的项目。
+- **热度分布**：
+  - 前几名项目（如 moltbot 和 openclaw）显示出用户对个人 AI 助理的需求趋势，而如 superpowers 和 claude-code 则表明开发者对提高编码效率的强烈兴趣。
+  
+### 潜在影响
+- **社区参与**：项目的受欢迎程度可能吸引更多开发者参与，从而促进技术的迭代和改进。
+- **技术趋势**：随着这些 AI 工具的持续发展，越来越多的应用场景可能会浮现，比如在编程、自动化等领域的深度整合。
+
+### 结论
+总体来看，这个榜单不仅展示了当前的技术趋势，还反映了开发者对 AI 助手和编码效率提高工具的强烈需求。未来，随着技术的不断演进，这些项目有很大的潜力能够更好地服务于社区和行业需求。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2041|215664|761|2025-11-24|
-|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2040|215664|760|2025-11-24|
-|3|[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)|Go|完全自主的AI Agents系统能够执行复杂的渗透测试任务|1868|4988|601|2025-01-06|
-|4|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|741|56725|233|2025-10-09|
-|5|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|472|107989|155|2025-04-30|
-|6|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|471|107995|155|2025-04-30|
-|7|[alibaba/zvec](https://github.com/alibaba/zvec)|C++|一个轻量级、闪电般的过程中载体数据库|484|5744|151|2025-12-05|
-|8|[blackboardsh/electrobun](https://github.com/blackboardsh/electrobun)|C++|使用Typescript构建超快、微型且跨平台的桌面应用程序。|482|6297|149|2024-02-28|
-|9|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|423|72744|137|2025-09-22|
-|10|[gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)|JavaScript|一个轻量级且强大的元提示、上下文工程和规范驱动的开发系统，适用于Claude Code和OpenCode。|428|16926|135|2025-12-14|
-|11|[HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)|Jupyter Notebook|O ' Reilly图书的官方代码回购-“动手大型语言模型”|332|22416|112|2024-06-28|
-|12|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|331|35925|101|2025-09-23|
-|13|[lyogavin/airllm](https://github.com/lyogavin/airllm)|Jupyter Notebook|AirLLM 70 B推理，采用单个4GB图形处理器|316|11842|101|2023-06-12|
-|14|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|326|59099|98|2024-02-06|
-|15|[google-research/timesfm](https://github.com/google-research/timesfm)|Python|TimesFM（时间序列基础模型）是Google Research开发的一个预训练的时间序列基础模型，用于时间序列预测。|302|9032|96|2024-04-29|
+|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2245|217909|831|2025-11-24|
+|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2247|217911|831|2025-11-24|
+|3|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|1478|116892|567|2025-03-05|
+|4|[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)|Go|完全自主的AI Agents系统能够执行复杂的渗透测试任务|1545|6533|491|2025-01-06|
+|5|[alibaba/zvec](https://github.com/alibaba/zvec)|C++|一个轻量级、闪电般的过程中载体数据库|1029|6773|321|2025-12-05|
+|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|757|57482|240|2025-10-09|
+|7|[huggingface/skills](https://github.com/huggingface/skills)|Python|None|559|2141|174|2025-11-24|
+|8|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|520|68760|164|2025-02-22|
+|9|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|495|73239|161|2025-09-22|
+|10|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|466|108455|155|2025-04-30|
+|11|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|462|108457|154|2025-04-30|
+|12|[gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)|JavaScript|一个轻量级且强大的元提示、上下文工程和规范驱动的开发系统，适用于Claude Code和OpenCode。|486|17412|154|2025-12-14|
+|13|[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)|TypeScript|GitNexus：零服务器代码智能引擎-       GitNexus是一个客户端知识图创建者，完全在您的浏览器中运行。放入GitHub repo或Zip文件，并通过内置的Shape RAG代理获取交互式知识图。非常适合代码探索|433|1342|135|2025-08-02|
+|14|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|408|30124|132|2025-08-31|
+|15|[HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)|Jupyter Notebook|O ' Reilly图书的官方代码回购-“动手大型语言模型”|358|22774|122|2024-06-28|
 
 [所有日榜](./day/day.md)
 
