@@ -58,64 +58,54 @@ Github热门开源项目榜单
 
 [所有日榜](./day/day.md)
 
-## 2026年第06周
+## 2026年第07周
 
-根据榜单数据，我们可以进行以下分析：
+根据提供的榜单数据，我们对前20个项目进行分析：
 
-### 1. 项目概览
-该榜单包含20个项目，它们涵盖了多种用途，包括人工智能助理、编码代理、信息提取工具等。大部分项目使用TypeScript和Python开发，这反映了这两种语言在AI和现代开发中的流行。
+### 1. 语言分布
+- **TypeScript** 是最受欢迎的语言，共有 10 个项目，显示出该语言在开发人工智能和编程工具方面的广泛应用。
+- **Python** 紧随其后，有 5 个项目。这表明Python在机器学习和AI相关领域的持续重要性。
+- 其他语言如 **JavaScript**、**C++** 和 **Shell** 各有 1 个项目，显示出它们在特定领域的应用。
 
-### 2. 热度与Star趋势
-- **热度最高的项目**：
-  - **moltbot/moltbot** 和 **openclaw/openclaw**：为个人人工智能助理，均展示了相同的趋势和Star数，说明它们可能是同一个项目的不同版本或实现。
-  - 其次是 **google/langextract** 和 **KeygraphHQ/shannon**，展示了与提取和检测漏洞相关的工具受到开发者关注。
+### 2. 项目趋势与热度
+- **Star趋势**呈上升趋势的项目有 9 个，其中 **moltbot/moltbot** 和 **openclaw/openclaw** 的Star数均超过 21万，成为榜单的双雄，说明这些项目受到极大关注。它们提供了个人人工智能助理的功能，并且跨平台，能够吸引大量用户。
+- **热度**评价及上升趋势的项目集中在高Star数的项目，例如 **Daytona** 和 **Superpowers**，这些项目显示出较高的活跃度和社区关注。
 
-- **Star趋势**：
-  - 本榜单中，**moltbot/moltbot** 和 **openclaw/openclaw** 的当前Star数达到了196,117，显示出强烈的用户接受度和关注度，预计未来还会继续增加。
-  - 其他项目的Star数从几千到几万不等，**sst/opencode** 和 **anomalyco/opencode** 也有较高的Star数，显示出AI和编码工具的热门性。
+### 3. 项目创建时间
+- 大多数项目的创建时间较新，显示出人工智能及相关技术的发展迅速，尤其是2025年发布的项目。
+- 在20个项目中，创建最早的项目是 **codecrafters-io/build-your-own-x**，其发布于2018年，显然被持续关注，通过从头构建技术来吸引学习者。
 
-### 3. 开发语言分布
-- **TypeScript**：占据了榜单的绝大多数项目，适合前端开发和与Javascript交互的应用。
-- **Python**：主要用于与数据处理和机器学习相关的应用，显示在 **google/langextract** 和 **anthropics/skills** 等项目。
-- **Shell/Go/JavaScript**：大多为特定工具或插件，显示出多样性。
+### 4. 专注方向
+- 项目集中在 **人工智能助理**、**编码代理**、**机器学习工具**和**安全漏洞检测等领域**，项目内容涉及自动化、代码审查和程序生成，表明开发者对提高编程效率和软件安全的需求。
+- 除此之外，项目如 **get-shit-done** 是 geared towards a specific development workflow, indicating an interest in improving developer productivity through better tooling.
 
-### 4. 项目类型与功能
-- **人工智能助理**：多个项目（如 **moltbot** 和 **openclaw**）专注于创建个性化的AI助理，表明市场对智能助手的强烈需求。
-- **安全与漏洞检测**：如 **KeygraphHQ/shannon** 强调了在网络安全方面的需求。
-- **编码工具**：如 **sst/opencode** 和 **anomalyco/opencode** 显示对于编码助手的需求增长。
-
-### 5. 趋势与未来展望
-- **智能化和自动化的趋势**：项目多数围绕自我学习、自动编码和智能化处理，符合当前科技发展趋势。
-- **跨平台支持**：许多项目强调在多种操作系统和平台上可用，扩大了其适用范围和用户基础。
-- **开源与社区协作**：项目普遍为开源，支持社区贡献，这促进了技术的快速迭代和更新。
-
-### 结论
-通过汇总这些数据，可以看出AI工具，特别是编码和助理类应用，在开发者和用户中都有着显著的关注和增长潜力。随着技术的进步，这些工具和库可能将作为未来软件开发的重要组成部分。
+### 5. 总体结论
+本期榜单显示，人工智能、编程助手和自动化工具是当前开源项目的热点，TypeScript和Python作为主要开发语言，表示开发社区倾向使用现代和高效的工具。随着时间推移，对人工智能能力及工具的需求将持续增长，项目的可发展性和实际应用效果将是关键成功因素。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |17218|196117|6100|2025-11-24|
-|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |17218|196117|6100|2025-11-24|
-|3|[google/langextract](https://github.com/google/langextract)|Python|一个Python库，用于使用LLM从非结构化文本中提取结构化信息，具有精确的源代码基础和交互式可视化。|7320|32445|2299|2025-07-08|
-|4|[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)|TypeScript|完全自主的人工智能黑客可以在您的网络应用程序中发现实际漏洞。Shannon在无提示、源代码感知的XBOW Benchmark上取得了96.15%的成功率。|6134|22299|1947|2025-09-27|
-|5|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|3965|104947|1295|2025-04-30|
-|6|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|3961|104947|1294|2025-04-30|
-|7|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|3867|12270|1236|2025-08-09|
-|8|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|3693|70162|1214|2025-09-22|
-|9|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|3568|51950|1135|2025-10-09|
-|10|[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)|TypeScript|Gemini CLI、Claude Code、Codex、Opencode、Qwen Code、Goose Cli、Auggie等的免费、本地、开源Cowk|如果????你喜欢的话就明星吧！|2282|15935|720|2025-08-07|
-|11|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|2251|28350|713|2025-08-31|
-|12|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|2146|95167|705|2024-04-29|
-|13|[danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)|TypeScript|用于升级人类的个人人工智能基础设施。|2053|8392|662|2025-09-08|
-|14|[virattt/dexter](https://github.com/virattt/dexter)|TypeScript|深度金融研究的自主代理|1954|15288|636|2025-10-14|
-|15|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|1916|34995|624|2025-10-17|
-|16|[tambo-ai/tambo](https://github.com/tambo-ai/tambo)|TypeScript|React生成式UI SDK|1987|10032|618|2024-06-15|
-|17|[github/gh-aw](https://github.com/github/gh-aw)|Go|GitHub大型工作流程|1816|2558|570|2025-08-12|
-|18|[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)|TypeScript|最佳特工。认识一下西西弗斯：包含电池的特工，代码像你一样。|1718|31566|545|2025-12-03|
-|19|[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)|TypeScript|用于编码代理的Chrome DevTools|1699|25290|532|2025-09-11|
-|20|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|1758|56343|530|2024-02-06|
+|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |17671|217909|6507|2025-11-24|
+|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |17672|217911|6507|2025-11-24|
+|3|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|4786|57482|1513|2025-10-09|
+|4|[alibaba/zvec](https://github.com/alibaba/zvec)|C++|一个轻量级、闪电般的过程中载体数据库|3674|6773|1155|2025-12-05|
+|5|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|3026|108455|1004|2025-04-30|
+|6|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|3026|108457|1004|2025-04-30|
+|7|[p-e-w/heretic](https://github.com/p-e-w/heretic)|Python|语言模型的全自动审查删除|2924|9105|939|2025-09-21|
+|8|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|2695|73239|884|2025-09-22|
+|9|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|2897|59455|874|2024-02-06|
+|10|[gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)|JavaScript|一个轻量级且强大的元提示、上下文工程和规范驱动的开发系统，适用于Claude Code和OpenCode。|2711|17412|858|2025-12-14|
+|11|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|2141|116892|790|2025-03-05|
+|12|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Python|机器学习系统简介|2342|20664|755|2023-09-06|
+|13|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|1908|14675|621|2025-08-09|
+|14|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|1635|68760|525|2025-02-22|
+|15|[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)|TypeScript|完全自主的人工智能黑客可以在您的网络应用程序中发现实际漏洞。Shannon在无提示、源代码感知的XBOW Benchmark上取得了96.15%的成功率。|1646|24332|525|2025-09-27|
+|16|[google-research/timesfm](https://github.com/google-research/timesfm)|Python|TimesFM（时间序列基础模型）是Google Research开发的一个预训练的时间序列基础模型，用于时间序列预测。|1621|9349|509|2024-04-29|
+|17|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|1586|30124|505|2025-08-31|
+|18|[HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)|Jupyter Notebook|O ' Reilly图书的官方代码回购-“动手大型语言模型”|1413|22774|485|2024-06-28|
+|19|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|1586|467973|483|2018-05-09|
+|20|[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)|Python|精选的用于定制Claude AI工作流程的出色Claude技能、资源和工具列表|1430|36648|463|2025-10-17|
 
 [所有周榜](./week/week.md)
 
