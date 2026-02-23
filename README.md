@@ -1,60 +1,56 @@
 Github热门开源项目榜单
 
-## 2026年02月22日
+## 2026年02月23日
 
-本期榜单展示了一系列与人工智能和编程相关的项目，以下是对榜单的详细分析：
+在本期榜单中，我们可以看到一系列与人工智能、编程和开发相关的项目。以下是对榜单的分析：
 
-### 总体概览
-- **主要语言**：榜单中大部分项目使用了 TypeScript（如前两名）和 Python，其次是 JavaScript、Go 和 C++，显示出TypeScript在当前AI项目开发中的流行。
-- **创建时间**：绝大多数项目是在2025年创建，说明这一领域的技术和应用正在迅速发展。
+### 总体观察
 
-### 项目分析
-1. **moltbot/moltbot 和 openclaw/openclaw**：
-   - 这两个项目均是个人人工智能助理，虽然介绍相似，但存在不同的实现和功能细节。它们拥有极高的 Star 数量，显示出用户对这类工具的浓厚兴趣。
+1. **热门语言**：榜单上的项目主要使用TypeScript（4个项目）、Python（4个项目）、Shell（2个项目）和Go（1个项目）。TypeScript和Python的占比很大，这反映了它们在当前开发环境中的广泛应用，尤其是在AI和自动化领域。
 
-2. **system-prompts-and-models-of-ai-tools**：
-   - 该项目聚焦于多种 AI 工具和模型的集成，Star 数较高，说明其在社区中具有良好的接受度，可能被视为一个“综合工具箱”。
+2. **趋势与热度**：许多项目的当前Star数量与趋势Star数值相近，这表明这些项目都具备了一定的吸引力和活跃度。特别是moltbot和openclaw，两个项目几乎相同的描述、发布日期和Star数量，这可能意味着它们具有相似的功能或竞争关系。
 
-3. **pentagi**：
-   - 一个专注于渗透测试的 AI 系统，体现了 AI 技术在安全领域的应用潜力。项目的功能性和针对性可能吸引了特定的用户群体。
+3. **项目类型**：大多数项目专注于人工智能助手、编码自动化和工具。这与市场对提高生产力、自动化代码编写和各种AI应用的需求一致。
 
-4. **zvec**：
-   - 轻量级数据库，开发者可以利用其过程载体数据库的特性来实现快速的数据处理，从而提升应用的性能。
+### 热门项目分析
 
-5. **superpowers 和其他编码代理**：
-   - 这些项目均致力于提升编程效率，尤其是 AI 驱动的编码代理（如 claude-code 和 opencode），显示出编程助手在软件开发中的重要作用。
+- **moltbot/moltbot** 和 **openclaw/openclaw**：这两个项目都声称是个人人工智能助理，容易理解为何它们吸引了大量用户关注。它们的功能和实现细节可能非常相似，值得进一步对比。
 
-### 热度与趋势
-- **热度**：Star 数和趋势 Star 数之间的差距，有些项目虽然当前 Star 数不高，但趋势 Star 可以反映出即将受到更多关注的项目。
-- **热度分布**：
-  - 前几名项目（如 moltbot 和 openclaw）显示出用户对个人 AI 助理的需求趋势，而如 superpowers 和 claude-code 则表明开发者对提高编码效率的强烈兴趣。
-  
-### 潜在影响
-- **社区参与**：项目的受欢迎程度可能吸引更多开发者参与，从而促进技术的迭代和改进。
-- **技术趋势**：随着这些 AI 工具的持续发展，越来越多的应用场景可能会浮现，比如在编程、自动化等领域的深度整合。
+- **system-prompts-and-models-of-ai-tools**：该项目涵盖了一系列AI工具和模型，可能是为了提升多个应用程序的集成和使用效率，因此在当前Star数量上显示出极高的热度。
 
-### 结论
-总体来看，这个榜单不仅展示了当前的技术趋势，还反映了开发者对 AI 助手和编码效率提高工具的强烈需求。未来，随着技术的不断演进，这些项目有很大的潜力能够更好地服务于社区和行业需求。
+- **superpowers**：提供了一套核心技能库，适合代码开发者和AI开发者，表明在基础技术栈上提高开发效率的需求也在上升。
+
+- **pentagi**：独特之处在于专注于自动化渗透测试任务的AI代理，显示了信息安全领域的需求仍然强烈，尤其是在AI辅助下提升渗透测试的效率。
+
+### 潜在发展趋势
+
+1. **AI工具的整合**：随着AI技术的发展和普及，可以预见将出现更多功能全面的工具，它们会将多种AI功能融合到一个平台中，以增强开发和使用的便利性。
+
+2. **安全性需求**：由于网络安全问题日益严重，专注于安全性和渗透测试的项目可能会成为未来热门项目的重点。
+
+3. **社区合作与开源**：越来越多的项目采用开源形式为用户和开发者提供共享资源，例如开源编码代理和AI知识库，可能促进社区的共同发展与技术创新。
+
+综上所述，榜单显示了当前AI和开发工具领域热度的变化及趋势，反映了开发者对于提升工作效率的迫切需求，同时也预示着未来在此方向上的更多创新和发展。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2245|217909|831|2025-11-24|
-|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2247|217911|831|2025-11-24|
-|3|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|1478|116892|567|2025-03-05|
-|4|[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)|Go|完全自主的AI Agents系统能够执行复杂的渗透测试任务|1545|6533|491|2025-01-06|
-|5|[alibaba/zvec](https://github.com/alibaba/zvec)|C++|一个轻量级、闪电般的过程中载体数据库|1029|6773|321|2025-12-05|
-|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|757|57482|240|2025-10-09|
-|7|[huggingface/skills](https://github.com/huggingface/skills)|Python|None|559|2141|174|2025-11-24|
-|8|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|520|68760|164|2025-02-22|
-|9|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|495|73239|161|2025-09-22|
-|10|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|466|108455|155|2025-04-30|
-|11|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|462|108457|154|2025-04-30|
-|12|[gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)|JavaScript|一个轻量级且强大的元提示、上下文工程和规范驱动的开发系统，适用于Claude Code和OpenCode。|486|17412|154|2025-12-14|
-|13|[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)|TypeScript|GitNexus：零服务器代码智能引擎-       GitNexus是一个客户端知识图创建者，完全在您的浏览器中运行。放入GitHub repo或Zip文件，并通过内置的Shape RAG代理获取交互式知识图。非常适合代码探索|433|1342|135|2025-08-02|
-|14|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|408|30124|132|2025-08-31|
-|15|[HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)|Jupyter Notebook|O ' Reilly图书的官方代码回购-“动手大型语言模型”|358|22774|122|2024-06-28|
+|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2651|220560|959|2025-11-24|
+|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2650|220561|959|2025-11-24|
+|3|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|2514|119406|910|2025-03-05|
+|4|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1529|59011|485|2025-10-09|
+|5|[huggingface/skills](https://github.com/huggingface/skills)|Python|None|1383|3524|434|2025-11-24|
+|6|[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)|Go|完全自主的AI Agents系统能够执行复杂的渗透测试任务|1208|7741|379|2025-01-06|
+|7|[gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)|JavaScript|一个轻量级且强大的元提示、上下文工程和规范驱动的开发系统，适用于Claude Code和OpenCode。|871|18283|274|2025-12-14|
+|8|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|642|73881|211|2025-09-22|
+|9|[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)|Python|SEARCH PageIndex：基于推理的RAG的文档索引|669|16553|210|2025-04-01|
+|10|[alibaba/zvec](https://github.com/alibaba/zvec)|C++|一个轻量级、闪电般的过程中载体数据库|621|7394|191|2025-12-05|
+|11|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|572|109029|188|2025-04-30|
+|12|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|569|109024|187|2025-04-30|
+|13|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|528|69288|166|2025-02-22|
+|14|[OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)|Python|适合分析师、量化分析师和人工智能代理的金融数据平台。|467|61289|150|2020-12-20|
+|15|[tw93/Mole](https://github.com/tw93/Mole)|Shell|????深度清洁和优化您的Mac。|463|36645|142|2025-09-23|
 
 [所有日榜](./day/day.md)
 
