@@ -1,50 +1,49 @@
 Github热门开源项目榜单
 
-## 2026年03月06日
+## 2026年03月07日
 
-根据提供的榜单数据，我们可以对当前的项目进行以下分析：
+本期榜单展示了与人工智能相关的项目，主要集中在不同平台、语言以及功能。以下是对每个项目的分析及总结：
 
-### 一、项目概况
-榜单中包含15个开源项目，主要集中在人工智能（AI）、网络爬虫、编码助手等领域。这些项目在不同的编程语言下开发，主要包括TypeScript和Python，体现了当前的热门技术栈。
+### 1. 项目名称和主题
+大部分项目围绕人工智能助手和编码代理进行开发，反映出对 AI 技术集成的需求。这些项目不仅支持不同操作系统，还试图增强用户体验。
 
-### 二、项目突出特征
-1. **人工智能助理**：
-   - 前两名（moltbot和openclaw）都是关于个人人工智能助理的项目，均使用TypeScript开发，且拥有相同的描述，可能是同一项目不同分支或fork。这表明个人人工智能助理在开发者社区中引起了强烈关注，显示出人们对AI助手的需求和兴趣。
+### 2. 编程语言
+- **TypeScript** 是榜单中的热门语言，被多个项目所应用，表明 TypeScript 在构建涉及人工智能和前端应用的技术栈中的重要性。
+- **Python** 依然是 AI 和数据处理领域的主要语言，多个项目如 `learn-claude-code` 和 `wifi-densepose` 采用了 Python，显示其在机器学习和数据处理中的广泛应用。
 
-2. **多样化的应用场景**：
-   - 项目如Scrapling和Airi注重 web 爬虫和实时交互，显示出开发者在寻找不同场景下AI的应用，包括数据抓取和虚拟互动。
-   - WiFi DensePose相关项目（如RuView和wifi-densepose）展示了技术不仅限于传统计算，还延伸到了物联网（IoT）和计算机视觉的领域，探索基于WiFi信号的实时人体姿态估计。
+### 3. Trends Star 和当前 Star
+- 项目 `moltbot/moltbot` 和 `openclaw/openclaw` 拥有最高的 Trend Star 和当前 Star 量，似乎是热门的人工智能助手项目，表明其功能受欢迎且用户关注度高。
+- 其他项目如 `moeru-ai/airi` 和 `agency-agents` 虽然在 Trend Star 上较弱，但具有良好的当前 Star，说明它们在特定用户群体中得到了认可。
 
-### 三、热度趋势
-- **趋势Star和当前Star的对比**：某些项目（如agency-agents和skills）虽然当前Star较低，但其趋势Star显示出增长潜力，预示着未来可能吸引更多关注。
-- **项目的创建时间**：榜单中大部分项目创建于2025年，说明这些项目都是新兴的，有利于吸引开发者的关注并保持社区活跃。
+### 4. 热度
+热度数据显示了用户对项目的关注程度。`moltbot/moltbot` 和 `openclaw/openclaw` 两个项目的热度值极高（1562），表明他们在社区中引发了广泛讨论和兴趣。
+- 相对而言，`wifi-densepose` 和 `RuView` 也展示了较高的热度值（分别为187和186），说明基于 WiFi 的人体姿势估计技术同样受到重视。
 
-### 四、技术与语言
-- **语言频率**：TypeScript和Python在榜单上占主导地位，反映出当前开发趋势偏向于这些现代语言，因其在Web开发和数据科学方面的优势。
-- **领域重要性**：项目中涉及的技能库（如openai/skills）和编码代理（如anomalyco/opencode）进一步印证了现代开发在自动化和智能化方向的发展。
+### 5. 创建时间
+大部分项目的创建时间在2019年至2025年之间，表明该领域正处于快速发展之中。越是新近的项目，往往技术更新和社区支持更为充足，具备更强的竞争力。
 
-### 五、总结
-整个榜单展示了AI技术的多样性和迅速发展，反映出开发者对创新应用的渴望以及对技术前沿问题的探索。随着项目的增加及更新，未来的榜单可能会涌现出更多具有潜力的开源项目，值得持续关注。
+### 结论
+总体来看，本期榜单中的项目反映了当今人工智能领域的趋势：即便是同一主题的项目，它们在实现方式和用户体验上各具特色。TypeScript 和 Python 是主要开发语言，而用户对 AI 助手和智能代理的需求持续高涨，显示出这一领域的巨大潜力与前景。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |5459|270270|1833|2025-11-24|
-|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |5459|270270|1833|2025-11-24|
-|3|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|2865|9435|941|2025-10-13|
-|4|[moeru-ai/airi](https://github.com/moeru-ai/airi)|Vue|????????自我托管，你拥有Grok同伴，一个容器的灵魂外夫，网络生活，把他们带到我们的世界，希望达到神经sama的高度。支持实时语音聊天，Minecraft，Factorio播放。支持Web / macOS / Windows。|2381|29194|768|2024-12-01|
-|5|[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)|Python|????️An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!|1301|24770|415|2024-10-13|
-|6|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|1095|85782|364|2025-09-22|
-|7|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1005|72499|315|2025-10-09|
-|8|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |783|28783|266|2025-06-07|
-|9|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |782|28782|265|2025-06-07|
-|10|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|751|117222|249|2025-04-30|
-|11|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|750|117217|248|2025-04-30|
-|12|[openai/skills](https://github.com/openai/skills)|Python|Codex技能目录|786|11635|246|2025-11-25|
-|13|[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)|None|Full v0、Cursor、Manus、Augment Code、Same.dev、Lovable、Devin、Replit Agent、Windsurf Agent、VSCode Agent、Dia浏览器、Xcode、Trae AI、Cluely & Orchids.app（和其他开放源）系统预算、工具和AI模型。|673|128862|237|2025-03-05|
-|14|[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)|TypeScript|完全自主的人工智能黑客可以在您的网络应用程序中发现实际漏洞。Shannon在无提示、源代码感知的XBOW Benchmark上取得了96.15%的成功率。|651|32227|205|2025-09-27|
-|15|[TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine)|Python|一个专门的Claude Code工作空间，用于为任何企业创建长篇、SEO优化的博客内容。该系统可帮助您研究、撰写、分析和优化排名良好并为目标受众服务的内容。|614|2017|196|2025-10-29|
+|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |4603|274873|1562|2025-11-24|
+|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |4603|274873|1562|2025-11-24|
+|3|[moeru-ai/airi](https://github.com/moeru-ai/airi)|Vue|????????自我托管，你拥有Grok同伴，一个容器的灵魂外夫，网络生活，把他们带到我们的世界，希望达到神经sama的高度。支持实时语音聊天，Minecraft，Factorio播放。支持Web / macOS / Windows。|1162|30356|384|2024-12-01|
+|4|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|1124|10559|369|2025-10-13|
+|5|[shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)|Python|我们如何构建真正的人工智能代理？就像克劳德·代码一样。|924|23076|297|2025-06-29|
+|6|[openai/skills](https://github.com/openai/skills)|Python|Codex技能目录|892|12527|278|2025-11-25|
+|7|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|677|86459|226|2025-09-22|
+|8|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|663|73162|210|2025-10-09|
+|9|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |567|29349|187|2025-06-07|
+|10|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |566|29349|186|2025-06-07|
+|11|[blackboardsh/electrobun](https://github.com/blackboardsh/electrobun)|C++|使用Typescript构建超快、微型且跨平台的桌面应用程序。|599|8544|182|2024-02-28|
+|12|[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)|Python|????️An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!|575|25345|182|2024-10-13|
+|13|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|581|62979|174|2024-02-06|
+|14|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|507|117724|167|2025-04-30|
+|15|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|504|117726|166|2025-04-30|
 
 [所有日榜](./day/day.md)
 
