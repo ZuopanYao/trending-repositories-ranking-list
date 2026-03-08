@@ -1,49 +1,50 @@
 Github热门开源项目榜单
 
-## 2026年03月07日
+## 2026年03月08日
 
-本期榜单展示了与人工智能相关的项目，主要集中在不同平台、语言以及功能。以下是对每个项目的分析及总结：
+从本期榜单可以观察到以下几个趋势和特点：
 
-### 1. 项目名称和主题
-大部分项目围绕人工智能助手和编码代理进行开发，反映出对 AI 技术集成的需求。这些项目不仅支持不同操作系统，还试图增强用户体验。
+1. **强烈的AI主题**：
+   - 多个项目专注于人工智能助理，例如1号和2号项目（moltbot/moltbot 和 openclaw）。这些项目都以 TypeScript 编写，旨在提供跨平台的个人人工智能助理，显示出用户对个性化智能助手的需求不断增长。
 
-### 2. 编程语言
-- **TypeScript** 是榜单中的热门语言，被多个项目所应用，表明 TypeScript 在构建涉及人工智能和前端应用的技术栈中的重要性。
-- **Python** 依然是 AI 和数据处理领域的主要语言，多个项目如 `learn-claude-code` 和 `wifi-densepose` 采用了 Python，显示其在机器学习和数据处理中的广泛应用。
+2. **多样化的应用场景**：
+   - 除了个人人工智能助理，还有许多不同的应用场景。例如，3号项目 MiroFish 是一个群体智能引擎，可以预测任何事情，适用于更广泛的社交和团队决策场景。
+   - 6号和7号项目则是基于 WiFi 的人体姿势估计系统，展示了 AI 在健康监测和智能家居中的潜力。
 
-### 3. Trends Star 和当前 Star
-- 项目 `moltbot/moltbot` 和 `openclaw/openclaw` 拥有最高的 Trend Star 和当前 Star 量，似乎是热门的人工智能助手项目，表明其功能受欢迎且用户关注度高。
-- 其他项目如 `moeru-ai/airi` 和 `agency-agents` 虽然在 Trend Star 上较弱，但具有良好的当前 Star，说明它们在特定用户群体中得到了认可。
+3. **热度与 Star 数量的对比**：
+   - 1号和2号项目的当前 Star 数量异常高（分别为 279579），这意味着它们在开发者社区中引起了极大的关注和热烈的讨论。
+   - 其他项目虽当前 Star 数量较低（如 3 号项目有 6640），但显示出某种程度的热度，说明这些项目也有潜在的发展空间。
 
-### 4. 热度
-热度数据显示了用户对项目的关注程度。`moltbot/moltbot` 和 `openclaw/openclaw` 两个项目的热度值极高（1562），表明他们在社区中引发了广泛讨论和兴趣。
-- 相对而言，`wifi-densepose` 和 `RuView` 也展示了较高的热度值（分别为187和186），说明基于 WiFi 的人体姿势估计技术同样受到重视。
+4. **编程语言的选择**：
+   - TypeScript 和 Python 是这期榜单中最常用的编程语言，反映出这两种语言在人工智能和开发领域的受欢迎程度。TypeScript 的使用特别突出，充分说明开发者倾向于使用具有严格类型检查的语言来减少潜在的bug。
 
-### 5. 创建时间
-大部分项目的创建时间在2019年至2025年之间，表明该领域正处于快速发展之中。越是新近的项目，往往技术更新和社区支持更为充足，具备更强的竞争力。
+5. **开源项目的活跃度**：
+   - 当前热度值的存在（如 1603，394 等）反映了这些项目在短时间内的快速增长。许多项目的创建时间较近，表明新兴的技术和想法正在推陈出新，促使开发者积极探索和参与开源项目。
 
-### 结论
-总体来看，本期榜单中的项目反映了当今人工智能领域的趋势：即便是同一主题的项目，它们在实现方式和用户体验上各具特色。TypeScript 和 Python 是主要开发语言，而用户对 AI 助手和智能代理的需求持续高涨，显示出这一领域的巨大潜力与前景。
+6. **社区与协作潜力**：
+   - 9 号项目 agency-agents 强调了 AI 代理之间的协作及其多样性，表明社区在构建智能代理方面的潜力。这样的项目可以吸引不同背景的开发者参与，共同推动行业的发展。
+
+总之，本期榜单中的项目展示了人工智能领域的多样性和广泛应用潜力，特别是在个性化服务和智能技术方面。随着技术的不断进步和社区的壮大，这些项目可能会对未来的开发趋势产生重要影响。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |4603|274873|1562|2025-11-24|
-|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |4603|274873|1562|2025-11-24|
-|3|[moeru-ai/airi](https://github.com/moeru-ai/airi)|Vue|????????自我托管，你拥有Grok同伴，一个容器的灵魂外夫，网络生活，把他们带到我们的世界，希望达到神经sama的高度。支持实时语音聊天，Minecraft，Factorio播放。支持Web / macOS / Windows。|1162|30356|384|2024-12-01|
-|4|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|1124|10559|369|2025-10-13|
-|5|[shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)|Python|我们如何构建真正的人工智能代理？就像克劳德·代码一样。|924|23076|297|2025-06-29|
-|6|[openai/skills](https://github.com/openai/skills)|Python|Codex技能目录|892|12527|278|2025-11-25|
-|7|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|677|86459|226|2025-09-22|
-|8|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|663|73162|210|2025-10-09|
-|9|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |567|29349|187|2025-06-07|
-|10|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |566|29349|186|2025-06-07|
-|11|[blackboardsh/electrobun](https://github.com/blackboardsh/electrobun)|C++|使用Typescript构建超快、微型且跨平台的桌面应用程序。|599|8544|182|2024-02-28|
-|12|[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)|Python|????️An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!|575|25345|182|2024-10-13|
-|13|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|581|62979|174|2024-02-06|
-|14|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|507|117724|167|2025-04-30|
-|15|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|504|117726|166|2025-04-30|
+|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |4706|279579|1603|2025-11-24|
+|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |4706|279579|1603|2025-11-24|
+|3|[666ghj/MiroFish](https://github.com/666ghj/MiroFish)|Python|一个简单而通用的群体智能引擎，预测任何事情。简洁通用的群体智能引擎，预测万物|1222|6640|394|2025-11-26|
+|4|[moeru-ai/airi](https://github.com/moeru-ai/airi)|Vue|????????自我托管，你拥有Grok同伴，一个容器的灵魂外夫，网络生活，把他们带到我们的世界，希望达到神经sama的高度。支持实时语音聊天，Minecraft，Factorio播放。支持Web / macOS / Windows。|754|31110|246|2024-12-01|
+|5|[alibaba/page-agent](https://github.com/alibaba/page-agent)|TypeScript|JavaScript页内GUI代理。使用自然语言控制网络界面。|729|1825|229|2025-09-23|
+|6|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |691|30040|228|2025-06-07|
+|7|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |692|30041|228|2025-06-07|
+|8|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|640|87099|211|2025-09-22|
+|9|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|639|11198|208|2025-10-13|
+|10|[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)|Python|????️An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!|639|25984|204|2024-10-13|
+|11|[shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)|Python|我们如何构建真正的人工智能代理？就像克劳德·代码一样。|623|23699|200|2025-06-29|
+|12|[GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)|Jupyter Notebook|Google Cloud上Generative AI的示例代码和笔记本，Vertex AI上Gemini|623|13978|200|2023-05-05|
+|13|[gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)|JavaScript|一个轻量级且强大的元提示、上下文工程和规范驱动的开发系统，适用于Claude Code和OpenCode。|619|26217|194|2025-12-14|
+|14|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|602|73764|191|2025-10-09|
+|15|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|522|118246|173|2025-04-30|
 
 [所有日榜](./day/day.md)
 
