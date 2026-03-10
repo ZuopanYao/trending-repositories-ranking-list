@@ -1,64 +1,61 @@
 Github热门开源项目榜单
 
-## 2026年03月09日
+## 2026年03月10日
 
-在这期榜单中，我们可以看到多个与人工智能相关的项目，特别是人工智能助理以及相关技术的应用。以下是对榜单的分析：
+根据当前榜单的数据，我们可以对前15个项目进行多维度的分析，包括项目的趋势、语言分布、热度及潜在用途等。以下是对每个项目和整体趋势的详尽分析：
 
-### 1. 项目概览
+### 项目概述
 
-- **主流语言**：
-  主要项目使用TypeScript和Python，这显示了现代Web开发和数据处理领域对这两种语言的持续青睐。
+1. **人工智能助理的兴起**
+   - **项目 1 和 2** (moltbot 和 openclaw) 双双成为榜单的前两名，这强调了开发个人AI助理的趋势。这两个项目都使用 TypeScript，说明开发者倾向于使用这种语言来实现现代Web应用程序。
 
-- **项目性质**：
-  多数项目是人工智能相关的工具或框架，尤其是集中在个人助理、代理、数据处理和姿态估计等领域。
+2. **多样化的AI工具**
+   - **项目 3** (agency-agents) 提供了一个完整的人工智能代理框架，展示了AI代理的多样性和专业化对于开发者的吸引力。
+   - 项目中涉及的功能从前端开发到社区管理，符合当前AI技术在各领域快速发展的趋势。
 
-### 2. 热门项目分析
+3. **群体智能与社交网络**
+   - **项目 4** (MiroFish) 和 **项目 5** (deer-flow) 显示了群体智能和复杂任务管理的重要性。前者以预测为核心，后者则强调了研究和开发中的工具整合。
 
-- **moltbot/moltbot**和**openclaw/openclaw**：
-  这两个项目的功能几乎相同，都是个人人工智能助理，尽管它们的Star数据相同，但其中一个项目的热度显著高于另一个。这可能与社区支持、文档质量或开发活动有关。
+### 语言分布
 
-- **agency-agents**：
-  这个项目展示了一种多代理系统，填补了AI领域的应用，从而广受欢迎。其个人化和多样化的功能可能是其热度较高的原因之一。
+- **TypeScript 和 Python的占比**
+  - TypeScript 和 Python 是最流行的两种编程语言，分别对应 7 个和 6 个项目，显示它们在AI开发领域的主导地位。尤其是在开发复杂的应用程序和工具时，这两种语言因其灵活性和强大的库支持而受到青睐。
 
-- **群体智能引擎（MiroFish）**：
-  该项目意在通过群体智能预测各种事务，具有较宽的应用场景，突出其通用性。
+### 热度与星级
 
-- **基于WiFi的姿势估计（wifi-densepose和RuView）**：
-  这两个项目展示了先进技术应用于人体姿势识别和监测，尤其是在无需视频输入的情况下进行监测，具有潜在的广泛应用，尤其是在健康监测和智能家居等领域。
+- **热度分析**
+  - 熱度的高低与项目的关注度和使用率直接相关。例如，moltbot 和 openclaw 的当前Star均高达297,452，显示出强大的社区支持与关注。而项目如 alibaba/page-agent 和 pbakaus/impeccable 虽然较后但也显示出一定的热度，表明这些工具在特定场景中的应用潜力。
 
-### 3. 新兴趋势
+- **趋势的变化**
+  - 由于这些项目的创建时间分散在不同年份，可以看出AI工具的开发热潮是持续增长的，尤其是近两年新项目快速涌现，反映出AI技术的快速发展和实际应用需求的增加。
 
-- **开源编码代理**：
-  在榜单中的开源编码项目（如opencode）表明，开源社区正在探索将AI技术应用于编程和自动化开发的可能性。这种技术的兴起可能改变软件开发的传统方式。
+### 未来展望
 
-- **多功能AI工具**：
-  多个项目展示了集成多种功能的AI工具（例如，deer-flow），显示出对复杂任务处理能力的提高和灵活性的增加。
+- 在AI领域，个人助理的需求将持续增长，同时也会有更多细分领域的AI工具涌现，例如社交媒体管理、实时数据处理等。
+- 随着技术的演进，开发者可能会更倾向于使用集成的工具来实现复杂任务，提高工作效率和精确性。
+- 开源项目的增多也预计将促使更多开发者参与到AI工具的建设和研究中，从而推动技术的进一步发展。
 
-### 4. 未来展望
-
-随着人工智能技术的发展，这些项目有潜力推动相关技术的广泛应用。项目的热度与其实际应用场景的有效性、易用性和社区支持密切相关。未来，我们可能会看到这些项目在实际应用中的不断迭代和优化，尤其是在个人助理和健康监测领域。创新的编码代理项目也可能会挑战传统开发方式，提高开发效率。
-
-总体而言，这些项目展示了当今技术界在人工智能领域的蓬勃发展，尤其是在具备跨平台和多功能的复杂任务处理能力的工具上。
+综上所述，本榜单的项目分析反映了当前AI领域的创新趋势和开发者的明显需求，期待未来在这一领域的更多突破和发展。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |9389|288968|3127|2025-11-24|
-|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |9389|288968|3127|2025-11-24|
-|3|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|5336|16534|1801|2025-10-13|
-|4|[666ghj/MiroFish](https://github.com/666ghj/MiroFish)|Python|一个简单而通用的群体智能引擎，预测任何事情。简洁通用的群体智能引擎，预测万物|3314|9954|1061|2025-11-26|
-|5|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |2776|32816|947|2025-06-07|
-|6|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |2776|32817|947|2025-06-07|
-|7|[pbakaus/impeccable](https://github.com/pbakaus/impeccable)|JavaScript|使您的人工智能更好地进行设计的设计语言。|1244|2706|382|2025-11-16|
-|8|[GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)|Jupyter Notebook|Google Cloud上Generative AI的示例代码和笔记本，Vertex AI上Gemini|1153|15131|366|2023-05-05|
-|9|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1111|74875|356|2025-10-09|
-|10|[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)|Python|????️An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!|1048|27032|334|2024-10-13|
-|11|[bytedance/deer-flow](https://github.com/bytedance/deer-flow)|Python|一个开源SuperAgent工具，用于研究、编码和创建。在沙箱、记忆、工具、技能和子代理的帮助下，它可以处理可能需要几分钟到几个小时的不同级别的任务。|1017|26950|333|2025-05-07|
-|12|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|978|88077|314|2025-09-22|
-|13|[shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)|Python|我们如何构建真正的人工智能代理？就像克劳德·代码一样。|754|24453|240|2025-06-29|
-|14|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|636|118884|206|2025-04-30|
-|15|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|632|118878|205|2025-04-30|
+|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |8484|297452|2837|2025-11-24|
+|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |8483|297451|2837|2025-11-24|
+|3|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|6687|23221|2266|2025-10-13|
+|4|[666ghj/MiroFish](https://github.com/666ghj/MiroFish)|Python|一个简单而通用的群体智能引擎，预测任何事情。简洁通用的群体智能引擎，预测万物|3649|13603|1175|2025-11-26|
+|5|[bytedance/deer-flow](https://github.com/bytedance/deer-flow)|Python|一个开源SuperAgent工具，用于研究、编码和创建。在沙箱、记忆、工具、技能和子代理的帮助下，它可以处理可能需要几分钟到几个小时的不同级别的任务。|1279|28229|420|2025-05-07|
+|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1309|76184|415|2025-10-09|
+|7|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |1202|34018|404|2025-06-07|
+|8|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |1201|34018|403|2025-06-07|
+|9|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|955|89032|313|2025-09-22|
+|10|[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)|Python|????️An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!|949|27981|303|2024-10-13|
+|11|[alibaba/page-agent](https://github.com/alibaba/page-agent)|TypeScript|JavaScript页内GUI代理。使用自然语言控制网络界面。|913|3257|288|2025-09-23|
+|12|[pbakaus/impeccable](https://github.com/pbakaus/impeccable)|JavaScript|使您的人工智能更好地进行设计的设计语言。|809|3515|248|2025-11-16|
+|13|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|755|3450|240|2025-07-22|
+|14|[alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)|Python|Claude Code和Claude AI在现实世界中使用的技能集。包括Claude Code Subagents、Claude Code Commnads|749|3865|234|2025-10-19|
+|15|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|699|119577|230|2025-04-30|
 
 [所有日榜](./day/day.md)
 
