@@ -1,62 +1,51 @@
 Github热门开源项目榜单
 
-## 2026年03月11日
+## 2026年03月12日
 
-本期榜单中列出了15个热门的项目，主要集中在人工智能（AI）助理、代理、和工具的开发上。以下是对这些项目的分析：
+针对本期榜单的分析，可以从以下几个方面进行讨论：
 
-### 项目概述
+### 1. **项目类别与技术栈**
+较多项目采用了Python和TypeScript作为开发语言：
+- **Python**：Python在人工智能和机器学习领域的广泛应用使得相关项目（例如`BitNet`、`MiroFish`、`AstrBot`等）具有很高的关注度和集成能力。
+- **TypeScript**：TypeScript的使用在构建大型应用时提供了更好的类型安全，适合于开发复杂的Web应用。
 
-1. **人工智能助理**: 
-   - 前两位项目（moltbot和openclaw）均提供个人人工智能助理的功能，基于TypeScript开发，显示出用户对个人化AI工具的需求。
-   - 这类项目在功能上相似，但可能在实现细节、用户体验或功能扩展上有所不同。
+### 2. **项目性质及目标**
+大多数项目均与人工智能助理或智能代理相关，显示了此类工具在开发者和用户中的广泛需求。例如，前两名(`moltbot`和`openclaw`)均为个人AI助理项目，强调了个性化与跨平台的能力，有助于丰富用户的数字体验。
 
-2. **代理和智能系统**:
-   - 第三位项目（agency-agents）介绍了一种完整的AI代理系统，涵盖了多种功能和各种角色，显示出AI代理在多个领域的应用潜力。
-   - 第六位项目（superpowers）和第九位项目（deer-flow）都是对代理系统的扩展，提供能力更为复杂和多样的功能。
+### 3. **流行趋势**
+- **热度和Star数**：`moltbot`与`openclaw`均以相同的当前Star（307178）位列榜首，表明它们受到了极大的关注。此外，`agency-agents`的Star数虽然相对较低（32407），但因具有独特的市场定位也体现了良好的潜力。
+- **趋势分析**：许多项目在快速增长的同时，也强调了可扩展性和跨平台兼容性，这反映出开发者对现代应用的期望正在变化。
 
-3. **预测和智能分析**:
-   - 第四位项目（MiroFish）提供了一种群体智能的预测引擎，应用于多种预测任务，在群体智能中的灵活性受到关注。
-   
-4. **生活赋能技术**:
-   - 第十和第十一位项目（wifi-densepose 和 RuView）展示了基于WiFi的密集人体姿势估计技术，这一技术具有很高的实用性，适用于监测和健康检测等多个领域。
+### 4. **项目的潜在应用**
+- **个人助理**：如`moltbot`、`openclaw`等能够提供个性化服务的AI助手，有潜力在生活和工作中提升效率。
+- **API与集成**：`public-apis`提供了丰富的API集合，能够被其他项目广泛利用，指出未来多项目协作的趋势。
 
-### 热度与趋势
+### 5. **市场机会**
+- **新兴技术应用场景**：如`wifi-densepose`利用Wi-Fi信号实现人体姿势估计，展示了在新技术应用方面的广泛潜力。
+- **智能代理市场**：通过持续的开发和优化，AI代理的市场需求将持续上升，特别是在企业和个人生产力增强方面。
 
-- **Star数量与趋势**: 
-   - 目前star数量比较高的项目有moltbot（303310）、openclaw（303311）和msitarzewski的agency-agents（28890），说明这些项目受到了广泛关注和使用。
-   - 从趋势star来看，moltbot和openclaw都接近6000，显示出强势的增长趋势，这可能与当前AI技术的热度直接相关。
-
-- **语言分布**:
-   - TypeScript和Python是目前主流的开发语言，前几名项目均使用这两种语言，展示了这两种语言在AI领域的受欢迎程度。
-
-### 时间因素
-
-- 多个项目创建时间相对较新，尤其是2025年的项目，显示出新技术在快速发展的态势。
-- 项目的更新活跃度（通过当前star和热度）表明开发者在持续关注并致力于提升项目功能。
-
-### 总结
-
-本期榜单显示出人工智能特别是个性化代理和群体智能预测工具越来越受到开发者和用户的关注。成功的项目不仅在于技术的实现，还在于如何能提供更好的用户体验以及如何在激烈的市场中脱颖而出。未来，随着这些技术的发展和应用场景的拓展，我们可以期待在AI领域涌现出更多创新的解决方案。
+### 6. **总结**
+本期榜单反映出AI和智能代理项目的迅猛发展，凸显了开发者对用户友好、功能强大及跨平台效应的追求。随着技术的不断迭代，预计将会有更多突破性的产品和创新出现，值得持续关注。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |5858|303310|1987|2025-11-24|
-|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |5860|303311|1987|2025-11-24|
-|3|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|5669|28890|1902|2025-10-13|
-|4|[666ghj/MiroFish](https://github.com/666ghj/MiroFish)|Python|一个简单而通用的群体智能引擎，预测任何事情。简洁通用的群体智能引擎，预测万物|2768|16371|899|2025-11-26|
-|5|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|1477|90509|481|2025-09-22|
-|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1467|77651|461|2025-10-09|
-|7|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1407|4857|449|2025-07-22|
-|8|[alibaba/page-agent](https://github.com/alibaba/page-agent)|TypeScript|JavaScript页内GUI代理。使用自然语言控制网络界面。|1219|4476|385|2025-09-23|
-|9|[bytedance/deer-flow](https://github.com/bytedance/deer-flow)|Python|一个开源SuperAgent工具，用于研究、编码和创建。在沙箱、记忆、工具、技能和子代理的帮助下，它可以处理可能需要几分钟到几个小时的不同级别的任务。|969|29198|318|2025-05-07|
-|10|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |828|34846|279|2025-06-07|
-|11|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |828|34846|279|2025-06-07|
-|12|[microsoft/BitNet](https://github.com/microsoft/BitNet)|Python|1位LLM的官方推理框架|730|29458|239|2024-08-05|
-|13|[virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)|Python|人工智能对冲基金团队|643|48002|216|2024-11-29|
-|14|[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)|TypeScript|测试您的提示、代理和RAG。AI Red对LLM进行分组、penttesting和漏洞扫描。比较GPT、Claude、Gemini、Lama等的性能。具有命令行和CI/CD集成的简单声明性格式。|664|12399|213|2023-04-28|
-|15|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|625|120202|208|2025-04-30|
+|1|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |3868|307178|1337|2025-11-24|
+|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |3867|307178|1337|2025-11-24|
+|3|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|3517|32407|1173|2025-10-13|
+|4|[microsoft/BitNet](https://github.com/microsoft/BitNet)|Python|1位LLM的官方推理框架|2129|31587|689|2024-08-05|
+|5|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1779|79430|564|2025-10-09|
+|6|[666ghj/MiroFish](https://github.com/666ghj/MiroFish)|Python|一个简单而通用的群体智能引擎，预测任何事情。简洁通用的群体智能引擎，预测万物|1667|18038|539|2025-11-26|
+|7|[AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)|Python|集成了大量IM平台，LLM，插件和AI功能的实用IM聊天机器人基础设施，可以成为您的OpenClaw替代品。✨|1755|22667|538|2022-12-08|
+|8|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|1508|408234|487|2016-03-20|
+|9|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|1144|91653|379|2025-09-22|
+|10|[alibaba/page-agent](https://github.com/alibaba/page-agent)|TypeScript|JavaScript页内GUI代理。使用自然语言控制网络界面。|1168|5644|368|2025-09-23|
+|11|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1061|5918|338|2025-07-22|
+|12|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |728|35574|243|2025-06-07|
+|13|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |728|35574|243|2025-06-07|
+|14|[koala73/worldmonitor](https://github.com/koala73/worldmonitor)|TypeScript|实时全球情报仪表板-统一的态势感知界面中的人工智能支持的新闻聚合、地缘政治监控和基础设施跟踪|685|36456|229|2026-01-08|
+|15|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|626|120830|210|2025-04-30|
 
 [所有日榜](./day/day.md)
 
