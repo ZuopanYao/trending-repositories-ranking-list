@@ -1,64 +1,62 @@
 Github热门开源项目榜单
 
-## 2026年03月13日
+## 2026年03月14日
 
-根据提供的榜单数据，我们可以进行如下分析：
+本期榜单展示了一系列人工智能相关项目，以下是对这些项目的分析：
 
-### 总体趋势
+### 项目概述
 
-1. **领域聚焦**：
-   - 该榜单主要集中在人工智能（AI）领域，尤其是智能代理、个人人工智能助理和预测模型等。这显示出对AI技术的广泛关注和需求增长。
+1. **多样性与技术栈**：
+   - 榜单中的项目涵盖多种编程语言，如TypeScript、Python、Zig等，显示出对不同技术栈的广泛应用。
+   - 项目主题主要围绕人工智能助理、代理系统、群体智能以及相关开发工具，反映了当前市场对智能代理与自动化解决方案的需求。
 
-2. **语言选择**：
-   - 榜单中的项目使用多种编程语言，包括Python、TypeScript和JavaScript等。其中，Python和TypeScript占据了较大的比例，反映了这两种语言在AI和机器学习领域的广泛应用。
+2. **趋势与受欢迎程度**：
+   - 排名第一的项目[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)以其独特的概念和方式吸引了大量关注，当前拥有42,787个Star，显示出强烈的市场兴趣。
+   - 其次的项目（如[openclaw/openclaw](https://github.com/openclaw/openclaw)和[moltbot/moltbot](https://github.com/moltbot/moltbot)）功能相似，如个人人工智能助理，竞争激烈，分别拥拥有31万多个Star。
 
-3. **社区活跃度**：
-   - 当前Star数和热度指标显示出不同项目在GitHub社区中的受欢迎程度。例如，`moltbot` 和 `openclaw`等项目在热度和Star数上都表现突出，表明它们具有较高的用户参与度和潜在影响力。
+### 热度与创建时间
 
-### 关键项目分析
+- **创建时间**：
+  - 项目创建时间跨度从2016年到2026年，显示出人工智能领域的快速发展。很多新项目在2025年和2026年启动，可能是对市场需求的及时响应。
+  
+- **热度分析**：
+  - 热度（即项目关注度的变化）与Star数量密切相关，显示出项目受欢迎程度和社区参与度。
 
-1. **msitarzewski/agency-agents**:
-   - 当前Star数为38,797，热度高达2,091，显然是榜单中最受欢迎的项目。该项目虽然没有指定语言，但其描述中提到了多样化的代理应用，可能吸引了开发者的注意。
+### 项目特性
 
-2. **moltbot 和 openclaw**:
-   - 这两个项目都是关于个人人工智能助理，并且他们的Star数几乎相同且极高（分别为310,268），显示出这一领域的高度吸引力。它们的设计旨在跨平台使用，符合现代用户对灵活性的需求。
+1. **创新性**：
+   - 许多项目都有独特的创新点，例如[lightpanda-io/browser](https://github.com/lightpanda-io/browser)的头less浏览器以及[volcengine/OpenViking](https://github.com/volcengine/OpenViking)的开源上下文数据库，代表了不同场景下的需求和解决策略。
 
-3. **群体智能引擎 - MiroFish**:
-   - 作为一个通用的预测引擎，MiroFish以其简洁性和广泛适用性受到关注。该项目的多功能性可能使其在实际应用中获得更多关注。
+2. **功能整合**：
+   - 项目如[AstrBot](https://github.com/AstrBotDevs/AstrBot)展示了对多平台的支持，显示出整合多种服务和功能的趋势，满足更复杂的应用需求。
 
-4. **设计语言 - impeccable**:
-   - 这一项目旨在优化AI设计，虽然当前Star数为7,008，热度相对较低，但随着AI技术的演进，它的应用场景或许会得到更多认同。
+### 结论与展望
 
-5. **API集 - public-apis**:
-   - 此项目是一个免费的API集合，虽然其创建时间较早（2016年），但其持续的受欢迎程度（409,064 Star）表明了对公共资源的需求依然存在。
+- 人工智能领域的竞争正变得日益激烈，各个项目在功能和影响力上都有所突破，尤其是在智能代理和自动化工具方面。
+- 未来，项目的协作与整合将变得更加重要，开发者可以从这些项目中获取灵感和技术，以应对不断变化的市场需求。 
+- 此外，随着用户对人工智能解决方案认知的提高，未来将有更多的创新型项目进入市场，提供更丰富的功能与服务。 
 
-### 未来展望
-
-- **持续创新**：AI领域在不断发展，新的项目和工具层出不穷，开发者在该领域的追求和探索将持续推动技术的进步。
-- **跨平台整合**：随着需求的多样化，支持多种平台和系统的工具将变得更加重要，类似`moltbot`和`openclaw`这样的项目可能会继续受到关注。
-- **更好的用户体验**：希望未来的项目能更多地关注用户界面的优化和设计，以提高用户体验。
-
-综上所述，本期榜单在展示人工智能行业活跃度的同时，也反映了当前开发者对高效、灵活和多功能工具的持续需求。
+通过对本期榜单的分析，可以看出，人工智能领域仍在快速进化之中，吸引了众多开发者的关注和参与。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|6390|38797|2091|2025-10-13|
-|2|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |3090|310268|1092|2025-11-24|
-|3|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |3090|310268|1092|2025-11-24|
-|4|[666ghj/MiroFish](https://github.com/666ghj/MiroFish)|Python|一个简单而通用的群体智能引擎，预测任何事情。简洁通用的群体智能引擎，预测万物|3113|21151|1016|2025-11-26|
-|5|[pbakaus/impeccable](https://github.com/pbakaus/impeccable)|JavaScript|使您的人工智能更好地进行设计的设计语言。|2598|7008|805|2025-11-16|
-|6|[volcengine/OpenViking](https://github.com/volcengine/OpenViking)|Python|OpenViking是一个专门为人工智能代理（例如openclaw）设计的开源上下文数据库。OpenViking通过文件系统范式统一了代理所需的上下文（内存、资源和技能）管理，从而实现分层上下文交付和自我进化。|2426|8414|754|2026-01-05|
-|7|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|2038|81468|648|2025-10-09|
-|8|[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)|TypeScript|测试您的提示、代理和RAG。AI Red对LLM进行分组、penttesting和漏洞扫描。比较GPT、Claude、Gemini、Lama等的性能。具有命令行和CI/CD集成的简单声明性格式。|1996|14843|627|2023-04-28|
-|9|[microsoft/BitNet](https://github.com/microsoft/BitNet)|Python|1位LLM的官方推理框架|1941|33528|616|2024-08-05|
-|10|[alibaba/page-agent](https://github.com/alibaba/page-agent)|TypeScript|JavaScript页内GUI代理。使用自然语言控制网络界面。|1541|7185|487|2025-09-23|
-|11|[p-e-w/heretic](https://github.com/p-e-w/heretic)|Python|语言模型的全自动审查删除|1377|12689|440|2025-09-21|
-|12|[karpathy/nanochat](https://github.com/karpathy/nanochat)|Python|100美元可以买到的最好ChatGPT。|1098|47861|351|2025-10-13|
-|13|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|1015|92668|328|2025-09-22|
-|14|[AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)|Python|集成了大量IM平台，LLM，插件和AI功能的实用IM聊天机器人基础设施，可以成为您的OpenClaw替代品。✨|945|23612|293|2022-12-08|
-|15|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|830|409064|276|2016-03-20|
+|1|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|3990|42787|1328|2025-10-13|
+|2|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2285|312553|810|2025-11-24|
+|3|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2284|312552|809|2025-11-24|
+|4|[666ghj/MiroFish](https://github.com/666ghj/MiroFish)|Python|一个简单而通用的群体智能引擎，预测任何事情。简洁通用的群体智能引擎，预测万物|2004|23155|665|2025-11-26|
+|5|[lightpanda-io/browser](https://github.com/lightpanda-io/browser)|Zig|Lightpanda：专为人工智能和自动化设计的无头浏览器|1806|16685|562|2023-02-07|
+|6|[volcengine/OpenViking](https://github.com/volcengine/OpenViking)|Python|OpenViking是一个专门为人工智能代理（例如openclaw）设计的开源上下文数据库。OpenViking通过文件系统范式统一了代理所需的上下文（内存、资源和技能）管理，从而实现分层上下文交付和自我进化。|1525|9939|480|2026-01-05|
+|7|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1318|82786|426|2025-10-09|
+|8|[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)|HTML|练习让克劳德变得完美|1293|15804|411|2025-10-31|
+|9|[alibaba/page-agent](https://github.com/alibaba/page-agent)|TypeScript|JavaScript页内GUI代理。使用自然语言控制网络界面。|1039|8224|331|2025-09-23|
+|10|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|1010|410074|324|2016-03-20|
+|11|[microsoft/BitNet](https://github.com/microsoft/BitNet)|Python|1位LLM的官方推理框架|982|34510|310|2024-08-05|
+|12|[pbakaus/impeccable](https://github.com/pbakaus/impeccable)|JavaScript|使您的人工智能更好地进行设计的设计语言。|922|7930|283|2025-11-16|
+|13|[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)|TypeScript|测试您的提示、代理和RAG。AI Red对LLM进行分组、penttesting和漏洞扫描。比较GPT、Claude、Gemini、Lama等的性能。具有命令行和CI/CD集成的简单声明性格式。|902|15745|279|2023-04-28|
+|14|[shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)|Python|我们如何构建真正的人工智能代理？就像克劳德·代码一样。|842|26786|276|2025-06-29|
+|15|[AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)|Python|集成了大量IM平台，LLM，插件和AI功能的实用IM聊天机器人基础设施，可以成为您的OpenClaw替代品。✨|819|24431|256|2022-12-08|
 
 [所有日榜](./day/day.md)
 
