@@ -1,51 +1,54 @@
 Github热门开源项目榜单
 
-## 2026年03月15日
+## 2026年03月16日
 
-本期榜单展示了多个有趣的开源项目，主要集中在人工智能和自动化领域。通过分析榜单中的项目，我们可以得到以下几点观察：
+以下是对本期榜单的分析：
 
-### 1. 主流编程语言
-- **Python**和**TypeScript**在榜单中占据了很大一部分，显示出这两种语言在开源人工智能项目中的普遍受欢迎程度。
-- 还有一些项目使用了Shell和JavaScript等语言，表明开发者在选择语言时更倾向于使用那些使命明确、生态丰富的选择。
+### 总体趋势
+本期榜单中，许多项目与人工智能（AI）和自动化相关，体现了当前技术发展的趋势。在AI的快速发展下，许多开发者试图创造智能化的解决方案，这些产品不仅提高了效率，还能更好地应对复杂任务。
 
-### 2. 项目主题与功能
-- 许多项目都围绕**人工智能助理**和**自动化工具**展开，例如`moltbot`和`openclaw`，表明开发者对构建个性化AI助手的兴趣。
-- 项目如`MiroFish`和`agency-agents`展示了群体智能的应用，预测各种情况，表明群体智能的潜力正在吸引关注。
+### 项目分析
+1. **热门项目**
+   - **MiroFish**: 这款基于Python的群体智能引擎，非常受欢迎，当前Star数达到29,317，热度也相对较高。这表明它在预测和决策支持领域有很大的应用潜力。
+   - **agency-agents**: 这是一个全面的AI机构项目，具有48597的Star数，说明在社区中广受关注。它强调代理系统的多样性和专业性，能吸引广泛的用户。
 
-### 3. 人气与趋势
-- `MiroFish`和`agency-agents`的Star数目很高，分别为26184和45710，说明这些项目受到了社区的高度认可。
-- 不同于其他项目，`superpowers`以其核心技能库的特性吸引了大量用户，虽然其Star数略低于前面两者，但其发展速度也不可忽视。
+2. **技术语言**
+   - **Python** 和 **TypeScript** 是榜单中最常用的语言，反映出这两种语言在AI和Web开发领域的受欢迎程度。
+   - 其他语言如Shell和Zig相对较少见，其中Zig可能为开发特定低级操作提供了新思路。
 
-### 4. 创建时间与项目发展
-- 从创建时间看，很多项目在2025年内创建，表明人工智能和自动化领域正处于快速发展的阶段，开发者们正积极探索新的解决方案和应用场景。
-- 例如，`OpenViking`创建于2026年，显示了对上下文数据库管理的持续关注。
+3. **最新项目**
+   - **OpenViking**、**Moltbot** 等项目是比较新的，上线时间在2026年，显示出社区对AI代理和上下文管理的持续兴趣。
+   - **GitNexus** 和 **Deepagents** 虽然创建时间稍早，但其功能集中在知识图和复杂任务处理上，显示出更高的技术深度。
 
-### 5. 热度与互动
-- 热度分数反映了项目的活跃度和社区参与度。例如，`OpenViking`和`heretic`的热度数较高，说明这些项目在GitHub上引发了较多的互动。
-- 项目如`GitNexus`和`worldmonitor`则体现了获取实时信息、构建知识图的趋势。
+4. **项目特性**
+   - 很多项目提供个人AI助手的功能，例如**openclaw**和**moltbot**，意味着用户对个性化智能助手的需求在上升。
+   - 一些项目如**build-your-own-x**则侧重于教育和技能提升，这表明开发者在不断探索如何提高自己的编程能力。
 
-### 结论
-总结来看，本期榜单中的项目反映了开发者对人工智能应用的浓厚兴趣。随着技术的进步，尤其是在开源社区中，人工智能的多种可能性正被不断探索和开发。而Python和TypeScript因其易用性和强大的生态系统，将在未来的项目中继续发挥重要作用。项目的高度互动性和社区支持也将促进这一领域的迅速发展。
+### 未来展望
+- 在AI和自动化的背景下，随着社区对个性化、智能解决方案的需求增加，相关项目的流行程度可能会继续上升。
+- 开发者可能会逐渐增加对易用性和直观性的关注，推动项目朝着更友好的用户界面和用户体验方向发展。
+
+综上所述，本期榜单突出了人工智能领域的创新，展示了开发者追求技术深度与功能广度的双重趋势，值得持续关注。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[666ghj/MiroFish](https://github.com/666ghj/MiroFish)|Python|一个简单而通用的群体智能引擎，预测任何事情。简洁通用的群体智能引擎，预测万物|3029|26184|1027|2025-11-26|
-|2|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|2923|45710|963|2025-10-13|
-|3|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|2322|85108|744|2025-10-09|
-|4|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |1977|314529|706|2025-11-24|
-|5|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |1976|314529|706|2025-11-24|
-|6|[volcengine/OpenViking](https://github.com/volcengine/OpenViking)|Python|OpenViking是一个专门为人工智能代理（例如openclaw）设计的开源上下文数据库。OpenViking通过文件系统范式统一了代理所需的上下文（内存、资源和技能）管理，从而实现分层上下文交付和自我进化。|1835|11774|579|2026-01-05|
-|7|[lightpanda-io/browser](https://github.com/lightpanda-io/browser)|Zig|Lightpanda：专为人工智能和自动化设计的无头浏览器|1251|17936|389|2023-02-07|
-|8|[p-e-w/heretic](https://github.com/p-e-w/heretic)|Python|语言模型的全自动审查删除|1072|14418|350|2025-09-21|
-|9|[shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)|Python|我们如何构建真正的人工智能代理？就像克劳德·代码一样。|880|27666|289|2025-06-29|
-|10|[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)|HTML|练习让克劳德变得完美|841|16645|264|2025-10-31|
-|11|[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)|TypeScript|GitNexus：零服务器代码智能引擎-       GitNexus是一个客户端知识图创建者，完全在您的浏览器中运行。放入GitHub repo或Zip文件，并通过内置的Shape RAG代理获取交互式知识图。非常适合代码探索|749|13565|241|2025-08-02|
-|12|[koala73/worldmonitor](https://github.com/koala73/worldmonitor)|TypeScript|实时全球情报仪表板-统一的态势感知界面中的人工智能支持的新闻聚合、地缘政治监控和基础设施跟踪|708|38420|232|2026-01-08|
-|13|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|679|94007|220|2025-09-22|
-|14|[pbakaus/impeccable](https://github.com/pbakaus/impeccable)|JavaScript|使您的人工智能更好地进行设计的设计语言。|630|8560|196|2025-11-16|
-|15|[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)|Shell|官方、人类管理的高质量Claude Code插件目录。|600|11695|187|2025-11-20|
+|1|[666ghj/MiroFish](https://github.com/666ghj/MiroFish)|Python|一个简单而通用的群体智能引擎，预测任何事情。简洁通用的群体智能引擎，预测万物|3133|29317|1039|2025-11-26|
+|2|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|2887|48597|959|2025-10-13|
+|3|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|2870|87978|918|2025-10-09|
+|4|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2417|316946|855|2025-11-24|
+|5|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2416|316945|854|2025-11-24|
+|6|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|2082|477422|690|2018-05-09|
+|7|[lightpanda-io/browser](https://github.com/lightpanda-io/browser)|Zig|Lightpanda：专为人工智能和自动化设计的无头浏览器|2020|19956|626|2023-02-07|
+|8|[volcengine/OpenViking](https://github.com/volcengine/OpenViking)|Python|OpenViking是一个专门为人工智能代理（例如openclaw）设计的开源上下文数据库。OpenViking通过文件系统范式统一了代理所需的上下文（内存、资源和技能）管理，从而实现分层上下文交付和自我进化。|1981|13755|623|2026-01-05|
+|9|[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)|TypeScript|GitNexus：零服务器代码智能引擎-       GitNexus是一个客户端知识图创建者，完全在您的浏览器中运行。放入GitHub repo或Zip文件，并通过内置的Shape RAG代理获取交互式知识图。非常适合代码探索|1725|15290|555|2025-08-02|
+|10|[shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)|Python|我们如何构建真正的人工智能代理？就像克劳德·代码一样。|1477|29143|470|2025-06-29|
+|11|[langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)|Python|Deepagents是一个基于langchain和langgraph的代理工具。深度代理配备了规划工具、文件系统后台以及产生子代理的能力，使它们能够处理复杂的代理任务。|1230|12445|405|2025-07-27|
+|12|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|1253|36394|405|2025-08-31|
+|13|[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)|HTML|练习让克劳德变得完美|1027|17672|323|2025-10-31|
+|14|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|875|94882|288|2025-09-22|
+|15|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|752|123298|248|2025-04-30|
 
 [所有日榜](./day/day.md)
 
