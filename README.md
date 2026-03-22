@@ -1,50 +1,50 @@
 Github热门开源项目榜单
 
-## 2026年03月21日
+## 2026年03月22日
 
-根据本期榜单的数据分析，可以提取出以下几个关键点：
+根据本期榜单的信息，我们可以对各个项目进行以下几个方面的分析：
 
-### 1. 项目种类与趋势
-- **语言分布**: 此榜单中的项目主要采用 JavaScript、TypeScript 和 Python 等语言，显示了这些编程语言在人工智能及相关技术领域的广泛应用。
-- **项目类型**: 许多项目都集中在人工智能助手、代理和自动化工具上，表明开发者对这类应用需求的高度关注。例如，`moltbot` 和 `openclaw` 都是针对个人助手的项目。
+### 1. 项目类型分析
+- **编程语言**: 榜单中的项目使用了多种编程语言，其中Python和TypeScript的项目数量较多，这可能反映出这两种语言在当前人工智能和开发领域的受欢迎程度。
+- **项目类型**: 大部分项目集中在人工智能助手、交易代理和自动化过程等领域，显示出对智能化应用的持续关注。
 
-### 2. Star 数量分析
-- **高 Star 项目**: `affaan-m/everything-claude-code` 是榜单中当前 Star 数量最多的项目（93172），显示出其在开发者社区中的受欢迎程度。这类项目通常具备强大的功能或易用性。
-- **新兴项目**: 虽然有些项目的创建时间较新（如 `project-nomad` 和 `TradingAgents`），但它们的 Star 数量增长趋势迅猛，表明其潜在的需求和市场价值。
+### 2. 热度与Star数
+- **热度**: 从“热度”字段来看，项目的活跃度和社区的关注度可以反映出项目的受欢迎程度。例如，`affaan-m/everything-claude-code` 的热度最高（1202），同时Star数也非常高（96851），这表明该项目在开发者中非常受欢迎。
+- **Star数量**: `public-apis/public-apis` 拥有最高的Star（413936），但其热度相对较低（329），这可能表明其作为一个API集合项目比较成熟，受众范围广，但活跃度可能有所下降。
 
-### 3. 热度与趋势分析
-- **热度指标**: 热度值（如 `affaan-m/everything-claude-code` 的 1093）是衡量项目吸引力的一个重要指标，直接反映了社区的互动程度和项目的活跃性。
-- **持续增长**: 新生项目如 `TradingAgents`、`MiroFish` 和 `get-shit-done` 等显示出良好的增长趋势，可能成为未来的热门项目。
+### 3. 项目趋势与创建时间
+- **创建时间**: 榜单中大部分项目是在2025年和2026年创建，显示出这些项目是针对最新技术趋势开发的，反映出当前开发者在寻找和利用新兴技术上的积极态度。
+- **趋势Star**: `affaan-m/everything-claude-code` 在趋势Star中领先（3679），说明其在短期内的增长受到了认可。
 
-### 4. 应用场景
-- **跨平台与兼容性**: 多个项目（如 `moltbot` 和 `openclaw`）强调了跨平台的兼容性，显示了对用户使用场景的考虑。
-- **实用性**: 项目如 `opencode` 和 `page-agent` 展现了试图通过自然语言处理提升用户操作体验的趋势，表明了将 AI 融入日常工具中的发展方向。
+### 4. 特定项目特点
+- **功能多样性**: 项目如`bytedance/deer-flow` 和 `Crosstalk-Solutions/project-nomad` 具有强大的功能和工具集成，能处理复杂任务，这使得它们在开发者中具有吸引力。
+- **技术应用**: `vxcontrol/pentagi` 的设计目标是实现完全自主的AI Agents系统，展示了在安全和渗透测试领域的创新思路。
 
-### 5. 项目生命周期
-- **创建时间分布**: 从创建时间来看，一些项目都是在近期发布的，表明这个领域的新技术和工具正在快速迭代并吸引了大量开发者的注意。
+### 5. 社区参与度
+- 除了Star数和热度，项目的活跃度也可以通过issues、pull requests以及社区反馈来分析。大部分热门项目都有较高的参与和活跃度，表现出开发者的关注与支持。
 
 ### 总结
-本期榜单集中展示了人工智能领域的多个创新项目，涵盖从个人助手到金融交易框架的多种应用。开发者对于跨平台的支持、易用性和自动化能力的需求显著。随着技术的不断进步，未来这些项目有望引领新的技术潮流和商业机会。
+整体来看，本期榜单反映了开发者对智能化应用、自动化操作的持续兴趣。随着技术的不断发展，相关工具和框架的更新迭代也将继续推动社区的活跃和项目的热度。开发者在选择项目时更多地关注最新的功能和趋势，这将对接下来的技术发展产生深远的影响。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|3297|93172|1093|2026-01-18|
-|2|[Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)|TypeScript|Project NOMA D是一台独立的离线生存计算机，内置了关键工具、知识和人工智能，可随时随地让您了解情况并获得授权。|1846|5879|589|2025-06-24|
-|3|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |1554|328265|567|2025-11-24|
-|4|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |1554|328265|567|2025-11-24|
-|5|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1745|102777|563|2025-10-09|
-|6|[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)|Python|TradingAgents：多代理LLM金融交易框架|1507|35257|498|2024-12-28|
-|7|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|1408|57828|467|2025-10-13|
-|8|[666ghj/MiroFish](https://github.com/666ghj/MiroFish)|Python|一个简单而通用的群体智能引擎，预测任何事情。简洁通用的群体智能引擎，预测万物|1199|37984|411|2025-11-26|
-|9|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|962|127130|310|2025-04-30|
-|10|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|962|127136|310|2025-04-30|
-|11|[jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)|JavaScript|Claude Code插件，显示正在发生的事情-上下文使用情况、活动工具、正在运行的代理和待办事项进度|916|10211|286|2026-01-02|
-|12|[opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)|Java|用于AI就绪数据的PDF解析器。自动化PDF访问权限。开源。|917|7665|284|2025-05-13|
-|13|[gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)|JavaScript|一个轻量级且强大的元提示、上下文工程和规范驱动的开发系统，适用于Claude Code和OpenCode。|795|37756|252|2025-12-14|
-|14|[alibaba/page-agent](https://github.com/alibaba/page-agent)|TypeScript|JavaScript页内GUI代理。使用自然语言控制网络界面。|773|12891|245|2025-09-23|
-|15|[FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)|Python|自动化在线赚钱的过程。|638|17161|213|2024-02-12|
+|1|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|3679|96851|1202|2026-01-18|
+|2|[Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)|TypeScript|Project NOMA D是一台独立的离线生存计算机，内置了关键工具、知识和人工智能，可随时随地让您了解情况并获得授权。|2461|8340|792|2025-06-24|
+|3|[bytedance/deer-flow](https://github.com/bytedance/deer-flow)|Python|一个开源SuperAgent工具，用于研究、编码和创建。在沙箱、记忆、工具、技能和子代理的帮助下，它可以处理可能需要几分钟到几个小时的不同级别的任务。|2410|34576|784|2025-05-07|
+|4|[FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)|Python|自动化在线赚钱的过程。|1810|18971|593|2024-02-12|
+|5|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1809|104586|576|2025-10-09|
+|6|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |1568|329833|555|2025-11-24|
+|7|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |1567|329832|554|2025-11-24|
+|8|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|1372|59200|463|2025-10-13|
+|9|[666ghj/MiroFish](https://github.com/666ghj/MiroFish)|Python|一个简单而通用的群体智能引擎，预测任何事情。简洁通用的群体智能引擎，预测万物|1285|39269|431|2025-11-26|
+|10|[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)|Python|TradingAgents：多代理LLM金融交易框架|1213|36470|418|2024-12-28|
+|11|[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)|Go|完全自主的AI Agents系统能够执行复杂的渗透测试任务|1107|11605|380|2025-01-06|
+|12|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|1005|413936|329|2016-03-20|
+|13|[gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)|JavaScript|一个轻量级且强大的元提示、上下文工程和规范驱动的开发系统，适用于Claude Code和OpenCode。|819|38575|261|2025-12-14|
+|14|[jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)|JavaScript|Claude Code插件，显示正在发生的事情-上下文使用情况、活动工具、正在运行的代理和待办事项进度|808|11019|248|2026-01-02|
+|15|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|743|127873|242|2025-04-30|
 
 [所有日榜](./day/day.md)
 
