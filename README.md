@@ -1,51 +1,50 @@
 Github热门开源项目榜单
 
-## 2026年03月23日
+## 2026年03月24日
 
-在本期榜单中，我们可以从多方面分析这些项目的趋势和特点。
+根据本期榜单的数据，可以对当前热门项目进行以下分析：
 
-### 项目概述
-该榜单包含15个GitHub项目，覆盖不同的编程语言，包括JavaScript、TypeScript、Python和Go等。大部分项目聚焦于人工智能（AI）和自动化领域，显示出这一领域的高度活跃性和创新潜力。
+### 1. 项目类型及技术栈
+- **语言使用**：榜单中的项目主要使用Python、TypeScript和JavaScript。Python在数据处理和机器学习领域的广泛应用，使得它的项目具有较高的关注度。TypeScript的使用则显示出在前端和全栈开发中的流行趋势。
+- **核心功能**：许多项目都聚焦于人工智能（AI）和自动化，反映了当前技术发展的热点。例如，`bytedance/deer-flow` 和 `moltbot/moltbot` 等项目表示了对AI助手的广泛需求。
 
-### 项目分析
-1. **活跃度与Star数量**：
-   - 项目如`affaan-m/everything-claude-code`和`obra/superpowers`获得了极高的Star数量（超过10万），显示出它们在开源社区中的广泛认可和关注。
-   - `public-apis/public-apis`作为一个包含免费API集合的项目，其Star数量也非常高（超过41万），表明开发者社区对API资源的需求持续增长。
+### 2. 热度与趋势
+- **Stargazer数量**：`bytedance/deer-flow`目前的Star数以42402居于榜首，说明其在开发者社区中有很高的认可度和活跃度。尽管它在趋势Star中排名第一（4129），但较其它项目（如`affaan-m/everything-claude-code`的趋势Star为3096）显示初期增长较快且稳定。
+- **热度分布**：热度较高的项目，如`moneyprinterV2`和`moltbot/moltbot`显示出高度的关注，表明市场对自动化和个人助手领域有显著的需求。
 
-2. **语言分布**：
-   - Python和TypeScript是主要的编程语言，反映出它们在AI和Web开发中的广泛应用。
-   - JavaScript作为Web开发的主流语言之一，依然占有一席之地，虽然其数量相对较少。
+### 3. 成长潜力
+- **创建时间**：许多项目的创建时间较近（如2025年后），这表明新技术发展和对市场需求的快速响应。开发者关注这些新项目也可能是因为它们提供了为特定需求量身定制的解决方案。
+- **多样性**：榜单中的项目有不同类型的应用场景，例如`TradingAgents`针对金融交易，`instagram-clone`关注社交媒体，显示了多元化的市场需求。
 
-3. **项目类型**：
-   - 多数项目集中在AI工具和应用的开发上，如个人助理、智能代理和金融交易框架。这表明，开发者们在探索如何利用AI技术提高生产力和效率。
-   - 一些项目如`FujiwaraChoki/MoneyPrinterV2`强调自动化网赚的 potential，显示了对收入生成工具的兴趣。
+### 4. 未来趋势
+- **AI与自动化**：随着人工智能技术的不断进步，该领域的项目将继续增长。现有项目如`claude-flow`和`ruflo`等突显了智能代理和多主体系统的市场潜力。
+- **跨平台支持**：不少项目强调了跨平台兼容性（如`moltbot`和`openclaw`），预示着未来项目将更注重用户体验和设备的灵活性。
 
-4. **趋势与热度**：
-   - 从热度来看，许多项目的热度（热度数字较高）显示出对这些技术的强烈关注，尤其是在AI代理和工具的开发。
-   - 趋势Star的数量（如`Crosstalk-Solutions/project-nomad`为4221）与项目的潜在吸引力和未来增长潜力相关，表明这些项目可能会继续受到关注和支持。
+### 5. 建议与展望
+- **关注新项目**：开发者应关注那些增长势头迅猛的新项目，这些项目可能在未来的技术实践中占据重要位置。
+- **参与社区**：活跃的开源项目往往伴随着社区支持，参与这些项目的开发或贡献代码可以带来很多学习和职业发展机会。
 
-### 总结
-整体来看，本期榜单显示了人工智能和自动化工具在开发者社区中的主导地位和持续增长。Python和TypeScript成为主要的语言选择，且随着技术不断发展与创新，更多的项目将围绕这些主题展开。随着AI技术的不断成熟，我们可以预期这些领域会涌现出更多激动人心的开源项目。
+总之，本期榜单的项目不仅展示了当前流行的技术栈，还反映了市场对人工智能、自动化以及多平台支持的巨大需求。随着技术的进步和市场的动态变化，开发者应该保持对新兴项目的关注，以便抓住未来的机遇。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|4189|101040|1364|2026-01-18|
-|2|[Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)|TypeScript|Project NOMA D是一台独立的离线生存计算机，内置了关键工具、知识和人工智能，可随时随地让您了解情况并获得授权。|4221|12561|1354|2025-06-24|
-|3|[bytedance/deer-flow](https://github.com/bytedance/deer-flow)|Python|一个开源SuperAgent工具，用于研究、编码和创建。在沙箱、记忆、工具、技能和子代理的帮助下，它可以处理可能需要几分钟到几个小时的不同级别的任务。|3697|38273|1187|2025-05-07|
-|4|[FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)|Python|自动化在线赚钱的过程。|3102|22073|1001|2024-02-12|
-|5|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|2665|107251|846|2025-10-09|
-|6|[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)|Python|TradingAgents：多代理LLM金融交易框架|2300|38770|753|2024-12-28|
-|7|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |1991|331823|712|2025-11-24|
-|8|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |1990|331823|711|2025-11-24|
-|9|[666ghj/MiroFish](https://github.com/666ghj/MiroFish)|Python|一个简单而通用的群体智能引擎，预测任何事情。简洁通用的群体智能引擎，预测万物|1333|40602|448|2025-11-26|
-|10|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|1231|60431|417|2025-10-13|
-|11|[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)|Go|完全自主的AI Agents系统能够执行复杂的渗透测试任务|1162|12767|373|2025-01-06|
-|12|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1124|11152|366|2025-07-22|
-|13|[ruvnet/ruflo](https://github.com/ruvnet/ruflo)|TypeScript|????Claude领先的代理编排平台。部署智能多主体群、协调自主工作流程并构建对话式人工智能系统。特征    企业级架构、分布式群智能、RAG集成和原生Claude Code / Codex集成|1076|23412|355|2025-06-02|
-|14|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|1077|415013|354|2016-03-20|
-|15|[shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)|Python|我们如何构建真正的人工智能代理？就像克劳德·代码一样。|1083|36894|354|2025-06-29|
+|1|[bytedance/deer-flow](https://github.com/bytedance/deer-flow)|Python|一个开源SuperAgent工具，用于研究、编码和创建。在沙箱、记忆、工具、技能和子代理的帮助下，它可以处理可能需要几分钟到几个小时的不同级别的任务。|4129|42402|1338|2025-05-07|
+|2|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|3096|104136|1015|2026-01-18|
+|3|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|2721|109972|861|2025-10-09|
+|4|[FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)|Python|自动化在线赚钱的过程。|2372|24445|771|2024-02-12|
+|5|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2202|334025|764|2025-11-24|
+|6|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |2202|334025|764|2025-11-24|
+|7|[Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)|TypeScript|Project NOMA D是一台独立的离线生存计算机，内置了关键工具、知识和人工智能，可随时随地让您了解情况并获得授权。|2103|14664|674|2025-06-24|
+|8|[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)|Python|TradingAgents：多代理LLM金融交易框架|1679|40449|552|2024-12-28|
+|9|[ruvnet/claude-flow](https://github.com/ruvnet/claude-flow)|JavaScript|????Claude领先的代理编排平台。部署智能多主体群、协调自主工作流程并构建对话式人工智能系统。特征    企业级架构、分布式群智能、RAG集成以及通过MCP协议提供的本地Claude Code支持。在基于代理的框架中排名第一。|1264|24673|415|2025-06-02|
+|10|[ruvnet/ruflo](https://github.com/ruvnet/ruflo)|TypeScript|????Claude领先的代理编排平台。部署智能多主体群、协调自主工作流程并构建对话式人工智能系统。特征    企业级架构、分布式群智能、RAG集成和原生Claude Code / Codex集成|1264|24676|415|2025-06-02|
+|11|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1076|12228|346|2025-07-22|
+|12|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |1020|40983|342|2025-06-07|
+|13|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |1022|40985|342|2025-06-07|
+|14|[666ghj/MiroFish](https://github.com/666ghj/MiroFish)|Python|一个简单而通用的群体智能引擎，预测任何事情。简洁通用的群体智能引擎，预测万物|978|41580|329|2025-11-26|
+|15|[shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)|Python|我们如何构建真正的人工智能代理？就像克劳德·代码一样。|992|37886|321|2025-06-29|
 
 [所有日榜](./day/day.md)
 
