@@ -1,48 +1,50 @@
 Github热门开源项目榜单
 
-## 2026年03月26日
+## 2026年03月27日
 
-本期榜单展示了一系列与人工智能和代理技术相关的开源项目。以下是对榜单的分析：
+根据本期榜单的数据，我们可以从多个维度对这些项目进行分析，包括语言分布、热度、明星数（Star）、以及项目的创建时间等。
 
-### 项目汇总分析
-1. **项目分布**：
-   - **语言种类**：榜单中的项目主要分布在Python、TypeScript和JavaScript等编程语言中，Python和TypeScript占据了较大的份额，这显示了这两种语言在人工智能和开发中的受欢迎程度。
-   - **项目功能**：大多数项目都是围绕AI代理、性能优化、信息处理和任务自动化的，这反映了当前开源社区对智能代理领域的浓厚兴趣。
+### 1. 项目总览
+榜单上的前15个项目涉及不同的领域，大多数与人工智能（AI）和自动化相关。项目使用了多种编程语言，包括Python、TypeScript和Shell，其中Python项目占据了较大比例。
 
-2. **流行程度（Star数）**：
-   - **高Star项目**：榜单中，`obra/superpowers`以115196 Star位居第一，显示出其在社区中的广泛认可。其他一些项目，如`affaan-m/everything-claude-code`和`moltbot/moltbot`也有相对较高的Star数，表明这些项目提供了实用和创新的功能。
-   - **热度**：热度指标展示了项目被讨论或使用的频率。大多数项目的热度在300以上，显示了良好的用户关注度和活跃度。
+### 2. 编程语言分析
+- **Python**: 包含7个项目，主要用于开发AI相关应用。
+- **TypeScript**: 包含6个项目，主要用于开发前端和全栈服务。
+- **Shell**: 仅有1个项目，但其明星数最高，表明其受欢迎程度。
 
-### 趋势分析
-1. **代理技术流行**：如`moltbot/moltbot`和`openclaw/openclaw`等项目展现了个人人工智能助理的趋势，这与全球范围内对AI助手在日常生活中应用的兴趣相匹配。
-2. **信息处理与总结**：`mvanhorn/last30days-skill`所提供的社交媒体信息总结功能表明，人们正在寻求快速获取和处理大规模信息的工具，这符合信息爆炸时代的需求。
+### 3. 热度与明星数（Stars）
+- **明星数**: "obra/superpowers"项目的明星数高达117922，明显领先于其他项目，显示出强大的用户基础和认可度。其他较受欢迎的项目如"mvanhorn/last30days-skill"和"affaan-m/everything-claude-code"的明星数分别为12108和111808。
+  
+- **热度**: 热度数值的高低可以反映用户的关注程度，"obra/superpowers"的热度为875，表明其在现阶段的活跃性和吸引力。
 
-### 未来发展
-1. **可扩展性**：项目中涉及的多项目合作和可扩展的架构，可能会在未来的开发中持续受到重视，以适应不断变化的技术需求。
-2. **安全性和隐私**：随着AI技术的广泛应用，相关项目如`everything-claude-code`强调了安全性和研究优先级，这可能会推动相关研究的深入，确保技术的安全性和可靠性。
+### 4. 创建时间分析
+项目的创建时间主要集中在2025年，表明这些项目大多是近期的开发，反映了当前市场上AI和自动化领域的趋势。同时，项目如"Deep-Live-Cam"和"oh-my-claudecode"的创建时间较早，可能与早期的技术积累有关。
 
-### 总结
-整体来看，本期榜单显示出社区对人工智能代理技术的持续关注，项目的多样性及其对实用性的强调也预示着这一领域在未来将继续蓬勃发展。同时，开发者们对提高性能和信息处理能力的需求，也会不断激励技术创新。
+### 5. 发展趋势
+随着人工智能和自动化的快速发展，许多项目集中于AI代理的技能优化和多任务处理。在榜单中，可以看到越来越多的项目致力于构建能够处理复杂任务的智能系统，或者进行高效的数据处理和分析。
+
+### 6. 总结
+本期榜单展示了一个充满活力的技术生态，主要以人工智能和自动化为主。开发者在Star和热度上的差异也表明，不同项目所针对的用户群体和应用场景各有不同。对于希望参与这类开发的团队或个人，可以参考榜单中的热门项目，结合技术趋势，在相应的领域进行深入开发。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|2930|115196|929|2025-10-09|
-|2|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|2646|109752|885|2026-01-18|
-|3|[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)|Python|人工智能代理技能，研究Reddit、X、YouTube、HN、Polymarket和网络上的任何主题-然后合成基础摘要|2671|9469|843|2026-01-23|
-|4|[bytedance/deer-flow](https://github.com/bytedance/deer-flow)|Python|一个开源SuperAgent工具，用于研究、编码和创建。在沙箱、记忆、工具、技能和子代理的帮助下，它可以处理可能需要几分钟到几个小时的不同级别的任务。|2213|47959|730|2025-05-07|
-|5|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |1473|337110|537|2025-11-24|
-|6|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |1473|337110|537|2025-11-24|
-|7|[Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)|TypeScript|Project NOMA D是一台独立的离线生存计算机，内置了关键工具、知识和人工智能，可随时随地让您了解情况并获得授权。|995|17212|321|2025-06-24|
-|8|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |938|42903|305|2025-06-07|
-|9|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |938|42903|305|2025-06-07|
-|10|[ruvnet/claude-flow](https://github.com/ruvnet/claude-flow)|JavaScript|????Claude领先的代理编排平台。部署智能多主体群、协调自主工作流程并构建对话式人工智能系统。特征    企业级架构、分布式群智能、RAG集成以及通过MCP协议提供的本地Claude Code支持。在基于代理的框架中排名第一。|950|26752|301|2025-06-02|
-|11|[ruvnet/ruflo](https://github.com/ruvnet/ruflo)|TypeScript|????Claude领先的代理编排平台。部署智能多主体群、协调自主工作流程并构建对话式人工智能系统。特征    企业级架构、分布式群智能、RAG集成和原生Claude Code / Codex集成|947|26753|299|2025-06-02|
-|12|[666ghj/MiroFish](https://github.com/666ghj/MiroFish)|Python|一个简单而通用的群体智能引擎，预测任何事情。简洁通用的群体智能引擎，预测万物|881|43330|296|2025-11-26|
-|13|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|889|63092|292|2025-10-13|
-|14|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|893|103602|291|2025-09-22|
-|15|[shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)|Python|我们如何构建真正的人工智能代理？就像克劳德·代码一样。|889|39573|289|2025-06-29|
+|1|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|2726|117922|875|2025-10-09|
+|2|[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)|Python|人工智能代理技能，研究Reddit、X、YouTube、HN、Polymarket和网络上的任何主题-然后合成基础摘要|2639|12108|826|2026-01-23|
+|3|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|2056|111808|671|2026-01-18|
+|4|[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)|Python|实时人脸交换和仅使用单个图像的一键视频Deepfake|2022|82456|669|2023-09-24|
+|5|[bytedance/deer-flow](https://github.com/bytedance/deer-flow)|Python|一个开源SuperAgent工具，用于研究、编码和创建。在沙箱、记忆、工具、技能和子代理的帮助下，它可以处理可能需要几分钟到几个小时的不同级别的任务。|1919|49878|628|2025-05-07|
+|6|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |1221|338331|452|2025-11-24|
+|7|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |1221|338331|452|2025-11-24|
+|8|[Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)|TypeScript|团队首创的Claude Code多代理编排|1387|13634|429|2026-01-09|
+|9|[shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)|Python|我们如何构建真正的人工智能代理？就像克劳德·代码一样。|1148|40721|377|2025-06-29|
+|10|[InsForge/InsForge](https://github.com/InsForge/InsForge)|TypeScript|为代理提供交付全栈应用程序所需的一切。为代理开发而构建的后台。 |1169|6234|353|2025-07-29|
+|11|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|1013|64105|345|2025-10-13|
+|12|[datalab-to/chandra](https://github.com/datalab-to/chandra)|Python|OCR模型，可处理复杂的表格、表格、具有完整布局的手写体。|919|6811|292|2025-10-08|
+|13|[agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)|Python|构建和运行您可以看到、理解和信任的代理。|883|21079|288|2024-01-12|
+|14|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|828|104430|272|2025-09-22|
+|15|[Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)|TypeScript|Project NOMA D是一台独立的离线生存计算机，内置了关键工具、知识和人工智能，可随时随地让您了解情况并获得授权。|857|18069|271|2025-06-24|
 
 [所有日榜](./day/day.md)
 
