@@ -1,62 +1,51 @@
 Github热门开源项目榜单
 
-## 2026年03月28日
+## 2026年03月29日
 
-根据当前的榜单，可以对前15个项目进行以下分析：
+这个榜单展示了当前开源项目的情况，特别集中在与人工智能、代理和代码管理相关的工具。以下是对榜单的分析：
 
 ### 总体趋势
-1. **语言分布**：
-   - Python和TypeScript在榜单中占据主导地位，显示出这两种语言在人工智能和自动化工具开发中的普遍应用。Python的简洁性和强大的库支持使其成为AI项目开发的首选语言，而TypeScript则因其类型安全和良好的开发体验被广泛用于前端开发。
+1. **人工智能工具的兴起**：所有上榜项目均与人工智能、代理和工具开发相关，表明这一领域的关注度持续上升。开发者越来越重视智能代理和自动化工具的开发。
 
-2. **项目类型**：
-   - 多数项目聚焦于人工智能代理、性能优化和人脸交换等领域，显示出强烈的市场需求。尤其是与“Claude Code”相关的项目（如第1、2、8、10项），表明了这一新兴技术框架的巨大吸引力。
+2. **多样化的编程语言**：榜单中使用的编程语言包括Python、JavaScript、TypeScript等，体现了开发者在选取技术栈时的灵活性。
 
-3. **热度与Star数**：
-   - 当前的Star数普遍较高，特别是“everything-claude-code”项目以114,133个Star位列榜首，显示出其强大的吸引力和关注度。整体来看，Star数与项目热度呈正相关，表明受欢迎的项目能够快速获得社区的反馈和支持。
+### 项目分析
+1. **排名和热度**：
+   - **超级能力（superpowers）**项目凭借122298的Star数暂居榜首，显示出极高的受欢迎程度。这可能是由于其功能广泛且易于被开发者采用。
+   - **每个Claude代码的全部（everything-claude-code）**紧随其后，尽管当前Star数（116069）略低，但其功能涉及多个AI工具的性能优化，似乎满足了开发者对多元化需求的期待。
 
-### 个别项目分析
-1. **affaan-m/everything-claude-code**：
-   - 该项目专注于提升AI代理的性能，获得了最高的Star和热度，表明其在技术创新和实用性方面得到了广泛认可。
+2. **创建时间和未来潜力**：
+   - 大部分排名靠前的项目均有较新的创建时间（2025和2026年），这表明这些项目尽管新颖，但具备高质量和良好的发展潜力。
+   - 比如，**microsoft的VibeVoice**虽然创建时间较早（2025-08-25），但其也是长久受关注的语音AI项目，可能会继续吸引更广泛的用户。
 
-2. **obra/superpowers**：
-   - 作为“Claude Code”的核心技能库，该项目展示了对AI能力拓展的关注，且具备高Star数和较高的热度。
-
-3. **mvanhorn/last30days-skill**：
-   - 该项目针对互联网信息的智能汇总，非常符合当前信息爆炸的需求，开发者的关注点可能会持续增长。
-
-4. **hacksider/Deep-Live-Cam**：
-   - 人脸交换技术引起了较大的关注，其应用前景广泛，且当前Star数和热度均表现良好。
-
-5. **bytedance/deer-flow**：
-   - 提供了一种高度集成的解决方案，适用于复杂任务的处理，是一个颇具潜力的项目。
-
-### 发展潜力
-- **行业需求**：信息处理、虚拟代理和智能化工具的需求正在增长，这为以上项目提供了良好的市场环境。
-- **开源社区的影响**：开源软件得到的关注度与社区参与度密切相关，项目的持续更新和开发者的活动将直接影响热度和Star数的变化。
-- **多样性与创新性**：榜单中的项目虽然有集中趋势，但每个项目在解决不同的问题和挑战上展现了独特性，为开发者和公司提供了多样的选择。
+3. **稳定的增长趋势**：
+   - 大多数项目虽然在Star数上有一定的差距，但都是稳定增长的例证，尤其是**get-shit-done**和**MiroFish**这样的项目，Star数虽少但增长潜力仍然可观，开发者应密切关注。
+   - 这些项目的热度及趋势Star值的变化，能为以后项目的可行性分析提供参考。
 
 ### 结论
-总体来看，这一榜单中的项目展示了当前人工智能和自动化工具领域的多样性与创新性，持续关注这些项目及其开发动态，将对理解未来技术趋势和行业需求提供重要参考。
+总体来看，这个榜单明确反映了人工智能代理及相关技术工具在开发者群体中的热度。随着技术的不断进步和应用场景的不断扩展，未来可能将会出现更多高质量的开源项目。
+
+开发者可以根据这些项目的功能、语言、创建时间和热度等多维度指标做出选择，选择合适的工具来提升自己的开发效率。同时，参与这些项目的社区也可能是获取最新技术和方法的重要资源。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|2325|114133|765|2026-01-18|
-|2|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|2216|120138|720|2025-10-09|
-|3|[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)|Python|人工智能代理技能，研究Reddit、X、YouTube、HN、Polymarket和网络上的任何主题-然后合成基础摘要|1636|13744|517|2026-01-23|
-|4|[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)|Python|实时人脸交换和仅使用单个图像的一键视频Deepfake|1501|83957|500|2023-09-24|
-|5|[bytedance/deer-flow](https://github.com/bytedance/deer-flow)|Python|一个开源SuperAgent工具，用于研究、编码和创建。在沙箱、记忆、工具、技能和子代理的帮助下，它可以处理可能需要几分钟到几个小时的不同级别的任务。|1144|51022|376|2025-05-07|
-|6|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |919|339250|345|2025-11-24|
-|7|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |919|339250|345|2025-11-24|
-|8|[shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)|Python|我们如何构建真正的人工智能代理？就像克劳德·代码一样。|895|41616|293|2025-06-29|
-|9|[Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)|TypeScript|Project NOMA D是一台独立的离线生存计算机，内置了关键工具、知识和人工智能，可随时随地让您了解情况并获得授权。|841|18910|271|2025-06-24|
-|10|[Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)|TypeScript|团队首创的Claude Code多代理编排|838|14472|262|2026-01-09|
-|11|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|723|15059|239|2025-07-22|
-|12|[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)|Python|Gen-AI Teams聊天-考虑ChatGPT是否可以访问您团队的独特知识。|723|19556|230|2023-04-27|
-|13|[666ghj/MiroFish](https://github.com/666ghj/MiroFish)|Python|一个简单而通用的群体智能引擎，预测任何事情。简洁通用的群体智能引擎，预测万物|662|44736|227|2025-11-26|
-|14|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|646|64751|215|2025-10-13|
-|15|[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)|Python|开源前沿语音人工智能|663|25180|210|2025-08-25|
+|1|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|2160|122298|691|2025-10-09|
+|2|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|1936|116069|633|2026-01-18|
+|3|[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)|Python|开源前沿语音人工智能|1310|26490|429|2025-08-25|
+|4|[bytedance/deer-flow](https://github.com/bytedance/deer-flow)|Python|一个开源SuperAgent工具，用于研究、编码和创建。在沙箱、记忆、工具、技能和子代理的帮助下，它可以处理可能需要几分钟到几个小时的不同级别的任务。|1266|52288|421|2025-05-07|
+|5|[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)|Python|人工智能代理技能，研究Reddit、X、YouTube、HN、Polymarket和网络上的任何主题-然后合成基础摘要|1232|14976|388|2026-01-23|
+|6|[Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)|TypeScript|团队首创的Claude Code多代理编排|1136|15608|369|2026-01-09|
+|7|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |981|340231|362|2025-11-24|
+|8|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |981|340231|362|2025-11-24|
+|9|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1073|16132|352|2025-07-22|
+|10|[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)|HTML|练习让克劳德变得完美|1044|24119|339|2025-10-31|
+|11|[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)|Python|实时人脸交换和仅使用单个图像的一键视频Deepfake|1024|84981|336|2023-09-24|
+|12|[shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)|Python|我们如何构建真正的人工智能代理？就像克劳德·代码一样。|880|42496|286|2025-06-29|
+|13|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|639|65390|217|2025-10-13|
+|14|[gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)|JavaScript|一个轻量级且强大的元提示、上下文工程和规范驱动的开发系统，适用于Claude Code和OpenCode。|636|44449|207|2025-12-14|
+|15|[666ghj/MiroFish](https://github.com/666ghj/MiroFish)|Python|一个简单而通用的群体智能引擎，预测任何事情。简洁通用的群体智能引擎，预测万物|606|45342|206|2025-11-26|
 
 [所有日榜](./day/day.md)
 
