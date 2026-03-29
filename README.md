@@ -49,59 +49,56 @@ Github热门开源项目榜单
 
 [所有日榜](./day/day.md)
 
-## 2026年第11周
+## 2026年第12周
 
-根据您所提供的榜单数据，以下是对榜单项目的分析：
+根据您提供的榜单数据，我们可以进行以下分析：
 
 ### 总体趋势
-从榜单来看，许多项目都聚焦于人工智能（AI）和代理（Agent）技术。尤其是与“克劳德代码”（Claude Code）相关的项目，如`superpowers`和多个`moltbot`，显示了高度关注的趋势，这些项目旨在提供个性化的人工智能助理。
+这个榜单主要集中在人工智能（AI）和开发工具领域，涉及多种编程语言，尤其是Python和TypeScript在众多项目中占据了显著比例。从创建时间来看，大部分项目在2025年之后发布，显示出该领域的快速发展和活跃程度。
 
-### 项目分析
-1. **热门项目**
-   - **`obra/superpowers`**：以104,586个Star在榜单中位于第一位，这是一个关于AI的核心技能库，显示出开发者对AI技能集成的浓厚兴趣。
-   - **`moltbot/moltbot`**与**`openclaw/openclaw`**：这两个项目都声称是个人AI助理，拥有较高的Star（329832），并且在创建时间上非常接近（2025年11月），可能是同一个概念的不同实现。
+### 项目类型
+1. **人工智能代理**：许多项目（如`moltbot`、`openclaw`和`learn-claude-code`）都旨在构建个人智能助理，这表明市场对于AI驱动的个人助手的需求在不断增加。
+2. **金融交易与分析工具**：如`TradingAgents`和`MoneyPrinterV2`，显示出AI在金融领域应用的潜力不断增强。
+3. **群体智能**：如`MiroFish`和`wifi-densepose`，这些项目展示了通过多个代理或设备共同工作来完成复杂任务的概念。
 
-2. **新兴技术**
-   - 多个项目使用**TypeScript**语言，如`Agency Agents`、`project-nomad`等，这说明开发者倾向于使用现代JavaScript环境，以提升项目的性能和可维护性。
-   - 项目如`MoneyPrinterV2`和`OpenViking`涉及到自动化与盈利，显示出开发者对利用AI进行线上盈利的浓厚兴趣。
+### 热度分析
+- **Star数量及增长**：`everyting-claude-code`和`superpowers`的Star数量及趋势Star显示出这两个项目具有较高的社区关注度和活跃度。
+- **新兴项目**：一些较新的项目如`project-nomad`虽然当前Star相对较低，但创建时间较新的项目有可能吸引到更多的关注和参与。
 
-3. **多样性**
-   - 除了专注于AI的项目外，也有使用不同语言的项目，如**Python**（如`MiroFish`、`learn-claude-code`等）和**Zig**（如`lightpanda-io/browser`），显示出编程语言的多样性和相应的社区支持。
-
-4. **热度指标**
-   - 热度通常与Star数量正相关。在排名中，热度指标显示出项目的关注点，例如，`superpowers`不仅有很高的Star，而且其热度（5302）也在榜首，表明其在社区中的活跃性和讨论度。
+### 编程语言
+大多数项目使用Python（功能强大且易于科学计算和机器学习）和TypeScript（适合开发大型应用）：
+- **Python**：多用于机器学习和AI开发，具有丰富的生态系统和广泛的社区支持。
+- **TypeScript**：越来越多的项目采用TypeScript，因其静态类型和现代JavaScript的优势，适合构建大规模应用。
 
 ### 未来展望
-- 随着AI技术的不断发展，预计会有更多关于个性化助手、自动化工具和智能编码系统的项目涌现。而用户对于易用性、整合性和强大功能的要求将驱动这些项目的更新和迭代。
-- 开发者应关注那些有潜力的项目，尤其是那些早期开发的工具，可为未来的技能提升和社区参与提供额外机会。
+随着技术的快速发展，这些项目可能会吸引更多开发者和用户的参与，推动相关技术的应用和演进。特别在个人智能助理、金融科技和群体智能领域，未来有可能出现更多创新和突破。
 
-### 结论
-本榜单展示了当前开发社区对人工智能及相关技术的关注。可以预见，随着技术的发展，这些项目的影响力和社区支持将继续增长，同时也可能引导新的开发趋势和方法。
+总之，这个榜单反映了当前人工智能开发领域的多样性与活跃性，未来的发展路径值得继续关注。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|16608|104586|5302|2025-10-09|
-|2|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |12887|329832|4567|2025-11-24|
-|3|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |12887|329833|4567|2025-11-24|
-|4|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|10603|59200|3545|2025-10-13|
-|5|[666ghj/MiroFish](https://github.com/666ghj/MiroFish)|Python|一个简单而通用的群体智能引擎，预测任何事情。简洁通用的群体智能引擎，预测万物|9952|39269|3369|2025-11-26|
-|6|[gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)|JavaScript|一个轻量级且强大的元提示、上下文工程和规范驱动的开发系统，适用于Claude Code和OpenCode。|7624|38575|2400|2025-12-14|
-|7|[Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)|TypeScript|Project NOMA D是一台独立的离线生存计算机，内置了关键工具、知识和人工智能，可随时随地让您了解情况并获得授权。|6760|8340|2172|2025-06-24|
-|8|[shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)|Python|我们如何构建真正的人工智能代理？就像克劳德·代码一样。|6668|35811|2157|2025-06-29|
-|9|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|4946|99828|1630|2025-09-22|
-|10|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|4924|482346|1586|2018-05-09|
-|11|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|4575|127873|1518|2025-04-30|
-|12|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|4575|127879|1517|2025-04-30|
-|13|[langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)|Python|Deepagents是一个基于langchain和langgraph的代理工具。深度代理配备了规划工具、文件系统后台以及产生子代理的能力，使它们能够处理复杂的代理任务。|4170|16615|1342|2025-07-27|
-|14|[FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)|Python|自动化在线赚钱的过程。|3935|18971|1305|2024-02-12|
-|15|[volcengine/OpenViking](https://github.com/volcengine/OpenViking)|Python|OpenViking是一个专门为人工智能代理（例如openclaw）设计的开源上下文数据库。OpenViking通过文件系统范式统一了代理所需的上下文（内存、资源和技能）管理，从而实现分层上下文交付和自我进化。|4060|17815|1276|2026-01-05|
-|16|[alibaba/page-agent](https://github.com/alibaba/page-agent)|TypeScript|JavaScript页内GUI代理。使用自然语言控制网络界面。|3912|13239|1235|2025-09-23|
-|17|[lightpanda-io/browser](https://github.com/lightpanda-io/browser)|Zig|Lightpanda：专为人工智能和自动化设计的无头浏览器|3666|23622|1140|2023-02-07|
-|18|[bytedance/deer-flow](https://github.com/bytedance/deer-flow)|Python|一个开源SuperAgent工具，用于研究、编码和创建。在沙箱、记忆、工具、技能和子代理的帮助下，它可以处理可能需要几分钟到几个小时的不同级别的任务。|3463|34576|1128|2025-05-07|
-|19|[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)|TypeScript|GitNexus：零服务器代码智能引擎-       GitNexus是一个客户端知识图创建者，完全在您的浏览器中运行。放入GitHub repo或Zip文件，并通过内置的Shape RAG代理获取交互式知识图。非常适合代码探索|3456|18746|1124|2025-08-02|
-|20|[daytonaio/daytona](https://github.com/daytonaio/daytona)|TypeScript|Daytona是一个用于运行人工智能生成代码的安全且弹性的基础设施|3545|69301|1120|2024-02-06|
+|1|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|15029|116069|4945|2026-01-18|
+|2|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|15047|122298|4806|2025-10-09|
+|3|[bytedance/deer-flow](https://github.com/bytedance/deer-flow)|Python|一个开源SuperAgent工具，用于研究、编码和创建。在沙箱、记忆、工具、技能和子代理的帮助下，它可以处理可能需要几分钟到几个小时的不同级别的任务。|14015|52288|4594|2025-05-07|
+|4|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |8408|340231|3043|2025-11-24|
+|5|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |8408|340231|3043|2025-11-24|
+|6|[Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)|TypeScript|Project NOMA D是一台独立的离线生存计算机，内置了关键工具、知识和人工智能，可随时随地让您了解情况并获得授权。|6996|19557|2250|2025-06-24|
+|7|[shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)|Python|我们如何构建真正的人工智能代理？就像克劳德·代码一样。|5602|42496|1828|2025-06-29|
+|8|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|4959|65390|1667|2025-10-13|
+|9|[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)|Python|TradingAgents：多代理LLM金融交易框架|5012|43782|1655|2024-12-28|
+|10|[FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)|Python|自动化在线赚钱的过程。|5056|27129|1643|2024-02-12|
+|11|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|4980|16132|1623|2025-07-22|
+|12|[666ghj/MiroFish](https://github.com/666ghj/MiroFish)|Python|一个简单而通用的群体智能引擎，预测任何事情。简洁通用的群体智能引擎，预测万物|4740|45342|1611|2025-11-26|
+|13|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|4731|105548|1568|2025-09-22|
+|14|[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)|Python|实时人脸交换和仅使用单个图像的一键视频Deepfake|4706|84981|1559|2023-09-24|
+|15|[ruvnet/claude-flow](https://github.com/ruvnet/claude-flow)|JavaScript|????Claude领先的代理编排平台。部署智能多主体群、协调自主工作流程并构建对话式人工智能系统。特征    企业级架构、分布式群智能、RAG集成以及通过MCP协议提供的本地Claude Code支持。在基于代理的框架中排名第一。|4792|28201|1559|2025-06-02|
+|16|[ruvnet/ruflo](https://github.com/ruvnet/ruflo)|TypeScript|????Claude领先的代理编排平台。部署智能多主体群、协调自主工作流程并构建对话式人工智能系统。特征    企业级架构、分布式群智能、RAG集成和原生Claude Code / Codex集成|4789|28201|1558|2025-06-02|
+|17|[gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)|JavaScript|一个轻量级且强大的元提示、上下文工程和规范驱动的开发系统，适用于Claude Code和OpenCode。|4874|44449|1547|2025-12-14|
+|18|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |4377|44340|1424|2025-06-07|
+|19|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |4377|44340|1424|2025-06-07|
+|20|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|3563|132243|1186|2025-04-30|
 
 [所有周榜](./week/week.md)
 
