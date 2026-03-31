@@ -1,50 +1,54 @@
 Github热门开源项目榜单
 
-## 2026年03月30日
+## 2026年03月31日
 
-这个榜单展示了一系列与人工智能、尤其是Claude Code相关的项目，涵盖了多个编程语言，主要集中在Python、JavaScript和TypeScript等现代语言。以下是对这些项目的分析：
+根据提供的榜单数据，我们可以对当前流行的项目进行一些分析和解读：
 
-### 总体趋势
-1. **增长趋势**：大部分项目的Star数在持续增长，尤其是`luongnv89/claude-howto`项目，从3895星到9383星，显示出了强烈的增长趋势，表明用户对其内容的认可。
-2. **集中在Claude Code生态**：前几个项目几乎都围绕Claude Code展开，显示出这一技术在开发者社区中的重要性和普及度。
+### 项目概述
+这份榜单主要包含一些与人工智能、编程助理和代理技术相关的项目。大多数项目在功能上集中于代码生成、优化和自动化，许多项目名字中均包含“Claude Code”，显示出这一特定技术在当前的受欢迎程度和影响力。
 
-### 热门项目分析
-1. **`luongnv89/claude-howto`**：作为榜单第一名，提供可视化和模板，适合初学者上手，对提升开发者的实践能力和使用Claude Code的熟练度大有益处。
-2. **`obra/superpowers`**：核心技能库，Star数已经超过12万，显示出了广泛的使用和需求，有可能为开发者提供实践中的关键支持。
-3. **`microsoft/VibeVoice`**：专注于前沿语音AI技术，表明市场对语音处理技术的重视，较高的Star数也反映了其开发持续性和用户兴趣。
+### 关键指标
+1. **Star趋势**：
+   - 项目的Star数量可以反映其受欢迎程度和社区支持度。榜单前几名的项目（如`everything-claude-code`和`claude-code`）都获得了高达十万的Star，显示出广泛的关注和使用。
 
-### 技术和语言多样性
-- 语言分布：Python和JavaScript是最流行的选择，表明了开发者对这些语言的偏好，特别是在AI相关的应用领域。TypeScript项目数量也在逐步增加，说明了对类型安全和现代开发工具的需求。
-- 项目功能性：许多项目都涉及人工智能代理的创建和优化，草根开发者能够借此创造高效的解决方案。
+2. **热度**：
+   - 热度指标也很重要，极高的热度（如`affaan-m/everything-claude-code`的2236）表明这些项目在近期得到了积极的讨论或关注。热度的上升通常表明社区的活跃度。
 
-### 新兴项目
-- 一些较新的项目如`moltbot/moltbot`和`openclaw/openclaw`显示出个人人工智能助理的趋势，这可能是未来发展的一大亮点，随着个人化娱乐和工具的需求上升，这类项目可能越来越受欢迎。
+3. **编程语言**：
+   - 项目使用的语言多种多样，包括JavaScript、TypeScript、Python等。其中Python和TypeScript较为常见，可能是因为它们在AI和机器学习领域的广泛应用。
 
-### 未来展望
-- **增长潜力**：针对Claude Code及相关技术的项目将继续受到关注，有可能形成更大的生态系统。同时，如果这些项目能够不断更新和优化，吸引更多开发者参与，Stars数量可能还会继续增长。
-- **社区参与**：项目的成功不仅取决于技术本身，社区支持和开发者的反馈同样重要，未来需要更多的互动和协作来提升项目的成熟度和实用性。
+### 趋势和潜在影响
+- **Claude Code系列项目的崛起**：
+  - 多个项目名都带有“Claude Code”，表明基于这一基础架构的应用在不断增多。在使用Claude Code的项目中，开发者可能被其插件机制和扩展性质所吸引，这使其能够适应不同的需求。
 
-综上所述，本期榜单反映出AI代理及相关工具的普及趋势，尤其是围绕Claude Code的项目，展示了开发者在这一领域的活跃性与创新力。
+- **个人助理和代理技术的普及**：
+  - 许多项目都围绕构建个人人工智能助理展开，这与近年来对个性化AI助手需求的增加相关。这类项目通过将AI技术与用户日常任务结合起来，改变了人们的工作方式。
+
+- **开放源代码的吸引力**：
+  - 大部分项目都是开源的，这为开发者提供了学习和贡献的机会，并促进了社区协作。开源项目往往会更加受欢迎，因为它们能够迅速迭代和优化。
+
+### 结论
+总的来说，本期榜单显示出人工智能和代码助手领域的活跃景象，特别是在Claude Code系列产品的引领下。随着技术的不断进步和社区的支持，这些项目可能会在未来的开发中起到越来越重要的作用。开发者和企业都应关注这一趋势，以便把握可能的机遇和应用场景。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)|Python|Claude Code的可视化、示例驱动指南-从基本概念到高级代理，带有可带来立即价值的复制粘贴模板。|3895|9383|1237|2025-11-07|
-|2|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|2778|125076|886|2025-10-09|
-|3|[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)|Python|开源前沿语音人工智能|2657|29147|860|2025-08-25|
-|4|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|2397|118466|783|2026-01-18|
-|5|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1870|18002|605|2025-07-22|
-|6|[Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)|TypeScript|团队首创的Claude Code多代理编排|1673|17281|536|2026-01-09|
-|7|[bytedance/deer-flow](https://github.com/bytedance/deer-flow)|Python|一个开源SuperAgent工具，用于研究、编码和创建。在沙箱、记忆、工具、技能和子代理的帮助下，它可以处理可能需要几分钟到几个小时的不同级别的任务。|1590|53878|520|2025-05-07|
-|8|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |1266|341497|445|2025-11-24|
-|9|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |1266|341497|445|2025-11-24|
-|10|[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)|HTML|练习让克劳德变得完美|1298|25417|411|2025-10-31|
-|11|[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)|Python|人工智能代理技能，研究Reddit、X、YouTube、HN、Polymarket和网络上的任何主题-然后合成基础摘要|1283|16259|404|2026-01-23|
-|12|[shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)|Python|我们如何构建真正的人工智能代理？就像克劳德·代码一样。|1242|43738|402|2025-06-29|
-|13|[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)|Python|实时人脸交换和仅使用单个图像的一键视频Deepfake|1114|86095|360|2023-09-24|
-|14|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|1110|43403|346|2025-08-31|
-|15|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|958|66348|315|2025-10-13|
+|1|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|6507|124973|2236|2026-01-18|
+|2|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|3904|88456|1718|2025-02-22|
+|3|[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)|Python|开源前沿语音人工智能|3546|32693|1165|2025-08-25|
+|4|[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)|Python|Claude Code的可视化、示例驱动指南-从基本概念到高级代理，带有可带来立即价值的复制粘贴模板。|2756|12139|897|2025-11-07|
+|5|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|2559|127635|822|2025-10-09|
+|6|[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)|HTML|练习让克劳德变得完美|2515|27932|797|2025-10-31|
+|7|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1841|19843|601|2025-07-22|
+|8|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |1396|342893|497|2025-11-24|
+|9|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |1396|342893|497|2025-11-24|
+|10|[bytedance/deer-flow](https://github.com/bytedance/deer-flow)|Python|一个开源SuperAgent工具，用于研究、编码和创建。在沙箱、记忆、工具、技能和子代理的帮助下，它可以处理可能需要几分钟到几个小时的不同级别的任务。|1204|55082|396|2025-05-07|
+|11|[shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)|Python|我们如何构建真正的人工智能代理？就像克劳德·代码一样。|1172|44910|392|2025-06-29|
+|12|[Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)|TypeScript|团队首创的Claude Code多代理编排|1111|18392|356|2026-01-09|
+|13|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|939|107395|304|2025-09-22|
+|14|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|907|67255|301|2025-10-13|
+|15|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|801|69226|278|2025-04-13|
 
 [所有日榜](./day/day.md)
 
