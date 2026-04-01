@@ -1,54 +1,54 @@
 Github热门开源项目榜单
 
-## 2026年03月31日
+## 2026年04月01日
 
-根据提供的榜单数据，我们可以对当前流行的项目进行一些分析和解读：
+根据您提供的榜单数据，我们可以对当前排名前15的项目进行以下分析：
 
-### 项目概述
-这份榜单主要包含一些与人工智能、编程助理和代理技术相关的项目。大多数项目在功能上集中于代码生成、优化和自动化，许多项目名字中均包含“Claude Code”，显示出这一特定技术在当前的受欢迎程度和影响力。
+### 1. 项目类型与语言
+- **语言分布**：榜单上的项目使用了多种编程语言，包括TypeScript, JavaScript, Python, Rust, HTML和Shell。其中，TypeScript和Python的项目数量较多，分别有6个和5个，而JavaScript则有2个。
+  
+- **项目形式**：大部分项目都是围绕"Claude Code"这一主题，表现出当前对智能编码代理工具的关注。这表明在软件开发中，利用人工智能辅助编码可能成为一个强劲的趋势。
 
-### 关键指标
-1. **Star趋势**：
-   - 项目的Star数量可以反映其受欢迎程度和社区支持度。榜单前几名的项目（如`everything-claude-code`和`claude-code`）都获得了高达十万的Star，显示出广泛的关注和使用。
+### 2. 星标趋势与热度
+- **当前Star数量**：榜单前两名项目（`anthropics/claude-code` 和 `affaan-m/everything-claude-code`）的当前Star数非常高，分别达到了98345和130284，显示了广泛的社区关注和使用。
 
-2. **热度**：
-   - 热度指标也很重要，极高的热度（如`affaan-m/everything-claude-code`的2236）表明这些项目在近期得到了积极的讨论或关注。热度的上升通常表明社区的活跃度。
+- **热度排名**：根据热度（`热度`列）来看，尽管`anthropics/claude-code`的热度最高（4022），但其他项目如`luongnv89/claude-howto`（987）和`shanraisshan/claude-code-best-practice`（753）也在持续吸引关注。
 
-3. **编程语言**：
-   - 项目使用的语言多种多样，包括JavaScript、TypeScript、Python等。其中Python和TypeScript较为常见，可能是因为它们在AI和机器学习领域的广泛应用。
+### 3. 创建时间
+- **项目创建时间**：大多数项目的创建时间都集中在2025年，意味着这些项目是近期推动和开发的，可能反映了技术爆发或市场需求的趋势。
 
-### 趋势和潜在影响
-- **Claude Code系列项目的崛起**：
-  - 多个项目名都带有“Claude Code”，表明基于这一基础架构的应用在不断增多。在使用Claude Code的项目中，开发者可能被其插件机制和扩展性质所吸引，这使其能够适应不同的需求。
+### 4. 项目介绍
+- **项目目标与功能**：大部分项目专注于增强编码效率，提供编码指导或工具，尤其是关于如何利用AI进行编程的指南和助手。例如，`luongnv89/claude-howto` 提供了可视化和示例驱动的学习材料，适合开发者持续学习和提升。
 
-- **个人助理和代理技术的普及**：
-  - 许多项目都围绕构建个人人工智能助理展开，这与近年来对个性化AI助手需求的增加相关。这类项目通过将AI技术与用户日常任务结合起来，改变了人们的工作方式。
+### 5. 综合趋势
+- **智能编程助手的崛起**：整个榜单显示出对AI编程助手的浓厚兴趣，许多项目都是围绕如何利用这些工具改善开发效率而开展的。
+- **多样化功能的需求**：随着越来越多的人寻求利用AI来辅助编码，开发者正在创建多样化的工具和平台，通过不同的功能集合满足市场需求。
 
-- **开放源代码的吸引力**：
-  - 大部分项目都是开源的，这为开发者提供了学习和贡献的机会，并促进了社区协作。开源项目往往会更加受欢迎，因为它们能够迅速迭代和优化。
+### 建议
+- **对开发者**：建议开发者关注这些高关注度的项目，尝试学习如何将这些工具融入到日常工作中，以提高开发效率。
+- **对投资者**：这些项目可能是未来技术发展的风向标，值得关注相关的初创公司或项目以寻找投资机会。
 
-### 结论
-总的来说，本期榜单显示出人工智能和代码助手领域的活跃景象，特别是在Claude Code系列产品的引领下。随着技术的不断进步和社区的支持，这些项目可能会在未来的开发中起到越来越重要的作用。开发者和企业都应关注这一趋势，以便把握可能的机遇和应用场景。
+总体来看，榜单上反映出的趋势与市场需求表明，AI在编程领域的应用将持续增长，开发者和公司需要及时适应和采纳相关工具以保持竞争力。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|6507|124973|2236|2026-01-18|
-|2|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|3904|88456|1718|2025-02-22|
-|3|[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)|Python|开源前沿语音人工智能|3546|32693|1165|2025-08-25|
-|4|[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)|Python|Claude Code的可视化、示例驱动指南-从基本概念到高级代理，带有可带来立即价值的复制粘贴模板。|2756|12139|897|2025-11-07|
-|5|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|2559|127635|822|2025-10-09|
-|6|[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)|HTML|练习让克劳德变得完美|2515|27932|797|2025-10-31|
-|7|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1841|19843|601|2025-07-22|
-|8|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |1396|342893|497|2025-11-24|
-|9|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |1396|342893|497|2025-11-24|
-|10|[bytedance/deer-flow](https://github.com/bytedance/deer-flow)|Python|一个开源SuperAgent工具，用于研究、编码和创建。在沙箱、记忆、工具、技能和子代理的帮助下，它可以处理可能需要几分钟到几个小时的不同级别的任务。|1204|55082|396|2025-05-07|
-|11|[shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)|Python|我们如何构建真正的人工智能代理？就像克劳德·代码一样。|1172|44910|392|2025-06-29|
-|12|[Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)|TypeScript|团队首创的Claude Code多代理编排|1111|18392|356|2026-01-09|
-|13|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|939|107395|304|2025-09-22|
-|14|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|907|67255|301|2025-10-13|
-|15|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|801|69226|278|2025-04-13|
+|1|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|9889|98345|4022|2025-02-22|
+|2|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|5311|130284|1970|2026-01-18|
+|3|[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)|Python|Claude Code的可视化、示例驱动指南-从基本概念到高级代理，带有可带来立即价值的复制粘贴模板。|2956|15095|987|2025-11-07|
+|4|[openai/codex](https://github.com/openai/codex)|Rust|在终端中运行的轻量级编码代理|2107|71333|759|2025-04-13|
+|5|[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)|HTML|练习让克劳德变得完美|2295|30227|753|2025-10-31|
+|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|2226|129861|723|2025-10-09|
+|7|[Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)|TypeScript|团队首创的Claude Code多代理编排|2091|20483|701|2026-01-09|
+|8|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |1420|344313|525|2025-11-24|
+|9|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |1420|344313|525|2025-11-24|
+|10|[shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)|Python|我们如何构建真正的人工智能代理？就像克劳德·代码一样。|1374|46284|493|2025-06-29|
+|11|[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)|Python|开源前沿语音人工智能|1463|34156|487|2025-08-25|
+|12|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1438|21281|475|2025-07-22|
+|13|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|1001|134542|333|2025-04-30|
+|14|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|993|134532|330|2025-04-30|
+|15|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|896|108291|302|2025-09-22|
 
 [所有日榜](./day/day.md)
 
