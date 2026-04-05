@@ -1,51 +1,50 @@
 Github热门开源项目榜单
 
-## 2026年04月04日
+## 2026年04月05日
 
-根据本期榜单的数据，可以从多个维度对项目进行分析：
+在本期榜单中，有多个项目得到了较高的关注和热度，以下是对这些项目的一些分析：
 
-### 1. 项目分布
-- **语言使用情况**：榜单中使用的编程语言包括JavaScript（1个项目）、TypeScript（6个项目）、Python（5个项目）、Shell（1个项目）和Rust（1个项目）。其中，TypeScript和Python的项目数量较多，显示出这两种语言在当前项目开发中的受欢迎程度。
-  
-### 2. 项目趋势与热度
-- **趋势Star**和**当前Star**的差异：
-  - **affaan-m/everything-claude-code** 项目在趋势Star中高达1670，当前Star为137308，是榜单中最热门的项目，显示出其持续增长的趋势。
-  - **Yeachan-Heo/oh-my-codex** 项目的趋势Star为1598，当前Star为15200，增长幅度相对较小。
-- **热度**方面，热度最高的项目是 **affaan-m/everything-claude-code**（590热度），说明在用户关注度和讨论度上表现突出。
+1. **总体趋势**：
+   - 本期榜单主要集中在与人工智能（AI）、代码生成和代理系统相关的项目上。很多项目致力于提高代码效率、优化开发流程以及提供各种AI工具来帮助开发者。
 
-### 3. 项目功能与特点
-- **多样性**：项目涵盖了从代码辅助、演示制作、到AI代理等多种功能。例如，**siddharthvaddem/openscreen** 提供了免费无水印的演示制作解决方案，而 **msitarzewski/agency-agents** 则专注于构建全方位的AI代理。
-- **社区和协作**：多个项目强调团队协作和多代理的运作，例如 **Yeachan-Heo/oh-my-claudecode** 和 **moltbot/moltbot**，反映出社区对协同工作的需求和重视。
+2. **高热度项目**：
+   - **siddharthvaddem/openscreen**（TypeScript）：成为榜单第一，受到了巨大的关注和高达21952的Star。项目特点在于提供一个开源的演示工具，且完全免费，没有水印，商业用途友好。
+   - **affaan-m/everything-claude-code**（JavaScript）：这个项目旨在优化Claude Code相关的性能，Star数达到了139726，非常受欢迎，表明其在开发社区中的重要性。
 
-### 4. 创新与实用性
-- **实用性**：许多项目如 **anthropics/claude-code** 通过自然语言处理来提升编码效率，显示出AI在软件开发中的实际应用潜力。
-- **创新性**：项目如 **block/goose** 提供了一种开源的AI代理，推动了传统代码建议的升级，展现出技术创新的趋势。
+3. **语言分布**：
+   - 项目主要使用TypeScript和Python，反映出这两种语言在AI工具和开发框架中的流行。TypeScript的项目多集中在用户界面和交互工具，而Python则多用于数据处理和AI算法实现。
 
-### 5. 创建时间考量
-- 从创建时间来看，许多项目都在近一年内建立（2025年），显示出这一领域的快速发展和用户的活跃参与。
+4. **项目类型和内容**：
+   - 众多项目提供了构建个人化AI助手的解决方案，如**moltbot/moltbot**和**openclaw/openclaw**，它们的设计理念是跨平台并具有个性化功能。
+   - 还有一些项目专注于与现有工具集成，例如**abhigyanpatwari/GitNexus**，它强调了代码智能引擎的潜力，支持浏览器内的交互式知识图创建。
 
-### 结论
-本榜单展示了当前前沿技术在AI和编程领域的应用，反映出开发者对提高生产力的需求以及对新技术的探求。随着开源项目的不断发展，将会有更多个人和团队参与到这些创新性的项目中，推动整个软件开发生态的进步。
+5. **达成状况**：
+   - 包括**NousResearch/hermes-agent**和**msitarzewski/agency-agents**在内的几个项目，展示出集成多种智能代理的趋势，说明开发者对于复杂系统的定制化需求在增长。
+
+6. **创建时间**：
+   - 较新的项目（例如2026年的）显示出实时关注和迅速发展的能力，尤其是在485/830等数字变化快速的情况下。较旧的项目则稳定发展，构建良好的用户基础。
+
+总结而言，本期榜单揭示了AI与代码生成及开发工具结合的深度趋势，同时也显示了社区对此类工具的极高兴趣与参与。随着技术的不断迭代，这些项目可能会引领下一波软件开发和AI助手的潮流。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|1670|137308|590|2026-01-18|
-|2|[Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)|TypeScript|OmX -哦，我的代码X：您的代码并不孤单。添加挂钩、代理团队、HUD等。|1598|15200|521|2026-02-02|
-|3|[siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)|TypeScript|免费创建令人惊叹的演示。开源、无需订阅、无水印、免费用于商业用途。Screen Studio的替代方案。 |1461|19138|465|2025-10-10|
-|4|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|1270|70879|448|2025-10-13|
-|5|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1241|134856|406|2025-10-09|
-|6|[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)|Python|Claude Code的可视化、示例驱动指南-从基本概念到高级代理，带有可带来立即价值的复制粘贴模板。|1180|18688|389|2025-11-07|
-|7|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1121|24617|380|2025-07-22|
-|8|[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)|Python|Gen-AI Teams聊天-考虑ChatGPT是否可以访问您团队的独特知识。|1033|23893|338|2023-04-27|
-|9|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |896|347890|337|2025-11-24|
-|10|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |896|347890|337|2025-11-24|
-|11|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|858|108646|327|2025-02-22|
-|12|[sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)|Python|通过用户名跨社交网络查找社交媒体帐户|909|79073|292|2018-12-24|
-|13|[block/goose](https://github.com/block/goose)|Rust|一个开源、可扩展的AI代理，超越了代码建议-使用任何LLM安装、执行、编辑和测试|858|35425|278|2024-08-23|
-|14|[Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)|TypeScript|团队首创的Claude Code多代理编排|759|23669|253|2026-01-09|
-|15|[google-research/timesfm](https://github.com/google-research/timesfm)|Python|TimesFM（时间序列基础模型）是Google Research开发的一个预训练的时间序列基础模型，用于时间序列预测。|688|14536|222|2024-04-29|
+|1|[siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)|TypeScript|免费创建令人惊叹的演示。开源、无需订阅、无水印、免费用于商业用途。Screen Studio的替代方案。 |2814|21952|880|2025-10-10|
+|2|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|2418|139726|856|2026-01-18|
+|3|[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)|Python|Claude Code的可视化、示例驱动指南-从基本概念到高级代理，带有可带来立即价值的复制粘贴模板。|1329|20017|433|2025-11-07|
+|4|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1233|25850|407|2025-07-22|
+|5|[Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)|TypeScript|OmX -哦，我的代码X：您的代码并不孤单。添加挂钩、代理团队、HUD等。|1193|16393|386|2026-02-02|
+|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1072|135928|350|2025-10-09|
+|7|[block/goose](https://github.com/block/goose)|Rust|一个开源、可扩展的AI代理，超越了代码建议-使用任何LLM安装、执行、编辑和测试|1039|36464|342|2024-08-23|
+|8|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |871|348761|324|2025-11-24|
+|9|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |871|348761|324|2025-11-24|
+|10|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|912|71791|315|2025-10-13|
+|11|[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)|Python|Gen-AI Teams聊天-考虑ChatGPT是否可以访问您团队的独特知识。|883|24776|287|2023-04-27|
+|12|[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)|TypeScript|GitNexus：零服务器代码智能引擎-       GitNexus是一个客户端知识图创建者，完全在您的浏览器中运行。放入GitHub repo或Zip文件，并通过内置的Shape RAG代理获取交互式知识图。非常适合代码探索|765|22287|247|2025-08-02|
+|13|[sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)|Python|通过用户名跨社交网络查找社交媒体帐户|702|79775|222|2018-12-24|
+|14|[anthropics/claude-code](https://github.com/anthropics/claude-code)|TypeScript|Claude Code是一款代理编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理git工作流程来帮助您更快地编码-所有这些都是通过自然语言命令。|593|109239|217|2025-02-22|
+|15|[Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)|TypeScript|团队首创的Claude Code多代理编排|644|24313|211|2026-01-09|
 
 [所有日榜](./day/day.md)
 
