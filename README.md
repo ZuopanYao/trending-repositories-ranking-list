@@ -1,47 +1,51 @@
 Github热门开源项目榜单
 
-## 2026年04月10日
+## 2026年04月11日
 
-根据本期榜单的数据分析，我们可以从几个角度进行探讨，包括项目的语言、介绍、当前Stars及热度等。
+根据提供的榜单，这里是对各个项目的分析和趋势观察：
 
-### 1. **项目语言分布**
-此榜单中的项目主要集中在Python和JavaScript等常用语言上，其中Python项目数量较多。可以观察到Python的丰富生态和广泛应用，使其在人工智能领域尤其受到青睐。此外，还有少量Shell、TypeScript和Java等语言的项目。
+### 1. 热门语言分析
+- **Python** 是榜单中最常用的编程语言（例如：NousResearch/hermes-agent, microsoft/markitdown, OpenBMB/VoxCPM等），显示出Python在开发代理和人工智能工具中的重要性。
+- **TypeScript** 也显露出其在开发个人AI助手上的潜力（如：multica-ai/multica, moltbot/moltbot, openclaw/openclaw等）。
 
-### 2. **项目介绍**
-大部分项目的介绍都明显偏向于人工智能和机器学习相关的主题。例如，“NousResearch/hermes-agent”和“HKUDS/DeepTutor”均与个人化学习和代理人系统相关。而“microsoft/markitdown”则关注文档处理，展示出工具项目的潜力。
+### 2. 项目热度与现有Stars
+- 项目 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) 以57370 Stars和6639的趋势Star名列第一，潜在的社区支持和用户基础非常强大。
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 的Stars已接近10万（101425），表明其转换文档为Markdown的功能得到了广泛认可。
 
-### 3. **Stars和热度分析**
-- **总Stars及趋势**: “NousResearch/hermes-agent”目前以50731的Stars高居榜首，并且其趋势Star也相当可观（7552），显示出其项目质量和受欢迎的潜力。而“markitdown”作为微软的项目，强劲的市场背景使其在Stars上也表现优异（98730）。
-- **热度**: “NousResearch/hermes-agent”的热度为2490，远超过其他项目，表明社区对该项目的活跃程度较高。其余项目的热度分布较为均匀，但没有项目能达到其热度水平。
+### 3. 新兴项目与趋势
+- **multica-ai/multica** 是一个开源托管代理平台，近期（2026年）创建，显示出对团队协作编码的关注。
+- **每个代理项目**（如：shanraisshan/claude-code-best-practice, affaan-m/everything-claude-code等）强调了“Claude”系列工具在提升AI效率和增强编码能力方面的重要性。
 
-### 4. **新兴项目及时间**
-该榜单中的项目创建时间跨度较长，最早创建于2024年，最近创建的是一些在2025年发布的项目。这表明在人工智能领域，新项目不断涌现，显示出持续的创新和研究热情。
+### 4. 市场需求
+- 许多项目（如DeepTutor, Archon等）专注于教育领域，显示出市场在个性化学习助理方面的需求。
+- AI助理项目（如moltbot和openclaw）显示出对智能助手的兴趣日益增加，尤其是跨平台的能力。
 
-### 5. **项目命名和特点**
-不少项目的名字较为吸引人，体现了它们的功能或特色，如“moltbot”和“openclaw”均为个性化AI助理，标志着对个人化服务需求的关注。
+### 5. 项目生命周期
+- 较早创建的项目（如：我们看到的）往往具备更高的Stars，表明时间与社会认可的相关性。
+- 新项目（如：用Java开发的opendataloader-pdf）可能未达到成熟期，但如果解决实时问题则有可能迅速崛起。
 
-### 结论
-从本期榜单可以看出，人工智能仍然是开发者社区关注的热点，Python作为主要语言的项目表现突出。同时，新兴项目的不断增加表明这一领域的活跃性和创新性。开发者的兴趣明显集中在提升个人智能助手及其应用上，这为未来的研究和开发提供了良好的方向。
+### 6. 总结
+此榜单显示出人工智能和自动化工具的持续兴趣，尤其是在教育、文档处理和个人助手领域。Python和TypeScript无疑是当前最受欢迎的语言，随着技术的不断演进，这些趋势有可能继续发展。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|7552|50731|2490|2025-07-22|
-|2|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|2535|98730|804|2024-11-13|
-|3|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|2073|145334|668|2025-10-09|
-|4|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|1501|149777|505|2026-01-18|
-|5|[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)|HTML|练习让克劳德变得完美|1356|35361|442|2025-10-31|
-|6|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1376|11419|430|2026-01-27|
-|7|[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)|Python|“DeepTutor：代理原生个性化学习助理”|1260|15707|405|2025-12-28|
-|8|[opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)|Java|用于AI就绪数据的PDF解析器。自动化PDF访问权限。开源。|1176|14588|376|2025-05-13|
-|9|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |917|354002|336|2025-11-24|
-|10|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |917|354002|336|2025-11-24|
-|11|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|952|77647|332|2025-10-13|
-|12|[OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)|Python|VoxCPM：用于上下文感知语音生成和逼真语音克隆的无令牌转换器|958|8421|309|2025-09-16|
-|13|[coleam00/Archon](https://github.com/coleam00/Archon)|Python|Archon OS的Beta版本-AI编码助手的知识和任务管理骨干。|936|15145|298|2025-02-07|
-|14|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|699|114505|231|2025-09-22|
-|15|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|711|47313|227|2025-08-31|
+|1|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|6639|57370|2225|2025-07-22|
+|2|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|2695|101425|851|2024-11-13|
+|3|[multica-ai/multica](https://github.com/multica-ai/multica)|TypeScript|开源托管代理平台。将编码代理变成真正的队友-分配任务、跟踪进度、复合技能。|1879|7400|622|2026-01-13|
+|4|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1474|146808|475|2025-10-09|
+|5|[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)|HTML|练习让克劳德变得完美|1378|36739|440|2025-10-31|
+|6|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|1250|151027|423|2026-01-18|
+|7|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1316|12735|418|2026-01-27|
+|8|[OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)|Python|VoxCPM：用于上下文感知语音生成和逼真语音克隆的无令牌转换器|1137|9558|369|2025-09-16|
+|9|[coleam00/Archon](https://github.com/coleam00/Archon)|Python|Archon OS的Beta版本-AI编码助手的知识和任务管理骨干。|1105|16250|353|2025-02-07|
+|10|[shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)|Python|克洛诺斯：金融市场语言的基础模型|1016|13572|341|2025-07-01|
+|11|[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)|Python|“DeepTutor：代理原生个性化学习助理”|824|16531|267|2025-12-28|
+|12|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |726|354728|258|2025-11-24|
+|13|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |726|354728|258|2025-11-24|
+|14|[opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)|Java|用于AI就绪数据的PDF解析器。自动化PDF访问权限。开源。|797|15385|253|2025-05-13|
+|15|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|620|78267|207|2025-10-13|
 
 [所有日榜](./day/day.md)
 
