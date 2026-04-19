@@ -49,72 +49,57 @@ Github热门开源项目榜单
 
 [所有日榜](./day/day.md)
 
-## 2026年第14周
+## 2026年第15周
 
-在本期榜单中，可以观察到多个热门人工智能项目，它们在GitHub上的Star数和热度表现亮眼。以下是对榜单的详细分析：
+从这份榜单中，我们可以分析出一些有趣的趋势和项目特征。以下是对榜单的详细分析：
 
-### 项目概览
-1. **Hermes Agent**（项目链接：[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)）
-   - **语言**：Python
-   - **当前Star**：64760
-   - **趋势Star**：37201
-   - **热度**：12245
-   - **介绍**：与用户一起成长的代理人，可能暗示其学习能力和个性化互动。
-   - **分析**：这个项目无疑是当前榜单的明星，具备显著的用户参与度和发展潜力。
+### 1. 项目分布
+- **语言多样性**：榜单上包含多种编程语言，其中Python和TypeScript占据较大份额，这反映了这两种语言在现代开发和AI领域的广泛应用。
+- **热门项目**：前五个项目基本都围绕Claude Code和人工智能的能力提升进行探讨，说明这一领域目前非常受欢迎。
 
-2. **Superpowers**（项目链接：[obra/superpowers](https://github.com/obra/superpowers)）
-   - **语言**：Shell
-   - **当前Star**：148021
-   - **趋势Star**：10881
-   - **热度**：3511
-   - **介绍**：核心技能库，可能帮助开发者提升编码能力。
-   - **分析**: 拥有极高是用户关注度，展示了开发者对技能提升的需求。
+### 2. 热度与星标趋势
+- **星标变化**：项目如`forrestchang/andrej-karpathy-skills`和`NousResearch/hermes-agent`的星标增幅明显（分别为12212和8643），表明这些项目在社区中引起了强烈的关注和认可。
+- **项目热度**：热度高的项目通常是因为其提供了实用的功能或新颖的解决方案。例如，`NousResearch/hermes-agent`为用户提供了一个成长型的代理，列表中的多个项目都涉及AI代理的优化和使用。
 
-3. **Everything Claude Code**（项目链接：[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)）
-   - **语言**：JavaScript
-   - **当前Star**：152294
-   - **趋势Star**：10137
-   - **热度**：3468
-   - **介绍**：涉及多个AI相关领域的技能优化。
-   - **分析**: 完善的功能和强大的技能集让其在社区中获得广泛关注。
+### 3. 项目功能分析
+- **AI 相关项目**：许多项目聚焦于AI应用的提升与效率优化，如`claude-mem`和`everything-claude-code`等，这显示出市场对提高AI工作效率的需求。
+- **工具类项目**：工具类项目如`markitdown`和`openclaw`提供了实用的功能，帮助用户进行文件转化和日常任务的自动化，显示出工具化解决方案的重要性。
 
-### 趋势与语言分析
-- **语言分布**：Python和TypeScript是排行榜上最受欢迎的编程语言，反映出它们在AI和开发工具中的重要性。Python的简单易用性以及TypeScript的类型安全特性都为它们赢得了广泛的支持。
-- **热度趋势**：热度值高的项目往往能够引发社区的活跃讨论和贡献，带动项目的成长。像Hermes Agent这样的项目在热度上表现尤为突出，显示出稳定的用户基础。
+### 4. 创建时间与发展潜力
+- **新旧项目**：部分项目创建时间较新（如创建于2026年的项目），它们可能代表最新的技术趋势和发展方向。相应地，老项目如`public-apis`创建于2016年，显示出持续的社区支持和使用。
+- **比较稳健的项目**：创建时间长且星标高的项目，如`public-apis`，说明它们在社区中具有广泛的应用基础和持续的维护支持。
 
-### 热点项目
-- **Markitdown**和**Moltbot**均为用户提供了便捷的工具，前者针对文档处理，而后者则是一个个人人工智能助理。此类工具愈发受到用户青睐，因其在提高工作效率方面的巨大潜力。
-- **OpenScreen**和**OpenDataloader**项目则强调了开源与商业结合的趋势，为用户提供无需订阅的解决方案，非常符合当今市场的需求。
+### 5. 潜在的应用领域
+- **教育与学习**：如`claude-code-best-practice`和其他关于Claude的项目，指向对编程最佳实践和学习模块的关注。
+- **自动化与高效工具**：工具如`get-shit-done`和`cross-platform desktops tools`显示出开发者对生产力工具的需求持续增加。
 
-### 未来展望
-基于当前趋势，未来的项目可能会进一步朝向个性化、智能化的方向发展。随着AI技术的不断演进，开发者在构建工具时将更加注重用户的互动体验和实用性。建议关注那些在榜单中不断增长并拥有逐步增多的社区支持的项目。
-
-总体而言，这些项目不仅展示了当前技术的发展趋势，也反映出了开发者社区对新工具和技术的渴望与需求。
+### 结论
+总体来看，这个榜单反映了在AI和编程工具领域的快速发展与创新。项目的多样性和高热度说明了市场对智能代理、生产力工具和自动化解决方案的强烈需求，暗示未来这些领域可能会有更多的进展和突破。随着用户需求的变化，开发者们有必要保持灵活的思维与快速的响应能力，以适应不断演变的技术环境。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|37201|64760|12245|2025-07-22|
-|2|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|10881|148021|3511|2025-10-09|
-|3|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|10137|152294|3468|2026-01-18|
-|4|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|10618|104008|3370|2024-11-13|
-|5|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |5742|355522|2089|2025-11-24|
-|6|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |5742|355522|2089|2025-11-24|
-|7|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|5877|78741|2019|2025-10-13|
-|8|[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)|HTML|练习让克劳德变得完美|6106|38476|1991|2025-10-31|
-|9|[siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)|TypeScript|免费创建令人惊叹的演示。开源、无需订阅、无水印、免费用于商业用途。Screen Studio的替代方案。 |5037|28638|1591|2025-10-10|
-|10|[opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)|Java|用于AI就绪数据的PDF解析器。自动化PDF访问权限。开源。|4735|15971|1537|2025-05-13|
-|11|[OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)|Python|VoxCPM：用于上下文感知语音生成和逼真语音克隆的无令牌转换器|4651|10942|1509|2025-09-16|
-|12|[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)|Python|Claude Code的可视化、示例驱动指南-从基本概念到高级代理，带有可带来立即价值的复制粘贴模板。|4395|25517|1436|2025-11-07|
-|13|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|4204|115667|1401|2025-09-22|
-|14|[Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)|TypeScript|OmX -哦，我的代码X：您的代码并不孤单。添加挂钩、代理团队、HUD等。|4236|21530|1320|2026-02-02|
-|15|[shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)|Python|克洛诺斯：金融市场语言的基础模型|3921|15418|1307|2025-07-01|
-|16|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|3761|141947|1279|2025-04-30|
-|17|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|3760|141955|1278|2025-04-30|
-|18|[666ghj/MiroFish](https://github.com/666ghj/MiroFish)|Python|一个简单而通用的群体智能引擎，预测任何事情。简洁通用的群体智能引擎，预测万物|3494|54035|1200|2025-11-26|
-|19|[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)|TypeScript|GitNexus：零服务器代码智能引擎-       GitNexus是一个客户端知识图创建者，完全在您的浏览器中运行。放入GitHub repo或Zip文件，并通过内置的Shape RAG代理获取交互式知识图。非常适合代码探索|3648|26795|1179|2025-08-02|
-|20|[block/goose](https://github.com/block/goose)|Rust|一个开源、可扩展的AI代理，超越了代码建议-使用任何LLM安装、执行、编辑和测试|3549|41370|1166|2024-08-23|
+|1|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|38098|60479|12212|2026-01-27|
+|2|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|25775|101422|8643|2025-07-22|
+|3|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|10639|63043|3434|2025-08-31|
+|4|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|9688|159647|3113|2025-10-09|
+|5|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|6930|160981|2318|2026-01-18|
+|6|[multica-ai/multica](https://github.com/multica-ai/multica)|TypeScript|开源托管代理平台。将编码代理变成真正的队友-分配任务、跟踪进度、复合技能。|5899|16602|1931|2026-01-13|
+|7|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|5921|112469|1897|2024-11-13|
+|8|[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)|HTML|练习让克劳德变得完美|5424|46501|1781|2025-10-31|
+|9|[jamiepine/voicebox](https://github.com/jamiepine/voicebox)|TypeScript|开源语音合成工作室|5011|20910|1612|2026-01-25|
+|10|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |4066|360425|1480|2025-11-24|
+|11|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |4065|360425|1480|2025-11-24|
+|12|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|3870|120369|1282|2025-09-22|
+|13|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|3801|83127|1280|2025-10-13|
+|14|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|3691|424989|1206|2016-03-20|
+|15|[virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)|Python|人工智能对冲基金团队|3513|56294|1189|2024-11-29|
+|16|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|3357|145884|1123|2025-04-30|
+|17|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|3355|145888|1123|2025-04-30|
+|18|[pascalorg/editor](https://github.com/pascalorg/editor)|TypeScript|创建和共享3D建筑项目。|3266|13442|1050|2025-10-16|
+|19|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|3155|47176|997|2025-08-04|
+|20|[gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)|JavaScript|一个轻量级且强大的元提示、上下文工程和规范驱动的开发系统，适用于Claude Code和OpenCode。|3013|54872|959|2025-12-14|
 
 [所有周榜](./week/week.md)
 
