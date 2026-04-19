@@ -1,54 +1,51 @@
 Github热门开源项目榜单
 
-## 2026年04月18日
+## 2026年04月19日
 
-从本期榜单中，可以看到当前在GitHub上颇受欢迎的项目主要集中在人工智能和自动化领域。以下是对榜单的分析：
+根据本期榜单的数据，我们可以做出以下几个方面的分析：
 
-### 项目排名分析
-1. **整体趋势**：榜单前列的项目普遍关注人工智能，尤其是与Claude Code相关的技术，这表明对于智能编程助手和自动化的需求在不断上升。
-2. **Star数量**：
-   - **andrej-karpathy-skills**项目的Star数量达到了57074，显示出其广泛的关注和潜在应用价值，尤其是在改进AI行为方面。
-   - 另外几个项目如**hermes-agent**和**superpowers**也呈现出较高的Star数量，分别为98814和158611，说明这些项目都很受开发者欢迎。
+### 1. 热门项目概览
+- **Forrestchang/andrej-karpathy-skills** 和 **multica-ai/andrej-karpathy-skills** 两个项目在榜单上占据前两名，它们的项目介绍相似，都是围绕Claude Code行为改进的文档。这表明这类改进和最佳实践文档的需求较高。
+- **NousResearch/hermes-agent** 和 **obra/superpowers** 也在榜单中排名较高，分别为第三和第四。这些项目涉及到智能代理与其能力的拓展，显示出在AI代理领域的持续兴趣。
 
-### 项目技术栈
-- 项目主要使用的语言包括Python、JavaScript、TypeScript和Shell：
-   - **Python**：在人工智能和机器学习领域，Python仍然是首选语言，这也反映在榜单中的多个项目，如**markitdown**和**DeepTutor**。
-   - **JavaScript/TypeScript**：这些语言在前端开发中占据重要地位，项目如**claude-mem**和**moltbot**都使用了JavaScript/TypeScript，显示出它们在AI助手和插件领域的应用。
+### 2. 编程语言多样性
+- 在榜单中，Python和TypeScript占据了较为重要的地位，这反映出这两种语言在人工智能及自动化领域的广泛应用。
+- 除此之外，Shell和JavaScript也被一些项目采用，展示了多种技术栈在这类应用中的存在。
 
-### 项目热度
-- 热度指标提供了项目在短期内的关注趋势，虽然此榜单中热度值差异较大，但普遍高于200，表明项目正在吸引开发者的注意力。
-- **andrej-karpathy-skills**以1025的热度值登顶，说明该项目在社区中的讨论度和活跃度非常高。
+### 3. 项目热度与Star趋势
+- 一些项目如 **forrestchang/andrej-karpathy-skills** 拥有极高的 **当前Star** 数量（60479），并且 **趋势Star** 接近3405，表示这个项目在社区中非常活跃且备受关注。
+- 与此对比，其他项目如 **openai/openai-agents-python** 和 **microsoft/markitdown** 尽管Star数也很多(22919和112469)，但热度相对较低，说明它们可能在特定用户群体中的适用性更强。
 
-### 项目特点
-- 各个项目提供的功能各异，从游戏开发助手（**Claude-Code-Game-Studios**）到个性化学习助手（**DeepTutor**），显示出AI领域应用的多样性。
-- 特别是像**everyting-claude-code**和**agency-agents**这样的项目，强调了AI系统在各种任务中的整合能力，展现未来AI的协作潜力。
+### 4. 项目创建时间
+- 大部分项目的创建时间集中在2025年到2026年之间，表明这些项目都是在最近几年内由于人工智能技术的发展而新兴的。
+- 有些项目如 **markitdown** 和 **omi** 已经在开发了一段时间，但依旧在持续更新和改进，显示出开发者的持续投入。
 
-### 主题洞察
-- **AI助理和代理**：许多项目聚焦于构建智能代理，以提高工作效率或增强用户体验，这反映了AI技术在日常生活中的渐进式融合。
-- **个性化**：项目如**DeepTutor**和**voicebox**表明，个性化的学习体验和语音交互的应用正在成为趋势。
-- **协作与整合**：项目如**multica**强调了代理在团队协作中的角色，未来可以期待这种整合技能的增长。
+### 5. 未来趋势
+- 由于当前的项目大多围绕人工智能应用和代理人相关技能展开，这表明未来的开发趋势可能会继续朝着智能代理、自主学习、性能优化等方向发展。
+- 随着人工智能技术的成熟，包含更多功能和智能解决方案的项目可能会吸引更多的开发者和用户关注。
 
-总结来看，本期榜单显示了人工智能领域的活跃和多样化，开发者们对于利用AI提升生产力和创建个性化体验抱有极大兴趣，未来这些项目很可能引领新的技术趋势。
+### 结论
+总体而言，本期榜单展现了人工智能领域的发展动态及其在技术栈上的多样化。能够迅速获得Star的项目多围绕实践性和功能性拓展，在未来的更新和迭代中，这些项目有可能进一步优化和丰富现有功能。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|3145|57074|1025|2026-01-27|
-|2|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|2557|98814|861|2025-07-22|
-|3|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1182|158611|383|2025-10-09|
-|4|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|1005|62159|326|2025-08-31|
-|5|[EvoMap/evolver](https://github.com/EvoMap/evolver)|JavaScript|由GEP驱动的人工智能代理自我进化引擎。基因组进化协议。| evomap.ai|986|4859|315|2026-02-01|
-|6|[Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)|Shell|将Claude Code打造成一个完整的游戏开发工作室--49个人工智能代理、72个工作流程技能以及反映真实工作室层次结构的完整协调系统。|856|12441|278|2026-02-12|
-|7|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|828|82401|271|2025-10-13|
-|8|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|785|111824|249|2024-11-13|
-|9|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|744|160220|247|2026-01-18|
-|10|[multica-ai/multica](https://github.com/multica-ai/multica)|TypeScript|开源托管代理平台。将编码代理变成真正的队友-分配任务、跟踪进度、复合技能。|755|15992|246|2026-01-13|
-|11|[lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent)|Python|自我进化的代理：从3.3K行种子中生长技能树，以减少6倍的代币消耗实现全面系统控制|752|4149|240|2026-01-16|
-|12|[jamiepine/voicebox](https://github.com/jamiepine/voicebox)|TypeScript|开源语音合成工作室|691|20320|223|2026-01-25|
-|13|[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)|Python|“DeepTutor：代理原生个性化学习助理”|631|19593|206|2025-12-28|
-|14|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |546|359910|198|2025-11-24|
-|15|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |546|359910|198|2025-11-24|
+|1|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|3405|60479|1099|2026-01-27|
+|2|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|3401|60480|1097|2026-01-27|
+|3|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|2608|101422|883|2025-07-22|
+|4|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1036|159647|334|2025-10-09|
+|5|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|884|63043|287|2025-08-31|
+|6|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|761|160981|251|2026-01-18|
+|7|[openai/openai-agents-python](https://github.com/openai/openai-agents-python)|Python|用于多代理工作流程的轻量级、强大的框架|758|22919|243|2025-03-11|
+|8|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|726|83127|242|2025-10-13|
+|9|[Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)|Shell|将Claude Code打造成一个完整的游戏开发工作室--49个人工智能代理、72个工作流程技能以及反映真实工作室层次结构的完整协调系统。|682|13123|223|2026-02-12|
+|10|[BasedHardware/omi](https://github.com/BasedHardware/omi)|C|人工智能可穿戴设备。穿上它，说话，转录，自动|672|10907|213|2024-03-22|
+|11|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|645|112469|211|2024-11-13|
+|12|[thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt)|TypeScript|您控制的人工智能：选择您的模型。拥有您的数据。消除供应商锁定。|663|2027|209|2025-07-23|
+|13|[multica-ai/multica](https://github.com/multica-ai/multica)|TypeScript|开源托管代理平台。将编码代理变成真正的队友-分配任务、跟踪进度、复合技能。|610|16602|204|2026-01-13|
+|14|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |515|360425|196|2025-11-24|
+|15|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |515|360425|196|2025-11-24|
 
 [所有日榜](./day/day.md)
 
