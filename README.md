@@ -1,66 +1,48 @@
 Github热门开源项目榜单
 
-## 2026年04月25日
+## 2026年04月26日
 
-根据本期榜单的数据，我们可以对现有项目进行分析，并提取一些有价值的信息。
+本期榜单展示了多种GitHub项目，主要集中在人工智能、编程工具和开发辅助工具上。以下是对榜单的分析：
 
-### 项目概述
+### 概览
+1. **项目类型多样**：榜单中的项目涵盖了从AI技能库、黑客工具到开发环境的多种类型，显示出开发者对提升编程效率和功能的广泛需求。
+2. **高热度项目**：一些项目拥有显著的Star数（如 `andrej-karpathy-skills` 和 `free-claude-code`），显示出社区的支持和兴趣。
 
-1. **主流语言**：
-   - Python 项目占据了榜单的相当大一部分，表明Python在人工智能和机器学习领域的广泛应用。
-   - TypeScript和JavaScript也有多个项目，显示前端技术在开发助手和用户界面中的重要性。
+### 排行分析
+- **前两名项目**（`forrestchang/andrej-karpathy-skills` 和 `multica-ai/andrej-karpathy-skills`）不仅Star数接近90,000，且同样的项目介绍说明这两个项目可能是相互关联或者相互参考的。它们的热度也表现超群，接近1100。
+  
+- **语言多样性**：虽然大多数项目使用Python，但也有Shell、Rust和TypeScript等不同编程语言，展示了技术栈的多样性和灵活性。
 
-2. **关注领域**：
-   - 多个项目围绕如何改进**Claude Code**的行为展开，显示出社区对智能编码助手的浓厚兴趣。
-   - 一些项目还涉及到**集成开发环境（IDE）**和**命令行工具**，这表明开发者希望通过更强大的工具来提升效率。
-   - 有关**开源替代品**的项目也显示了对AI生成技术的探索和抵制内容过滤的需求。
+- **创建时间较新**：有些项目（例如大部分排在前十的项目）创建时间较近（2026年），显示出这些工具是针对当前技术趋势和开发需求而研发的。
 
-### 热度与流行程度分析
+- **实用性与创新性**：如 `GitNexus` 提供的零服务器代码智能引擎和 `WevibeVoice` 的开源语音AI，代表了当今技术发展的前沿，尤其是在代码智能化和人机交互方面。
 
-1. **Star数量**：
-   - 项目**andrej-karpathy-skills**（序号1和2）的Star数非常高，都是超过86,000，显示这个主题的极大受欢迎程度。
-   - **free-claude-code**（序号3）尽管只有11,006个Star，相较于其他项目的热度仍然较高，表明此项目在特定用户群体中有其市场。
-
-2. **趋势Star**：
-   - 项目**hermes-agent**（序号4）有较高的趋势Star（1,613），说明它在未来有良好的增长潜力。
-   - 通过趋势Star的指标，我们可以推测出一些项目可能在未来会成为更受欢迎的工具。
-
-### 创建时间与新兴项目
-
-1. **时间分布**：
-   - 所有项目的创建时间集中在2020年到2026年，展现了近年来对AI技术及其应用的探索。
-   
-2. **新兴项目**：
-   - 一些较新的项目（如**everything-claude-code**和**cc-switch**，分别创建于2026年）的热度较高，显示出这些项目在快速增长和获得关注。
-
-### 潜力项目
-
-- **hermes-agent**和**free-claude-code**由于其较新的创建时间和适度的Star数，可能会吸引更多开发者的目光。
-- 如果从功能扩展、用户反馈等方面进行进一步优化，这些项目有机会在不远的将来成为更大的项目。
+### 趋势观察
+1. **AI工具的流行**：许多项目围绕着增强人工智能代码生成的能力展开，表明开发者对使用AI提升工作效率的关注。
+2. **开发效率**：如 `rtk` 是一个CLI代理，旨在减少开发命令的令牌消耗量，这类工具显示出开发者寻找提高效率和降低资源消耗的趋势。
 
 ### 总结
-
-本期榜单显示了人工智能编程助手领域的活跃性，以及开发者对新的、高效工具的渴望。在接下来的时间中，关注趋势Star和新兴项目将是跟进最新技术和工具的有效策略。同时，对于依赖于社区反馈和持续更新的开源项目而言，提供稳定的功能和快速响应用户需求将是其成功的关键。
+整体来看，本期榜单展现了开发社区对当前技术趋势的快速响应和适应，尤其是在AI和高效开发工具方面。未来，这些项目的活跃程度和社区支持程度预计将继续影响开发者的工具选择和技术栈的形成。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|3677|86607|1180|2026-01-27|
-|2|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|3677|86610|1180|2026-01-27|
-|3|[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)|Python|在终端、VSCode扩展或通过discord（如openclaw）免费使用claude-code|3357|11006|1099|2026-01-28|
-|4|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1613|116376|551|2025-07-22|
-|5|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1378|19201|450|2026-02-03|
-|6|[Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)|Python|适合黑客的一体化黑客工具|1381|63332|448|2020-04-11|
-|7|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|1366|495660|445|2018-05-09|
-|8|[huggingface/ml-intern](https://github.com/huggingface/ml-intern)|Python|Jumml-intern：一个开源ML工程师，阅读论文，训练模型，并运送ML模型|1169|6018|379|2025-10-30|
-|9|[rtk-ai/rtk](https://github.com/rtk-ai/rtk)|Rust|CLI代理可将常用开发命令的LLM令牌消耗量减少60-90%。单一Rust二进制，零依赖|996|35271|319|2026-01-22|
-|10|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|876|167401|286|2025-10-09|
-|11|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|757|166789|248|2026-01-18|
-|12|[Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)|JavaScript|Higgsfield AI、Freepik、Krea、Openart AI的未经审查、开源替代品-免费、不受限制的人工智能图像和视频生成工作室，拥有200多个模型（Flux、Midjourney、Kling、Sora、Veo）。没有内容过滤器。自托管、麻省理工学院许可。|652|8103|211|2023-05-09|
-|13|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|628|51220|196|2025-08-04|
-|14|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|537|149361|178|2025-04-30|
-|15|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|534|149364|177|2025-04-30|
+|1|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|3293|89900|1058|2026-01-27|
+|2|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|3291|89901|1057|2026-01-27|
+|3|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|2986|22187|954|2026-02-03|
+|4|[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)|Python|在终端、VSCode扩展或通过discord（如openclaw）免费使用claude-code|1784|12790|591|2026-01-28|
+|5|[Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)|Python|适合黑客的一体化黑客工具|1659|64991|543|2020-04-11|
+|6|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1555|117931|535|2025-07-22|
+|7|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|939|496599|303|2018-05-09|
+|8|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|867|168268|285|2025-10-09|
+|9|[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)|TypeScript|GitNexus：零服务器代码智能引擎-       GitNexus是一个客户端知识图创建者，完全在您的浏览器中运行。放入GitHub repo或Zip文件，并通过内置的Shape RAG代理获取交互式知识图。非常适合代码探索|855|29904|278|2025-08-02|
+|10|[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)|Python|开源前沿语音人工智能|687|41741|220|2025-08-25|
+|11|[HQarroum/docker-android](https://github.com/HQarroum/docker-android)|Shell|????一个最小且可定制的Docker镜像，将Android模拟器作为服务运行。|674|4677|213|2023-02-08|
+|12|[rtk-ai/rtk](https://github.com/rtk-ai/rtk)|Rust|CLI代理可将常用开发命令的LLM令牌消耗量减少60-90%。单一Rust二进制，零依赖|670|35941|212|2026-01-22|
+|13|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|634|167423|210|2026-01-18|
+|14|[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)|Shell|人工智能编码代理的生产级工程技能。|637|23578|209|2026-02-15|
+|15|[Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)|Python|FinceptTerminator是一款现代金融应用程序，提供先进的市场分析、投资研究和经济数据工具，旨在在用户友好的环境中进行交互式探索和数据驱动的决策。|614|15340|203|2024-08-29|
 
 [所有日榜](./day/day.md)
 
