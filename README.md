@@ -1,48 +1,53 @@
 Github热门开源项目榜单
 
-## 2026年04月26日
+## 2026年04月27日
 
-本期榜单展示了多种GitHub项目，主要集中在人工智能、编程工具和开发辅助工具上。以下是对榜单的分析：
+本期榜单展示了多个热门开源项目，主要集中在提高编码效率、AI助手以及与 Claude 相关的工具等主题。以下是对榜单的分析：
 
-### 概览
-1. **项目类型多样**：榜单中的项目涵盖了从AI技能库、黑客工具到开发环境的多种类型，显示出开发者对提升编程效率和功能的广泛需求。
-2. **高热度项目**：一些项目拥有显著的Star数（如 `andrej-karpathy-skills` 和 `free-claude-code`），显示出社区的支持和兴趣。
+### 项目分布
+1. **语言多样性**：
+   - 该榜单中的项目使用了多种编程语言，包括 Shell (3个项目)、Python (5个项目)、TypeScript (6个项目) 和 Rust (1个项目)。这表明不同语言的开发者在创造和共享工具方面的活跃性。
 
-### 排行分析
-- **前两名项目**（`forrestchang/andrej-karpathy-skills` 和 `multica-ai/andrej-karpathy-skills`）不仅Star数接近90,000，且同样的项目介绍说明这两个项目可能是相互关联或者相互参考的。它们的热度也表现超群，接近1100。
+2. **热门项目**：
+   - `mattpocock/skills` 项目的 Star 较高（28,116），说明其在开发者社区中的受欢迎程度。这是一个个人技能目录，可能提供了实用的命令或配置，吸引了许多程序员的关注。
+   - `NousResearch/hermes-agent` 是另一款高受欢迎程度的项目（120,125 Star），其功能描述吸引了对 AI 代理感兴趣的开发者。
+
+### 项目功能与内容
+- **Claude 系列项目**：
+  - 多个项目针对 Claude 进行了改进和拓展，例如 `forrestchang/andrej-karpathy-skills` 和 `multica-ai/andrej-karpathy-skills`，这些项目呈现出对 Claude 的广泛关注和深度研究，尤其在 AI 领域的编码和行为方面。
+
+- **AI 助手相关工具**：
+  - 项目如 `moltbot/moltbot` 和 `openclaw/openclaw` 提供个人 AI 助手工具，这显示出开发者对智能助手应用的持续关注趋势。
+
+### 热度与趋势
+- **热度数值**：
+  - 项目的热度和 star 数量是其受欢迎程度的体现。热度在 250 到 1900 之间波动，项目如 `mattpocock/skills` 和 `NousResearch/hermes-agent` 在热度和 star 数量上均表现突出。
   
-- **语言多样性**：虽然大多数项目使用Python，但也有Shell、Rust和TypeScript等不同编程语言，展示了技术栈的多样性和灵活性。
+- **创建时间与新旧项目**：
+  - 项目涉及的创建时间跨度从 2020 年到 2026 年，较新的项目通常受到了更多的关注和活跃的更新，说明最新技术和趋势对开发者的吸引力。
 
-- **创建时间较新**：有些项目（例如大部分排在前十的项目）创建时间较近（2026年），显示出这些工具是针对当前技术趋势和开发需求而研发的。
-
-- **实用性与创新性**：如 `GitNexus` 提供的零服务器代码智能引擎和 `WevibeVoice` 的开源语音AI，代表了当今技术发展的前沿，尤其是在代码智能化和人机交互方面。
-
-### 趋势观察
-1. **AI工具的流行**：许多项目围绕着增强人工智能代码生成的能力展开，表明开发者对使用AI提升工作效率的关注。
-2. **开发效率**：如 `rtk` 是一个CLI代理，旨在减少开发命令的令牌消耗量，这类工具显示出开发者寻找提高效率和降低资源消耗的趋势。
-
-### 总结
-整体来看，本期榜单展现了开发社区对当前技术趋势的快速响应和适应，尤其是在AI和高效开发工具方面。未来，这些项目的活跃程度和社区支持程度预计将继续影响开发者的工具选择和技术栈的形成。
+### 结论
+本期榜单展现了一个充满创新和活力的开源社区，围绕 AI 和开发工具的项目不仅数量众多，而且受到了广泛关注。开发者对于提升编程效率、AI 助手和工具集成的需求持续增加，显示出未来在此领域可能会有更多创新的解决方案出现。同时，随着新项目的推出，社区的活跃度和对工具的期望不断增长，将可能引发更多领域的技术进步。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|3293|89900|1058|2026-01-27|
-|2|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|3291|89901|1057|2026-01-27|
-|3|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|2986|22187|954|2026-02-03|
-|4|[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)|Python|在终端、VSCode扩展或通过discord（如openclaw）免费使用claude-code|1784|12790|591|2026-01-28|
-|5|[Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)|Python|适合黑客的一体化黑客工具|1659|64991|543|2020-04-11|
-|6|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1555|117931|535|2025-07-22|
-|7|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|939|496599|303|2018-05-09|
-|8|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|867|168268|285|2025-10-09|
-|9|[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)|TypeScript|GitNexus：零服务器代码智能引擎-       GitNexus是一个客户端知识图创建者，完全在您的浏览器中运行。放入GitHub repo或Zip文件，并通过内置的Shape RAG代理获取交互式知识图。非常适合代码探索|855|29904|278|2025-08-02|
-|10|[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)|Python|开源前沿语音人工智能|687|41741|220|2025-08-25|
-|11|[HQarroum/docker-android](https://github.com/HQarroum/docker-android)|Shell|????一个最小且可定制的Docker镜像，将Android模拟器作为服务运行。|674|4677|213|2023-02-08|
-|12|[rtk-ai/rtk](https://github.com/rtk-ai/rtk)|Rust|CLI代理可将常用开发命令的LLM令牌消耗量减少60-90%。单一Rust二进制，零依赖|670|35941|212|2026-01-22|
-|13|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|634|167423|210|2026-01-18|
-|14|[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)|Shell|人工智能编码代理的生产级工程技能。|637|23578|209|2026-02-15|
-|15|[Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)|Python|FinceptTerminator是一款现代金融应用程序，提供先进的市场分析、投资研究和经济数据工具，旨在在用户友好的环境中进行交互式探索和数据驱动的决策。|614|15340|203|2024-08-29|
+|1|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|5929|28116|1873|2026-02-03|
+|2|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|3398|93298|1109|2026-01-27|
+|3|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|3398|93299|1109|2026-01-27|
+|4|[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)|Python|在终端、VSCode扩展或通过discord（如openclaw）免费使用claude-code|2771|15561|897|2026-01-28|
+|5|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|2194|120125|735|2025-07-22|
+|6|[Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)|Python|适合黑客的一体化黑客工具|1702|66693|556|2020-04-11|
+|7|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1315|169583|418|2025-10-09|
+|8|[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)|TypeScript|GitNexus：零服务器代码智能引擎-       GitNexus是一个客户端知识图创建者，完全在您的浏览器中运行。放入GitHub repo或Zip文件，并通过内置的Shape RAG代理获取交互式知识图。非常适合代码探索|1192|31096|384|2025-08-02|
+|9|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |893|365249|307|2025-11-24|
+|10|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |893|365249|307|2025-11-24|
+|11|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|954|41440|306|2025-08-09|
+|12|[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)|Shell|人工智能编码代理的生产级工程技能。|869|24447|285|2026-02-15|
+|13|[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)|Python|开源前沿语音人工智能|896|42637|282|2025-08-25|
+|14|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|889|52723|278|2025-08-04|
+|15|[rtk-ai/rtk](https://github.com/rtk-ai/rtk)|Rust|CLI代理可将常用开发命令的LLM令牌消耗量减少60-90%。单一Rust二进制，零依赖|858|36799|265|2026-01-22|
 
 [所有日榜](./day/day.md)
 
