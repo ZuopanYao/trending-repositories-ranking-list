@@ -1,51 +1,53 @@
 Github热门开源项目榜单
 
-## 2026年05月01日
+## 2026年05月02日
 
-根据您提供的榜单数据，以下是对本期榜单的分析：
+根据提供的榜单，可以从以下几个角度进行分析：
 
-### 1. 项目热度与流行趋势
-- **热度**方面，榜单前几名的项目显示出较高的热度指标，尤其是[mattpocock/skills](https://github.com/mattpocock/skills)和[warpdotdev/warp](https://github.com/warpdotdev/warp)等项目，其热度分别达到了1127和875，这表明它们在当前趋势中受到广泛关注。
-- 项目热度的指标通常反映了社区对该项目的兴趣程度，例如讨论量、贡献者参与度、下载次数等因素。
+### 1. 项目类型和语言
+- **Python项目**：榜单中有多个Python项目（如TradingAgents、Scrapling、hermes-agent、maigret和hackingtool），显示出Python在数据处理和机器学习领域的强势地位。
+- **Shell和JavaScript项目**：Shell项目（如skills和superpowers）强调了命令行操作的重要性，而JavaScript项目（如claude-flow和everything-claude-code）则表明Web开发和应用程序开发也非常活跃。
+- **TypeScript和Rust的应用**：这两种语言也明显在应用中越来越普及，显示出对现代开发工具的需求。
 
-### 2. Star数量
-- **Star**数量是衡量开源项目受欢迎程度的重要标准。当前Star数最高的是[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)与[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)，均达到了104325，这是一个相当可观的数字，显示出对Andrej Karpathy的工作和理论的强烈认可。
-- 其他项目如[NouResearch/hermes-agent](https://github.com/NouResearch/hermes-agent)和[obra/superpowers](https://github.com/obra/superpowers)也表现不俗，达到了127796和175329的Star数。
+### 2. Star趋势与热度
+- **高Star项目**：如forrestchang/andrej-karpathy-skills和D4Vinci/Scrapling，分别拥有106069和41248的Star，显示出极高的社区参与度和广泛认可。
+- **最新项目的热度**：如TauricResearch/TradingAgents仅在2024年12月创建，但已获得61504的Star，反映出项目在快速增长。
+- **热度变化**：例如，skills项目的热度高达862，显示出用户对个人技能目录的强烈兴趣。
 
-### 3. 技术栈多样性
-- 榜单中的项目语言包括Shell、Rust、Python、TypeScript和JavaScript等。这种多样性表明当前开源项目不仅限于某一种语言，开发者在不同技术栈上的需求和使用越来越广泛。
-- 特别是在机器学习和人工智能相关项目（如TradingAgents和hermes-agent）中，Python作为主流语言占据了多个榜单位置，这反映了Python在AI领域的领先地位。
+### 3. 项目组合与功能侧重
+- **代理与多代理系统**：多个项目（如hermes-agent、claude-flow和ruflo）集中在智能代理和多代理系统的构建上，对于研究和开发自治智能体的需求十分明显。
+- **信息收集工具**：maigret和hackingtool表明对网络信息收集及安全领域的需求和关注，反映出用户希望对网络行为进行分析和渗透测试的倾向。
 
-### 4. 项目性质和功能聚焦
-- 许多项目专注于人工智能（AI）和自动化代理（如hermes-agent和superpowers），这些项目日益成为开发者关注的焦点，突出强调了AI工具和框架在现代软件开发中的重要性。
-- 另一些项目（如public-apis）提供了实用的公共API资源，能为开发者提供更便捷的开发环境，是基础设施的良好补充。
+### 4. 项目创建时间分布
+- **新旧结合**：榜单中不仅有新近创建的项目（如TradingAgents），也有早期稳定项目（如jwasham/coding-interview-university）。这种新旧结合可以为开发者提供多样的选择。
+- **持续更新的重要性**：许多新项目虽为近期，但有的项目（如hackingtool）在2020年就已被创建，显示出其持续被更新和改善的重要性。
 
-### 5. 项目更新与维护
-- 根据创建时间，许多项目（如public-apis）已存在数年，这表明这些项目在持续获得关注和更新，说明其生命周期得到有效管理。
-- 另外一些项目则显示出较新的创建日期（如TradingAgents），反映开发者对新兴技术和趋势的追逐。
+### 5. 未来趋势
+- 机器学习系统、智能代理、以及对Web开发的支持将继续是未来项目的重点。
+- 随着AI技术的快速发展，能够集成多种功能的工具和框架将会越来越受欢迎。
 
 ### 总结
-本期榜单展示了对人工智能相关项目的强烈兴趣，尤其是有关Claude Code等前沿技术的应用。同时，语言多样性和项目类型的广泛性也显示了开发者们在各个领域中的探索与创新。对于开发者和研究者而言，保持对这些项目的关注将有助于把握行业发展动态与技术趋势。
+整体来看，榜单上的项目呈现出多样化与专业化的趋势，各类语言和工具都在为开发者提供解决方案。项目的受欢迎程度和活跃度也反映出社区对这些技术和方向的认可与期待。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|3436|51736|1127|2026-02-03|
-|2|[warpdotdev/warp](https://github.com/warpdotdev/warp)|Rust|Warp是一个代理开发环境，诞生于终端。|2717|51011|875|2021-07-08|
-|3|[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)|Python|TradingAgents：多代理LLM金融交易框架|2188|59117|791|2024-12-28|
-|4|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|2236|104325|732|2026-01-27|
-|5|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|2236|104325|732|2026-01-27|
-|6|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1437|127796|493|2025-07-22|
-|7|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1053|175329|343|2025-10-09|
-|8|[public-apis/public-apis](https://github.com/public-apis/public-apis)|Python|免费API的集合列表|676|429917|217|2016-03-20|
-|9|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|655|57071|203|2025-08-04|
-|10|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|597|171368|202|2026-01-18|
-|11|[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)|Python|在终端、VSCode扩展或通过discord（如openclaw）免费使用claude-code|569|19567|187|2026-01-28|
-|12|[soxoj/maigret](https://github.com/soxoj/maigret)|Python|????️‍Ÿ根据用户名从3000多个网站收集个人档案|599|21272|187|2020-06-27|
-|13|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|523|89975|186|2025-10-13|
-|14|[ruvnet/claude-flow](https://github.com/ruvnet/claude-flow)|JavaScript|????Claude领先的代理编排平台。部署智能多主体群、协调自主工作流程并构建对话式人工智能系统。特征    企业级架构、分布式群智能、RAG集成以及通过MCP协议提供的本地Claude Code支持。在基于代理的框架中排名第一。|564|34683|182|2025-06-02|
-|15|[ruvnet/ruflo](https://github.com/ruvnet/ruflo)|TypeScript|????Claude领先的代理编排平台。部署智能多主体群、协调自主工作流程并构建对话式人工智能系统。特征    企业级架构、分布式群智能、RAG集成和原生Claude Code / Codex集成|564|34683|182|2025-06-02|
+|1|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|2660|54396|862|2026-02-03|
+|2|[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)|Python|TradingAgents：多代理LLM金融交易框架|2387|61504|835|2024-12-28|
+|3|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1744|106069|574|2026-01-27|
+|4|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1744|106069|574|2026-01-27|
+|5|[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)|Python|????️An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!|1756|41248|566|2024-10-13|
+|6|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1539|129335|525|2025-07-22|
+|7|[ruvnet/ruflo](https://github.com/ruvnet/ruflo)|TypeScript|????Claude领先的代理编排平台。部署智能多主体群、协调自主工作流程并构建对话式人工智能系统。特征    企业级架构、分布式群智能、RAG集成和原生Claude Code / Codex集成|1454|36137|484|2025-06-02|
+|8|[ruvnet/claude-flow](https://github.com/ruvnet/claude-flow)|JavaScript|????Claude领先的代理编排平台。部署智能多主体群、协调自主工作流程并构建对话式人工智能系统。特征    企业级架构、分布式群智能、RAG集成以及通过MCP协议提供的本地Claude Code支持。在基于代理的框架中排名第一。|1451|36134|483|2025-06-02|
+|9|[warpdotdev/warp](https://github.com/warpdotdev/warp)|Rust|Warp是一个代理开发环境，诞生于终端。|1476|52487|481|2021-07-08|
+|10|[soxoj/maigret](https://github.com/soxoj/maigret)|Python|????️‍Ÿ根据用户名从3000多个网站收集个人档案|1061|22333|337|2020-06-27|
+|11|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|982|176311|323|2025-10-09|
+|12|[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)|None|成为软件工程师的完整计算机科学学习计划。|665|344329|221|2016-06-06|
+|13|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|695|57766|217|2025-08-04|
+|14|[Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)|Python|适合黑客的一体化黑客工具|623|70259|202|2020-04-11|
+|15|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|570|171938|189|2026-01-18|
 
 [所有日榜](./day/day.md)
 
