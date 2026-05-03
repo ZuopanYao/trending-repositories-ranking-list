@@ -61,64 +61,55 @@ Github热门开源项目榜单
 
 [所有日榜](./day/day.md)
 
-## 2026年第16周
+## 2026年第17周
 
-根据您提供的榜单数据，以下是对这20个项目的分析：
+根据本期榜单的数据分析，可以提炼出以下几个主要趋势和观察结果：
 
-### 概述
-这一榜单主要集中在与Claude Code、人工智能助手及编码代理相关的项目。在项目的多个方面（如语言、创建时间、当前Star数量、热度等）上，可以看出一些重大趋势和受欢迎的主题。
+1. **项目热度和星标的差异**：
+   - 有些项目虽然当前Star数量相对较高，比如 `mattpocock/skills` (56458 星) 和 `NousResearch/hermes-agent` (130765 星)，其热度值（9100 和 3600）显得较低。这可能意味着这些项目的吸引力更多来自于一开始的关注，而持续吸引用户的活跃度不足。
+   - 另一些项目，如 `forrestchang/andrej-karpathy-skills` 和 `multica-ai/andrej-karpathy-skills`，在Star数量及热度上相对平衡，这可能与其社区支持和应用场景密切相关。
 
-### 项目分类
-1. **语言分类**：
-   - Python和TypeScript的项目较为突出，显示出这两种语言在人工智能和开发工具中的广泛应用。
-   - Shell和JavaScript也有若干项目，说明这些语言在不同领域的多样性。
+2. **热门编程语言**：
+   - Python 和 TypeScript是榜单中最常见的语言。尤其是Python，它的开发及数据科学生态圈在不断扩张，吸引了许多与人工智能、金融分析等相关项目的落地。
+   - Shell和None语言的项目虽然相对较少，但其作用通常聚焦在系统级别或代码智能增强方面，体现了不同开发领域的需求。
 
-2. **项目类型**：
-   - 大部分项目旨在提升技术代理的能力或优化编码过程。
-   - 一些项目聚焦于金融应用、代码生成、用户交互等领域，指出了技术应用的广泛性。
+3. **增长迅速的领域**：
+   - 人工智能和代理框架正逐渐成为热门趋势，特别是与Claude Code相关的项目，如 `claude-flow`、`free-claude-code` 和 `superpowers`，这些项目关注于提高代码的智能和效率。
+   - 结合多代理系统的工具（如 `TradingAgents` 和 `ruflo`）显示出市场对复杂系统协调能力的需求不断增长。
 
-### 热度和趋势
-- **热度**： 
-  - 熱度较高的项目例如`forrestchang/andrej-karpathy-skills`和`multica-ai/andrej-karpathy-skills`，尽管它们的内容相似，但都受到了极高的关注，说明对于改进Claude Code行为的需求。
-  - `NousResearch/hermes-agent`、`obra/superpowers`等项目显示了在人工智能助手工具方面的强烈兴趣。
+4. **项目的创建时间**：
+   - 较早创建的项目（如 `Z4nzu/hackingtool` 创建于2020）在整体热度和Stars积累上表现良好，表明早期进入的项目可能因积累的用户基础和持续的维护而塑造了其成功。
+   - 相对较新的项目，如 `D4Vinci/Scrapling`（2024年创建）开始登上榜单，显示了新兴技术和需求能够快速催生有价值的项目。
 
-- **Star数量**：
-  - 当前Star数量最高的项目是`codecrafters-io/build-your-own-x`，其以教育和学习为核心，吸引了大量用户的注意。这说明开发者与学习者对技术教育资源的需求持强劲。
+5. **项目内容的多样性**：
+   - 从项目介绍中可以看出，多样化的功能需求驱动着项目的开发，包括金融交易、人工智能编码、黑客工具及多代理系统等，反映了行业多元化发展的趋势。
 
-- **创建时间**：
-  - 最新创建的项目中，如`forrestchang/andrej-karpathy-skills`和`multica-ai/andrej-karpathy-skills`，表明持续创新和跟进当前技术趋势的重要性。
-
-### 未来趋势
-- 随着人工智能和自动化技术的持续发展，预计将有更多聚焦于提高工作效率和减少开发人员负担的工具和项目出现。
-- 跨平台的解决方案如`farion1231/cc-switch`和`moltbot/moltbot`等也可能会越来越受欢迎，满足用户在不同设备和环境中工作的需要。
-
-### 总结
-以上分析显示，当前项目的热度和关注主要集中在人工智能助手和编码代理的扩展及优化上，未来这些领域仍然是技术创新和用户需求的重要焦点。在持续发展的技术生态中，项目的多样性与实用性将推动其进一步受欢迎。
+综上所述，这份榜单不仅为开发者展示了当前软件项目的热点领域，也反映了社区需求与技术发展的动态变化。开发者可以据此把握趋势，提升自身项目的竞争力。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|24565|89900|7994|2026-01-27|
-|2|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|24561|89901|7993|2026-01-27|
-|3|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|13224|117931|4490|2025-07-22|
-|4|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|7043|168268|2285|2025-10-09|
-|5|[Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)|Python|FinceptTerminator是一款现代金融应用程序，提供先进的市场分析、投资研究和经济数据工具，旨在在用户友好的环境中进行交互式探索和数据驱动的决策。|6505|15340|2136|2024-08-29|
-|6|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|5507|167423|1824|2026-01-18|
-|7|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|5580|22187|1802|2026-02-03|
-|8|[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)|Shell|人工智能编码代理的生产级工程技能。|5389|23578|1762|2026-02-15|
-|9|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|4438|496599|1458|2018-05-09|
-|10|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|4067|117307|1294|2024-11-13|
-|11|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|4053|51834|1277|2025-08-04|
-|12|[multica-ai/multica](https://github.com/multica-ai/multica)|TypeScript|开源托管代理平台。将编码代理变成真正的队友-分配任务、跟踪进度、复合技能。|3909|21355|1271|2026-01-13|
-|13|[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)|JavaScript|Claude Code插件可以自动捕获Claude在编码会话期间所做的一切，用AI压缩它（使用Claude的agent-sdk），并将相关上下文注入到未来的会话中。|3786|67809|1217|2025-08-31|
-|14|[moltbot/moltbot](https://github.com/moltbot/moltbot)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |3283|364356|1186|2025-11-24|
-|15|[openclaw/openclaw](https://github.com/openclaw/openclaw)|TypeScript|您自己的个人人工智能助理。任何操作系统。任何平台。龙虾的方式。???? |3283|364356|1186|2025-11-24|
-|16|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|3421|149847|1141|2025-04-30|
-|17|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|3421|149848|1141|2025-04-30|
-|18|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|3266|87246|1123|2025-10-13|
-|19|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|3218|124170|1072|2025-09-22|
-|20|[koala73/worldmonitor](https://github.com/koala73/worldmonitor)|TypeScript|实时全球情报仪表板-统一的态势感知界面中的人工智能支持的新闻聚合、地缘政治监控和基础设施跟踪|2992|52698|969|2026-01-08|
+|1|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|28342|56458|9100|2026-02-03|
+|2|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|14814|108112|4848|2026-01-27|
+|3|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|14813|108112|4847|2026-01-27|
+|4|[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)|Python|TradingAgents：多代理LLM金融交易框架|11102|64595|3944|2024-12-28|
+|5|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|10640|130765|3600|2025-07-22|
+|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|7571|177154|2438|2025-10-09|
+|7|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|5631|58354|1770|2025-08-04|
+|8|[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)|Python|在终端、VSCode扩展或通过discord（如openclaw）免费使用claude-code|5009|20570|1674|2026-01-28|
+|9|[ruvnet/ruflo](https://github.com/ruvnet/ruflo)|TypeScript|????Claude领先的代理编排平台。部署智能多主体群、协调自主工作流程并构建对话式人工智能系统。特征    企业级架构、分布式群智能、RAG集成和原生Claude Code / Codex集成|4445|38123|1455|2025-06-02|
+|10|[ruvnet/claude-flow](https://github.com/ruvnet/claude-flow)|JavaScript|????Claude领先的代理编排平台。部署智能多主体群、协调自主工作流程并构建对话式人工智能系统。特征    企业级架构、分布式群智能、RAG集成以及通过MCP协议提供的本地Claude Code支持。在基于代理的框架中排名第一。|4440|38117|1453|2025-06-02|
+|11|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|4301|172516|1425|2026-01-18|
+|12|[Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)|Python|适合黑客的一体化黑客工具|4046|70739|1327|2020-04-11|
+|13|[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)|TypeScript|GitNexus：零服务器代码智能引擎-       GitNexus是一个客户端知识图创建者，完全在您的浏览器中运行。放入GitHub repo或Zip文件，并通过内置的Shape RAG代理获取交互式知识图。非常适合代码探索|4010|35106|1295|2025-08-02|
+|14|[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)|Python|开源前沿语音人工智能|3704|46341|1171|2025-08-25|
+|15|[rtk-ai/rtk](https://github.com/rtk-ai/rtk)|Rust|CLI代理可将常用开发命令的LLM令牌消耗量减少60-90%。单一Rust二进制，零依赖|3686|40485|1160|2026-01-22|
+|16|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|3281|90973|1157|2025-10-13|
+|17|[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)|Python|????️An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!|3503|42577|1136|2024-10-13|
+|18|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|3417|153918|1133|2025-04-30|
+|19|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|3417|153911|1132|2025-04-30|
+|20|[Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)|Python|FinceptTerminator是一款现代金融应用程序，提供先进的市场分析、投资研究和经济数据工具，旨在在用户友好的环境中进行交互式探索和数据驱动的决策。|3424|19445|1120|2024-08-29|
 
 [所有周榜](./week/week.md)
 
