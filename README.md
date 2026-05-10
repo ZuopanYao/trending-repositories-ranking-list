@@ -46,55 +46,52 @@ Github热门开源项目榜单
 
 [所有日榜](./day/day.md)
 
-## 2026年第17周
+## 2026年第18周
 
-根据本期榜单的数据分析，可以提炼出以下几个主要趋势和观察结果：
+本期榜单中展示了一系列具有不同功能和应用领域的项目，主要集中在人工智能代理、编码技能以及网页抓取等方向。以下是对此榜单的分析：
 
-1. **项目热度和星标的差异**：
-   - 有些项目虽然当前Star数量相对较高，比如 `mattpocock/skills` (56458 星) 和 `NousResearch/hermes-agent` (130765 星)，其热度值（9100 和 3600）显得较低。这可能意味着这些项目的吸引力更多来自于一开始的关注，而持续吸引用户的活跃度不足。
-   - 另一些项目，如 `forrestchang/andrej-karpathy-skills` 和 `multica-ai/andrej-karpathy-skills`，在Star数量及热度上相对平衡，这可能与其社区支持和应用场景密切相关。
+### 项目趋势与热度
+1. **明星项目与关注度**：榜单前两位（Hmbown/DeepSeek-TUI 和 forrestchang/andrej-karpathy-skills）展示出较高的Star数量，分别为23878和123291，说明它们在开发者中引起了广泛关注和使用。
+2. **新兴项目**：虽然有所关注，但某些项目（如adddyosmani/agent-skills、NousResearch/hermes-agent等）相对较新，显示了较好的增长趋势和潜力，值得后续关注。
 
-2. **热门编程语言**：
-   - Python 和 TypeScript是榜单中最常见的语言。尤其是Python，它的开发及数据科学生态圈在不断扩张，吸引了许多与人工智能、金融分析等相关项目的落地。
-   - Shell和None语言的项目虽然相对较少，但其作用通常聚焦在系统级别或代码智能增强方面，体现了不同开发领域的需求。
+### 技术语言多样性
+- **语言使用**：榜单中的项目使用了多种编程语言，包括Rust、Python、TypeScript和Shell等。Rust 意在性能优化，Python 则以其易用性受到广泛欢迎，TypeScript 和 Shell 项目则更多集中在代理和自动化工具的开发上。
+  
+### 应用领域
+- **人工智能代理**：绝大部分项目均围绕人工智能代理展开，这反映了当前技术发展的一个重要趋势，即通过智能代理实现更高效的工作流程和复杂任务的自动化。
+- **编码与开发**：诸如 forrestchang/andrej-karpathy-skills 和 obra/superpowers 等项目专注于改进编码过程，帮助开发者更好地利用LLM（大语言模型）进行编码。
 
-3. **增长迅速的领域**：
-   - 人工智能和代理框架正逐渐成为热门趋势，特别是与Claude Code相关的项目，如 `claude-flow`、`free-claude-code` 和 `superpowers`，这些项目关注于提高代码的智能和效率。
-   - 结合多代理系统的工具（如 `TradingAgents` 和 `ruflo`）显示出市场对复杂系统协调能力的需求不断增长。
+### 项目性质与更新
+- **活动更新**：从创建时间来看，多个项目都是在近两年内创建。随着技术的发展和社区的参与，这些项目预计会持续更新和演进。
+- **社区参与**：一些项目（如msitarzewski/agency-agents）强调了社区参与的特色，这种参与不仅能增强项目的功能，还能提升用户体验。
 
-4. **项目的创建时间**：
-   - 较早创建的项目（如 `Z4nzu/hackingtool` 创建于2020）在整体热度和Stars积累上表现良好，表明早期进入的项目可能因积累的用户基础和持续的维护而塑造了其成功。
-   - 相对较新的项目，如 `D4Vinci/Scrapling`（2024年创建）开始登上榜单，显示了新兴技术和需求能够快速催生有价值的项目。
-
-5. **项目内容的多样性**：
-   - 从项目介绍中可以看出，多样化的功能需求驱动着项目的开发，包括金融交易、人工智能编码、黑客工具及多代理系统等，反映了行业多元化发展的趋势。
-
-综上所述，这份榜单不仅为开发者展示了当前软件项目的热点领域，也反映了社区需求与技术发展的动态变化。开发者可以据此把握趋势，提升自身项目的竞争力。
+### 结论
+总体而言，本期榜单展示的项目反映了人工智能与编码工具领域的快速发展。开发者可以从中获取灵感，获取技能，并参与到最新的技术趋势中。这种趋势表明，如何利用AI提升工作效率和编码质量将是未来开发工作的重点方向。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|28342|56458|9100|2026-02-03|
-|2|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|14814|108112|4848|2026-01-27|
-|3|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|14813|108112|4847|2026-01-27|
-|4|[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)|Python|TradingAgents：多代理LLM金融交易框架|11102|64595|3944|2024-12-28|
-|5|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|10640|130765|3600|2025-07-22|
-|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|7571|177154|2438|2025-10-09|
-|7|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|5631|58354|1770|2025-08-04|
-|8|[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)|Python|在终端、VSCode扩展或通过discord（如openclaw）免费使用claude-code|5009|20570|1674|2026-01-28|
-|9|[ruvnet/ruflo](https://github.com/ruvnet/ruflo)|TypeScript|????Claude领先的代理编排平台。部署智能多主体群、协调自主工作流程并构建对话式人工智能系统。特征    企业级架构、分布式群智能、RAG集成和原生Claude Code / Codex集成|4445|38123|1455|2025-06-02|
-|10|[ruvnet/claude-flow](https://github.com/ruvnet/claude-flow)|JavaScript|????Claude领先的代理编排平台。部署智能多主体群、协调自主工作流程并构建对话式人工智能系统。特征    企业级架构、分布式群智能、RAG集成以及通过MCP协议提供的本地Claude Code支持。在基于代理的框架中排名第一。|4440|38117|1453|2025-06-02|
-|11|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|4301|172516|1425|2026-01-18|
-|12|[Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)|Python|适合黑客的一体化黑客工具|4046|70739|1327|2020-04-11|
-|13|[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)|TypeScript|GitNexus：零服务器代码智能引擎-       GitNexus是一个客户端知识图创建者，完全在您的浏览器中运行。放入GitHub repo或Zip文件，并通过内置的Shape RAG代理获取交互式知识图。非常适合代码探索|4010|35106|1295|2025-08-02|
-|14|[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)|Python|开源前沿语音人工智能|3704|46341|1171|2025-08-25|
-|15|[rtk-ai/rtk](https://github.com/rtk-ai/rtk)|Rust|CLI代理可将常用开发命令的LLM令牌消耗量减少60-90%。单一Rust二进制，零依赖|3686|40485|1160|2026-01-22|
-|16|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|3281|90973|1157|2025-10-13|
-|17|[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)|Python|????️An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!|3503|42577|1136|2024-10-13|
-|18|[anomalyco/opencode](https://github.com/anomalyco/opencode)|TypeScript|开源编码代理。|3417|153918|1133|2025-04-30|
-|19|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|3417|153911|1132|2025-04-30|
-|20|[Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)|Python|FinceptTerminator是一款现代金融应用程序，提供先进的市场分析、投资研究和经济数据工具，旨在在用户友好的环境中进行交互式探索和数据驱动的决策。|3424|19445|1120|2024-08-29|
+|1|[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)|Rust|在您的终端中运行的DeepSeek模型的编码代理|20259|23878|6464|2026-01-19|
+|2|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|12314|123291|4014|2026-01-27|
+|3|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|12313|123292|4014|2026-01-27|
+|4|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|9721|142028|3345|2025-07-22|
+|5|[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)|Shell|人工智能编码代理的生产级工程技能。|10425|38101|3314|2026-02-15|
+|6|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|10280|68781|3283|2026-02-03|
+|7|[ruvnet/claude-flow](https://github.com/ruvnet/claude-flow)|JavaScript|????Claude领先的代理编排平台。部署智能多主体群、协调自主工作流程并构建对话式人工智能系统。特征    企业级架构、分布式群智能、RAG集成以及通过MCP协议提供的本地Claude Code支持。在基于代理的框架中排名第一。|7684|48305|2479|2025-06-02|
+|8|[ruvnet/ruflo](https://github.com/ruvnet/ruflo)|TypeScript|????Claude领先的代理编排平台。部署智能多主体群、协调自主工作流程并构建对话式人工智能系统。特征    企业级架构、分布式群智能、RAG集成和原生Claude Code / Codex集成|7681|48307|2478|2025-06-02|
+|9|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|6988|185052|2232|2025-10-09|
+|10|[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)|Python|TradingAgents：多代理LLM金融交易框架|6225|72975|2155|2024-12-28|
+|11|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|6883|65836|2150|2025-08-04|
+|12|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|4527|177676|1494|2026-01-18|
+|13|[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)|Python|????️An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!|4518|48430|1464|2024-10-13|
+|14|[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)|Python|SEARCH PageIndex：基于推理的RAG的文档索引|4270|30372|1360|2025-04-01|
+|15|[rtk-ai/rtk](https://github.com/rtk-ai/rtk)|Rust|CLI代理可将常用开发命令的LLM令牌消耗量减少60-90%。单一Rust二进制，零依赖|4320|45517|1351|2026-01-22|
+|16|[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)|Python|????《从零开始构建智能体》--从零开始智能体原理与实践课程|3799|46288|1232|2025-09-07|
+|17|[AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)|Python|???? AI 全自动短视频引发|AI全自动短视频引擎|3748|14465|1221|2025-11-07|
+|18|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|3438|95711|1182|2025-10-13|
+|19|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|3537|131515|1158|2025-09-22|
+|20|[sst/opencode](https://github.com/sst/opencode)|TypeScript|AI编码代理，专为终端打造。|3398|157866|1132|2025-04-30|
 
 [所有周榜](./week/week.md)
 
