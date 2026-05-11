@@ -1,48 +1,57 @@
 Github热门开源项目榜单
 
-## 2026年05月10日
+## 2026年05月11日
 
-根据您提供的榜单数据，这里是一些关键分析：
+根据当前的榜单数据，以下是对各项目的分析：
 
-1. **项目流行度与热度**:
-   - 榜单中的第一名是 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)，当前Star数为142,028，热度为505，显示出它受到了广泛的关注和使用。
-   - 其他项目如 [anthropics/financial-services](https://github.com/anthropics/financial-services) 和 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) 的Star数也较高，分别为18,392和123,291，表明这些项目也在相关社区中受到重视。
+### 项目趋势
+1. **技能类项目**：
+   - 前几名的项目（如 `skills` 和 `andrej-karpathy-skills`）集中于改善AI的编码能力。尤其是`andrej-karpathy-skills`系列项目，表明开发者希望通过学习他人的经验来提升AI的表现。
+   - **技能共享**：这些项目旨在作为个人或团队的技能目录，以便在编程过程中顺利应用。
 
-2. **项目类型和语言**:
-   - 大部分项目使用Python和JavaScript，这反映了这两种语言在人工智能和开发工具方面的流行度。
-   - 一些项目使用Shell和TypeScript，这些工具通常用于快速开发和与其他技术栈的兼容性。
+2. **代理和助手**:
+   - 项目`hermes-agent`和`cc-switch`都是构建AI助手的工具，表现出AI助手在开发中的重要性和多样性。
+   - 许多项目涉及跨平台功能，显示出市场对与各种AI模型兼容的灵活工具的需求。
 
-3. **项目特性**:
-   - 很多项目涉及代理和智能体的开发，比如 [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) 和 [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)，这可能表明市场对增强人工智能代理性能的需求正在增长。
-   - 诸如 [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) 和 [ruvnet/ruflo](https://github.com/ruvnet/ruflo) 的项目关注于智能多主体系统的架构，这显示了当前对分布式智能和自主工作流的关注。
+3. **隐私与安全**:
+   - `CloakBrowser`项目专注于隐私问题，显示出在涉及AI时用户对匿名性和安全性的关注。
 
-4. **创建时间和趋势**:
-   - 从创建时间来看，许多项目在2025年及以后创建，这可能表明人工智能领域快速发展的趋势，尤其是围绕增强代理和智能体的研究。
-   - 项目的趋势Star与当前Star的对比，显示了项目的增长潜力。例如，最高趋势Star项目 [NousResearch/hermes-agent] 的增速非常快。
+### 热度与关注度
+- 项目`mattpocock/skills`的当前Star数（71496）远超其他项目，显示出其在开发者中极高的关注度。这可能归因于它提供的技能集合及其简易访问的特性。
+- 尽管`hermes-agent`的Star数（144204）已达到较高水平，但其热度分数（738）相对较低，可能暗示项目的活跃度或持续使用频率没有超出预期。
 
-5. **综合评价**:
-   - 整体来看，这个榜单展示了人工智能代理和智能体相关工具的多样性与快速发展。开发者和研究人员对于增强智能代理的兴趣不断上升，这为相关项目的开发和迭代提供了保障。
-   - 对于想要加入此领域的开发者而言，关注排名靠前的项目将有助于获取最新的技术动态和发展趋势。
+### 语言使用
+- Python和JavaScript是榜单上的主要编程语言，显示出这两种语言在AI和开发工具中的广泛应用。
+- Shell和TypeScript项目虽然数量较少，但它们的应用场景也非常特定且专业化，表明在命令行和前端开发中各有其重要性。
+
+### 创建时间
+- 大多数热门项目的创建时间在2025年及2026年，表明这些项目都是近年来因为AI热潮而迅速涌现的。
+- 项目创建时间集中于20世纪70年代的开发热潮之后，显示出当今对人工智能和机器学习相关技术的高度关注。
+
+### 总体结论
+- 当前榜单显示出AI技能、代理和安全性的强烈市场需求，而这些需求正在推动相关工具和库的开发。
+- 开发者在选择项目时不仅关注Star数和热度，还看重项目的实用性、可扩展性以及安全性。
+- 未来趋势可能会继续向多功能、跨平台的开发工具和API扩展，同时对隐私和安全的关注也将继续推动相关工具的发展。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1460|142028|505|2025-07-22|
-|2|[anthropics/financial-services](https://github.com/anthropics/financial-services)|Python|None|1479|18392|495|2026-02-23|
-|3|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1326|123291|436|2026-01-27|
-|4|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1326|123292|436|2026-01-27|
-|5|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|1198|177676|395|2026-01-18|
-|6|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1058|68781|341|2026-02-03|
-|7|[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)|Shell|人工智能编码代理的生产级工程技能。|1018|38101|324|2026-02-15|
-|8|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|1027|65836|321|2025-08-04|
-|9|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|918|185052|297|2025-10-09|
-|10|[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)|Rust|在您的终端中运行的DeepSeek模型的编码代理|795|23878|262|2026-01-19|
-|11|[decolua/9router](https://github.com/decolua/9router)|JavaScript|无限制免费人工智能编码。通过40+个提供商将Claude Code、Codex、Cursor、Cline、Copilot、Antigravity连接到免费Claude/GPT/Gemini。自动回退，RTK-40%代币，永远不会达到限制。|790|7061|256|2026-01-05|
-|12|[ruvnet/claude-flow](https://github.com/ruvnet/claude-flow)|JavaScript|????Claude领先的代理编排平台。部署智能多主体群、协调自主工作流程并构建对话式人工智能系统。特征    企业级架构、分布式群智能、RAG集成以及通过MCP协议提供的本地Claude Code支持。在基于代理的框架中排名第一。|761|48305|248|2025-06-02|
-|13|[ruvnet/ruflo](https://github.com/ruvnet/ruflo)|TypeScript|????Claude领先的代理编排平台。部署智能多主体群、协调自主工作流程并构建对话式人工智能系统。特征    企业级架构、分布式群智能、RAG集成和原生Claude Code / Codex集成|760|48307|247|2025-06-02|
-|14|[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)|Python|????《从零开始构建智能体》--从零开始智能体原理与实践课程|739|46288|235|2025-09-07|
-|15|[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)|TypeScript|开源多模式人工智能代理栈：连接尖端人工智能模型和代理基础设施|700|31905|223|2025-01-19|
+|1|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|2715|71496|871|2026-02-03|
+|2|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|2176|144204|738|2025-07-22|
+|3|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1697|124989|557|2026-01-27|
+|4|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1696|124987|556|2026-01-27|
+|5|[anthropics/financial-services](https://github.com/anthropics/financial-services)|Python|None|1625|20017|538|2026-02-23|
+|6|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|1634|179310|528|2026-01-18|
+|7|[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)|Python|Stealth Chromium通过了所有机器人检测测试。用源级指纹补丁替换剧作家。30/30测试通过。|1399|5771|438|2026-02-22|
+|8|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|1330|67166|413|2025-08-04|
+|9|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1303|186355|413|2025-10-09|
+|10|[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)|Python|????《从零开始构建智能体》--从零开始智能体原理与实践课程|1200|47488|388|2025-09-07|
+|11|[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)|Shell|人工智能编码代理的生产级工程技能。|1205|39306|382|2026-02-15|
+|12|[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)|Rust|在您的终端中运行的DeepSeek模型的编码代理|1113|24991|361|2026-01-19|
+|13|[decolua/9router](https://github.com/decolua/9router)|JavaScript|无限制免费人工智能编码。通过40+个提供商将Claude Code、Codex、Cursor、Cline、Copilot、Antigravity连接到免费Claude/GPT/Gemini。自动回退，RTK-40%代币，永远不会达到限制。|984|8045|312|2026-01-05|
+|14|[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)|TypeScript|开源多模式人工智能代理栈：连接尖端人工智能模型和代理基础设施|926|32831|297|2025-01-19|
+|15|[datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)|JavaScript|???? 氛围编码2026|您的第一门现代编程课程，供初学者一步一步掌握。|784|9739|245|2025-12-28|
 
 [所有日榜](./day/day.md)
 
