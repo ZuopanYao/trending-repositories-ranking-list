@@ -1,57 +1,46 @@
 Github热门开源项目榜单
 
-## 2026年05月11日
+## 2026年05月12日
 
-根据当前的榜单数据，以下是对各项目的分析：
+通过分析这期榜单，可以得出以下几个要点：
 
-### 项目趋势
-1. **技能类项目**：
-   - 前几名的项目（如 `skills` 和 `andrej-karpathy-skills`）集中于改善AI的编码能力。尤其是`andrej-karpathy-skills`系列项目，表明开发者希望通过学习他人的经验来提升AI的表现。
-   - **技能共享**：这些项目旨在作为个人或团队的技能目录，以便在编程过程中顺利应用。
+### 项目概述
+1. **多样化的项目方向**：榜单上的项目涉及多个领域，包括个人技能整理、人工智能代理工具、跨平台助理工具等。这显示了开发者对不同应用场景的关注和需求。
 
-2. **代理和助手**:
-   - 项目`hermes-agent`和`cc-switch`都是构建AI助手的工具，表现出AI助手在开发中的重要性和多样性。
-   - 许多项目涉及跨平台功能，显示出市场对与各种AI模型兼容的灵活工具的需求。
+2. **编程语言的多样性**：涵盖的编程语言包括Shell、Python、Rust、TypeScript和JavaScript等，其中Python和TypeScript的项目较多，这可能是因为这两种语言在AI和web开发领域的广泛应用。
 
-3. **隐私与安全**:
-   - `CloakBrowser`项目专注于隐私问题，显示出在涉及AI时用户对匿名性和安全性的关注。
+### 人气与趋势分析
+1. **Star数量**：项目的Star数量反映出其受欢迎程度和潜在用户基础。例如，“mattpocock/skills”以75286个Star排在第一位，说明其在用户中有相当高的认可度。而„NousResearch/hermes-agent“则以146476个Star突出，为此类项目中的一个热门选项。
 
-### 热度与关注度
-- 项目`mattpocock/skills`的当前Star数（71496）远超其他项目，显示出其在开发者中极高的关注度。这可能归因于它提供的技能集合及其简易访问的特性。
-- 尽管`hermes-agent`的Star数（144204）已达到较高水平，但其热度分数（738）相对较低，可能暗示项目的活跃度或持续使用频率没有超出预期。
+2. **热度**：热度排行与Star数量不完全一致，有的项目尽管Star数量较少，但是热度仍然较高，表明在短期内这些项目得到了快速的关注和讨论。如“mattpocock/skills”的热度高达1200，显示出其在社区中的活跃度。
 
-### 语言使用
-- Python和JavaScript是榜单上的主要编程语言，显示出这两种语言在AI和开发工具中的广泛应用。
-- Shell和TypeScript项目虽然数量较少，但它们的应用场景也非常特定且专业化，表明在命令行和前端开发中各有其重要性。
+### 创建时间的影响
+1. **新旧项目交替**：在榜单中，项目创建时间各不相同，有些相对较新的项目（如2026年创建的项目）显示出强劲的上升趋势，可能是因为它们是基于最新的算法或技术，满足了当前市场的需求。
 
-### 创建时间
-- 大多数热门项目的创建时间在2025年及2026年，表明这些项目都是近年来因为AI热潮而迅速涌现的。
-- 项目创建时间集中于20世纪70年代的开发热潮之后，显示出当今对人工智能和机器学习相关技术的高度关注。
+2. **持续更新与维护**：一些老项目仍然保持了较高的Star数量和热度，说明这些项目得到了持续的维护与更新，这是吸引用户的重要因素。
 
-### 总体结论
-- 当前榜单显示出AI技能、代理和安全性的强烈市场需求，而这些需求正在推动相关工具和库的开发。
-- 开发者在选择项目时不仅关注Star数和热度，还看重项目的实用性、可扩展性以及安全性。
-- 未来趋势可能会继续向多功能、跨平台的开发工具和API扩展，同时对隐私和安全的关注也将继续推动相关工具的发展。
+### 结论
+综合来看，本期榜单是一个多元化的项目集合，代表了当前人工智能以及相关工具开发的趋势。开发者在选择工具时，不仅会关注项目的功能和性能，也会考虑社区支持和开发活跃度。因此，无论是新发布的项目还是老项目，保持良好的文档、活跃的更新和社区互动都是至关重要的。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|2715|71496|871|2026-02-03|
-|2|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|2176|144204|738|2025-07-22|
-|3|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1697|124989|557|2026-01-27|
-|4|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1696|124987|556|2026-01-27|
-|5|[anthropics/financial-services](https://github.com/anthropics/financial-services)|Python|None|1625|20017|538|2026-02-23|
-|6|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|1634|179310|528|2026-01-18|
-|7|[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)|Python|Stealth Chromium通过了所有机器人检测测试。用源级指纹补丁替换剧作家。30/30测试通过。|1399|5771|438|2026-02-22|
-|8|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|1330|67166|413|2025-08-04|
-|9|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1303|186355|413|2025-10-09|
-|10|[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)|Python|????《从零开始构建智能体》--从零开始智能体原理与实践课程|1200|47488|388|2025-09-07|
-|11|[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)|Shell|人工智能编码代理的生产级工程技能。|1205|39306|382|2026-02-15|
-|12|[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)|Rust|在您的终端中运行的DeepSeek模型的编码代理|1113|24991|361|2026-01-19|
-|13|[decolua/9router](https://github.com/decolua/9router)|JavaScript|无限制免费人工智能编码。通过40+个提供商将Claude Code、Codex、Cursor、Cline、Copilot、Antigravity连接到免费Claude/GPT/Gemini。自动回退，RTK-40%代币，永远不会达到限制。|984|8045|312|2026-01-05|
-|14|[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)|TypeScript|开源多模式人工智能代理栈：连接尖端人工智能模型和代理基础设施|926|32831|297|2025-01-19|
-|15|[datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)|JavaScript|???? 氛围编码2026|您的第一门现代编程课程，供初学者一步一步掌握。|784|9739|245|2025-12-28|
+|1|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|3790|75286|1200|2026-02-03|
+|2|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|2272|146476|772|2025-07-22|
+|3|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1671|126658|535|2026-01-27|
+|4|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1670|126659|534|2026-01-27|
+|5|[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)|Python|Stealth Chromium通过了所有机器人检测测试。用源级指纹补丁替换剧作家。30/30测试通过。|1558|7329|491|2026-02-22|
+|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1369|187724|439|2025-10-09|
+|7|[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)|Rust|在您的终端中运行的DeepSeek模型的编码代理|1320|26311|424|2026-01-19|
+|8|[anthropics/financial-services](https://github.com/anthropics/financial-services)|Python|None|1225|21242|421|2026-02-23|
+|9|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|1329|68495|410|2025-08-04|
+|10|[decolua/9router](https://github.com/decolua/9router)|JavaScript|无限制免费人工智能编码。通过40+个提供商将Claude Code、Codex、Cursor、Cline、Copilot、Antigravity连接到免费Claude/GPT/Gemini。自动回退，RTK-40%代币，永远不会达到限制。|1153|9198|371|2026-01-05|
+|11|[yikart/AiToEarn](https://github.com/yikart/AiToEarn)|TypeScript|让我们使用人工智能赚钱！|1154|11660|367|2025-02-24|
+|12|[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)|Rust|您的个人人工智能超级智能。私密、简单且极其强大。|1137|2293|357|2026-02-18|
+|13|[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)|TypeScript|#1基于现实世界基准的人工智能编码代理的持久内存|1083|5535|347|2026-02-25|
+|14|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|956|180266|313|2026-01-18|
+|15|[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)|Shell|人工智能编码代理的生产级工程技能。|912|40218|293|2026-02-15|
 
 [所有日榜](./day/day.md)
 
