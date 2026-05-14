@@ -1,49 +1,48 @@
 Github热门开源项目榜单
 
-## 2026年05月13日
+## 2026年05月14日
 
-通过分析本期榜单，我们可以获取以下信息和洞察：
+根据本期榜单的内容，我们可以进行以下分析：
 
-1. **项目类型和语言分布**：
-   - 榜单中的项目涵盖多种编程语言，主要包括Shell、Rust、Python、TypeScript和JavaScript。Python项目数量较多，同时也表现出较高的热度。
-   - 许多项目相关于人工智能、机器学习和编码工具，这表明当前技术趋势围绕AI软件开发和应用。
+### 1. 项目分布
+- **语言**：榜单中的项目主要使用了多种编程语言，包括Shell、Rust、TypeScript、Python、Swift和None。Python和TypeScript的项目数量相对较多，说明这两种语言在当前开发环境中受到欢迎，可能与人工智能及Web开发相关应用广泛有关。
+  
+### 2. 热度与Star数据
+- **Star趋势**：榜单中所有项目的当前Star数量均高于其趋势Star数，表明这些项目在Github上受到了广泛关注和更多用户的认可。其中，`mattpocock/skills`（Star 81492）和`NoeFabris/opencode-antigravity-auth`（Star 2188）在Star数量上遥遥领先，特别是前者，Star数量非常可观，显示出其在Github社区中的影响力。
+  
+- **热度分布**：热度值的排序与Star数量的发展趋势相一致，大多数的高热度项目都对应较高的Star，这意味着用户的兴趣和参与度与项目的质量和功能性成正比。
 
-2. **热度与当前星级**：
-   - 大多数项目的"当前Star"值普遍较高，尤其是第一名的[mattpocock/skills](https://github.com/mattpocock/skills)，当前Star数已达到78382，显示出强烈的社区关注和支持。
-   - 热度（trend star）部分，虽然有些项目的热度较高，但与“当前Star”相比较仍表现出相对有限的增长潜力。典型的如[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)，其当前Star数量接近148271，表明这是一个已经得到了较广泛认可的成熟项目。
+### 3. 项目类别
+- **人工智能与工具**：榜单中的多个项目涉及到人工智能技术，例如`tinyhumansai/openhuman`和`NousResearch/hermes-agent`，这些项目的描述显示出它们在智能代理和人机交互方面的潜在应用。而`github/spec-kit`则涉及到了规范驱动开发的工具性项目，说明社区对开发工具的需求也很高。
 
-3. **时间因素**：
-   - 项目的创建时间从2025年到2026年不等，显示出一些新兴技术和工具正在快速发展的趋势。如最新的项目均在最近几个月内创建，保持了新鲜度。
+### 4. 新技术的应用
+- **创新项目**：一些项目如`ruvnet/wifi-densepose`与`ruvnet/RuView`展示了使用WiFi信号进行人体姿势估计的创新思路，这类项目代表了交叉学科联动的趋势和新兴技术的潜力。
 
-4. **项目介绍**：
-   - 各项目的介绍一般都简明扼要，直接表达出了其核心功能或目的。例如，[ruvnet/RuView](https://github.com/ruvnet/RuView)和[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)均涉及基于WiFi的姿势估计，这在物联网和智能家居领域具有重要的应用潜力。
-   - 一些项目例如[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)显示了对Claude Code的实用改进，说明开发者在积极探索工具的优化。
+### 5. 创建时间与活跃度
+- **时间分布**：绝大多数项目的创建时间集中在2025年，这可以反映出当下Github社区中对新兴技术的快速迭代与开发热情。此外，新近创建的项目（如2026年的）如`mattpocock/skills`也显示出较高的Star，这表明即便是新项目，只要有好的创意和功能，也能迅速获得用户认可。
 
-5. **市场需求与发展**：
-   - 榜单中许多项目解决了切实的开发需求，如通用的AI编码助手和跨平台桌面助理工具（如[farion1231/cc-switch](https://github.com/farion1231/cc-switch)）显示出对异构技术环境的支持。
-   - AI相关项目（如[yikart/AiToEarn](https://github.com/yikart/AiToEarn)）尽显当今趋势，证明了市场上对将AI商业化的巨大期望。
-
-综上所述，该榜单反映了当前在编程及AI领域的趋势以及多样化的工具需求，开发者和用户对这些创新工具的高涨兴趣表明了一种持续增长的趋势，并可能推动更多引人入胜的项目和应用出现。
+### 总结
+本期榜单展现了Github社区中新兴技术和工具的动向，尤其是在人工智能和开发工具领域的项目活跃。这些项目不仅仅体现在技术的创新上，也显示出开发者社区在快速变化的技术环境中的适应能力和需求导向。整体来看，这反映了技术发展的趋势和开发人员的关注点在不断演变。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|3096|78382|988|2026-02-03|
-|2|[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)|Rust|您的个人人工智能超级智能。私密、简单且极其强大。|2244|4537|705|2026-02-18|
-|3|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1795|148271|615|2025-07-22|
-|4|[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)|Python|Stealth Chromium通过了所有机器人检测测试。用源级指纹补丁替换剧作家。30/30测试通过。|1842|9171|584|2026-02-22|
-|5|[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)|TypeScript|#1基于现实世界基准的人工智能编码代理的持久内存|1565|7100|492|2026-02-25|
-|6|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1467|128125|469|2026-01-27|
-|7|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1467|128126|469|2026-01-27|
-|8|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1448|189172|462|2025-10-09|
-|9|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |1263|53815|415|2025-06-07|
-|10|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |1262|53814|414|2025-06-07|
-|11|[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)|Rust|在您的终端中运行的DeepSeek模型的编码代理|1261|27572|402|2026-01-19|
-|12|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|1175|69670|371|2025-08-04|
-|13|[yikart/AiToEarn](https://github.com/yikart/AiToEarn)|TypeScript|让我们使用人工智能赚钱！|1063|12723|344|2025-02-24|
-|14|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|898|181164|301|2026-01-18|
-|15|[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)|Python|????《从零开始构建智能体》--从零开始智能体原理与实践课程|878|48968|286|2025-09-07|
+|1|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|3110|81492|992|2026-02-03|
+|2|[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)|Rust|您的个人人工智能超级智能。私密、简单且极其强大。|2874|7411|912|2026-02-18|
+|3|[NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth)|TypeScript|启用Opencode通过OAuth针对反重力（Google的IDE）进行身份验证，以便您可以使用反重力速率限制并使用Google凭据访问gemini-3-pro和claude-opus-4-5-thinking等模型。|2170|2188|665|2025-12-09|
+|4|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1673|149944|586|2025-07-22|
+|5|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1692|190864|540|2025-10-09|
+|6|[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)|TypeScript|#1基于现实世界基准的人工智能编码代理的持久内存|1665|8765|520|2026-02-25|
+|7|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |1590|55404|519|2025-06-07|
+|8|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |1590|55405|519|2025-06-07|
+|9|[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)|Python|Stealth Chromium通过了所有机器人检测测试。用源级指纹补丁替换剧作家。30/30测试通过。|1331|10502|423|2026-02-22|
+|10|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1297|129422|418|2026-01-27|
+|11|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1298|129424|418|2026-01-27|
+|12|[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)|Rust|在您的终端中运行的DeepSeek模型的编码代理|1273|28845|401|2026-01-19|
+|13|[github/spec-kit](https://github.com/github/spec-kit)|Python|工具包帮助您开始规范驱动开发|1130|99176|361|2025-08-21|
+|14|[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)|Swift|闪电般的快速、设备上、多语言TTC-通过ONNX本地运行。|1088|5110|345|2025-11-18|
+|15|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|1050|70720|332|2025-08-04|
 
 [所有日榜](./day/day.md)
 
