@@ -1,48 +1,50 @@
 Github热门开源项目榜单
 
-## 2026年05月14日
+## 2026年05月15日
 
-根据本期榜单的内容，我们可以进行以下分析：
+本期榜单展示了多个优秀的开源项目，涵盖了不同编程语言和应用场景。以下是对榜单的详细分析：
 
-### 1. 项目分布
-- **语言**：榜单中的项目主要使用了多种编程语言，包括Shell、Rust、TypeScript、Python、Swift和None。Python和TypeScript的项目数量相对较多，说明这两种语言在当前开发环境中受到欢迎，可能与人工智能及Web开发相关应用广泛有关。
-  
-### 2. 热度与Star数据
-- **Star趋势**：榜单中所有项目的当前Star数量均高于其趋势Star数，表明这些项目在Github上受到了广泛关注和更多用户的认可。其中，`mattpocock/skills`（Star 81492）和`NoeFabris/opencode-antigravity-auth`（Star 2188）在Star数量上遥遥领先，特别是前者，Star数量非常可观，显示出其在Github社区中的影响力。
-  
-- **热度分布**：热度值的排序与Star数量的发展趋势相一致，大多数的高热度项目都对应较高的Star，这意味着用户的兴趣和参与度与项目的质量和功能性成正比。
+### 开源项目概述：
+1. **项目类型与语言**
+   - **Shell 和 Rust**: 当前榜单中，有多个项目使用Shell和Rust语言，前者主要集中在个人工具和技能库上，而后者在人体姿势估计和智能代理方面表现突出。
+   - **Python 和 TypeScript**: Python项目涉及人工智能代理和开发规范，在社区中有较高的热度。TypeScript则集中在桌面一体化工具及界面交互上，积极服务于开发者。
 
-### 3. 项目类别
-- **人工智能与工具**：榜单中的多个项目涉及到人工智能技术，例如`tinyhumansai/openhuman`和`NousResearch/hermes-agent`，这些项目的描述显示出它们在智能代理和人机交互方面的潜在应用。而`github/spec-kit`则涉及到了规范驱动开发的工具性项目，说明社区对开发工具的需求也很高。
+2. **项目介绍**
+   - 项目介绍都具备一定的技术背景和应用场景。例如，**wifi-densepose**项目专注于通过WiFi信号实现人体跟踪，而**CloakBrowser**则解决了机器人检测问题，展现了技术的实际应用潜力。
 
-### 4. 新技术的应用
-- **创新项目**：一些项目如`ruvnet/wifi-densepose`与`ruvnet/RuView`展示了使用WiFi信号进行人体姿势估计的创新思路，这类项目代表了交叉学科联动的趋势和新兴技术的潜力。
+3. **热度 & Star 数量**
+   - 热度指标显示，热度较高的项目通常伴随有较多的Star数量。例如，**mattpocock/skills**项目以84389的Star和933的热度，显示了个人技能的强大吸引力。
+   - 而如**NousResearch/hermes-agent**，尽管在Star上有明显的优势（151609），但热度并未与Star数成正比（572），建议关注项目的活跃程度与社区参与。
 
-### 5. 创建时间与活跃度
-- **时间分布**：绝大多数项目的创建时间集中在2025年，这可以反映出当下Github社区中对新兴技术的快速迭代与开发热情。此外，新近创建的项目（如2026年的）如`mattpocock/skills`也显示出较高的Star，这表明即便是新项目，只要有好的创意和功能，也能迅速获得用户认可。
+### 创建时间
+- 大部分项目在2025年至2026年间创建，显示出这些项目较新的技术趋势和不断涌现的市场需求。
+
+### 未来趋势
+- **个人技能和智能代理的兴起**: 特别是以**Claude Code**为基础的项目正在逐步增加，展示了人工智能在提升个人和团队生产力方面的潜力。
+- **WiFi技术的应用**: 在人体姿势和生活态监测方面，通过WiFi信号实现不接触式的数据收集，可能会在健康监测和智能家居中找到广泛应用。
 
 ### 总结
-本期榜单展现了Github社区中新兴技术和工具的动向，尤其是在人工智能和开发工具领域的项目活跃。这些项目不仅仅体现在技术的创新上，也显示出开发者社区在快速变化的技术环境中的适应能力和需求导向。整体来看，这反映了技术发展的趋势和开发人员的关注点在不断演变。
+本期榜单不仅展示了一些技术先进的项目，还突显了开源社区在推动技术进步和应用实现方面的重要作用。随着技术的迭代和更新，这些项目依然值得关注，特别是在个人智能化和网络应用方面的深入开发。开发者和技术爱好者可以通过参与这些优秀项目来不断提升自己的技能和实践经验。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|3110|81492|992|2026-02-03|
-|2|[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)|Rust|您的个人人工智能超级智能。私密、简单且极其强大。|2874|7411|912|2026-02-18|
-|3|[NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth)|TypeScript|启用Opencode通过OAuth针对反重力（Google的IDE）进行身份验证，以便您可以使用反重力速率限制并使用Google凭据访问gemini-3-pro和claude-opus-4-5-thinking等模型。|2170|2188|665|2025-12-09|
-|4|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1673|149944|586|2025-07-22|
-|5|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1692|190864|540|2025-10-09|
-|6|[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)|TypeScript|#1基于现实世界基准的人工智能编码代理的持久内存|1665|8765|520|2026-02-25|
-|7|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |1590|55404|519|2025-06-07|
-|8|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |1590|55405|519|2025-06-07|
-|9|[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)|Python|Stealth Chromium通过了所有机器人检测测试。用源级指纹补丁替换剧作家。30/30测试通过。|1331|10502|423|2026-02-22|
-|10|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1297|129422|418|2026-01-27|
-|11|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1298|129424|418|2026-01-27|
-|12|[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)|Rust|在您的终端中运行的DeepSeek模型的编码代理|1273|28845|401|2026-01-19|
-|13|[github/spec-kit](https://github.com/github/spec-kit)|Python|工具包帮助您开始规范驱动开发|1130|99176|361|2025-08-21|
-|14|[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)|Swift|闪电般的快速、设备上、多语言TTC-通过ONNX本地运行。|1088|5110|345|2025-11-18|
-|15|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|1050|70720|332|2025-08-04|
+|1|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|2897|84389|933|2026-02-03|
+|2|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1665|151609|572|2025-07-22|
+|3|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |1735|57139|554|2025-06-07|
+|4|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |1734|57139|553|2025-06-07|
+|5|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1580|192444|506|2025-10-09|
+|6|[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)|Rust|您的个人人工智能超级智能。私密、简单且极其强大。|1259|8670|403|2026-02-18|
+|7|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1190|130612|388|2026-01-27|
+|8|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1191|130615|388|2026-01-27|
+|9|[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)|Python|Stealth Chromium通过了所有机器人检测测试。用源级指纹补丁替换剧作家。30/30测试通过。|1164|11666|368|2026-02-22|
+|10|[garrytan/gstack](https://github.com/garrytan/gstack)|TypeScript|使用Garry Tan的Claude Code设置：23个固执己见的工具，作为CEO，设计师，工程经理，发布经理，文档工程师和QA|986|97422|327|2026-03-11|
+|11|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|974|71694|308|2025-08-04|
+|12|[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)|Rust|在您的终端中运行的DeepSeek模型的编码代理|902|29747|288|2026-01-19|
+|13|[github/spec-kit](https://github.com/github/spec-kit)|Python|工具包帮助您开始规范驱动开发|865|100041|277|2025-08-21|
+|14|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|815|182849|268|2026-01-18|
+|15|[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)|TypeScript|#1基于现实世界基准的人工智能编码代理的持久内存|710|9475|226|2026-02-25|
 
 [所有日榜](./day/day.md)
 
