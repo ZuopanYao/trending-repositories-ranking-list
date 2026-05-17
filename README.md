@@ -1,55 +1,54 @@
 Github热门开源项目榜单
 
-## 2026年05月16日
+## 2026年05月17日
 
-### 榜单分析
+根据榜单数据，我们可以对当前的项目趋势以及项目特征进行分析。以下是对榜单的详尽分析：
 
-该榜单列出了15个热门开源项目，其中包含不同语言的实现和多样化的功能。以下为对榜单的详细分析：
+### 项目概览
+1. **项目类型和语言**：
+   - 榜单中的项目多样性较高，涉及TypeScript、Shell、Rust、Python、JavaScript和Swift等多种编程语言。
+   - TypeScript和Python在榜单中较为突出，显示出这两种语言在当前开发中的重要性和流行度。
 
-#### 1. **项目类型和语言分布**
-- **Shell** 和 **Python** 是榜单上最常用的编程语言，分别有4个项目。
-- **Rust** 和 **JavaScript** 也有多个项目，显示出这些语言在特定领域（如人工智能和Web开发）的应用趋势。
-- **无语言标记**（None）在这个榜单上出现了两个项目，表明这些项目可能是文档或规范，没有特定的代码实现。
+2. **热度和Star趋势**：
+   - 项目1（NoeFabris/opencode-antigravity-auth）获得了最高的星标（10538），并且拥有较高的热度（2494），表明这是一个在开发者中广受欢迎的项目，可能具有实用性高的功能。
+   - 其他一些项目（如mattpocock/skills、forrestchang/andrej-karpathy-skills等）虽然起初的Star数量较少，但在特定领域（例如技能库和人工智能）内获得了较大的关注和广泛使用。
 
-#### 2. **热门项目特征**
-- **mattpocock/skills** 项目在当前Star（86395）上遥遥领先，并且趋势Star达到了2006，显示出非常强的增长潜力。
-- 多个项目的创建时间较近，尤其是2026年内的项目，表明当前可能有很多新技术和方法在不断涌现。
+3. **功能和目的**：
+   - 大部分项目聚焦于人工智能、身份验证和技能提升等热门领域。例如，项目6（NousResearch/hermes-agent）和项目9（Imbad0202/academic-research-skills）专注于人工智能代理和学术研究技能。
+   - 使用新兴技术（如WiFi密集人体姿势估计、Stealth Chromium等）显示出技术前沿的探索，尤其是在计算机视觉和隐私保护领域。
 
-#### 3. **趋势与热度**
-- **热度** 最高的项目主要集中在个人AI、技能代理和性能优化等领域，反映了当前技术用户的兴趣。
-- **创建时间** 越接近，现在的项目越多地与当下技术趋势相关（如人工智能和自动化），而且这类项目也往往能获得较高的Star和热度。
-
-#### 4. **特殊项目分析**
-- **mattpocock/skills** 项目作为榜单第一，可能吸引了广泛用户的关注，尤其是在开发和管理个人技能方面。
-- **tinyhumansai/openhuman** 强调私密性和强大性，符合越来越多用户对数据隐私日益增长的重视。
-- **affaan-m/everything-claude-code** 和 **NousResearch/hermes-agent** 则是更专注于生成模型的应用，展现了在AI领域对代理技术的浓厚兴趣。
-
-#### 5. **未来趋势**
-- 随着人工智能、机器学习和自动化技术的快速发展，涉及这些领域的开源项目可能会在未来继续增长。
-- 隐私和数据安全也将是未来开源项目关注的重要方面，用户对这些项目的接受度和使用度可能会提升。
+### 具体项目分析
+- **高关注项目**：
+  - `NoeFabris/opencode-antigravity-auth` 作为登录验证工具，受关注是由于其与Google的OAuth集成，使用户能够以方便的方式访问高级AI模型，非常适合开发者。
+  
+- **多样化用途的项目**：
+  - `mattpocock/skills` 作为个人技能目录，展示了个人知识管理的需求，也反映了开发者对如何记录和展示自己技能的关注。
+  
+- **领域专注的项目**：
+  - `NousResearch/hermes-agent` 和 `obra/superpowers`都是围绕协助和增强人工智能能力而设计，反映出开发者对智能化工具的迫切需求。
 
 ### 总结
-此次榜单不仅展示了热门开源项目的情况，也反映出技术趋势的演化。开发者们正在关注AI、机器学习及其相关工具的开发，这与用户日益增长的技术需求和对隐私的重视直接相关。未来，开源项目有望在智能化和人性化的方向上继续发展。
+本期榜单展现了开发者在人工智能、软件集成和技能管理等领域的浓厚兴趣。同时，TypeScript和Python的流行度也突显了这些语言在开发社区中的受欢迎程度。总的来说，这份榜单不仅提供了当前技术趋势的快照，也为关注人工智能及软件工具的开发者提供了宝贵的资源和灵感。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|2006|86395|649|2026-02-03|
-|2|[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)|Rust|您的个人人工智能超级智能。私密、简单且极其强大。|1670|10340|536|2026-02-18|
-|3|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|1471|184320|503|2026-01-18|
-|4|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1447|153056|493|2025-07-22|
-|5|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1467|132079|481|2026-01-27|
-|6|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1467|132082|481|2026-01-27|
-|7|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1225|193669|391|2025-10-09|
-|8|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |910|58049|290|2025-06-07|
-|9|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |912|58051|290|2025-06-07|
-|10|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|878|135713|282|2025-09-22|
-|11|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|822|72516|264|2025-08-04|
-|12|[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)|Swift|闪电般的快速、设备上、多语言TTC-通过ONNX本地运行。|766|6573|249|2025-11-18|
-|13|[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)|Python|Stealth Chromium通过了所有机器人检测测试。用源级指纹补丁替换剧作家。30/30测试通过。|699|12365|226|2026-02-22|
-|14|[K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)|Python|一套可供使用的研究、科学、工程、分析、金融和写作的代理技能。|688|22938|218|2025-10-19|
-|15|[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)|Python|一套可供使用的研究、科学、工程、分析、金融和写作的代理技能。|689|22940|218|2025-10-19|
+|1|[NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth)|TypeScript|启用Opencode通过OAuth针对反重力（Google的IDE）进行身份验证，以便您可以使用反重力速率限制并使用Google凭据访问gemini-3-pro和claude-opus-4-5-thinking等模型。|8316|10538|2494|2025-12-09|
+|2|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1959|88354|633|2026-02-03|
+|3|[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)|Rust|您的个人人工智能超级智能。私密、简单且极其强大。|1974|12314|632|2026-02-18|
+|4|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1564|133643|516|2026-01-27|
+|5|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1561|133643|515|2026-01-27|
+|6|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1329|154385|474|2025-07-22|
+|7|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1203|194872|383|2025-10-09|
+|8|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|1093|185413|380|2026-01-18|
+|9|[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)|Python|Claude Code的学术研究技能：研究、写作、审查、修改、最终确定|1176|9130|378|2026-02-26|
+|10|[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)|Python|Stealth Chromium通过了所有机器人检测测试。用源级指纹补丁替换剧作家。30/30测试通过。|989|13354|317|2026-02-22|
+|11|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |943|58992|306|2025-06-07|
+|12|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |941|58992|305|2025-06-07|
+|13|[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)|TypeScript|#1基于现实世界基准的人工智能编码代理的持久内存|934|11004|298|2026-02-25|
+|14|[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)|Swift|闪电般的快速、设备上、多语言TTC-通过ONNX本地运行。|826|7399|269|2025-11-18|
+|15|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|849|73365|268|2025-08-04|
 
 [所有日榜](./day/day.md)
 
