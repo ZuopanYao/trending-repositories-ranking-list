@@ -1,56 +1,47 @@
 Github热门开源项目榜单
 
-## 2026年05月19日
+## 2026年05月20日
 
-根据提供的榜单数据，我们可以对本期的项目进行如下分析：
+在本期榜单中，我们看到了一些非常有趣的项目，这些项目大多集中在人工智能和机器学习的相关领域。以下是对榜单的分析：
 
-### 总体趋势
-1. **技术语言多样性**：榜单中使用的编程语言多样，包括Rust、Python、Shell和TypeScript。这表明不同领域和不同需求的项目开发者偏好不同的语言。
+### 1. 项目多样性
+榜单中的项目涵盖了多种编程语言，包括Rust、Python、TypeScript和Shell，这反映了不同语言在人工智能开发中的应用。这种多样性不仅展示了开发者社区的广泛性，也提供了多种技术栈供用户选择。
 
-2. **AI 主题集中**：大部分项目与人工智能（AI）相关，说明当前市场对AI工具和解决方案的需求持续增长。
-
-### 项目分析
-1. **开源项目的热度**：项目的热度（热度值）反映了每个项目在开发者社区中的受欢迎程度。例如，`tinyhumansai/openhuman`的热度高达1286，显示出对个人AI的极大兴趣。
-
-2. **Star数量指标**：
-   - `tinyhumansai/openhuman`拥有最高的当前Star（20278），显示该项目的强大吸引力和用户基础。
-   - `mattpocock/skills`和`forrestchang/andrej-karpathy-skills`的Star数量超过9万，说明这些项目可能有广泛的用户或在开发者中具有很高的关注度。
-
-3. **创建时间和更新频率**：
-   - 较新项目（如`Imbad0202/academic-research-skills`和`ZhuLinsen/daily_stock_analysis`）虽然创建时间较短，但已经积累了一定的Star数量，这可能表示其潜在价值或创新性。
-   - 对于较早创建的项目（如`NousResearch/hermes-agent`），尽管创建时间较早但Star数量和趋势上升，也表明持续的关注和开发迭代。
-
-### 特定项目亮点
-- **`tinyhumansai/openhuman`**：被标记为一个"个人AI超级智能"，将私密性与强大功能结合，满足了用户对个性化的高期望。
+### 2. 热门项目分析
+- **开源人工智能项目**: 排名第一的 `tinyhumansai/openhuman` 是一个个人人工智能项目，目前的Star数已经达到23294，非常受欢迎。它侧重于隐私和易用性，满足了当前用户对数据隐私日益增长的需求。
   
-- **`Imbad0202/academic-research-skills`**：旨在提供针对学术研究的工具，如写作和审查，这对于希望提升研究效率的用户群体来说极具吸引力。
+- **CLAUDE.md系列**: 排名第二和第三的项目（`forrestchang/andrej-karpathy-skills` 和 `multica-ai/andrej-karpathy-skills`）均与改进Claude代码行为相关，显示了在人工智能模型优化领域的需求与重视。这两个项目都得到了高热度（882），说明开发者对此技术的关注度非常高。
 
-- **技能管理文件** (如`mattpocock/skills`和`forrestchang/andrej-karpathy-skills`) 反映了开发者对强化和优化LLM（大语言模型）交互的重要性。
+### 3. 新兴技术趋势
+- **知识图谱和代理人**: 项目如 `colbymchenry/codegraph` 和 `NousResearch/hermes-agent` 表明了知识图谱和智能代理的趋势。随着人工智能应用范围的扩大，能有效处理和利用信息的工具将更加受到青睐。
 
-- **代码知识图** (`colbymchenry/codegraph`) 和 **内存持久化代理** (`rohitg00/agentmemory`) 表明了对提升AI效率和减少系统调用的关注。
+- **隐私与安全**: `CloakHQ/CloakBrowser` 提供的内容强调了隐私保护方面的重要性，尤其是在网络浏览和用户行为分析中。这符合当前越来越多用户对网络安全的关注。
 
-### 趋势总结
-目前的榜单显示出开发者对AI工具的热衷，尤其是在个性化和功能性方面。项目的多样性和热度反映了开发者社区对于创新解决方案和工具的持续追求。建议开发者关注这些高Star和高热度项目，参与贡献或从中汲取灵感。同时，随着AI技术的发展，这些项目可能会在未来得到更多的更新和迭代。
+### 4. 创建时间
+创建时间的分布显示出这些项目大多数是在最近的几个月内发布的，这可能意味着人工智能领域正在快速发展和演进，吸引了很多新的开发者参与进来。
+
+### 结论
+总的来看，本期榜单的项目展现了人工智能领域的多样性和快速演变的趋势，尤其是在开发效率提升、隐私保护以及知识管理等方面。未来，随着技术的不断进步，这些项目将可能对人工智能的应用和发展产生更深远的影响。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)|Rust|您的个人人工智能超级智能。私密、简单且极其强大。|3979|20278|1286|2026-02-18|
-|2|[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)|Python|Claude Code的学术研究技能：研究、写作、审查、修改、最终确定|2811|13822|877|2026-02-26|
-|3|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|2594|93904|836|2026-02-03|
-|4|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1885|137477|610|2026-01-27|
-|5|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1885|137478|610|2026-01-27|
-|6|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1601|157691|558|2025-07-22|
-|7|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1625|198056|526|2025-10-09|
-|8|[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)|TypeScript|Claude Code的预索引代码知识图-更少的令牌、更少的工具调用、100%本地|1677|6082|524|2026-01-18|
-|9|[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)|TypeScript|#1基于现实世界基准的人工智能编码代理的持久内存|1643|13846|519|2026-02-25|
-|10|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|1364|101160|448|2025-10-13|
-|11|[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)|Python|Stealth Chromium通过了所有机器人检测测试。用源级指纹补丁替换剧作家。30/30测试通过。|1399|16221|442|2026-02-22|
-|12|[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)|Python|“CLI-Anything：让所有软件代理原生”-- CLI-Hub：https://clianything.cc/|1083|37506|338|2026-03-08|
-|13|[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)|Python|LLM驱动的 A/H/美股智能分析器：多数据源动态+ 实时新闻 + LLM决策仪表盘 + 多道推送，零成年定期运行，纯白。适用于A/H/US市场的LLM支持股票分析系统。|857|37764|332|2026-01-10|
-|14|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|1024|75461|321|2025-08-04|
-|15|[github/spec-kit](https://github.com/github/spec-kit)|Python|工具包帮助您开始规范驱动开发|950|102901|305|2025-08-21|
+|1|[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)|Rust|您的个人人工智能超级智能。私密、简单且极其强大。|3016|23294|971|2026-02-18|
+|2|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|2706|140183|882|2026-01-27|
+|3|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|2705|140183|881|2026-01-27|
+|4|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|2572|96476|823|2026-02-03|
+|5|[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)|TypeScript|Claude Code的预索引代码知识图-更少的令牌、更少的工具调用、100%本地|2409|8491|750|2026-01-18|
+|6|[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)|Python|Claude Code的学术研究技能：研究、写作、审查、修改、最终确定|1768|15590|557|2026-02-26|
+|7|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1643|199699|520|2025-10-09|
+|8|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1373|159064|489|2025-07-22|
+|9|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|1419|102579|466|2025-10-13|
+|10|[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)|Python|Stealth Chromium通过了所有机器人检测测试。用源级指纹补丁替换剧作家。30/30测试通过。|1186|17407|376|2026-02-22|
+|11|[rtk-ai/rtk](https://github.com/rtk-ai/rtk)|Rust|CLI代理可将常用开发命令的LLM令牌消耗量减少60-90%。单一Rust二进制，零依赖|1136|51725|353|2026-01-22|
+|12|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |994|61527|343|2025-06-07|
+|13|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |993|61527|343|2025-06-07|
+|14|[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)|TypeScript|#1基于现实世界基准的人工智能编码代理的持久内存|1032|14878|326|2026-02-25|
+|15|[github/spec-kit](https://github.com/github/spec-kit)|Python|工具包帮助您开始规范驱动开发|1009|103910|321|2025-08-21|
 
 [所有日榜](./day/day.md)
 
