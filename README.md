@@ -1,47 +1,52 @@
 Github热门开源项目榜单
 
-## 2026年05月20日
+## 2026年05月21日
 
-在本期榜单中，我们看到了一些非常有趣的项目，这些项目大多集中在人工智能和机器学习的相关领域。以下是对榜单的分析：
+从本期榜单的数据来看，可以进行以下分析：
 
-### 1. 项目多样性
-榜单中的项目涵盖了多种编程语言，包括Rust、Python、TypeScript和Shell，这反映了不同语言在人工智能开发中的应用。这种多样性不仅展示了开发者社区的广泛性，也提供了多种技术栈供用户选择。
+### 1. 项目类型和语言分布
+- **项目分布**：榜单中的项目主要集中在代码优化、人工智能代理、学术研究等领域，体现了当前技术发展的热门方向。
+- **编程语言**：项目使用的语言包括TypeScript、Python、Shell、Rust和JavaScript，Python仍然是AI和数据科学领域的主流语言，TypeScript逐渐受到欢迎，特别是在Web开发和工具开发中。
 
-### 2. 热门项目分析
-- **开源人工智能项目**: 排名第一的 `tinyhumansai/openhuman` 是一个个人人工智能项目，目前的Star数已经达到23294，非常受欢迎。它侧重于隐私和易用性，满足了当前用户对数据隐私日益增长的需求。
+### 2. Star 趋势分析
+- **高Star项目**：
+  - 项目`[forrestchang/andrej-karpathy-skills]`和`[multica-ai/andrej-karpathy-skills]`相同，均为用于改善Claude Code行为的文档，显示出对LLM（大语言模型）编码能力的关注，两者的Star数均达到142667，显示出极高的社区关注度。
+  - `codegraph`项目也比较突出，其Star数量达到12572，说明其在使用本地优化代码知识图方面受到使用者的青睐。
   
-- **CLAUDE.md系列**: 排名第二和第三的项目（`forrestchang/andrej-karpathy-skills` 和 `multica-ai/andrej-karpathy-skills`）均与改进Claude代码行为相关，显示了在人工智能模型优化领域的需求与重视。这两个项目都得到了高热度（882），说明开发者对此技术的关注度非常高。
+### 3. 热度（热度=趋势Star/当前Star）
+- 排名前列的项目大多具有较高的热度值，其中`codegraph`的热度最高（1268），表明其在快速获得关注和被接受。
+- 一些项目虽然当前的Star数量不多，但是热度较高，说明它们在目标用户群中有潜在的增长空间。
 
-### 3. 新兴技术趋势
-- **知识图谱和代理人**: 项目如 `colbymchenry/codegraph` 和 `NousResearch/hermes-agent` 表明了知识图谱和智能代理的趋势。随着人工智能应用范围的扩大，能有效处理和利用信息的工具将更加受到青睐。
+### 4. 创建时间和发展潜力
+- **创建时间**：多数项目创建的时间不超过两年，反映出这些技术或解决方案都是近期兴起的，具备较强的前瞻性。
+- 例如，`[colbymchenry/codegraph]`创建于2026年，表明其为最新技术，可能会在今后获得更多的关注和使用。
 
-- **隐私与安全**: `CloakHQ/CloakBrowser` 提供的内容强调了隐私保护方面的重要性，尤其是在网络浏览和用户行为分析中。这符合当前越来越多用户对网络安全的关注。
+### 5. 应用场景和实用性
+- 项目的实用性和应用场景是评价其成功的重要因素。从描述来看，技术如`wifi-densepose`和`openhuman`着眼于物联网和个性化AI，这些都是未来的热门趋势。
+- 致力于改善编程环境和增强AI能力的项目无疑将吸引开发者和研究人员的关注，这表明他们的长远发展潜力。
 
-### 4. 创建时间
-创建时间的分布显示出这些项目大多数是在最近的几个月内发布的，这可能意味着人工智能领域正在快速发展和演进，吸引了很多新的开发者参与进来。
-
-### 结论
-总的来看，本期榜单的项目展现了人工智能领域的多样性和快速演变的趋势，尤其是在开发效率提升、隐私保护以及知识管理等方面。未来，随着技术的不断进步，这些项目将可能对人工智能的应用和发展产生更深远的影响。
+### 总结
+本期榜单上，多个项目显示出强劲的增长潜力和社区关注度。随着人工智能和编程工具的发展，许多新兴的项目正逐渐塑造未来科技的使用环境。开发者在选择参与或使用这些项目时，可以考虑它们的热度、实用性以及应用场景，以避免在技术选择上的盲目性。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)|Rust|您的个人人工智能超级智能。私密、简单且极其强大。|3016|23294|971|2026-02-18|
-|2|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|2706|140183|882|2026-01-27|
-|3|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|2705|140183|881|2026-01-27|
-|4|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|2572|96476|823|2026-02-03|
-|5|[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)|TypeScript|Claude Code的预索引代码知识图-更少的令牌、更少的工具调用、100%本地|2409|8491|750|2026-01-18|
-|6|[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)|Python|Claude Code的学术研究技能：研究、写作、审查、修改、最终确定|1768|15590|557|2026-02-26|
-|7|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1643|199699|520|2025-10-09|
-|8|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1373|159064|489|2025-07-22|
-|9|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|1419|102579|466|2025-10-13|
-|10|[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)|Python|Stealth Chromium通过了所有机器人检测测试。用源级指纹补丁替换剧作家。30/30测试通过。|1186|17407|376|2026-02-22|
-|11|[rtk-ai/rtk](https://github.com/rtk-ai/rtk)|Rust|CLI代理可将常用开发命令的LLM令牌消耗量减少60-90%。单一Rust二进制，零依赖|1136|51725|353|2026-01-22|
-|12|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |994|61527|343|2025-06-07|
-|13|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |993|61527|343|2025-06-07|
-|14|[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)|TypeScript|#1基于现实世界基准的人工智能编码代理的持久内存|1032|14878|326|2026-02-25|
-|15|[github/spec-kit](https://github.com/github/spec-kit)|Python|工具包帮助您开始规范驱动开发|1009|103910|321|2025-08-21|
+|1|[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)|TypeScript|Claude Code的预索引代码知识图-更少的令牌、更少的工具调用、100%本地|4081|12572|1268|2026-01-18|
+|2|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|2484|142667|803|2026-01-27|
+|3|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|2484|142667|803|2026-01-27|
+|4|[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)|Python|Claude Code的学术研究技能：研究、写作、审查、修改、最终确定|2322|17912|722|2026-02-26|
+|5|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|2035|161099|695|2025-07-22|
+|6|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|2104|98580|682|2026-02-03|
+|7|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1510|201209|477|2025-10-09|
+|8|[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)|Python|学习它。建造它。为他人运送它。|1292|10493|427|2026-03-18|
+|9|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |1233|62760|418|2025-06-07|
+|10|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |1233|62760|418|2025-06-07|
+|11|[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)|Rust|您的个人人工智能超级智能。私密、简单且极其强大。|1300|24594|417|2026-02-18|
+|12|[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)|Shell|官方、人类管理的高质量Claude Code插件目录。|1102|21709|351|2025-11-20|
+|13|[truelockmc/streambert](https://github.com/truelockmc/streambert)|JavaScript|一款跨平台的电子桌面应用程序，用于流媒体和下载世界上的任何电影、电视剧或动漫。零广告和跟踪|1051|3707|330|2026-02-17|
+|14|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|903|103482|291|2025-10-13|
+|15|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|880|77237|277|2025-08-04|
 
 [所有日榜](./day/day.md)
 
