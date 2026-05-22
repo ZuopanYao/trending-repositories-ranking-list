@@ -1,52 +1,63 @@
 Github热门开源项目榜单
 
-## 2026年05月21日
+## 2026年05月22日
 
-从本期榜单的数据来看，可以进行以下分析：
+针对本期榜单的分析，可以从以下几个方面进行讨论：
 
-### 1. 项目类型和语言分布
-- **项目分布**：榜单中的项目主要集中在代码优化、人工智能代理、学术研究等领域，体现了当前技术发展的热门方向。
-- **编程语言**：项目使用的语言包括TypeScript、Python、Shell、Rust和JavaScript，Python仍然是AI和数据科学领域的主流语言，TypeScript逐渐受到欢迎，特别是在Web开发和工具开发中。
+### 项目概述与趋势
 
-### 2. Star 趋势分析
-- **高Star项目**：
-  - 项目`[forrestchang/andrej-karpathy-skills]`和`[multica-ai/andrej-karpathy-skills]`相同，均为用于改善Claude Code行为的文档，显示出对LLM（大语言模型）编码能力的关注，两者的Star数均达到142667，显示出极高的社区关注度。
-  - `codegraph`项目也比较突出，其Star数量达到12572，说明其在使用本地优化代码知识图方面受到使用者的青睐。
-  
-### 3. 热度（热度=趋势Star/当前Star）
-- 排名前列的项目大多具有较高的热度值，其中`codegraph`的热度最高（1268），表明其在快速获得关注和被接受。
-- 一些项目虽然当前的Star数量不多，但是热度较高，说明它们在目标用户群中有潜在的增长空间。
+1. **项目类型与语言**:
+   - 榜单上的项目主要包括TypeScript、Shell、Python和Rust等语言，反映出目前开源项目的多样性。其中TypeScript和Python的项目较多，显示出这两种语言在当前开发趋势中的受欢迎程度。
 
-### 4. 创建时间和发展潜力
-- **创建时间**：多数项目创建的时间不超过两年，反映出这些技术或解决方案都是近期兴起的，具备较强的前瞻性。
-- 例如，`[colbymchenry/codegraph]`创建于2026年，表明其为最新技术，可能会在今后获得更多的关注和使用。
+2. **热门应用领域**:
+   - 从项目介绍来看，许多项目集中在提升Claude Code的能力、开发高质量插件、增强代码分析和交互式知识图的构建上。特别是与人工智能和机器学习相关的项目（如基于WiFi的人体姿势估计）。
 
-### 5. 应用场景和实用性
-- 项目的实用性和应用场景是评价其成功的重要因素。从描述来看，技术如`wifi-densepose`和`openhuman`着眼于物联网和个性化AI，这些都是未来的热门趋势。
-- 致力于改善编程环境和增强AI能力的项目无疑将吸引开发者和研究人员的关注，这表明他们的长远发展潜力。
+3. **Star数量与热度**:
+   - Star数量和热度值的对比显示出人们对于特定项目的关注度。例如，[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)项目当前Star数为15981，热度为1062，表明其广泛受到重视和需求。
 
-### 总结
-本期榜单上，多个项目显示出强劲的增长潜力和社区关注度。随着人工智能和编程工具的发展，许多新兴的项目正逐渐塑造未来科技的使用环境。开发者在选择参与或使用这些项目时，可以考虑它们的热度、实用性以及应用场景，以避免在技术选择上的盲目性。
+### 关键项目分析
+
+1. **前两名的项目**:
+   - **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) 和 [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)**这两个项目的Star数量非常接近，且均为145714，显示出对Andrej Karpathy相关研究与见解的强烈关注。考虑到这两者的表达内容相同，未来可能需要对其进行整合。
+
+2. **功能性工具的统一**:
+   - 项目如[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)和[mattpocock/skills](https://github.com/mattpocock/skills)也展示了开源社区对高效工具与插件的追求。高质量插件能显著提高开发者使用Claude Code的效率，进而影响整个项目生态。
+
+3. **技术与社区互动**:
+   - 在一些项目如[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)中，用户能够互动地探索和提问，这表明社区正在向更加主动的知识共享和技术协作转变。
+
+### 未来趋势
+
+1. **增强交互性与用户体验**:
+   - 随着技术的快速发展，未来更多项目可能会趋向于提升交互性和用户体验，例如通过图形化用户界面（GUI）或增强现实（AR）技术来展示代码流程和状态。
+
+2. **整合AI技术**:
+   - 许多项目显示出了AI技术的应用潜力，预计随着AI的发展，更多项目将集成机器学习模型以实现更智能的代码解析和生成。
+
+3. **跨平台开发工具**:
+   - 越来越多的跨平台工具（如[farion1231/cc-switch](https://github.com/farion1231/cc-switch)）会被开发出来，以方便开发者在不同的环境中使用同一套工具，增加其效率和便捷性。
+
+总体来看，本期榜单体现了当前开源项目的动态趋势，尤其是在AI技术、用户交互和工具整合方面有着显著的关注和发展潜力。开发者应关注这些趋势，以更好地适应快速变化的技术环境。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)|TypeScript|Claude Code的预索引代码知识图-更少的令牌、更少的工具调用、100%本地|4081|12572|1268|2026-01-18|
-|2|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|2484|142667|803|2026-01-27|
-|3|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|2484|142667|803|2026-01-27|
-|4|[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)|Python|Claude Code的学术研究技能：研究、写作、审查、修改、最终确定|2322|17912|722|2026-02-26|
-|5|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|2035|161099|695|2025-07-22|
-|6|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|2104|98580|682|2026-02-03|
-|7|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1510|201209|477|2025-10-09|
-|8|[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)|Python|学习它。建造它。为他人运送它。|1292|10493|427|2026-03-18|
-|9|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |1233|62760|418|2025-06-07|
-|10|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |1233|62760|418|2025-06-07|
-|11|[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)|Rust|您的个人人工智能超级智能。私密、简单且极其强大。|1300|24594|417|2026-02-18|
-|12|[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)|Shell|官方、人类管理的高质量Claude Code插件目录。|1102|21709|351|2025-11-20|
-|13|[truelockmc/streambert](https://github.com/truelockmc/streambert)|JavaScript|一款跨平台的电子桌面应用程序，用于流媒体和下载世界上的任何电影、电视剧或动漫。零广告和跟踪|1051|3707|330|2026-02-17|
-|14|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|903|103482|291|2025-10-13|
-|15|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|880|77237|277|2025-08-04|
+|1|[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)|TypeScript|Claude Code的预索引代码知识图-更少的令牌、更少的工具调用、100%本地|3409|15981|1062|2026-01-18|
+|2|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|3047|145714|978|2026-01-27|
+|3|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|3047|145714|978|2026-01-27|
+|4|[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)|Shell|官方、人类管理的高质量Claude Code插件目录。|2501|24210|781|2025-11-20|
+|5|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|2061|100641|663|2026-02-03|
+|6|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1676|162775|586|2025-07-22|
+|7|[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)|TypeScript|有教学意义的图表>给人留下深刻印象的图表。将任何代码转换为交互式知识图，您可以探索、搜索和提出问题。与Claude Code、Codex、Cursor、Copilot、Gemini CLI等合作。|1654|17925|517|2026-03-15|
+|8|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1433|202642|454|2025-10-09|
+|9|[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)|Python|Claude Code的学术研究技能：研究、写作、审查、修改、最终确定|1016|18928|321|2026-02-26|
+|10|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |947|63707|315|2025-06-07|
+|11|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |948|63708|315|2025-06-07|
+|12|[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)|Rust|您的个人人工智能超级智能。私密、简单且极其强大。|951|25545|313|2026-02-18|
+|13|[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)|Python|学习它。建造它。为他人运送它。|968|11461|313|2026-03-18|
+|14|[trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)|None|一系列鼓舞人心的列表、手册、备忘单、博客、黑客、俏皮话、收件箱/网络工具等。|878|223016|283|2018-06-23|
+|15|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|851|78088|268|2025-08-04|
 
 [所有日榜](./day/day.md)
 
