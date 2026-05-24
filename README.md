@@ -53,58 +53,54 @@ Github热门开源项目榜单
 
 [所有日榜](./day/day.md)
 
-## 2026年第19周
+## 2026年第20周
 
-对本期榜单进行分析，主要可以从以下几个方面进行探讨：
+针对这份榜单，我们可以从多个角度进行分析，包括项目类型、语言使用趋势、当前星标数和热度等。
 
-### 1. 项目类别：
-- **编程语言**：该榜单中的项目涵盖了多个编程语言，包括Shell、Rust、Python、TypeScript、JavaScript等。其中，Python、TypeScript和Rust的项目数量较多，显示出这几种语言在当前开发者社区中的受欢迎程度。
-- **项目类型**：大部分项目似乎与人工智能（AI）、代理（Agent）和技能库等有关，反映出当前技术的发展趋势以及开发者对这些领域的关注。
+### 1. 项目类型与应用领域
+榜单上的项目常见于以下几个领域：
+- **人工智能与机器学习**：大部分项目聚焦于提升AI的代码生成能力、行为改进与代理智能（如`codegraph`、`andrej-karpathy-skills`）。
+- **Web与软件开发工具**：一些项目提供了类CLI工具或开发人员工具包（如`free-claude-code`和`spec-kit`），展示了开发者对提高开发效率的需求。
+- **无线技术与应用**：如`wifi-densepose`和`RuView`，这类应用展示了AI和无线技术结合的前景。
 
-### 2. 热度与Star数：
-- **Star的分布**：榜单中的项目Star数最高的是`mattpocock/skills`，当前Star为88,354，显示了广泛的关注和认可。而其他一些项目如`NousResearch/hermes-agent`和`CloakHQ/CloakBrowser`也都获得了较高的Star数，反映出这些项目在社区中的影响力。
-- **热度指标**：热度评分是另一个重要的评价标准，从热度值可以看出，排名前几的项目热度皆高于2000，说明这些项目在活跃度和近期受欢迎程度上都表现不错。特别是`mattpocock/skills`以5398的热度高居榜首。
+### 2. 语言使用趋势
+- **Python**是最受欢迎的编程语言，表现在多个项目（如`hermes-agent`、`CloakBrowser`和`academic-research-skills`）的开发中，反映了Python在AI和数据科学领域的广泛应用。
+- **TypeScript**和**Rust**也有多个项目入榜，表明在大规模应用和系统性能要求中，这两种语言越来越受到重视。
 
-### 3. 项目介绍：
-- 项目介绍普遍较为简洁，能够快速传达项目的核心功能和特性。比如`tinyhumansai/openhuman`以"您的个人人工智能超级智能"来吸引用户注意，表明其项目的目标和价值。
+### 3. 当前星标与热度
+- **高星标项目**：如`andrej-karpathy-skills`和`skills`这类项目，星标非常高，意味着该项目受到了广泛关注和认可。这通常与项目的实用性和创新性有关。
+- **热度评估**：项目的热度（如`codegraph`的热度为5314）反映了社区的实时关注度，热度相似的项目可能在同一时间内吸引了大量用户或开发者的兴趣。
 
-### 4. 创建时间与趋势：
-- 项目创建时间从2025年到2026年，比较近期，这表示所有项目都处于比较新的状态，适应性和科技的前沿性较强。
-- 有些项目的趋势Star与当前Star的差距非常小，意味着这些项目虽然新，但已经有良好的成长潜力。
+### 4. 项目创建时间
+- 值得注意的是，许多项目的创建时间较为接近，尤其是2026年内创建的项目，这显示出最近几个月内在相关领域内的技术创新和活跃的开发活动。
 
-### 5. 相似项目：
-- 可看到有多个项目存在名称和功能上的相似性，比如`forrestchang/andrej-karpathy-skills`和`multica-ai/andrej-karpathy-skills`两个项目都与Andrej Karpathy的内容相关，可能表明了对此领域特定资源的需求。
-
-### 6. 潜在影响因素：
-- 人工智能和机器学习的快速发展无疑推动了这些项目的受欢迎程度，以及开发者对相关工具和技能的需求。在这种情况下，围绕AI的工具、技能集和编程代理的创新与应用将可能是未来的主要趋势。
-
-### 结论：
-总体来看，本期榜单中的项目反映了当下开发者对人工智能相关工具的浓厚兴趣，值得关注的未来发展方向，同时也是对当前技术潮流和需求的良好展示。开发者可以从中找到值得探索和参与的项目，进一步促进个人及技术社区的成长。
+### 总结
+总体来看，这份榜单展示了当前AI、软件开发和无线技术领域的最新发展趋势。Python在AI开发中的主导地位依旧明显，而TypeScript和Rust则在工具和系统开发中逐渐崭露头角。随着技术的不断进步，这些项目及其背后的创新理念将对行业产生深远的影响。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|16858|88354|5398|2026-02-03|
-|2|[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)|Rust|您的个人人工智能超级智能。私密、简单且极其强大。|11158|12314|3548|2026-02-18|
-|3|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|10181|154385|3515|2025-07-22|
-|4|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|8656|133643|2808|2026-01-27|
-|5|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|8654|133643|2808|2026-01-27|
-|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|8517|194872|2723|2025-10-09|
-|7|[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)|Python|Stealth Chromium通过了所有机器人检测测试。用源级指纹补丁替换剧作家。30/30测试通过。|7583|13354|2411|2026-02-22|
-|8|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |6527|58992|2113|2025-06-07|
-|9|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |6527|58992|2113|2025-06-07|
-|10|[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)|TypeScript|#1基于现实世界基准的人工智能编码代理的持久内存|6552|11004|2076|2026-02-25|
-|11|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|6103|185413|2050|2026-01-18|
-|12|[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)|Rust|在您的终端中运行的DeepSeek模型的编码代理|6124|31115|1957|2026-01-19|
-|13|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|6199|73365|1955|2025-08-04|
-|14|[anthropics/financial-services](https://github.com/anthropics/financial-services)|Python|None|4200|24217|1419|2026-02-23|
-|15|[yikart/AiToEarn](https://github.com/yikart/AiToEarn)|TypeScript|让我们使用人工智能赚钱！|4066|14572|1321|2025-02-24|
-|16|[anthropics/skills](https://github.com/anthropics/skills)|Python|代理技能公共知识库|4006|136208|1308|2025-09-22|
-|17|[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)|Shell|人工智能编码代理的生产级工程技能。|3463|42769|1122|2026-02-15|
-|18|[decolua/9router](https://github.com/decolua/9router)|JavaScript|无限制免费人工智能编码。通过40+个提供商将Claude Code、Codex、Cursor、Cline、Copilot、Antigravity连接到免费Claude/GPT/Gemini。自动回退，RTK-40%代币，永远不会达到限制。|3401|11446|1117|2026-01-05|
-|19|[ruvnet/claude-flow](https://github.com/ruvnet/claude-flow)|JavaScript|????Claude领先的代理编排平台。部署智能多主体群、协调自主工作流程并构建对话式人工智能系统。特征    企业级架构、分布式群智能、RAG集成以及通过MCP协议提供的本地Claude Code支持。在基于代理的框架中排名第一。|3293|52207|1083|2025-06-02|
-|20|[ruvnet/ruflo](https://github.com/ruvnet/ruflo)|TypeScript|????Claude领先的代理编排平台。部署智能多主体群、协调自主工作流程并构建对话式人工智能系统。特征    企业级架构、分布式群智能、RAG集成和原生Claude Code / Codex集成|3291|52208|1082|2025-06-02|
+|1|[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)|TypeScript|Claude Code的预索引代码知识图-更少的令牌、更少的工具调用、100%本地|17045|21450|5314|2026-01-18|
+|2|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|15885|151477|5133|2026-01-27|
+|3|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|15884|151477|5133|2026-01-27|
+|4|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|11949|103259|3848|2026-02-03|
+|5|[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)|Rust|您的个人人工智能超级智能。私密、简单且极其强大。|10626|26925|3435|2026-02-18|
+|6|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|9226|165316|3221|2025-07-22|
+|7|[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)|Python|Claude Code的学术研究技能：研究、写作、审查、修改、最终确定|9407|20418|2950|2026-02-26|
+|8|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|8281|204712|2641|2025-10-09|
+|9|[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)|Shell|官方、人类管理的高质量Claude Code插件目录。|7441|27113|2340|2025-11-20|
+|10|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |5526|65191|1852|2025-06-07|
+|11|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |5527|65192|1852|2025-06-07|
+|12|[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)|Python|Stealth Chromium通过了所有机器人检测测试。用源级指纹补丁替换剧作家。30/30测试通过。|5295|20117|1685|2026-02-22|
+|13|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|5148|79585|1619|2025-08-04|
+|14|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|4900|104696|1614|2025-10-13|
+|15|[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)|TypeScript|#1基于现实世界基准的人工智能编码代理的持久内存|5008|17211|1583|2026-02-25|
+|16|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|3817|190186|1262|2026-01-18|
+|17|[rtk-ai/rtk](https://github.com/rtk-ai/rtk)|Rust|CLI代理可将常用开发命令的LLM令牌消耗量减少60-90%。单一Rust二进制，零依赖|3704|53536|1164|2026-01-22|
+|18|[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)|Python|在终端、VSCode扩展或通过discord（如openclaw）免费使用claude-code|3459|28950|1152|2026-01-28|
+|19|[github/spec-kit](https://github.com/github/spec-kit)|Python|工具包帮助您开始规范驱动开发|3521|105472|1129|2025-08-21|
+|20|[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)|Python|“CLI-Anything：让所有软件代理原生”-- CLI-Hub：https://clianything.cc/|3575|39998|1128|2026-03-08|
 
 [所有周榜](./week/week.md)
 
