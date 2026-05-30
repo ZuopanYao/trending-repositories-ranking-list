@@ -1,49 +1,64 @@
 Github热门开源项目榜单
 
-## 2026年05月29日
+## 2026年05月30日
 
-### 榜单分析
+根据提供的榜单数据，我们可以进行以下分析：
 
-本期榜单展示了15个热门开源项目，涵盖Python、TypeScript、Shell、JavaScript和HTML等语言，反映了当前技术趋势和开发者的关注重点。以下是对榜单的详细分析：
+### 一、项目概述
+本期榜单列出了15个项目，主要集中在编程工具、人工智能及其应用开发方面。绝大部分项目采用Python和TypeScript这两种语言，显示出这两种语言在开发者社区中的流行程度。
 
-#### 1. 项目概览
-- **热门语言**：Python和TypeScript位居榜单前列，其中Python项目数量较多，显示出Python在数据处理和AI领域的受欢迎程度。
-- **功能多样性**：榜单上的项目涵盖了内容生成（如短视频生成）、工具转换（如Markdown转换）、以及知识图谱和代理人等多种功能，显示出开发者在多样化工具和应用的需求。
+### 二、热门项目分析
+1. **MoneyPrinterTurbo**  
+   - **星标（Star）**: 71535  
+   - **热度**: 828  
+   - **趋势Star**: 2527  
+   - **创建时间**: 2024-03-11  
+   该项目利用大型AI模型来生成高清短视频，一键式的操作吸引了大量用户的关注和实践，为创作者提供了方便的工具。
 
-#### 2. 热度与Star数分析
-- **热门项目**：`harry0703/MoneyPrinterTurbo`、`microsoft/markitdown`和`NousResearch/hermes-agent`等项目的Star数明显高于其他项目，尤其是`MoneyPrinterTurbo`，其利用AI生成短视频的能力符合当前内容创作趋势。
-- **增长潜力**：项目的趋势Star（表示热度增长趋势）与当前Star的差异可以反映出项目的增长潜力。如`OpenBMB/VoxCPM`和`Understand-Anything`具有较好的趋势Star数，表明它们可能在未来受到更多关注。
+2. **Markitdown**  
+   - **星标**: 131539  
+   - **热度**: 752  
+   - **趋势Star**: 2398  
+   - **创建时间**: 2024-11-13  
+   作为一款转换文件格式的工具，它可能使办公文档的可读性和可编辑性提升，符合现代工作流的需求。
 
-#### 3. 创建时间
-- **新老项目结合**：榜单中包含了一些较早创建的项目，如`English-level-up-tips`（创建于2017年），以及较新的项目。较老的项目可能积累了较多的用户和维护者，而新的项目则反应了当前的技术潮流和开发者的新需求。
-- **技术的演变**：项目创建时间分布显示出技术的快速发展，例如多项与AI和ML相关的工具和库，反映了这一领域的快速变化。
+3. **Understand-Anything**  
+   - **星标**: 45619  
+   - **热度**: 467  
+   - **趋势Star**: 1455  
+   - **创建时间**: 2026-03-15  
+   作为一个用于转换代码的交互式知识图的项目，展现了当前对可视化学习和理解的重要性的关注。
 
-#### 4. 项目介绍与应用场景
-- **实用性与创新性**：从项目简介来看，许多项目致力于提升生产力和开发效率。如`microsoft/markitdown`专注于提升文档的可读性和管理，适合程序员和内容创作者使用。
-- **互动性与教育性**：如`Understand-Anything`项目强调互动式知识图的构建，这不仅适用于开发者，也适合教育领域的应用，促进知识传递与学习。
+### 三、技术趋势
+- **AI与自动化**: 多个项目（如MoneyPrinterTurbo、Understand-Anything）专注于人工智能技术的应用，显示出开发者对于AI在内容生成及教育方面的重视。
+- **文档处理与转换**: 以Markitdown为代表的项目，展示了开发者对提高工作效率的追求，尤其是在文档转换和管理领域。
+  
+### 四、语言分布
+- **Python**和**TypeScript**占据主要地位，表明这两种语言在社区中的广泛应用和接受度。
+- 另有一些其他语言如Rust和JavaScript的项目，虽然数量较少，但代表了多样化的开发环境和需求。
 
-### 结论
-本榜单反映了现代开发者在生产力工具、AI应用和教育资源等方面的持续需求。通过分析项目的技术栈、热度和应用场景，可以预见未来技术趋势的发展方向，尤其是在AI和互动式工具领域的创新潜力。同时，开发者们应关注那些具备强势增长潜力的项目，以便跟上技术发展的步伐。
+### 五、总结
+本期榜单中，热门项目通过提供便利的开发工具与高效的解决方案，满足了用户在工作与学习中的需求。随着人工智能和自动化工具的普及，这类项目可能会继续快速增长，成为开发者关注的焦点。同时，文档处理工具的受欢迎程度也反映了现代开发工作流对高效、便捷工具的需求。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)|Python|利用AI大模型，关键生成高清短视频使用AI LLM一键生成短视频。|3390|69008|1115|2024-03-11|
-|2|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|1964|129141|622|2024-11-13|
-|3|[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)|Shell|品味-技能-给你的AI好品味。阻止人工智能生成无聊的通用斜坡， |1863|27754|579|2026-02-19|
-|4|[OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)|Python|VoxCPM：用于上下文感知语音生成和逼真语音克隆的无令牌转换器|1795|21977|574|2025-09-16|
-|5|[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)|TypeScript|有教学意义的图表>给人留下深刻印象的图表。将任何代码转换为交互式知识图，您可以探索、搜索和提出问题。与Claude Code、Codex、Cursor、Copilot、Gemini CLI等合作。|1810|44164|574|2026-03-15|
-|6|[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)|TypeScript|Claude Code的预索引代码知识图-更少的令牌、更少的工具调用、100%本地|1572|32953|504|2026-01-18|
-|7|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1281|172559|452|2025-07-22|
-|8|[affaan-m/ECC](https://github.com/affaan-m/ECC)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|1335|198298|440|2026-01-18|
-|9|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|1332|198293|439|2026-01-18|
-|10|[byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips)|None|一本学习英语的高级指南，可能会让您受益匪浅。  课外英语学习指南/英语学习课程/英语学习/学英语|1359|49536|436|2017-05-30|
-|11|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1374|111215|435|2026-02-03|
-|12|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1280|212074|409|2025-10-09|
-|13|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1188|161383|385|2026-01-27|
-|14|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|1188|161383|385|2026-01-27|
-|15|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|1152|171507|361|2024-05-30|
+|1|[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)|Python|利用AI大模型，关键生成高清短视频使用AI LLM一键生成短视频。|2527|71535|828|2024-03-11|
+|2|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|2398|131539|752|2024-11-13|
+|3|[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)|TypeScript|有教学意义的图表>给人留下深刻印象的图表。将任何代码转换为交互式知识图，您可以探索、搜索和提出问题。与Claude Code、Codex、Cursor、Copilot、Gemini CLI等合作。|1455|45619|467|2026-03-15|
+|4|[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)|Shell|品味-技能-给你的AI好品味。阻止人工智能生成无聊的通用斜坡， |1182|28936|371|2026-02-19|
+|5|[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)|TypeScript|Claude Code的预索引代码知识图-更少的令牌、更少的工具调用、100%本地|1166|34119|370|2026-01-18|
+|6|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|927|173486|338|2025-07-22|
+|7|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|966|162349|311|2026-01-27|
+|8|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|966|162349|311|2026-01-27|
+|9|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|926|112141|295|2026-02-03|
+|10|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|883|85439|278|2025-08-04|
+|11|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|HTML|DigitalPlat Free域名：适合所有人的免费域名|874|172381|272|2024-05-30|
+|12|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|793|199086|260|2026-01-18|
+|13|[affaan-m/ECC](https://github.com/affaan-m/ECC)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|788|199086|258|2026-01-18|
+|14|[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)|Python|????️An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!|770|55669|251|2024-10-13|
+|15|[run-llama/liteparse](https://github.com/run-llama/liteparse)|Rust|一个快速、有用且开源的文档解析器|791|7767|244|2026-02-09|
 
 [所有日榜](./day/day.md)
 
