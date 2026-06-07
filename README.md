@@ -1,47 +1,47 @@
 Github热门开源项目榜单
 
-## 2026年06月06日
+## 2026年06月07日
 
-这份榜单展示了一些在GitHub上受欢迎的项目，其中大部分与人工智能和机器学习相关。以下是对这些项目的一些分析：
+在本期榜单中，我们可以看到一系列人工智能相关的项目，这些项目大多使用Python和一些脚本语言（如Shell和TypeScript）。下面从几个维度对榜单进行分析：
 
-### 1. 数据概述
-- **语言分布**：主要使用的编程语言为Python和JavaScript，分别有多项项目。Shell和TypeScript也有一些项目，表明多样化的技术栈。
-- **Star数量**：当前Star数量高的项目，比如`affaan-m/everything-claude-code`（208919星）和`affaan-m/ECC`（208922星），显示了这些项目的受欢迎程度和社区的支持。
+### 1. 项目流行度分析
+- **当前Star数量**：榜单上项目的Star数目从703到30063不等。比如，`NousResearch/hermes-agent`以185553的Star数量位居第二，显示出其在开发者社区中的高人气。
+- **趋势Star**：这些项目的趋势Star能够反映其增长速度。例如，`mvanhorn/last30days-skill`和`NousResearch/hermes-agent`的趋势Star都超过了1000，说明它们在短时间内吸引了很多关注。
 
-### 2. 热度与趋势
-- **热度值**：热度值是项目在一段时间内的关注度，较高的热度意味着项目近期受到了更多人的关注。`NousResearch/hermes-agent`的热度（669）最高，说明其在近期得到了广泛的注意。
-- **趋势Star**：一些项目如`NousResearch/hermes-agent`、`chopratejas/headroom` 等显示出非常高的趋势Star，表明它们可能在未来还有更大的增长潜力。
+### 2. 项目功能和目标
+- **智能代理与人机协作**：大多数项目集中在开发能与人类交互的代理工具上，如`mvanhorn/last30days-skill`和`NousResearch/hermes-agent`，这些工具旨在提高人工智能的实用性和交互能力。
+- **数据处理和转换工具**：`microsoft/markitdown`和`mattpocock/skills`等项目则集中于提高文档和代码的转换效率，显示出在知识管理和文档处理上的需求。
+- **计算机视觉**：`roboflow/supervision`项目关注于计算机视觉领域，提供可重用的工具以提升模型开发的效率。
 
-### 3. 项目特色
-- **与AI相关**：榜单上的项目大多数集中在人工智能和机器学习领域。这些项目的目的各有不同，如`headroom`用于优化LLM的输入，`taste-skill`意在提升AI生成内容的质量等。
-- **实用工具**：项目如`microsoft/markitdown`提供了实用的工具，可以帮助用户在日常工作中提高效率，比如将办公文档转换为Markdown格式。
-- **CLI工具**：多个项目提供了命令行接口（CLI），如`Panniantong/Agent-Reach`，表明开发者们关注易用性和集成性。
+### 3. 语言分布
+- **Python主导**：Python依然是当前AI开发的主流语言，有12个项目采用Python。此外，还有一些使用TypeScript和Shell，显示出开发者在工具选择上的灵活性。
 
-### 4. 创造时间
-- 许多项目都在2026年初创建，这可能与当前的AI热潮相关，也显示出AI相关项目的迅速发展。
+### 4. 热度与创建时间
+- **热度**：热度分数相对较高的项目（如`mvanhorn/last30days-skill`和`NousResearch/hermes-agent`）通常是较新创建的项目，暗示它们可能符合当前开发者对新兴技术的需求和兴趣。
+- **创建时间**：大部分项目是在2025年创建，这说明AI领域正在快速发展，新技术和应用不断涌现。
 
-### 5. 结论
-整体来看，榜单中的项目反映了技术社区对AI、ML工具及其应用领域的极大投资和兴趣，尤其是在提高效率和优化输出方面。随着AI技术的持续发展，未来可能会出现更多类似的工具和框架，值得关注。对于开发者来说，参与这些项目或是借鉴其思想，都是提升技能的重要方式。
+### 综合观感
+本期榜单突显了随着人工智能技术的发展，开发者对于智能代理、数据处理和计算机视觉工具的需求上升。这些工具不仅提升了AI的实用性，也体现了开发者对提高生产力和增强AI能力的关注。各个项目的不同特点和功能展现了AI领域中的多样性和创新潜力。随着这些技术的不断迭代与优化，我们可以预见更多有趣的应用和突破将会出现。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1989|184467|669|2025-07-22|
-|2|[chopratejas/headroom](https://github.com/chopratejas/headroom)|Python|在工具输出、日志、文件和RAG块到达LLM之前压缩它们。代币减少60-95%，答案相同。库、代理、MCC服务器。|1320|15496|414|2026-01-07|
-|3|[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)|Shell|品味-技能-给你的AI好品味。阻止人工智能生成无聊的通用斜坡， |1260|34966|397|2026-02-19|
-|4|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|1027|146107|321|2024-11-13|
-|5|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|831|208919|274|2026-01-18|
-|6|[affaan-m/ECC](https://github.com/affaan-m/ECC)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|828|208922|273|2026-01-18|
-|7|[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)|TypeScript|Claude Code的预索引代码知识图-更少的令牌、更少的工具调用、100%本地|837|42946|262|2026-01-18|
-|8|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|796|119270|257|2026-02-03|
-|9|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|779|93309|244|2025-08-04|
-|10|[OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)|Python|VoxCPM：用于上下文感知语音生成和逼真语音克隆的无令牌转换器|765|27009|244|2025-09-16|
-|11|[lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)|Python|Notebook LM的开源实现，具有更多灵活性和功能|725|26449|232|2024-10-21|
-|12|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|687|219443|222|2025-10-09|
-|13|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|713|22118|221|2026-02-24|
-|14|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|678|169231|219|2026-01-27|
-|15|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|677|169231|219|2026-01-27|
+|1|[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)|Python|人工智能代理技能，研究Reddit、X、YouTube、HN、Polymarket和网络上的任何主题-然后合成基础摘要|1487|30063|471|2026-01-23|
+|2|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1086|185553|379|2025-07-22|
+|3|[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)|Shell|品味-技能-给你的AI好品味。阻止人工智能生成无聊的通用斜坡， |1206|36172|373|2026-02-19|
+|4|[chopratejas/headroom](https://github.com/chopratejas/headroom)|Python|在工具输出、日志、文件和RAG块到达LLM之前压缩它们。代币减少60-95%，答案相同。库、代理、MCC服务器。|1142|16638|358|2026-01-07|
+|5|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|974|147081|307|2024-11-13|
+|6|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|945|170176|307|2026-01-27|
+|7|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|945|170176|306|2026-01-27|
+|8|[roboflow/supervision](https://github.com/roboflow/supervision)|Python|我们为您编写可重复使用的计算机视觉工具。????|939|41018|297|2022-11-28|
+|9|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|932|23050|293|2026-02-24|
+|10|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|896|120166|288|2026-02-03|
+|11|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|790|220233|252|2025-10-09|
+|12|[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)|TypeScript|有教学意义的图表>给人留下深刻印象的图表。将任何代码转换为交互式知识图，您可以探索、搜索和提出问题。与Claude Code、Codex、Cursor、Copilot、Gemini CLI等合作。|786|54177|250|2026-03-15|
+|13|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|750|94059|237|2025-08-04|
+|14|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|706|209625|231|2026-01-18|
+|15|[affaan-m/ECC](https://github.com/affaan-m/ECC)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|703|209625|231|2026-01-18|
 
 [所有日榜](./day/day.md)
 
