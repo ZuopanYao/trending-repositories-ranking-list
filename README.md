@@ -1,55 +1,49 @@
 Github热门开源项目榜单
 
-## 2026年06月09日
+## 2026年06月10日
 
-本期榜单显示了一些在GitHub上受到关注的开源项目，这些项目涵盖了人工智能、工具开发等多个领域。以下是对榜单的分析。
+本期榜单展示了15个具有不同功能和语言的热门开源项目。以下是对这些项目的分析：
 
-### 项目概述
-1. **项目类型与语言**
-   - 大多数项目使用Python语言，符合当前AI和数据科学领域的趋势。
-   - 还有一些使用JavaScript、Shell和TypeScript来进行不同的功能实现，显示出项目的多样性。
+### 1. 项目分布与语言
+- **Python**：项目数量较多，显示出其在人工智能和数据处理领域的流行。前三个项目中有两个使用Python，分别涉及人工智能代理和短视频生成。
+- **Shell**：使用Shell语言的项目也占据了榜单上的几个名次，主要用于开发与AI相关的技能和工具。
+- **Swift和TypeScript**：这两种语言的项目数量较少，各有一个。Swift项目关注Mac上的虚拟机，而TypeScript项目则针对跨平台的桌面助理工具。
+- **None**：有若干项目标记为“None”，这意味着它们可能是文档或说明性质的项目，未明确指定编程语言。
 
-2. **热门领域**
-   - 许多项目专注于人工智能和代理技能，这反映出在利用AI进行数据处理和生成内容方面的需求。
-   - 例如，`mvanhorn/last30days-skill` 项目通过社交媒体数据分析和摘要制作来帮助用户获取信息。
+### 2. 热度与Star
+- **高热度**：项目如[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)的热度达到了445，说明其在社交媒体或开发者社区中的关注度较高，而其Star数量（84658）也反映出了其较受欢迎的程度。
+- **流行趋势**：其他受欢迎的项目（如[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)和[mattpocock/skills](https://github.com/mattpocock/skills)）在Star数量和热度上也表现良好，显示出对AI和自动化技能的需求日增。
 
-3. **项目流行度**
-   - 项目的热度以及Star数量能够反映其受欢迎程度和社区的参与度。比如，`NousResearch/hermes-agent`和`affaan-m/everything-claude-code`等项目的Star数量相对较高，显示出强烈的用户兴趣和潜在的应用前景。
+### 3. 创建时间与趋势
+- **新旧项目结合**：项目的创建时间跨度大，涵盖了从2022年到2026年的多个项目，表明开源社区对新技术的持续关注。
+- **未来潜力**：一些较新项目（如[farion1231/cc-switch](https://github.com/farion1231/cc-switch)和[refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)）具有较高的趋势Star，说明它们可能在未来吸引更多用户和关注。
 
-### 趋势分析
-1. **AI和自动化**
-   - 许多项目涉及到利用大模型生成内容（如视频、文本），表明AI在自动化创作中的应用正在获得越来越大的关注。
-   - 项目如`Panniantong/Agent-Reach`和`harry0703/MoneyPrinterTurbo`展示了AI代理在不同平台上工作的能力。
+### 4. 功能与行业应用
+- **AI与自动化**：多数项目围绕AI、技能增强或自动化工具，表明这一领域在开发者社区中的活跃程度。
+- **多功能性工具**：项目如[microsoft/markitdown](https://github.com/microsoft/markitdown)和[roboflow/supervision](https://github.com/roboflow/supervision)迈向实用程序，适用于文档处理和计算机视觉，显示出技术跨界应用的趋势。
 
-2. **工具开发与性能优化**
-   - 多个项目专注于提高效率，如压缩令牌和优化性能，表明开发者希望提升AI应用的响应速度与处理能力。
-   - `chopratejas/headroom` 项目通过减少代币数量来优化模型的输入，显示出性能优化在当前开发中越来越重要。
-
-3. **跨平台与整合**
-   - 如`farion1231/cc-switch`等项目显示出对不同平台整合的需求，开发者希望创建更加友好的用户体验，简化操作流程。
-
-### 结论
-本期榜单体现了开源社区中对人工智能工具、性能优化和跨平台整合的聚焦。开发者们在不断寻求创新的解决方案，以提升用户在使用AI技术中的体验和效率。这也预示着未来AI领域将会有更多突破和成果。
+### 总结
+本期榜单上的项目展示了以人工智能、工具开发和自动化为趋势的广泛兴趣。Python作为主流语言，继续引领着开源项目的发展，而新兴的工具和技术在不断满足市场和开发者的需求。对于开发者而言，关注这些工具不仅能提高工作效率，还能推动个人技能的发展。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)|Python|人工智能代理技能，研究Reddit、X、YouTube、HN、Polymarket和网络上的任何主题-然后合成基础摘要|2979|36658|940|2026-01-23|
-|2|[chopratejas/headroom](https://github.com/chopratejas/headroom)|Python|在工具输出、日志、文件和RAG块到达LLM之前压缩它们。代币减少60-95%，答案相同。库、代理、MCC服务器。|1883|20108|592|2026-01-07|
-|3|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1533|122849|491|2026-02-03|
-|4|[RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)|Python|基于TurboQuant构建的载体索引，用Rust编写并具有Python绑定|1584|9930|490|2026-03-26|
-|5|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1432|188487|488|2025-07-22|
-|6|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|1538|25379|483|2026-02-24|
-|7|[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)|Python|利用AI大模型，关键生成高清短视频使用AI LLM一键生成短视频。|1423|83333|470|2024-03-11|
-|8|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|1096|211640|374|2026-01-18|
-|9|[affaan-m/ECC](https://github.com/affaan-m/ECC)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|1095|211642|373|2026-01-18|
-|10|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|1119|96208|352|2025-08-04|
-|11|[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)|Shell|品味-技能-给你的AI好品味。阻止人工智能生成无聊的通用斜坡， |1119|39339|351|2026-02-19|
-|12|[santifer/career-ops](https://github.com/santifer/career-ops)|JavaScript|基于Claude Code构建的人工智能求职系统。14种技能模式、Go仪表板、PDF生成、批处理。|1077|51286|339|2026-04-04|
-|13|[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)|TypeScript|Claude Code的预索引代码知识图-更少的令牌、更少的工具调用、100%本地|1029|45737|320|2026-01-18|
-|14|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|974|222215|309|2025-10-09|
-|15|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|942|149133|298|2024-11-13|
+|1|[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)|Python|人工智能代理技能，研究Reddit、X、YouTube、HN、Polymarket和网络上的任何主题-然后合成基础摘要|2181|38839|690|2026-01-23|
+|2|[apple/container](https://github.com/apple/container)|Swift|一个用于在Mac上使用轻量级虚拟机创建和运行Linux容器的工具。它是用Swift编写的，并针对苹果芯片进行了优化。 |2080|28980|634|2025-05-30|
+|3|[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)|Python|利用AI大模型，关键生成高清短视频使用AI LLM一键生成短视频。|1325|84658|445|2024-03-11|
+|4|[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)|Shell|人工智能编码代理的生产级工程技能。|1372|50988|435|2026-02-15|
+|5|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1195|189682|427|2025-07-22|
+|6|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1250|124099|402|2026-02-03|
+|7|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|1166|97374|367|2025-08-04|
+|8|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1118|223333|354|2025-10-09|
+|9|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|972|109820|316|2025-10-13|
+|10|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|900|150033|290|2024-11-13|
+|11|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|854|212494|286|2026-01-18|
+|12|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|751|172689|237|2026-01-27|
+|13|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|750|172689|237|2026-01-27|
+|14|[roboflow/supervision](https://github.com/roboflow/supervision)|Python|我们为您编写可重复使用的计算机视觉工具。????|633|43439|199|2022-11-28|
+|15|[refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)|TypeScript|管理降价知识库的桌面应用程序|595|14756|186|2026-02-14|
 
 [所有日榜](./day/day.md)
 
