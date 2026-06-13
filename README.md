@@ -1,59 +1,62 @@
 Github热门开源项目榜单
 
-## 2026年06月12日
+## 2026年06月13日
 
-### 榜单分析
+根据提供的榜单数据，可以从多个角度对这些项目进行分析。以下是一些关键观察和趋势分析：
 
-本期榜单展示了15个不同的项目，涵盖了多种编程语言，尤其是Shell、Python和TypeScript等。以下是对这些项目的详细分析：
+### 项目概述
+1. **领域和主题**：
+   - 这些项目主要集中在人工智能、编码代理技能、安全工具、容器技术等领域。
+   - 许多项目涉及 AI 代理的技能和能力，显示出对此类技术的强烈需求和增长趋势。
 
-#### 1. 项目类型与语言分布
-- **语言分布**：
-  - Shell: 6个项目
-  - Python: 4个项目
-  - TypeScript: 3个项目
-  - Swift: 1个项目
-  - JavaScript: 2个项目
-  - None: 1个项目
+2. **编程语言**：
+   - Python 和 Shell 是榜单中最常见的语言，表明这些语言在 AI 开发和系统自动化方面的受欢迎程度。
+   - Swift 和 TypeScript 也有代表，但相对较少。
 
-可见，Shell成为主流开发语言，可能与系统工具和自动化任务的需求有关。
+### 热度和趋势
+1. **关注度（Star 数量）**：
+   - `addyosmani/agent-skills` 以 57925 的 Star 数量排名第二，显示出其受欢迎度和潜在的实用性。
+   - `obra/superpowers` 和 `NousResearch/hermes-agent` 也拥有较高的 Star 数量，表明它们在社区中产生了良好的反响。
 
-#### 2. 趋势与热度
-- **Star增长趋势**：项目的“趋势Star”反映了近期的受欢迎程度。例如，[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)以2425的趋势Star位居第二，表明其在短时间内获得了较高的关注。
-  
-- **当前Star对比**：如[obra/superpowers](https://github.com/obra/superpowers)尽管当前Star数高达225770，但其趋势Star仅1198，显示出该项目的受欢迎程度可能在下降。
+2. **趋势 Star**：
+   - `chopratejas/headroom` 在趋势 Star 上名列第一（1515），这可能意味着项目获得了越来越多的关注，或者最近受到社区反馈的推动。
+   - 项目如 `NVIDIA/SkillSpector` 和 `microsoft/markitdown` 也显示出相对较高的趋势 Star 数。
 
-#### 3. 项目特点
-- **技术创新**：大多数项目涉及人工智能、自动化工具及其在编程中的应用，如生成代码、优化性能等。
-- **多种用途**：项目应用涵盖从系统操作到生成高质量内容等多个领域，为开发者提供了丰富的工具和资源。
-  
-- **长期维护潜力**：一些项目（如[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) 和 [microsoft/markitdown](https://github.com/microsoft/markitdown)）显示了良好的长期维护潜力，从创建时间来看，都在2024年之前。
+3. **当前 Star 和热度**：
+   - 虽然 `chopratejas/headroom` 当前的 Star 显示为 25779，但其热度（481）显示出它在增长的关注中依然不如其他项目。
+   - 一些项目的热度较低，但Star数量显著，这可能提示项目早期受欢迎，但最近关注度有所下降。
 
-#### 4. 关注的主题
-- **人工智能**：几乎所有项目都围绕着人工智能和机器学习展开，显示出这一领域的热度和前景。
-- **容器技术**：像[apple/container](https://github.com/apple/container)等项目显示了容器技术在开发中的重要性，尤其是在跨平台和资源优化方面。
+### 创造时间与发展潜力
+1. **创造时间**：
+   - 大多数项目的创建时间都在 2025 年，标志着一个新的技术周期，其中许多项目可能相互借鉴和升级。
+   - 一些较早创建的项目（如 `iptv-org/iptv`）虽然创建时间较早，但依然保持较高的当前 Star 数。
 
-#### 5. 结论
-本期榜单中的项目展现了当前开发者关注的热点领域，包括性能优化、AI技术的应用以及高效的工作流程。随着技术的发展和市场需求的变化，这些项目可能会变得越来越重要，值得持续关注。
+2. **发展潜力**：
+   - 项目如 `headroom` 和 `agent-skills` 不仅提供了功能性强大且能有效降低成本的方案，预示其在持续开发和应用上的潜力。
+   - 对于持续成长的项目，它们的开发者应该关注社区的反馈并持续优化，保持竞争力。
+
+### 总结
+这个榜单展示了人工智能和代理技术的蓬勃发展趋势。高 Star 数和热度的组合项目对于开发者和企业都具有较高的关注价值。对于开发者来说，参与这些项目或基于它们进行扩展可能会获得良好的收益。同时，随着技术的进步和社区的参与，我们可以预期这些领域会继续发展并衍生出更多的机会和挑战。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[apple/container](https://github.com/apple/container)|Swift|一个用于在Mac上使用轻量级虚拟机创建和运行Linux容器的工具。它是用Swift编写的，并针对苹果芯片进行了优化。 |3174|34636|973|2025-05-30|
-|2|[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)|Shell|人工智能编码代理的生产级工程技能。|2425|56464|773|2026-02-15|
-|3|[chopratejas/headroom](https://github.com/chopratejas/headroom)|Python|在工具输出、日志、文件和RAG块到达LLM之前压缩它们。代币减少60-95%，答案相同。库、代理、MCC服务器。|1441|24264|454|2026-01-07|
-|4|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1300|126709|415|2026-02-03|
-|5|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1198|225770|379|2025-10-09|
-|6|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1011|191774|361|2025-07-22|
-|7|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|898|151859|290|2024-11-13|
-|8|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|872|112132|281|2025-10-13|
-|9|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|814|214095|273|2026-01-18|
-|10|[affaan-m/ECC](https://github.com/affaan-m/ECC)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|812|214096|272|2026-01-18|
-|11|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|859|99276|271|2025-08-04|
-|12|[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)|Python|利用AI大模型，关键生成高清短视频使用AI LLM一键生成短视频。|805|86646|264|2024-03-11|
-|13|[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)|TypeScript|有教学意义的图表>给人留下深刻印象的图表。将任何代码转换为交互式知识图，您可以探索、搜索和提出问题。与Claude Code、Codex、Cursor、Copilot、Gemini CLI等合作。|813|57994|261|2026-03-15|
-|14|[Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)|TypeScript|有教学意义的图表>给人留下深刻印象的图表。将任何代码转换为交互式知识图，您可以探索、搜索和提出问题。与Claude Code、Codex、Cursor、Copilot、Gemini CLI等合作。|814|57995|261|2026-03-15|
-|15|[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)|Shell|品味-技能-给你的AI好品味。阻止人工智能生成无聊的通用斜坡， |812|42167|254|2026-02-19|
+|1|[chopratejas/headroom](https://github.com/chopratejas/headroom)|Python|在工具输出、日志、文件和RAG块到达LLM之前压缩它们。代币减少60-95%，答案相同。库、代理、MCC服务器。|1515|25779|481|2026-01-07|
+|2|[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)|Shell|人工智能编码代理的生产级工程技能。|1461|57925|474|2026-02-15|
+|3|[apple/container](https://github.com/apple/container)|Swift|一个用于在Mac上使用轻量级虚拟机创建和运行Linux容器的工具。它是用Swift编写的，并针对苹果芯片进行了优化。 |1334|35970|414|2025-05-30|
+|4|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|930|226700|296|2025-10-09|
+|5|[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)|Python|用于人工智能代理技能的安全扫描仪。检测漏洞、恶意模式和安全风险。|912|4129|289|2026-03-21|
+|6|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|765|192539|271|2025-07-22|
+|7|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|841|127550|271|2026-02-03|
+|8|[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)|Python|人工智能代理技能，研究Reddit、X、YouTube、HN、Polymarket和网络上的任何主题-然后合成基础摘要|817|40989|261|2026-01-23|
+|9|[iptv-org/iptv](https://github.com/iptv-org/iptv)|TypeScript|收集来自世界各地的公开可用的IPTV频道|742|118601|232|2018-11-14|
+|10|[phuryn/pm-skills](https://github.com/phuryn/pm-skills)|None|PM技能市场：100多个代理技能、命令和插件-从发现到战略、执行、启动和增长。|710|17515|230|2026-03-01|
+|11|[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)|Shell|品味-技能-给你的AI好品味。阻止人工智能生成无聊的通用斜坡， |724|42891|225|2026-02-19|
+|12|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|689|152548|221|2024-11-13|
+|13|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|675|99951|214|2025-08-04|
+|14|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|656|112788|213|2025-10-13|
+|15|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|622|214717|211|2026-01-18|
 
 [所有日榜](./day/day.md)
 
