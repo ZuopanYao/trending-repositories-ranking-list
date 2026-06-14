@@ -1,62 +1,57 @@
 Github热门开源项目榜单
 
-## 2026年06月13日
+## 2026年06月14日
 
-根据提供的榜单数据，可以从多个角度对这些项目进行分析。以下是一些关键观察和趋势分析：
+根据您提供的榜单数据，我们可以从多个角度进行分析。以下是对榜单中项目的分析：
 
-### 项目概述
-1. **领域和主题**：
-   - 这些项目主要集中在人工智能、编码代理技能、安全工具、容器技术等领域。
-   - 许多项目涉及 AI 代理的技能和能力，显示出对此类技术的强烈需求和增长趋势。
+### 1. 项目分布
 
-2. **编程语言**：
-   - Python 和 Shell 是榜单中最常见的语言，表明这些语言在 AI 开发和系统自动化方面的受欢迎程度。
-   - Swift 和 TypeScript 也有代表，但相对较少。
+- **语言分布**：
+  - **Python**：多达6个项目（2, 4, 7, 10, 11, 12），显示出Python在AI和开发工具中的广泛应用。
+  - **TypeScript/JavaScript**：共4个项目（1, 11, 12, 13, 14），展示了web开发和现代开发工具的趋势。
+  - **Shell**：5个项目（3, 5, 6, 15），表明许多智能体技能或工具用Shell进行开发。
+  - **Swift**：只有1个项目（9），但针对Mac和Apple芯片的优化显示出其特定领域的需求。
 
-### 热度和趋势
-1. **关注度（Star 数量）**：
-   - `addyosmani/agent-skills` 以 57925 的 Star 数量排名第二，显示出其受欢迎度和潜在的实用性。
-   - `obra/superpowers` 和 `NousResearch/hermes-agent` 也拥有较高的 Star 数量，表明它们在社区中产生了良好的反响。
+### 2. 热度与Star数
 
-2. **趋势 Star**：
-   - `chopratejas/headroom` 在趋势 Star 上名列第一（1515），这可能意味着项目获得了越来越多的关注，或者最近受到社区反馈的推动。
-   - 项目如 `NVIDIA/SkillSpector` 和 `microsoft/markitdown` 也显示出相对较高的趋势 Star 数。
+- **高热度项目**：
+  - **iptv-org/iptv**（Star: 120234，热度: 515）是榜单上最受欢迎的项目，提供了全球可用的IPTV频道，这反映了媒体消费的趋势。
+  - **addyoosmani/agent-skills**（Star: 59241，热度: 427）和**Panniantong/Agent-Reach**（Star: 28484，热度: 403）旨在提升AI代理的功能，两者在人工智能领域也有明显的拥护者。
 
-3. **当前 Star 和热度**：
-   - 虽然 `chopratejas/headroom` 当前的 Star 显示为 25779，但其热度（481）显示出它在增长的关注中依然不如其他项目。
-   - 一些项目的热度较低，但Star数量显著，这可能提示项目早期受欢迎，但最近关注度有所下降。
+- **新兴项目**：
+  - **chopratejas/headroom**（Star: 27198，热度: 454）和**mattpocock/skills**（Star: 128525，热度: 311）均显示出AI技能压缩和管理的创新方法，可能会受到开发者的青睐。
 
-### 创造时间与发展潜力
-1. **创造时间**：
-   - 大多数项目的创建时间都在 2025 年，标志着一个新的技术周期，其中许多项目可能相互借鉴和升级。
-   - 一些较早创建的项目（如 `iptv-org/iptv`）虽然创建时间较早，但依然保持较高的当前 Star 数。
+### 3. 发展趋势
 
-2. **发展潜力**：
-   - 项目如 `headroom` 和 `agent-skills` 不仅提供了功能性强大且能有效降低成本的方案，预示其在持续开发和应用上的潜力。
-   - 对于持续成长的项目，它们的开发者应该关注社区的反馈并持续优化，保持竞争力。
+- **人工智能**：大多数项目都围绕人工智能代理的开发与优化，比如技能管理与安全性检测，这显示出AI技术的快速发展和应用场景的多样性。
+- **知识图谱**：项目如**Egonex-AI/Understand-Anything**和**Lum1104/Understand-Anything**组织开发者的知识，旨在以交互式方式利用和查询代码。
+- **社区推动**：诸多项目的创建时间都在2026年，这意味着这些项目都是相对较新的，反映出快速发展的技术环境。
 
-### 总结
-这个榜单展示了人工智能和代理技术的蓬勃发展趋势。高 Star 数和热度的组合项目对于开发者和企业都具有较高的关注价值。对于开发者来说，参与这些项目或基于它们进行扩展可能会获得良好的收益。同时，随着技术的进步和社区的参与，我们可以预期这些领域会继续发展并衍生出更多的机会和挑战。
+### 4. 综合结论
+
+总体来看，该榜单显示了人工智能领域的多样性和活跃性，不同编程语言的使用反映了技术的多样化需求。尤其是Python和TypeScript/JavaScript的采用表明开发者更加青睐于现有的成熟生态系统，同时也在寻求通过新工具提升工作效率和能力。此外，随着对AI的关注日益增强，安全性和知识管理成为了重要的方向。
+
+这份榜单不仅是关于当前热门项目的展示，也能为开发者提供了宝贵的参考，帮助他们了解行业趋势和技术发展。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[chopratejas/headroom](https://github.com/chopratejas/headroom)|Python|在工具输出、日志、文件和RAG块到达LLM之前压缩它们。代币减少60-95%，答案相同。库、代理、MCC服务器。|1515|25779|481|2026-01-07|
-|2|[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)|Shell|人工智能编码代理的生产级工程技能。|1461|57925|474|2026-02-15|
-|3|[apple/container](https://github.com/apple/container)|Swift|一个用于在Mac上使用轻量级虚拟机创建和运行Linux容器的工具。它是用Swift编写的，并针对苹果芯片进行了优化。 |1334|35970|414|2025-05-30|
-|4|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|930|226700|296|2025-10-09|
-|5|[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)|Python|用于人工智能代理技能的安全扫描仪。检测漏洞、恶意模式和安全风险。|912|4129|289|2026-03-21|
-|6|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|765|192539|271|2025-07-22|
-|7|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|841|127550|271|2026-02-03|
-|8|[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)|Python|人工智能代理技能，研究Reddit、X、YouTube、HN、Polymarket和网络上的任何主题-然后合成基础摘要|817|40989|261|2026-01-23|
-|9|[iptv-org/iptv](https://github.com/iptv-org/iptv)|TypeScript|收集来自世界各地的公开可用的IPTV频道|742|118601|232|2018-11-14|
-|10|[phuryn/pm-skills](https://github.com/phuryn/pm-skills)|None|PM技能市场：100多个代理技能、命令和插件-从发现到战略、执行、启动和增长。|710|17515|230|2026-03-01|
-|11|[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)|Shell|品味-技能-给你的AI好品味。阻止人工智能生成无聊的通用斜坡， |724|42891|225|2026-02-19|
-|12|[microsoft/markitdown](https://github.com/microsoft/markitdown)|Python|用于将文件和办公文档转换为Markdown的Python工具。|689|152548|221|2024-11-13|
-|13|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|675|99951|214|2025-08-04|
-|14|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|656|112788|213|2025-10-13|
-|15|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|622|214717|211|2026-01-18|
+|1|[iptv-org/iptv](https://github.com/iptv-org/iptv)|TypeScript|收集来自世界各地的公开可用的IPTV频道|1633|120234|515|2018-11-14|
+|2|[chopratejas/headroom](https://github.com/chopratejas/headroom)|Python|在工具输出、日志、文件和RAG块到达LLM之前压缩它们。代币减少60-95%，答案相同。库、代理、MCC服务器。|1419|27198|454|2026-01-07|
+|3|[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)|Shell|人工智能编码代理的生产级工程技能。|1316|59241|427|2026-02-15|
+|4|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|1266|28484|403|2026-02-24|
+|5|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|975|128525|311|2026-02-03|
+|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|916|227616|294|2025-10-09|
+|7|[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)|Python|用于人工智能代理技能的安全扫描仪。检测漏洞、恶意模式和安全风险。|872|5001|279|2026-03-21|
+|8|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|763|193302|272|2025-07-22|
+|9|[apple/container](https://github.com/apple/container)|Swift|一个用于在Mac上使用轻量级虚拟机创建和运行Linux容器的工具。它是用Swift编写的，并针对苹果芯片进行了优化。 |831|36801|256|2025-05-30|
+|10|[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)|Python|人工智能代理技能，研究Reddit、X、YouTube、HN、Polymarket和网络上的任何主题-然后合成基础摘要|776|41765|250|2026-01-23|
+|11|[Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)|TypeScript|有教学意义的图表>给人留下深刻印象的图表。将任何代码转换为交互式知识图，您可以探索、搜索和提出问题。与Claude Code、Codex、Cursor、Copilot、Gemini CLI等合作。|650|59060|205|2026-03-15|
+|12|[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)|TypeScript|有教学意义的图表>给人留下深刻印象的图表。将任何代码转换为交互式知识图，您可以探索、搜索和提出问题。与Claude Code、Codex、Cursor、Copilot、Gemini CLI等合作。|648|59058|204|2026-03-15|
+|13|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|591|215308|201|2026-01-18|
+|14|[affaan-m/ECC](https://github.com/affaan-m/ECC)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|591|215309|201|2026-01-18|
+|15|[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)|Shell|品味-技能-给你的AI好品味。阻止人工智能生成无聊的通用斜坡， |627|43518|198|2026-02-19|
 
 [所有日榜](./day/day.md)
 
