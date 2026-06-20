@@ -1,30 +1,46 @@
 Github热门开源项目榜单
 
-## 2026年06月19日
+## 2026年06月20日
 
-当然，可以对这类榜单进行分析，但您需要提供具体的榜单数据或详情。榜单通常包括项目名称、语言、项目介绍、趋势Star、当前Star、热度和创建时间等信息。以下是如何分析这样一个榜单的示例：
+根据榜单数据，可以对项目进行以下分析：
 
-1. **项目名称与语言**:
-   - 每个项目的名称和使用的编程语言是什么？可以分析哪些编程语言在趋势上更加受欢迎，以及不同语言之间的项目数量比较。
+### 1. 项目类型和编程语言
+- **编程语言多样性**：榜单上的项目使用了多种编程语言，包括Python、JavaScript、Shell、C、Rust、Swift和Clojure。这表明开发者在选择技术栈时的灵活性，以及多种语言在不同领域（如AI、数据库和视频编辑）的应用。
+- **热门语言**：Python 和 JavaScript 是榜单中最受欢迎的语言，尤其是在AI和网页开发领域。
 
-2. **项目介绍**:
-   - 项目介绍内容可以帮助了解项目的功能与用途，观察哪些领域的项目更受欢迎，或是哪些创新点吸引了用户的关注。
+### 2. 项目趋势和关注度
+- **Star 趋势**：当前 Star 数量最高的项目包括 `mattpocock/skills`、`NousResearch/hermes-agent` 和 `affaan-m/everything-claude-code` 等。这些项目在特定领域（如个人技能管理、AI 代理）引起了广泛关注。
+- **热度**：热度的指标显示了项目在短期内的受欢迎程度。例如，`chopratejas/headroom` 和 `tw93/Pake` 的热度较高，表明它们在最近一段时间内得到了大量关注。
 
-3. **趋势Star与当前Star**:
-   - 比较趋势Star和当前Star能够揭示项目的受欢迎程度变化。一个项目如果趋势Star数远高于当前Star，可能是因为初期的热度，而后逐渐减少了关注。
+### 3. 项目功能与应用
+- **实用性和前瞻性**：许多项目集中在提升 AI 能力、优化数据库性能、以及简化工作流程（如视频编辑和情报监控）。例如，`OpenMontage` 提供了一个开源视频制作平台，强调了AI在创建内容方面的重要性。
+- **创新性**：一些项目如 `DeusData/codebase-memory-mcp` 通过索引代码库以提升智能搜索性能，这彰显了在代码管理领域的创新思维。此外，`Pake` 允许用户将网页转变为桌面应用，展示了在用户界面和体验设计上的新尝试。
 
-4. **热度**:
-   - 热度可以反映出项目在社区中的活跃程度，常可以与趋势Star和当前Star进行对比，查看是否有明显的相反趋势。
+### 4. 开发时间
+- **新旧项目**：创建时间较近的项目（如2026年）大多与最新技术趋势（如AI、实时数据处理）相关联，而一些较早创建的项目（如 `penpot` 和 `Pake`）则体现了技术的持续发展和社区支持。
 
-5. **创建时间**:
-   - 分析项目的创建时间，看看新项目是否能够迅速吸引关注，或者老项目持续受欢迎的原因。
-
-通过上述维度的分析，可以更深入地理解哪些项目更具发展潜力、哪些技术正在流行，以及不同编程语言的受欢迎程度。如果您提供具体的榜单数据，能够进行更详细的分析。
+### 总结
+整体来看，本期榜单中的项目表现出技术发展的多样性和创新性，尤其在AI和数据处理领域的应用上，吸引了广泛的关注和参与。随着技术的不断进步，这些项目为开发者提供了丰富的工具和资源，可能会在未来的科技生态中发挥重要作用。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
+|1|[chopratejas/headroom](https://github.com/chopratejas/headroom)|Python|在工具输出、日志、文件和RAG块到达LLM之前压缩它们。代币减少60-95%，答案相同。库、代理、MCC服务器。|3585|41057|1127|2026-01-07|
+|2|[tw93/Pake](https://github.com/tw93/Pake)|JavaScript|Turn any webpage into a desktop app with Rust.  使用Rust轻型结构构建轻型多头面应用|2916|53790|948|2022-10-14|
+|3|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1350|137819|437|2026-02-03|
+|4|[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)|C|高性能代码智能MCC服务器。将代码库索引到持久知识图中-平均回购以毫秒为单位。158种语言，亚ms查询，令牌减少99%。单一静态二进制，零依赖关系。|1189|9025|375|2026-02-24|
+|5|[palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)|Swift|专为人工智能打造的macOS视频编辑器|1181|2764|372|2026-04-07|
+|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|916|233999|288|2025-10-09|
+|7|[tursodatabase/turso](https://github.com/tursodatabase/turso)|Rust|Turso是一个进程中SQL数据库，与SQLite兼容。|922|20139|284|2023-08-26|
+|8|[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)|Python|世界上第一个开源、代理视频制作系统。12条管道、52种工具、500+名代理技能。将您的人工智能编码助理变成完整的视频制作工作室。|732|6779|235|2026-03-29|
+|9|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|653|198117|234|2025-07-22|
+|10|[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)|Shell|人工智能编码代理的生产级工程技能。|723|63987|231|2026-02-15|
+|11|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|700|35620|220|2026-02-24|
+|12|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|610|218699|203|2026-01-18|
+|13|[affaan-m/ECC](https://github.com/affaan-m/ECC)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|608|218699|202|2026-01-18|
+|14|[koala73/worldmonitor](https://github.com/koala73/worldmonitor)|TypeScript|实时全球情报仪表板-统一的态势感知界面中的人工智能支持的新闻聚合、地缘政治监控和基础设施跟踪|618|57616|193|2026-01-08|
+|15|[penpot/penpot](https://github.com/penpot/penpot)|Clojure|Penpot：用于设计和代码协作的开源设计工具|579|51028|182|2015-12-29|
 
 [所有日榜](./day/day.md)
 
