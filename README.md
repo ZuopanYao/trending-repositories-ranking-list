@@ -1,46 +1,51 @@
 Github热门开源项目榜单
 
-## 2026年06月20日
+## 2026年06月21日
 
-根据榜单数据，可以对项目进行以下分析：
+根据榜单的信息，我们可以进行以下分析：
 
-### 1. 项目类型和编程语言
-- **编程语言多样性**：榜单上的项目使用了多种编程语言，包括Python、JavaScript、Shell、C、Rust、Swift和Clojure。这表明开发者在选择技术栈时的灵活性，以及多种语言在不同领域（如AI、数据库和视频编辑）的应用。
-- **热门语言**：Python 和 JavaScript 是榜单中最受欢迎的语言，尤其是在AI和网页开发领域。
+### 1. 项目类别与语言
+- 此榜单包含多个编程语言的项目，其中**Python**和**Shell**项目较多，显示出在开放源代码和人工智能领域，Python仍然是热门选择。
+- **JavaScript**和**TypeScript**也占据了一定比例，表明Web开发和桌面应用的趋势。
+- **Clojure**和**C**的使用较少，可能与其专门的应用和受众限制有关。
 
-### 2. 项目趋势和关注度
-- **Star 趋势**：当前 Star 数量最高的项目包括 `mattpocock/skills`、`NousResearch/hermes-agent` 和 `affaan-m/everything-claude-code` 等。这些项目在特定领域（如个人技能管理、AI 代理）引起了广泛关注。
-- **热度**：热度的指标显示了项目在短期内的受欢迎程度。例如，`chopratejas/headroom` 和 `tw93/Pake` 的热度较高，表明它们在最近一段时间内得到了大量关注。
+### 2. 项目热度与Star数量
+- **头部项目**如[chopratejas/headroom](https://github.com/chopratejas/headroom) 和[tw93/Pake](https://github.com/tw93/Pake) 有着较高的Star数量（分别为43484和55766），且有较高的热度值，表明它们在GitHub社群中受到热烈关注。
+- **相对新项目**（如[palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)）也显示出健康的增长潜力，尽管总Star数较低。
 
-### 3. 项目功能与应用
-- **实用性和前瞻性**：许多项目集中在提升 AI 能力、优化数据库性能、以及简化工作流程（如视频编辑和情报监控）。例如，`OpenMontage` 提供了一个开源视频制作平台，强调了AI在创建内容方面的重要性。
-- **创新性**：一些项目如 `DeusData/codebase-memory-mcp` 通过索引代码库以提升智能搜索性能，这彰显了在代码管理领域的创新思维。此外，`Pake` 允许用户将网页转变为桌面应用，展示了在用户界面和体验设计上的新尝试。
+### 3. 创新方向
+- 项目集中于**人工智能**和与其相关的**工具开发**，例如视频编辑、知识图谱和代码理解工具，这反映出当前技术发展的一个明显趋势。
+- 一些项目（如[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)和[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)）专注于提升代码智能化及数据分析的效率，显示出对数据驱动决策的关注。
 
-### 4. 开发时间
-- **新旧项目**：创建时间较近的项目（如2026年）大多与最新技术趋势（如AI、实时数据处理）相关联，而一些较早创建的项目（如 `penpot` 和 `Pake`）则体现了技术的持续发展和社区支持。
+### 4. 项目趋势
+- 项目的“趋势Star”数值显示出这些项目的增长潜力，比如[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)和[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)，它们的趋势Star数值相对较高，表示它们可能会在未来吸引更多关注。
+- 某些项目的创建时间较近（如2026年），说明新兴技术和应用的不断涌现。
 
-### 总结
-整体来看，本期榜单中的项目表现出技术发展的多样性和创新性，尤其在AI和数据处理领域的应用上，吸引了广泛的关注和参与。随着技术的不断进步，这些项目为开发者提供了丰富的工具和资源，可能会在未来的科技生态中发挥重要作用。
+### 5. 竞争情况
+- 在相同类别的项目（例如使用Shell的项目如[mattpocock/skills](https://github.com/mattpocock/skills)和[obra/superpowers](https://github.com/obra/superpowers)）之间，需关注它们的特性和使用场景，以判断未来在相同领域的竞争力。
+
+### 结论
+本期榜单展示了多样化的项目和技术趋势，尤其在人工智能和工具开发方面展现出强劲的增长潜力。随着这些技术的不断落实和应用，后续也需持续关注这些项目在GitHub等平台的发展动态。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[chopratejas/headroom](https://github.com/chopratejas/headroom)|Python|在工具输出、日志、文件和RAG块到达LLM之前压缩它们。代币减少60-95%，答案相同。库、代理、MCC服务器。|3585|41057|1127|2026-01-07|
-|2|[tw93/Pake](https://github.com/tw93/Pake)|JavaScript|Turn any webpage into a desktop app with Rust.  使用Rust轻型结构构建轻型多头面应用|2916|53790|948|2022-10-14|
-|3|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1350|137819|437|2026-02-03|
-|4|[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)|C|高性能代码智能MCC服务器。将代码库索引到持久知识图中-平均回购以毫秒为单位。158种语言，亚ms查询，令牌减少99%。单一静态二进制，零依赖关系。|1189|9025|375|2026-02-24|
-|5|[palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)|Swift|专为人工智能打造的macOS视频编辑器|1181|2764|372|2026-04-07|
-|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|916|233999|288|2025-10-09|
-|7|[tursodatabase/turso](https://github.com/tursodatabase/turso)|Rust|Turso是一个进程中SQL数据库，与SQLite兼容。|922|20139|284|2023-08-26|
-|8|[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)|Python|世界上第一个开源、代理视频制作系统。12条管道、52种工具、500+名代理技能。将您的人工智能编码助理变成完整的视频制作工作室。|732|6779|235|2026-03-29|
-|9|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|653|198117|234|2025-07-22|
-|10|[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)|Shell|人工智能编码代理的生产级工程技能。|723|63987|231|2026-02-15|
-|11|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|700|35620|220|2026-02-24|
-|12|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|610|218699|203|2026-01-18|
-|13|[affaan-m/ECC](https://github.com/affaan-m/ECC)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|608|218699|202|2026-01-18|
-|14|[koala73/worldmonitor](https://github.com/koala73/worldmonitor)|TypeScript|实时全球情报仪表板-统一的态势感知界面中的人工智能支持的新闻聚合、地缘政治监控和基础设施跟踪|618|57616|193|2026-01-08|
-|15|[penpot/penpot](https://github.com/penpot/penpot)|Clojure|Penpot：用于设计和代码协作的开源设计工具|579|51028|182|2015-12-29|
+|1|[chopratejas/headroom](https://github.com/chopratejas/headroom)|Python|在工具输出、日志、文件和RAG块到达LLM之前压缩它们。代币减少60-95%，答案相同。库、代理、MCC服务器。|2427|43484|775|2026-01-07|
+|2|[tw93/Pake](https://github.com/tw93/Pake)|JavaScript|Turn any webpage into a desktop app with Rust.  使用Rust轻型结构构建轻型多头面应用|1976|55766|654|2022-10-14|
+|3|[palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)|Swift|专为人工智能打造的macOS视频编辑器|1764|4528|555|2026-04-07|
+|4|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1422|139241|448|2026-02-03|
+|5|[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)|Python|世界上第一个开源、代理视频制作系统。12条管道、52种工具、500+名代理技能。将您的人工智能编码助理变成完整的视频制作工作室。|1251|8030|400|2026-03-29|
+|6|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|1009|36629|321|2026-02-24|
+|7|[penpot/penpot](https://github.com/penpot/penpot)|Clojure|Penpot：用于设计和代码协作的开源设计工具|999|52027|309|2015-12-29|
+|8|[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)|C|高性能代码智能MCC服务器。将代码库索引到持久知识图中-平均回购以毫秒为单位。158种语言，亚ms查询，令牌减少99%。单一静态二进制，零依赖关系。|970|9995|305|2026-02-24|
+|9|[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)|Python|LLM驱动的 A/H/美股智能分析器：多数据源动态+ 实时新闻 + LLM决策仪表盘 + 多道推送，零成年定期运行，纯白。适用于A/H/US市场的LLM支持股票分析系统。|755|44192|296|2026-01-10|
+|10|[iptv-org/iptv](https://github.com/iptv-org/iptv)|TypeScript|收集来自世界各地的公开可用的IPTV频道|897|127001|284|2018-11-14|
+|11|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|820|234819|264|2025-10-09|
+|12|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|678|198795|241|2025-07-22|
+|13|[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)|TypeScript|有教学意义的图表>给人留下深刻印象的图表。将任何代码转换为交互式知识图，您可以探索、搜索和提出问题。与Claude Code、Codex、Cursor、Copilot、Gemini CLI等合作。|734|65155|237|2026-03-15|
+|14|[Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)|TypeScript|有教学意义的图表>给人留下深刻印象的图表。将任何代码转换为交互式知识图，您可以探索、搜索和提出问题。与Claude Code、Codex、Cursor、Copilot、Gemini CLI等合作。|734|65155|237|2026-03-15|
+|15|[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)|Shell|品味-技能-给你的AI好品味。阻止人工智能生成无聊的通用斜坡， |703|48242|224|2026-02-19|
 
 [所有日榜](./day/day.md)
 
