@@ -1,49 +1,48 @@
 Github热门开源项目榜单
 
-## 2026年06月23日
+## 2026年06月24日
 
-根据本期榜单的数据分析，可以提炼出以下几个重点观察和趋势：
+根据当前榜单，我们可以看到以下几点趋势与分析：
 
-1. **项目语言多样性**：
-   - 大多数项目采用 Python（如 OpenMontage、headroom、daily_stock_analysis 等），显示出 Python 在人工智能和数据处理领域的广泛应用。
-   - TypeScript 也展示了其在构建前端应用和与后端交互中的重要性（如 firecrawl、voicebox 和 gstack）。
+### 项目语言分布
+- **Python**：榜单中有多个项目使用Python，反映出Python在数据分析和人工智能领域的广泛应用。这表明开发者更倾向于使用Python来构建与人工智能和数据处理相关的工具。
+- **类型分布**：除了Python，Shell和TypeScript也有代表，显示出多样化的技术栈在开发者社区中的重要性。
 
-2. **项目热度与 Star 数变化**：
-   - OpenMontage 凭借其开创性的理念和众多的功能（500+名代理技能）取得了显著的关注，拥有最高的 Star 数（14785）。
-   - 尽管 skills 项目当前 Star 数非常高（143014），但其热度指数较低（558）表明该项目的更新或活跃度可能有所下降。
-   - 一些项目如 daily_stock_analysis 和 Anthropic-Cybersecurity-Skills 的 Star 数相对较高，但热度指数仍显示出相对适中的关注度，表明这些项目可能正在寻找稳定的用户基础。
+### 项目流行度及增长潜力
+- 根据"当前Star"和"趋势Star"，一些项目如`OpenMontage`（18451 stars）和`daily_stock_analysis`（48229 stars）显示出较高的关注度和用户基础，而`skills`和`superpowers`等项目则更具潜在增长性，尽管在当前Star上显示的数字较高，但趋势Star的增加速度可能表明其吸引到更多开发者的兴趣。
+- `NousResearch/hermes-agent`项目尽管当前Star较低（201781），但其趋势Star的增长表明潜在的使用场景和用户需求，是值得关注的项目。
 
-3. **新项目与创新特性**：
-   - 新兴项目如 OpenMontage、headroom 和 codebase-memory-mcp，皆展示了独特的功能和性能优化，吸引了较多的关注。
-   - 特别是 OpenMontage 和 codebase-memory-mcp，主打高性能和高效能的处理能力，符合当前对高效率程序的需求趋势。
+### 项目应用场景
+- **视频制作与媒体**：`OpenMontage`项目显示出在媒体制作领域的创新，表明AI在视频内容生成中的逐步采用。
+- **金融分析**：有多个项目如`daily_stock_analysis`和`cognee`针对金融市场的实时数据分析进行探索，说明AI工具在金融行业的需求持续上升。
+- **安全技术**：`Anthropic-Cybersecurity-Skills`展示了AI在网络安全领域的应用，满足了对安全性和合规性的需求。
 
-4. **市场聚焦**：
-   - 许多项目专注于特定的应用领域，如金融分析（daily_stock_analysis）、人工智能代理（Agent-Reach）等，显示出开发者对行业特定需求的响应。
+### 新兴项目与未来趋势
+- 较新的项目如`Agent-Reach`和`cognee`代表了对全网信息检索和智能化的需求，随着数据量的增加，智能代理和信息处理工具的重要性将愈发突出。
+- `gstack`和`superpowers`等项目展示了如何将多种工具整合在一起，提高开发者和用户的生产力，这是当前许多软件项目追求的目标。
 
-5. **用户社区与支持**：
-   - 一些项目（如 NousResearch/hermes-agent）强调与用户共同成长的理念，显示出对社区反馈和灵活变更的重视，可能有助于增强用户黏性。
-
-总体而言，这些项目均体现了快速发展的技术环境，尤其是在人工智能和自动化领域，开发者们积极探索新的工具和平台来满足多样化的需求。在未来，可以期待这些技术在更多新兴应用中的集成与扩展。
+### 总体趋势
+整体来看，这份榜单中的项目显示出当前技术趋势的多样性和复杂性，同时也预示着在AI、数据分析和工具整合领域的快速演变。随着技术的进步，开发者在选择工具时将更加重视工具的效率、智能化程度以及跨平台的能力。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)|Python|世界上第一个开源、代理视频制作系统。12条管道、52种工具、500+名代理技能。将您的人工智能编码助理变成完整的视频制作工作室。|3664|14785|1167|2026-03-29|
-|2|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1763|143014|558|2026-02-03|
-|3|[chopratejas/headroom](https://github.com/chopratejas/headroom)|Python|在工具输出、日志、文件和RAG块到达LLM之前压缩它们。代币减少60-95%，答案相同。库、代理、MCC服务器。|1531|48115|483|2026-01-07|
-|4|[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)|Python|LLM驱动的 A/H/美股智能分析器：多数据源动态+ 实时新闻 + LLM决策仪表盘 + 多道推送，零成年定期运行，纯白。适用于A/H/US市场的LLM支持股票分析系统。|1172|46800|444|2026-01-10|
-|5|[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)|C|高性能代码智能MCC服务器。将代码库索引到持久知识图中-平均回购以毫秒为单位。158种语言，亚ms查询，令牌减少99%。单一静态二进制，零依赖关系。|1377|12561|432|2026-02-24|
-|6|[palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)|Swift|专为人工智能打造的macOS视频编辑器|1391|8278|429|2026-04-07|
-|7|[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)|TypeScript|用于大规模搜索、抓取和与网络交互的API。????|1111|137995|342|2024-04-15|
-|8|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|947|200671|341|2025-07-22|
-|9|[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)|Python|·映射到5个框架：MITRE ATT&CK，NIST CSF 2.0，MITRE ATLAS，D3FEND & NIST AI RMF ·agentskills.io标准·与Claude Code，GitHub Copilot，Codex CLI，Cursor，Gemini CLI和20+平台一起工作· 26个安全域· Apache 2.0|1016|19389|319|2026-02-25|
-|10|[garrytan/gstack](https://github.com/garrytan/gstack)|TypeScript|使用Garry Tan的Claude Code设置：23个固执己见的工具，作为CEO，设计师，工程经理，发布经理，文档工程师和QA|985|113844|316|2026-03-11|
-|11|[jamiepine/voicebox](https://github.com/jamiepine/voicebox)|TypeScript|开源语音合成工作室|988|32966|310|2026-01-25|
-|12|[Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)|Java|#1本地托管的Web应用程序，允许您对PDF文件执行各种操作|985|83579|305|2023-01-27|
-|13|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|953|236758|302|2025-10-09|
-|14|[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)|TypeScript|使用人工智能编码代理只需一个命令即可克隆任何网站|827|18363|259|2026-03-13|
-|15|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|814|38467|257|2026-02-24|
+|1|[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)|Python|世界上第一个开源、代理视频制作系统。12条管道、52种工具、500+名代理技能。将您的人工智能编码助理变成完整的视频制作工作室。|3666|18451|1177|2026-03-29|
+|2|[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)|Python|LLM驱动的 A/H/美股智能分析器：多数据源动态+ 实时新闻 + LLM决策仪表盘 + 多道推送，零成年定期运行，纯白。适用于A/H/US市场的LLM支持股票分析系统。|1429|48229|550|2026-01-10|
+|3|[apple/container](https://github.com/apple/container)|Swift|一个用于在Mac上使用轻量级虚拟机创建和运行Linux容器的工具。它是用Swift编写的，并针对苹果芯片进行了优化。 |1769|41718|543|2025-05-30|
+|4|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1539|144553|496|2026-02-03|
+|5|[topoteretes/cognee](https://github.com/topoteretes/cognee)|Python|6行代码中的人工智能代理内存|1562|21323|483|2023-08-16|
+|6|[chopratejas/headroom](https://github.com/chopratejas/headroom)|Python|在工具输出、日志、文件和RAG块到达LLM之前压缩它们。代币减少60-95%，答案相同。库、代理、MCC服务器。|1434|49549|452|2026-01-07|
+|7|[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)|C|高性能代码智能MCC服务器。将代码库索引到持久知识图中-平均回购以毫秒为单位。158种语言，亚ms查询，令牌减少99%。单一静态二进制，零依赖关系。|1372|13933|435|2026-02-24|
+|8|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|1110|201781|391|2025-07-22|
+|9|[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)|Python|·映射到5个框架：MITRE ATT&CK，NIST CSF 2.0，MITRE ATLAS，D3FEND & NIST AI RMF ·agentskills.io标准·与Claude Code，GitHub Copilot，Codex CLI，Cursor，Gemini CLI和20+平台一起工作· 26个安全域· Apache 2.0|1016|20405|329|2026-02-25|
+|10|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|955|39422|302|2026-02-24|
+|11|[garrytan/gstack](https://github.com/garrytan/gstack)|TypeScript|使用Garry Tan的Claude Code设置：23个固执己见的工具，作为CEO，设计师，工程经理，发布经理，文档工程师和QA|903|114747|294|2026-03-11|
+|12|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|855|237613|271|2025-10-09|
+|13|[jamiepine/voicebox](https://github.com/jamiepine/voicebox)|TypeScript|开源语音合成工作室|766|33732|247|2026-01-25|
+|14|[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)|HTML|练习让克劳德变得完美|754|59958|236|2025-10-31|
+|15|[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)|TypeScript|使用人工智能编码代理只需一个命令即可克隆任何网站|734|19097|235|2026-03-13|
 
 [所有日榜](./day/day.md)
 
