@@ -1,57 +1,54 @@
 Github热门开源项目榜单
 
-## 2026年06月27日
+## 2026年06月28日
 
-根据这个榜单，我们可以分析出当前开源项目的趋势和特点。以下是一些关键点的总结：
+本期榜单的项目主要集中在人工智能、自动化和数据处理等领域，以下是对各项目的一些分析和观察：
 
-### 项目趋势分析
+1. **热门趋势**：
+   - 大多数项目均与人工智能（AI）有关，反映出AI技术在各个行业的广泛应用和兴起。
+   - 视频制作、股票分析、消息传递网络等多种应用场景显示出AI在多媒体处理和金融分析方面的潜力。
 
-1. **人工智能与代理系统**：
-   - 项目大多与人工智能（AI）和代理相关，显示出这一领域正迅速扩张。特别是在视频制作（OpenMontage）、消息传递（SimpleX）、信息查找（Agent-Reach）等方面，AI正被广泛应用。
+2. **项目语言**：
+   - Python和TypeScript占据了榜单的主导地位，这说明这两种语言在开发AI和网络应用领域的普遍受欢迎程度。
+   - 较少的项目使用C或Haskell，这可能反映出对于AI项目的灵活性和易用性的需求，Python以其简洁的语法和丰富的库而受到青睐。
 
-2. **高性能与多语言支持**：
-   - 项目如Codebase Memory MCP强调高性能和多语言支持，特别是在代码智能和查询效率方面，展示了现代开发者对高效工具的需求。
+3. **功能和创新**：
+   - **DeusData/codebase-memory-mcp** 提供了高性能的代码智能和快速查询功能，是针对开发者的高效工具。
+   - **calesthio/OpenMontage** 则代表了视频制作的自动化趋势，结合AI使得普通用户也能够进行高质量视频制作。
+   - **xbtlin/ai-berkshire**，将AI与传统的价值投资理念相结合，为金融分析带来了新的视角，吸引了大量关注。
 
-3. **用户隐私与安全性**：
-   - SimpleX的设计专注于用户隐私，表明当前开发者和用户对保护个人数据的重视增加。这一趋势可能会在日后的项目中愈发明显。
+4. **流行度（Star 计数）**：
+   - **msitarzewski/agency-agents** 和 **NousResearch/hermes-agent** 获得了高达117214和204788的Star，显示出对综合AI代理的强烈兴趣，这类项目能够提供多种功能和应用场景，吸引了广泛用户。
+   - 而像 **simplex-chat** 和 **Panniantong/Agent-Reach** 等项目虽然Star数相对较少，但在特定领域（如私密消息传递和信息检索）中有明确的应用价值。
 
-4. **工具和库的整合**：
-   - 许多项目（如Headroom和Gstack）专注于提供工具和库的整合，目的是降低复杂性和提升多工具使用的效率，引导开发者关注如何更好地组合现有资源。
+5. **创建时间和更新**：
+   - 最新的项目多创建于2026年，显示出AI领域的持续创新和快速变化。随着技术的快速迭代，新的解决方案和工具不断出现。
+   - 一些较早期的项目（如 **free-for-dev**) ，虽创建于2015年，但依然保持活跃，说明其在开发者社区中的持续价值。
 
-### 热度分析
+6. **社群和生态**：
+   - 参与这些项目的用户呈现出较高的参与度，特别是在AI及其应用方面的互动与讨论，反映出开发者对开源项目的兴趣和投入。
 
-- **Star数与热度**：
-  - 当前榜单中的项目之间存在显著的Star数差异，一些项目（如NousResearch/hermes-agent、obra/superpowers和Panniantong/Agent-Reach）拥有过万的Star，显示出其受欢迎程度和用户基础庞大。
-  - 热度（如关注度，可能是基于社交媒体或者社区讨论的指标）也反映了项目活跃程度与潜在成长性，值得注意的是，尽管一些项目的Star数较少，但热度值依然不低，表明它们在特定社区里可能非常受欢迎。
-
-### 编程语言的选择
-
-- 此榜单中的项目使用了多种编程语言，Python和TypeScript的应用尤为广泛，反映出这两种语言在AI和Web开发中的流行和适用性。
-- C和Haskell等静态类型语言的出现，说明某些项目专注于性能和类型安全，这对于某些特定功能的实现是至关重要的。
-
-### 总结
-
-当前的项目信息表明，开源社区正在朝着更加智能化和高效化的方向发展，人工智能和代理系统的应用正成为未来趋势。同时，开发者对隐私和工具整合的关注也在逐步上升，可能会影响到未来的开源项目设计与实现。信心建立在这些高质量项目的基础上，整个开发生态系统呈现出不断发展与演变的态势。
+总体来看，本期榜单展示了当前技术趋势、用户需求和开发者社区的活跃性。关注AI在各行各业的应用，同时也要留意各种工具及其生态的演变，对开发者来说，这些都是重要的参考信息。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)|Python|世界上第一个开源、代理视频制作系统。12条管道、52种工具、500+名代理技能。将您的人工智能编码助理变成完整的视频制作工作室。|1601|24844|515|2026-03-29|
-|2|[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)|C|高性能代码智能MCC服务器。将代码库索引到持久知识图中-平均回购以毫秒为单位。158种语言，亚ms查询，令牌减少99%。单一静态二进制，零依赖关系。|1518|16782|477|2026-02-24|
-|3|[simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)|Haskell|SimpleX -第一个没有任何类型的用户标识符的消息传递网络- 100%私有设计！iOS、Android和桌面应用程序支持！|1347|13479|425|2019-12-21|
-|4|[google-labs-code/design.md](https://github.com/google-labs-code/design.md)|TypeScript|用于向编码代理描述视觉身份的格式规范。DESIGN.md让代理商对设计系统有持续的、结构化的理解。|1339|22106|418|2026-04-10|
-|5|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|1128|43208|359|2026-02-24|
-|6|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|905|148133|288|2026-02-03|
-|7|[xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)|Python|AI 时代的迈克尔：基于 Claude Code 的价值投资研究框架。巴特·芒格·段永平·录四大师方法论 + 多Agent并行研究。|人工智能时代的伯克希尔：价值投资研究框架   建立在克劳德代码之上。4个硕士方法论+多主体对抗分析。|850|3826|280|2026-04-07|
-|8|[topoteretes/cognee](https://github.com/topoteretes/cognee)|Python|6行代码中的人工智能代理内存|793|23735|250|2023-08-16|
-|9|[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)|TypeScript|使用人工智能编码代理只需一个命令即可克隆任何网站|752|21898|242|2026-03-13|
-|10|[opendatalab/MinerU](https://github.com/opendatalab/MinerU)|Python|将PDF等复杂文档转换为LLM就绪的markdown/sson，以满足您的统计工作流程。|736|70936|230|2024-02-29|
-|11|[chopratejas/headroom](https://github.com/chopratejas/headroom)|Python|在工具输出、日志、文件和RAG块到达LLM之前压缩它们。代币减少60-95%，答案相同。库、代理、MCC服务器。|694|52424|222|2026-01-07|
-|12|[garrytan/gstack](https://github.com/garrytan/gstack)|TypeScript|使用Garry Tan的Claude Code设置：23个固执己见的工具，作为CEO，设计师，工程经理，发布经理，文档工程师和QA|632|117035|217|2026-03-11|
-|13|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|572|204193|211|2025-07-22|
-|14|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|617|239911|196|2025-10-09|
-|15|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|604|183312|196|2026-01-27|
+|1|[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)|C|高性能代码智能MCC服务器。将代码库索引到持久知识图中-平均回购以毫秒为单位。158种语言，亚ms查询，令牌减少99%。单一静态二进制，零依赖关系。|2221|19003|704|2026-02-24|
+|2|[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)|Python|世界上第一个开源、代理视频制作系统。12条管道、52种工具、500+名代理技能。将您的人工智能编码助理变成完整的视频制作工作室。|1691|26535|547|2026-03-29|
+|3|[xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)|Python|AI 时代的迈克尔：基于 Claude Code 的价值投资研究框架。巴特·芒格·段永平·录四大师方法论 + 多Agent并行研究。|人工智能时代的伯克希尔：价值投资研究框架   建立在克劳德代码之上。4个硕士方法论+多主体对抗分析。|1304|5130|423|2026-04-07|
+|4|[simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)|Haskell|SimpleX -第一个没有任何类型的用户标识符的消息传递网络- 100%私有设计！iOS、Android和桌面应用程序支持！|1153|14632|363|2019-12-21|
+|5|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|1029|117214|349|2025-10-13|
+|6|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|1010|44218|320|2026-02-24|
+|7|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|930|149063|296|2026-02-03|
+|8|[topoteretes/cognee](https://github.com/topoteretes/cognee)|Python|6行代码中的人工智能代理内存|890|24625|276|2023-08-16|
+|9|[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)|TypeScript|使用人工智能编码代理只需一个命令即可克隆任何网站|746|22644|242|2026-03-13|
+|10|[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)|Python|人工智能从任何文档生成本地可编辑的PNSX-真实的PowerPoint形状，而不是图像-不需要设计技能|756|33617|237|2025-12-10|
+|11|[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)|Python|LLM驱动的 A/H/美股智能分析器：多数据源动态+ 实时新闻 + LLM决策仪表盘 + 多道推送，零成年定期运行，纯白。适用于A/H/US市场的LLM支持股票分析系统。|559|50996|236|2026-01-10|
+|12|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|595|204788|220|2025-07-22|
+|13|[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)|HTML|具有DevOps和Infradev感兴趣的免费分层的SaaS、PaSaaS和ISaaS产品列表|682|124715|218|2015-03-18|
+|14|[garrytan/gstack](https://github.com/garrytan/gstack)|TypeScript|使用Garry Tan的Claude Code设置：23个固执己见的工具，作为CEO，设计师，工程经理，发布经理，文档工程师和QA|590|117625|201|2026-03-11|
+|15|[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)|TypeScript|用于大规模搜索、抓取和与网络交互的API。????|634|140550|198|2024-04-15|
 
 [所有日榜](./day/day.md)
 
