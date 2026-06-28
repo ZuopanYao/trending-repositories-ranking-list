@@ -52,36 +52,59 @@ Github热门开源项目榜单
 
 [所有日榜](./day/day.md)
 
-## 2026年第24周
+## 2026年第25周
 
-为了分析您提供的榜单信息，我们可以从几个关键方面来进行分析：
+对于本期榜单的分析，我们可以从项目的种类、热度、当前Star数量等几个维度进行观察。
 
-1. **项目名称与语言**：
-   - 通过项目名称和使用的编程语言，我们可以了解哪些领域或技术栈当前最受欢迎。比如，是否有多种项目使用同一种语言，这可能表明该语言的广泛应用和社区支持。
+### 项目分类
+1. **语言的多样性**：
+   - Python 项目占据了榜单的前几名，显示了Python在人工智能和数据处理领域的广泛应用。
+   - TypeScript和Shell也有多个项目，分别集中在网页开发和个人技能管理上。
 
-2. **项目介绍**：
-   - 项目介绍能够提供关于项目功能、目的和应用领域的具体信息。通过阅读这些介绍，可以判断项目的实用性及其对特定用户群体的吸引力。
+2. **项目主题**：
+   - 很多项目与人工智能相关，例如视频制作、股票分析、代理工具等，这表明AI领域的快速发展与大众的关注。
+   - 项目涉及的功能非常多元，例如视频制作（OpenMontage）、股票分析（daily_stock_analysis）、信息抓取（firecrawl）等。
 
-3. **趋势Star与当前Star**：
-   - “趋势Star”通常代表项目在最近一段时间内的增长率，而“当前Star”则表示该项目截至当前的累积受欢迎程度。通过比较这两个数据，我们可以分析项目的受欢迎程度是否在上升，进一步反映出其活跃度和社区支持。
+### 热度与趋势
+- **趋势Star与当前Star的对比**：
+  - OpenMontage初始热度（15414趋势Star）在26535的当前Star中显得非常优秀，显示持续增长。
+  - 一些项目如‘skills’和‘superpowers’之间的差距也很明显，这些项目短期内获得高关注，表明它们可能是社区中非常热门且活跃的项目。
 
-4. **热度**：
-   - 热度通常是一个反映项目活跃度和关注度的指标。高热度的项目一般意味着有很多用户参与、讨论或贡献代码，这对潜在的开发者或用户来说是一个正面的信号。
+- **热度分析**：
+  - 项目的热度分布也显示了当前技术需求的变化，特别是在AI智能工具和内存管理工具上，较高的热度（如calesthio/OpenMontage）表明行业对这类项目的关注度不断提高。
 
-5. **创建时间**：
-   - 通过分析项目的创建时间，可以判断出这些项目是新兴的还是成熟的。新项目可能会因创新性而吸引关注，而老项目则可能因其稳定性和成熟的生态系统而继续受到支持。
+### 时间分析
+- **创建时间**：
+  - 项目的创建时间从2023到2026不等，较新的项目（如2026年创建）频繁出现在排行榜上，说明新兴项目具有抢眼的表现和潜力。
+  - 一些较早的项目仍然维持良好的热度，表明经典工具仍有很大的使用基础。
 
-### 总体分析
-- 如果榜单上有大量新兴项目，这可能意味着某些技术正在迅速变化，新的需求正在形成。
-- 如果某些语言在多个项目中占主导地位，这可能表明该语言的生态圈正在扩展。
-- 趋势Star的上升可能暗示着开发者对于某些技术或项目的重新关注，可能因新功能或者社区支持的增加。
-
-若您能提供更具体的榜单数据，我会更详细地分析具体项目的情况和趋势。
+### 总结
+本期榜单展示了一个快速发展的技术领域，AI工具、编程语言和项目多样性体现了市场的需求。开发者对新的工具和平台的热情也在持续推动技术的进步。观察这些项目的趋势有助于我们了解未来技术发展的方向和重点领域。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
+|1|[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)|Python|世界上第一个开源、代理视频制作系统。12条管道、52种工具、500+名代理技能。将您的人工智能编码助理变成完整的视频制作工作室。|15414|26535|4949|2026-03-29|
+|2|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|7812|149063|2501|2026-02-03|
+|3|[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)|C|高性能代码智能MCC服务器。将代码库索引到持久知识图中-平均回购以毫秒为单位。158种语言，亚ms查询，令牌减少99%。单一静态二进制，零依赖关系。|7819|19003|2470|2026-02-24|
+|4|[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)|Python|LLM驱动的 A/H/美股智能分析器：多数据源动态+ 实时新闻 + LLM决策仪表盘 + 多道推送，零成年定期运行，纯白。适用于A/H/US市场的LLM支持股票分析系统。|5368|50996|2118|2026-01-10|
+|5|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|6565|44218|2086|2026-02-24|
+|6|[chopratejas/headroom](https://github.com/chopratejas/headroom)|Python|在工具输出、日志、文件和RAG块到达LLM之前压缩它们。代币减少60-95%，答案相同。库、代理、MCC服务器。|6344|52928|2018|2026-01-07|
+|7|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|5064|204788|1808|2025-07-22|
+|8|[topoteretes/cognee](https://github.com/topoteretes/cognee)|Python|6行代码中的人工智能代理内存|5437|24625|1690|2023-08-16|
+|9|[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)|TypeScript|使用人工智能编码代理只需一个命令即可克隆任何网站|5108|22644|1641|2026-03-13|
+|10|[garrytan/gstack](https://github.com/garrytan/gstack)|TypeScript|使用Garry Tan的Claude Code设置：23个固执己见的工具，作为CEO，设计师，工程经理，发布经理，文档工程师和QA|4766|117625|1592|2026-03-11|
+|11|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|4698|240503|1503|2025-10-09|
+|12|[apple/container](https://github.com/apple/container)|Swift|一个用于在Mac上使用轻量级虚拟机创建和运行Linux容器的工具。它是用Swift编写的，并针对苹果芯片进行了优化。 |4718|44180|1452|2025-05-30|
+|13|[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)|Python|·映射到5个框架：MITRE ATT&CK，NIST CSF 2.0，MITRE ATLAS，D3FEND & NIST AI RMF ·agentskills.io标准·与Claude Code，GitHub Copilot，Codex CLI，Cursor，Gemini CLI和20+平台一起工作· 26个安全域· Apache 2.0|4134|22507|1324|2026-02-25|
+|14|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|3518|183812|1150|2026-01-27|
+|15|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|3518|183812|1150|2026-01-27|
+|16|[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)|TypeScript|用于大规模搜索、抓取和与网络交互的API。????|3666|140550|1126|2024-04-15|
+|17|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|3553|109889|1116|2025-08-04|
+|18|[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)|Shell|品味-技能-给你的AI好品味。阻止人工智能生成无聊的通用斜坡， |3488|52418|1098|2026-02-19|
+|19|[jamiepine/voicebox](https://github.com/jamiepine/voicebox)|TypeScript|开源语音合成工作室|3292|35270|1055|2026-01-25|
+|20|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|3158|222907|1043|2026-01-18|
 
 [所有周榜](./week/week.md)
 
