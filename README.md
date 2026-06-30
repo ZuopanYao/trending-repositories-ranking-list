@@ -1,60 +1,66 @@
 Github热门开源项目榜单
 
-## 2026年06月29日
+## 2026年06月30日
 
-本期榜单包含了一些引人注目的开源项目，主要集中在人工智能、编程工具和实用服务等领域。以下是对榜单的分析：
+本期榜单展示了15个热门的项目，涵盖了多个领域，尤其是与人工智能和代理相关的创新解决方案。以下是对这些项目的分析：
 
-### 总体趋势
-1. **人工智能应用**：
-   - 多个项目涉及人工智能（AI）的应用，包括代码智能分析、视频制作、交易代理等。这表明在当前的技术环境中，AI 是一个热门的研发领域，各种工具和框架正在快速发展。
-   
-2. **开源项目受欢迎程度**：
-   - 具有较高“Star”数量的项目表明社区对这些工具的认可和关注。例如，`ripienaar/free-for-dev` 作为一个提供免费开发产品列表的项目，累积了超过12万颗Star，显示了广泛的需求。
+### 榜单特点分析
 
-3. **语言多样性**：
-   - 项目使用的编程语言多样，包括Python、C、Haskell等。这表明开发者在选择工具时重视语言的适合性和项目特性。
+1. **人工智能（AI）的重要性**:
+   - 榜单中多个项目都紧密围绕人工智能展开，如`agency-agents`、`OpenMontage`、和`Agent-Reach`。这些项目突出了AI在创造、分析和交互中的潜力，表明市场对智能化解决方案的强烈需求。
 
-### 具体项目分析
-1. **DeusData/codebase-memory-mcp**：
-   - 该项目提供了一个高性能的代码智能服务器，支持158种语言，并能够实现亚毫秒级查询。这种高效性和多语言支持使其在开发工具中具有明显优势。
+2. **编程语言多样性**:
+   - 尽管Python占据了大部分项目（8个），但也有C、Shell和Haskell等其他语言。Python的流行主要归因于其简便性和丰富的生态系统，适合快速开发和数据分析。
 
-2. **ripienaar/free-for-dev**：
-   - 现在已成为开发者常用的工具，致力于整理和分享免费的开发资源，帮助开发者节省成本，促进开发者社区的发展。
+3. **项目热度与Star数量**:
+   - 项目`agency-agents`以高达120405的Star数位居第一，表现出它在开发者社区中的受欢迎程度。同时，`superpowers`和`hermes-agent`也在Star数量上表现出色，展示出开发者对功能丰富、可复用模块的偏好。
 
-3. **calesthio/OpenMontage**：
-   - 创新性地将视频制作与AI结合，首次推出开源的代理视频制作系统，显示了AI在媒体领域的应用潜力。
+4. **创建时间与项目新鲜度**:
+   - 大部分项目创建于2025年，显示出这些技术和需求是近期才得以突显，可以认为这些领域仍在快速发展中。
 
-4. **simplex-chat/simplex-chat**：
-   - 首个没有用户标识符的全私有消息传递网络，注重用户隐私，符合当下对数据安全的关注。
+5. **综合应用场景**:
+   - 有些项目如`daily_stock_analysis`聚焦于特定应用场景（如股票分析），而其他项目则更为通用，例如`simplex-chat`和`viso-trading`，显示出开发者对于多样化解决方案的需求。
 
-5. **msitarzewski/agency-agents**：
-   - 该项目展示了一个完整的AI代理系统，强调了从不同角色到达成目标的多样性和专业性，适应了现代多任务处理的需求。
+6. **高性能要求**:
+   - `codebase-memory-mcp`和`headroom`等项目强调了高性能和低延迟，反映出在快速发展的软件环境中，开发者对效率的高度关注。
 
-### 热度与创建时间
-- 从热度来看，许多项目的热度相对较高，显示出当前技术环境下开发者对开源工具的需求。然而，创建时间显示出一些项目较新，可能是对快速发展的市场（如AI）作出的响应。
+### 学习和发展趋势
 
-### Conclusion
-本期榜单展示了技术创新的趋势，特别是AI技术的广泛应用和开源项目的持续受欢迎。开发者可以通过这些项目获取灵感，同时也能找到满足其需求的工具和框架。随着技术的不断进步，未来还会涌现出更多的创新项目，值得在后续榜单中关注。
+- **AI代理与工具的集成**: 
+  AI代理的集成越来越受到关注，尤其是在高效处理信息和执行任务的能力上，这将推动企业和个人采用更智能的工作流程。
+
+- **低代码与零代码**:
+  随着对编写代码需求的下降，使用可视化接口和图形化工具进行设计和开发的趋势会越来越明显。
+
+- **开源文化的持续繁荣**:
+  大多数项目都是开源的，显示了开放协作精神的持续推动，也为开发者提供了学习和贡献的机会。
+
+- **多模态技术的融合**:
+  项目如`ppt-master`展示了将多种黑科技（如语言模型、图形处理）融合的趋势，这将打开更多新颖的应用场景。
+
+### 总结
+
+本期榜单反映了当今技术界对高效、智能、灵活工具的追求，开发者正在不断探索如何利用新的技术来提升生产力和创造力。随着AI技术的发展，未来可能会看到更多的跨界应用和创新工具。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)|C|高性能代码智能MCC服务器。将代码库索引到持久知识图中-平均回购以毫秒为单位。158种语言，亚ms查询，令牌减少99%。单一静态二进制，零依赖关系。|2079|21082|648|2026-02-24|
-|2|[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)|HTML|具有DevOps和Infradev感兴趣的免费分层的SaaS、PaSaaS和ISaaS产品列表|1809|126524|572|2015-03-18|
-|3|[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)|Python|世界上第一个开源、代理视频制作系统。12条管道、52种工具、500+名代理技能。将您的人工智能编码助理变成完整的视频制作工作室。|1713|28248|555|2026-03-29|
-|4|[simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)|Haskell|SimpleX -第一个没有任何类型的用户标识符的消息传递网络- 100%私有设计！iOS、Android和桌面应用程序支持！|1593|16225|498|2019-12-21|
-|5|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|1367|118581|457|2025-10-13|
-|6|[xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)|Python|AI 时代的迈克尔：基于 Claude Code 的价值投资研究框架。巴特·芒格·段永平·录四大师方法论 + 多Agent并行研究。|人工智能时代的伯克希尔：价值投资研究框架   建立在克劳德代码之上。4个硕士方法论+多主体对抗分析。|1342|6472|435|2026-04-07|
-|7|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1281|150344|409|2026-02-03|
-|8|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|1254|45472|395|2026-02-24|
-|9|[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)|Python|LLM驱动的 A/H/美股智能分析器：多数据源动态+ 实时新闻 + LLM决策仪表盘 + 多道推送，零成年定期运行，纯白。适用于A/H/US市场的LLM支持股票分析系统。|747|51743|340|2026-01-10|
-|10|[browser-use/video-use](https://github.com/browser-use/video-use)|Python|使用编码代理编辑视频|940|11727|290|2026-04-12|
-|11|[opendatalab/MinerU](https://github.com/opendatalab/MinerU)|Python|将PDF等复杂文档转换为LLM就绪的markdown/sson，以满足您的统计工作流程。|870|72227|272|2024-02-29|
-|12|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|847|241350|270|2025-10-09|
-|13|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|761|205549|270|2025-07-22|
-|14|[topoteretes/cognee](https://github.com/topoteretes/cognee)|Python|6行代码中的人工智能代理内存|858|25483|269|2023-08-16|
-|15|[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)|Python|“Vibe-Trading：您的个人交易代理”|806|14930|254|2026-04-01|
+|1|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|1824|120405|603|2025-10-13|
+|2|[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)|C|高性能代码智能MCC服务器。将代码库索引到持久知识图中-平均回购以毫秒为单位。158种语言，亚ms查询，令牌减少99%。单一静态二进制，零依赖关系。|1444|22526|461|2026-02-24|
+|3|[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)|Python|世界上第一个开源、代理视频制作系统。12条管道、52种工具、500+名代理技能。将您的人工智能编码助理变成完整的视频制作工作室。|1375|29623|454|2026-03-29|
+|4|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|1296|46768|408|2026-02-24|
+|5|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1130|151474|360|2026-02-03|
+|6|[simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)|Haskell|SimpleX -第一个没有任何类型的用户标识符的消息传递网络- 100%私有设计！iOS、Android和桌面应用程序支持！|1025|17250|322|2019-12-21|
+|7|[xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)|Python|AI 时代的迈克尔：基于 Claude Code 的价值投资研究框架。巴特·芒格·段永平·录四大师方法论 + 多Agent并行研究。|人工智能时代的伯克希尔：价值投资研究框架   建立在克劳德代码之上。4个硕士方法论+多主体对抗分析。|915|7387|297|2026-04-07|
+|8|[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)|Python|LLM驱动的 A/H/美股智能分析器：多数据源动态+ 实时新闻 + LLM决策仪表盘 + 多道推送，零成年定期运行，纯白。适用于A/H/US市场的LLM支持股票分析系统。|639|52382|293|2026-01-10|
+|9|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|892|242242|284|2025-10-09|
+|10|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|763|206312|270|2025-07-22|
+|11|[chopratejas/headroom](https://github.com/chopratejas/headroom)|Python|在工具输出、日志、文件和RAG块到达LLM之前压缩它们。代币减少60-95%，答案相同。库、代理、MCC服务器。|805|54478|255|2026-01-07|
+|12|[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)|Python|人工智能从任何文档生成本地可编辑的PNSX-真实的PowerPoint形状，而不是图像-不需要设计技能|802|35104|249|2025-12-10|
+|13|[usestrix/strix](https://github.com/usestrix/strix)|Python|您的应用程序的开源人工智能黑客????????‍????|671|27834|223|2025-08-05|
+|14|[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)|Python|“Vibe-Trading：您的个人交易代理”|694|15624|218|2026-04-01|
+|15|[browser-use/video-use](https://github.com/browser-use/video-use)|Python|使用编码代理编辑视频|694|12421|218|2026-04-12|
 
 [所有日榜](./day/day.md)
 
