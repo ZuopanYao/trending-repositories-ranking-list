@@ -1,51 +1,53 @@
 Github热门开源项目榜单
 
-## 2026年07月03日
+## 2026年07月04日
 
-根据本期榜单的分析，我们可以提取出以下几个关键点和趋势：
+根据您提供的榜单数据，我们可以从多个维度进行分析。以下是对于榜单的情况分析：
 
-### 1. 项目语言分布
-- 大部分项目使用Python、TypeScript和JavaScript等流行编程语言，显示出这些语言在AI和开源项目中的主流地位。
-- 特别是Python，作为数据科学和机器学习领域的首选语言，仍然在众多项目中占据重要地位。
+### 1. 项目数量和语言分布
+- 本榜单共有15个项目，涉及多种编程语言，主要包括Python、JavaScript、Shell、TypeScript、Rust、C等。
+- Python和JavaScript项目数量较多，这与这两种语言在AI和Web开发领域的广泛应用有关。
 
-### 2. 当前Star数量与热度
-- 项目的“当前Star”数量和“热度”的比例值可反映出其受欢迎的程度，以及社区对其关注和使用的程度。
-- 比如，`[mattpocock/skills]`项目当前Star数量高达155336，但热度仅389，这表明尽管该项目受到较高的认可，但是可能并未被广泛使用或讨论。
-- `usestrix/strix`虽然Star数量较低（34021），但热度达到835，说明其在社区中的活跃度与关注度相对更高。
+### 2. Star 数量与热度
+- **最高 Star 项目**：`mattpocock/skills`，其当前Star数达到156307，显示其极高的受欢迎程度及使用广泛性。
+- **热度最高项目**：`usestrix/strix`热度为529，显示其在社区内的活跃程度较高。
+- 对比Star数和热度，可以发现一些项目虽然Star数不如其他项目，但活跃度较高，说明用户的互动频率较高，例如`usestrix/strix`。
 
-### 3. 主题趋势
-- 该榜单中的项目大多与人工智能、机器学习及自动化相关，反映出当前的开发趋势。
-- 例如，`[JuliusBrussee/caveman]`和`[msitarzewski/agency-agents]`关注的是AI代理的交互方式，表明开发者对自然语言处理和AI代理的兴趣日益增长。
+### 3. 创建时间及未来潜力
+- 项目创建时间主要集中在2025年及2026年，显示了这些项目都是相对较新的，具备较大的成长潜力。
+- 其中，创建时间最早的项目为`facebook/astryx`（2026年1月），而最新的为`usestrix/strix`（2025年8月），这可能预示着较新的项目在未来的受欢迎程度。
 
-### 4. 时间维度
-- 项目的创建时间分布较广，从2023年至2026年均有新项目出现，表明该领域持续活跃。
-- 尽管很多新项目在创建不久后就得到了高关注度，比如`[usestrix/strix]`，这可能与市场对AI工具的迫切需求有关。
+### 4. 领域及功能
+- 从项目的介绍来看，许多项目围绕着人工智能相关的功能展开，例如代码审阅、AI代理、视频制作等。这表明AI相关工具的发展仍然是当前技术领域的重要趋势。
+- 项目的功能多样性也反映了开发者对不同需求的关注，从而推动了工具的创新与发展。
 
-### 5. 突出项目特点
-- 许多项目具有独特的功能或应用领域。例如，`[alibaba/page-agent]`专注于用自然语言控制网络界面的GUI代理，而`[calesthio/OpenMontage]`则提供了一个完整的视频制作系统。这表明开发者在探索多种应用场景来扩展AI工具的功能。
+### 5. 未来发展建议
+- 对于开发者：可以关注当前热度较高的项目，以便在这些拓展的领域内找到合作机会或开发灵感。
+- 对于潜在贡献者：热度较高的项目可能是一个积极贡献的良好选择，能够节省时间并获得较高的曝光率。
+- 对于企业：可以考虑通过使用这些开源工具来提高自身的技术栈，结合其功能来满足业务需求。
 
-### 综述
-总体来看，这份榜单的项目集合展示了当前技术领域对AI工具的浓厚兴趣以及多样化的应用场景。未来可能会有更多围绕AI和自动化的开源项目涌现，特别是在自然语言处理、人机交互和扩展应用方面。开发人员应关注这些趋势，以便在自己的项目中利用这些技术前沿的发展。
+### 总结
+这个榜单展示了当前开源项目在人工智能领域的发展状况，各个项目之间展现了不同的创新点和应用场景。同时，随着技术的发展，相关项目的热度与受欢迎程度可能会发生变化，因此，持续关注这些项目的动态也是非常重要的。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[usestrix/strix](https://github.com/usestrix/strix)|Python|您的应用程序的开源人工智能黑客????????‍????|2646|34021|835|2025-08-05|
-|2|[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)|JavaScript|询问为什么要使用许多代币，而很少有代币会起作用- Claude Code技能通过像穴居人一样说话来减少65%的代币|2466|82626|762|2026-04-04|
-|3|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1248|155336|389|2026-02-03|
-|4|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|1080|126300|361|2025-10-13|
-|5|[alibaba/page-agent](https://github.com/alibaba/page-agent)|TypeScript|JavaScript页内GUI代理。使用自然语言控制网络界面。|1103|22161|358|2025-09-23|
-|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1141|245303|356|2025-10-09|
-|7|[facebook/astryx](https://github.com/facebook/astryx)|TypeScript|一个完全可定制且可代理的开源设计系统|967|4332|307|2026-01-09|
-|8|[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)|C|高性能代码智能MCC服务器。将代码库索引到持久知识图中-平均回购以毫秒为单位。158种语言，亚ms查询，令牌减少99%。单一静态二进制，零依赖关系。|932|25383|296|2026-02-24|
-|9|[santifer/career-ops](https://github.com/santifer/career-ops)|JavaScript|基于Claude Code构建的人工智能求职系统。14种技能模式、Go仪表板、PDF生成、批处理。|797|58334|259|2026-04-04|
-|10|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|696|208540|242|2025-07-22|
-|11|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|743|49697|236|2026-02-24|
-|12|[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)|Python|世界上第一个开源、代理视频制作系统。12条管道、52种工具、500+名代理技能。将您的人工智能编码助理变成完整的视频制作工作室。|705|32237|231|2026-03-29|
-|13|[hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)|HTML|包含433项健身练习的综合数据集。每个条目包括名称、类别、目标肌肉群、设备、说明、缩略图和动画视频。|707|9772|230|2026-03-18|
-|14|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Python|机器学习系统简介|677|26023|218|2023-09-06|
-|15|[stablyai/orca](https://github.com/stablyai/orca)|TypeScript|Orca是下一代ADE，用于与平行代理舰队合作。使用您自己的订阅运行任何编码代理。可在台式机和移动设备上提供。|670|11543|210|2026-03-17|
+|1|[usestrix/strix](https://github.com/usestrix/strix)|Python|您的应用程序的开源人工智能黑客????????‍????|1671|35692|529|2025-08-05|
+|2|[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)|JavaScript|询问为什么要使用许多代币，而很少有代币会起作用- Claude Code技能通过像穴居人一样说话来减少65%的代币|1022|83648|322|2026-04-04|
+|3|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|971|156307|300|2026-02-03|
+|4|[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)|JavaScript|使用Claude Code的Codex来审查代码或委托任务。|907|23938|286|2026-03-30|
+|5|[facebook/astryx](https://github.com/facebook/astryx)|TypeScript|一个完全可定制且可代理的开源设计系统|871|5203|273|2026-01-09|
+|6|[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)|Shell|品味-技能-给你的AI好品味。阻止人工智能生成无聊的通用斜坡， |792|56234|248|2026-02-19|
+|7|[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)|Python|世界上第一个开源、代理视频制作系统。12条管道、52种工具、500+名代理技能。将您的人工智能编码助理变成完整的视频制作工作室。|701|32938|230|2026-03-29|
+|8|[alibaba/page-agent](https://github.com/alibaba/page-agent)|TypeScript|JavaScript页内GUI代理。使用自然语言控制网络界面。|704|22865|227|2025-09-23|
+|9|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|704|50401|227|2026-02-24|
+|10|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|700|246003|224|2025-10-09|
+|11|[safishamsi/graphify](https://github.com/safishamsi/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|695|77502|222|2026-04-03|
+|12|[ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)|Rust|位于您的终端中的代理多路转换器。|671|11223|210|2026-03-27|
+|13|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|613|126913|201|2025-10-13|
+|14|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|536|209076|194|2025-07-22|
+|15|[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)|C|高性能代码智能MCC服务器。将代码库索引到持久知识图中-平均回购以毫秒为单位。158种语言，亚ms查询，令牌减少99%。单一静态二进制，零依赖关系。|590|25973|187|2026-02-24|
 
 [所有日榜](./day/day.md)
 
