@@ -1,53 +1,67 @@
 Github热门开源项目榜单
 
-## 2026年07月04日
+## 2026年07月05日
 
-根据您提供的榜单数据，我们可以从多个维度进行分析。以下是对于榜单的情况分析：
+### 榜单分析
 
-### 1. 项目数量和语言分布
-- 本榜单共有15个项目，涉及多种编程语言，主要包括Python、JavaScript、Shell、TypeScript、Rust、C等。
-- Python和JavaScript项目数量较多，这与这两种语言在AI和Web开发领域的广泛应用有关。
+本期榜单列出了15个开源项目，涉及多个编程语言和应用领域。这些项目大多与人工智能（AI）和自然语言处理（NLP）相关，且反映了当前技术趋势和社区热度。以下是对榜单的详细分析：
 
-### 2. Star 数量与热度
-- **最高 Star 项目**：`mattpocock/skills`，其当前Star数达到156307，显示其极高的受欢迎程度及使用广泛性。
-- **热度最高项目**：`usestrix/strix`热度为529，显示其在社区内的活跃程度较高。
-- 对比Star数和热度，可以发现一些项目虽然Star数不如其他项目，但活跃度较高，说明用户的互动频率较高，例如`usestrix/strix`。
+#### 1. 项目概述
 
-### 3. 创建时间及未来潜力
-- 项目创建时间主要集中在2025年及2026年，显示了这些项目都是相对较新的，具备较大的成长潜力。
-- 其中，创建时间最早的项目为`facebook/astryx`（2026年1月），而最新的为`usestrix/strix`（2025年8月），这可能预示着较新的项目在未来的受欢迎程度。
+- **Rust、Python与JavaScript主导：** 
+    - 榜单上，有多个Rust和Python项目，显示了这两种语言在AI和数据处理领域的受欢迎程度。
+    - JavaScript项目也占据了一定比例，表明其在开发Web相关AI工具中的重要性。
 
-### 4. 领域及功能
-- 从项目的介绍来看，许多项目围绕着人工智能相关的功能展开，例如代码审阅、AI代理、视频制作等。这表明AI相关工具的发展仍然是当前技术领域的重要趋势。
-- 项目的功能多样性也反映了开发者对不同需求的关注，从而推动了工具的创新与发展。
+- **开源AI工具：** 
+    - 如`meetily`、`caveman`等项目专注于提升会议效率、减少币令使用等，展示出在应用实际工作中的需求。
 
-### 5. 未来发展建议
-- 对于开发者：可以关注当前热度较高的项目，以便在这些拓展的领域内找到合作机会或开发灵感。
-- 对于潜在贡献者：热度较高的项目可能是一个积极贡献的良好选择，能够节省时间并获得较高的曝光率。
-- 对于企业：可以考虑通过使用这些开源工具来提高自身的技术栈，结合其功能来满足业务需求。
+#### 2. 热度与趋势
 
-### 总结
-这个榜单展示了当前开源项目在人工智能领域的发展状况，各个项目之间展现了不同的创新点和应用场景。同时，随着技术的发展，相关项目的热度与受欢迎程度可能会发生变化，因此，持续关注这些项目的动态也是非常重要的。
+- **Star数：** 
+    - `skills`（157251）和`caveman`（84613）等项目的Star数非常高，表明这些项目在开发者社区中受到极大关注。这可能与它们所解决的具体问题及用户体验有关。
+    
+- **趋势Star：** 
+    - 大多数项目都有着不错的趋势Star（如`meetily`的1542、`strix`的1107），这表明这些项目正在快速增长和获得社区关注。
+
+#### 3. 应用案例与功能
+
+- **多样化功能：**
+    - 项目涵盖了会议助理、代码审查、数据抓取、股票分析等多个领域，表明开发者对实际应用场景的关注。
+
+- **自托管与隐私：** 
+    - 像`meetily`这样的项目强调隐私保护与自托管，他们提供不依赖于云服务的解决方案，满足了用户对数据安全的需求。
+
+#### 4. 开发时间与计划
+
+- **创建时间：** 
+    - 项目创建时间大多在2024-2026年之间，新项目的涌现意味着技术领域内的快速演变与创新。
+
+- **未来潜力：**
+    - 许多项目目前热度较高，对于未来的发展前景可期，尤其是在AI应用越来越广泛的情况下。
+
+### 结论
+
+整体来看，这个榜单体现了开源社区在AI及相关技术上的活跃性和创新性。多个项目展示了开发者如何运用现代编程语言与工具，解决实际问题。随着技术的发展，预期将出现更多具有实际应用和市场需求的开源项目。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[usestrix/strix](https://github.com/usestrix/strix)|Python|您的应用程序的开源人工智能黑客????????‍????|1671|35692|529|2025-08-05|
-|2|[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)|JavaScript|询问为什么要使用许多代币，而很少有代币会起作用- Claude Code技能通过像穴居人一样说话来减少65%的代币|1022|83648|322|2026-04-04|
-|3|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|971|156307|300|2026-02-03|
-|4|[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)|JavaScript|使用Claude Code的Codex来审查代码或委托任务。|907|23938|286|2026-03-30|
-|5|[facebook/astryx](https://github.com/facebook/astryx)|TypeScript|一个完全可定制且可代理的开源设计系统|871|5203|273|2026-01-09|
-|6|[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)|Shell|品味-技能-给你的AI好品味。阻止人工智能生成无聊的通用斜坡， |792|56234|248|2026-02-19|
-|7|[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)|Python|世界上第一个开源、代理视频制作系统。12条管道、52种工具、500+名代理技能。将您的人工智能编码助理变成完整的视频制作工作室。|701|32938|230|2026-03-29|
-|8|[alibaba/page-agent](https://github.com/alibaba/page-agent)|TypeScript|JavaScript页内GUI代理。使用自然语言控制网络界面。|704|22865|227|2025-09-23|
-|9|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|704|50401|227|2026-02-24|
-|10|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|700|246003|224|2025-10-09|
-|11|[safishamsi/graphify](https://github.com/safishamsi/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|695|77502|222|2026-04-03|
-|12|[ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)|Rust|位于您的终端中的代理多路转换器。|671|11223|210|2026-03-27|
-|13|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|613|126913|201|2025-10-13|
-|14|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|536|209076|194|2025-07-22|
-|15|[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)|C|高性能代码智能MCC服务器。将代码库索引到持久知识图中-平均回购以毫秒为单位。158种语言，亚ms查询，令牌减少99%。单一静态二进制，零依赖关系。|590|25973|187|2026-02-24|
+|1|[Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)|Rust|隐私第一，人工智能会议助理，具有4倍速度的Parakeet/Whisper实时转录、扬声器日记化和基于Rust的Ollama总结。100%本地加工。不需要云。Meetly（Meetly AI -https://meetily.ai）是macOS和Windows上排名第一的自托管、开源AI会议笔记员。  |1542|16315|492|2024-12-26|
+|2|[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)|JavaScript|使用Claude Code的Codex来审查代码或委托任务。|1297|25235|402|2026-03-30|
+|3|[usestrix/strix](https://github.com/usestrix/strix)|Python|您的应用程序的开源人工智能黑客????????‍????|1107|36799|352|2025-08-05|
+|4|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|1018|49583|346|2025-05-03|
+|5|[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)|JavaScript|询问为什么要使用许多代币，而很少有代币会起作用- Claude Code技能通过像穴居人一样说话来减少65%的代币|965|84613|299|2026-04-04|
+|6|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|944|157251|298|2026-02-03|
+|7|[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)|Shell|品味-技能-给你的AI好品味。阻止人工智能生成无聊的通用斜坡， |915|57149|288|2026-02-19|
+|8|[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)|TypeScript|用于大规模搜索、抓取和与网络交互的API。????|870|144910|272|2024-04-15|
+|9|[alibaba/page-agent](https://github.com/alibaba/page-agent)|TypeScript|JavaScript页内GUI代理。使用自然语言控制网络界面。|760|23625|240|2025-09-23|
+|10|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|716|51117|229|2026-02-24|
+|11|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|703|246706|227|2025-10-09|
+|12|[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)|Python|LLM驱动的 A/H/美股智能分析器：多数据源动态+ 实时新闻 + LLM决策仪表盘 + 多道推送，零成年定期运行，纯白。适用于A/H/US市场的LLM支持股票分析系统。|467|54636|214|2026-01-10|
+|13|[ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)|Rust|位于您的终端中的代理多路转换器。|624|11847|194|2026-03-27|
+|14|[xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)|Python|AI 时代的迈克尔：基于 Claude Code 的价值投资研究框架。巴特·芒格·段永平·录四大师方法论 + 多Agent并行研究。|人工智能时代的伯克希尔：价值投资研究框架   建立在克劳德代码之上。4个硕士方法论+多主体对抗分析。|580|10162|191|2026-04-07|
+|15|[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)|Python|世界上第一个开源、代理视频制作系统。12条管道、52种工具、500+名代理技能。将您的人工智能编码助理变成完整的视频制作工作室。|572|33510|186|2026-03-29|
 
 [所有日榜](./day/day.md)
 
