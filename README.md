@@ -65,59 +65,54 @@ Github热门开源项目榜单
 
 [所有日榜](./day/day.md)
 
-## 2026年第25周
+## 2026年第26周
 
-对于本期榜单的分析，我们可以从项目的种类、热度、当前Star数量等几个维度进行观察。
+根据提供的榜单数据，我们可以对这些项目进行如下分析：
 
-### 项目分类
-1. **语言的多样性**：
-   - Python 项目占据了榜单的前几名，显示了Python在人工智能和数据处理领域的广泛应用。
-   - TypeScript和Shell也有多个项目，分别集中在网页开发和个人技能管理上。
+### 项目概述
+许多项目涉及到人工智能（AI）及相关技术，显示出AI领域的广泛热情和迅速发展。榜单上的项目涵盖了多种编程语言（如Python、Shell、TypeScript等），显示出开发者在不同技术栈中的活跃程度。
 
-2. **项目主题**：
-   - 很多项目与人工智能相关，例如视频制作、股票分析、代理工具等，这表明AI领域的快速发展与大众的关注。
-   - 项目涉及的功能非常多元，例如视频制作（OpenMontage）、股票分析（daily_stock_analysis）、信息抓取（firecrawl）等。
+### 趋势分析
+1. **AI主题明显**: 排行榜中的绝大多数项目都是与人工智能相关的，特别是自我学习、自动化、内容生成等应用领域。
+2. **项目热度**: 项目的热度（如Star数）普遍较高，说明这些项目受到了广泛关注。例如，`agency-agents`项目的Star数达到127388，显示了极高的人气。
+3. **创建时间分布**: 大部分项目的创建时间都在2025年及以后，显示出这些项目是最近的一波开发成果，可能对应了当前AI技术的热潮。
 
-### 热度与趋势
-- **趋势Star与当前Star的对比**：
-  - OpenMontage初始热度（15414趋势Star）在26535的当前Star中显得非常优秀，显示持续增长。
-  - 一些项目如‘skills’和‘superpowers’之间的差距也很明显，这些项目短期内获得高关注，表明它们可能是社区中非常热门且活跃的项目。
+### 语言分布
+- **Python**: 成为榜单上使用最多的语言，包含了诸如`usestrix/strix`、`Panniantong/Agent-Reach`等多个项目，这反映出Python在AI和数据科学领域的主导地位。
+- **Shell和TypeScript**: 排行榜中也见到这些语言的项目，表示开发者对不同工具和平台的需求。
 
-- **热度分析**：
-  - 项目的热度分布也显示了当前技术需求的变化，特别是在AI智能工具和内存管理工具上，较高的热度（如calesthio/OpenMontage）表明行业对这类项目的关注度不断提高。
+### 项目特点
+- **功能多样性**: 项目涵盖了从个人技能目录、智能代码分析到视频制作系统等多个方面，显示出AI技术应用的多元化。
+- **高性能和零依赖性**: 如`codebase-memory-mcp`强调了高性能和减低依赖关系，这对于开发者提供了更高效的开发体验。
+- **社区和贡献**: 大多数项目都有活跃的社区支持，参与者能在GitHub平台上持续提供反馈和贡献。
 
-### 时间分析
-- **创建时间**：
-  - 项目的创建时间从2023到2026不等，较新的项目（如2026年创建）频繁出现在排行榜上，说明新兴项目具有抢眼的表现和潜力。
-  - 一些较早的项目仍然维持良好的热度，表明经典工具仍有很大的使用基础。
-
-### 总结
-本期榜单展示了一个快速发展的技术领域，AI工具、编程语言和项目多样性体现了市场的需求。开发者对新的工具和平台的热情也在持续推动技术的进步。观察这些项目的趋势有助于我们了解未来技术发展的方向和重点领域。
+### 结论
+该榜单反映了当前AI领域的多样性和快速发展，开发者在这些创新项目中的投入显示了市场对AI技术的日益重视。未来，这些项目的更新和改进将值得持续关注，尤其是如何维持增长的热度和用户参与度。同时，随着时间推移，可能会观察到AI领域内更具创新性和综合性的项目出现。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)|Python|世界上第一个开源、代理视频制作系统。12条管道、52种工具、500+名代理技能。将您的人工智能编码助理变成完整的视频制作工作室。|15414|26535|4949|2026-03-29|
-|2|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|7812|149063|2501|2026-02-03|
-|3|[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)|C|高性能代码智能MCC服务器。将代码库索引到持久知识图中-平均回购以毫秒为单位。158种语言，亚ms查询，令牌减少99%。单一静态二进制，零依赖关系。|7819|19003|2470|2026-02-24|
-|4|[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)|Python|LLM驱动的 A/H/美股智能分析器：多数据源动态+ 实时新闻 + LLM决策仪表盘 + 多道推送，零成年定期运行，纯白。适用于A/H/US市场的LLM支持股票分析系统。|5368|50996|2118|2026-01-10|
-|5|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|6565|44218|2086|2026-02-24|
-|6|[chopratejas/headroom](https://github.com/chopratejas/headroom)|Python|在工具输出、日志、文件和RAG块到达LLM之前压缩它们。代币减少60-95%，答案相同。库、代理、MCC服务器。|6344|52928|2018|2026-01-07|
-|7|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|5064|204788|1808|2025-07-22|
-|8|[topoteretes/cognee](https://github.com/topoteretes/cognee)|Python|6行代码中的人工智能代理内存|5437|24625|1690|2023-08-16|
-|9|[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)|TypeScript|使用人工智能编码代理只需一个命令即可克隆任何网站|5108|22644|1641|2026-03-13|
-|10|[garrytan/gstack](https://github.com/garrytan/gstack)|TypeScript|使用Garry Tan的Claude Code设置：23个固执己见的工具，作为CEO，设计师，工程经理，发布经理，文档工程师和QA|4766|117625|1592|2026-03-11|
-|11|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|4698|240503|1503|2025-10-09|
-|12|[apple/container](https://github.com/apple/container)|Swift|一个用于在Mac上使用轻量级虚拟机创建和运行Linux容器的工具。它是用Swift编写的，并针对苹果芯片进行了优化。 |4718|44180|1452|2025-05-30|
-|13|[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)|Python|·映射到5个框架：MITRE ATT&CK，NIST CSF 2.0，MITRE ATLAS，D3FEND & NIST AI RMF ·agentskills.io标准·与Claude Code，GitHub Copilot，Codex CLI，Cursor，Gemini CLI和20+平台一起工作· 26个安全域· Apache 2.0|4134|22507|1324|2026-02-25|
-|14|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|3518|183812|1150|2026-01-27|
-|15|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|3518|183812|1150|2026-01-27|
-|16|[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)|TypeScript|用于大规模搜索、抓取和与网络交互的API。????|3666|140550|1126|2024-04-15|
-|17|[farion1231/cc-switch](https://github.com/farion1231/cc-switch)|TypeScript|适用于Claude Code、Codex和Gemini CLI的跨平台桌面一体化助理工具。|3553|109889|1116|2025-08-04|
-|18|[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)|Shell|品味-技能-给你的AI好品味。阻止人工智能生成无聊的通用斜坡， |3488|52418|1098|2026-02-19|
-|19|[jamiepine/voicebox](https://github.com/jamiepine/voicebox)|TypeScript|开源语音合成工作室|3292|35270|1055|2026-01-25|
-|20|[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)|JavaScript|代理利用性能优化系统。Claude Code、Codex、Opencode、Cursor等领域的技能、本能、记忆力、安全性和研究优先开发。|3158|222907|1043|2026-01-18|
+|1|[usestrix/strix](https://github.com/usestrix/strix)|Python|您的应用程序的开源人工智能黑客????????‍????|9636|36799|3050|2025-08-05|
+|2|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|8807|127388|2919|2025-10-13|
+|3|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|6907|157251|2167|2026-02-03|
+|4|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|5645|51117|1802|2026-02-24|
+|5|[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)|C|高性能代码智能MCC服务器。将代码库索引到持久知识图中-平均回购以毫秒为单位。158种语言，亚ms查询，令牌减少99%。单一静态二进制，零依赖关系。|5476|26558|1744|2026-02-24|
+|6|[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)|Python|世界上第一个开源、代理视频制作系统。12条管道、52种工具、500+名代理技能。将您的人工智能编码助理变成完整的视频制作工作室。|5262|33510|1725|2026-03-29|
+|7|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|5356|246706|1705|2025-10-09|
+|8|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|3987|209536|1434|2025-07-22|
+|9|[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)|Python|LLM驱动的 A/H/美股智能分析器：多数据源动态+ 实时新闻 + LLM决策仪表盘 + 多道推送，零成年定期运行，纯白。适用于A/H/US市场的LLM支持股票分析系统。|2893|54636|1347|2026-01-10|
+|10|[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)|Shell|品味-技能-给你的AI好品味。阻止人工智能生成无聊的通用斜坡， |4049|57149|1269|2026-02-19|
+|11|[xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)|Python|AI 时代的迈克尔：基于 Claude Code 的价值投资研究框架。巴特·芒格·段永平·录四大师方法论 + 多Agent并行研究。|人工智能时代的伯克希尔：价值投资研究框架   建立在克劳德代码之上。4个硕士方法论+多主体对抗分析。|3690|10162|1204|2026-04-07|
+|12|[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)|TypeScript|用于大规模搜索、抓取和与网络交互的API。????|3571|144910|1116|2024-04-15|
+|13|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|3389|187907|1104|2026-01-27|
+|14|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|3389|187907|1104|2026-01-27|
+|15|[ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)|Rust|位于您的终端中的代理多路转换器。|3481|11847|1085|2026-03-27|
+|16|[stablyai/orca](https://github.com/stablyai/orca)|TypeScript|Orca是下一代ADE，用于与平行代理舰队合作。使用您自己的订阅运行任何编码代理。可在台式机和移动设备上提供。|3259|12265|1025|2026-03-17|
+|17|[browser-use/video-use](https://github.com/browser-use/video-use)|Python|使用编码代理编辑视频|3224|14951|1018|2026-04-12|
+|18|[chopratejas/headroom](https://github.com/chopratejas/headroom)|Python|在工具输出、日志、文件和RAG块到达LLM之前压缩它们。代币减少60-95%，答案相同。库、代理、MCC服务器。|3053|56726|982|2026-01-07|
+|19|[microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)|Jupyter Notebook|12周，24节课，AI为所有人！|2988|51705|973|2021-03-03|
+|20|[alibaba/page-agent](https://github.com/alibaba/page-agent)|TypeScript|JavaScript页内GUI代理。使用自然语言控制网络界面。|3039|23625|972|2025-09-23|
 
 [所有周榜](./week/week.md)
 
