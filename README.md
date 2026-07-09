@@ -1,50 +1,54 @@
 Github热门开源项目榜单
 
-## 2026年07月08日
+## 2026年07月09日
 
-本期榜单展示了一系列与人工智能及其应用相关的开源项目。以下是对榜单中前几个项目的分析：
+根据您提供的榜单数据，我们可以对当前流行的人工智能相关项目进行分析。以下是一些关键观察和分析：
 
-### 1. 项目概述
-- **iOfficeAI/OfficeCLI**: 此项目以C#语言开发，旨在为用户提供一个功能强大的Office套件，以支持人工智能代理对Word、Excel和PowerPoint文件的读取、编辑和自动化操作。
-  - **Current Stars**: 11366，显示出其良好的人气和社区支持。
-  - **趋势Star**: 1796，意味着该项目在近期内获得了快速的关注度。
+### 1. **项目分类与语言**
+- 在这个榜单中，项目主要使用的编程语言包括TypeScript、Shell、Python和C#。其中，TypeScript和Python的使用较为频繁，这表明它们在开发AI工具和应用方面的流行程度。
+- Shell语言的项目主要集中在构建和配置自动化工具，显示出运维方面的重要性。
 
-- **addyosmani/agent-skills**: 使用Shell语言，实现人工智能编码代理的生产级工程技能，当前Star高达73342。这表明该项目得到了广泛的接受和使用。
+### 2. **明星趋势（Star Count）**
+- 项目 **`mattpocock/skills`** 凭借 **162,624** 的Star Count，毫无疑问是最多的，它被列为个人技能目录，可能利用了社交或职业人脉的集成。
+- **`MadsLorentzen/ai-job-search`** 的 **17,905** 个Stars显示出对职业求职工具的需求不断增加，特别是在AI能够帮助简历定制和面试准备的情况下。
+  
+### 3. **热度与当前状态**
+- 热度较高的项目 **`MadsLorentzen/ai-job-search`** 和 **`addyosmani/agent-skills`** 说明了用户对于AI辅助求职和方案的重要性。
+- 热度相对较低的项目，如 **`diegosouzapw/OmniRoute`**，尽管其提供了连接多个AI工具的功能，但可能由于竞争或用户需求的差异而影响热度。
 
-- **asgeirtj/system_prompts_leaks**: 项目提供了从多个流行聊天机器人中提取的系统脚本，使用JavaScript开发。其Current Stars为53814，说明对于开发者来说，获取这些系统提示对构建更智能的应用非常有价值。
+### 4. **创建时间**
+- 多数项目是在 **2026年** 创建的，这表明这是一个新的领域，随着AI技术的进步和普及，这些项目可能会迎来快速发展。
+- 创建时间较早的项目（如 **`asgeirtj/system_prompts_leaks`** 和 **`ruvnet/wifi-densepose`**）显示出它们在持续更新和适应新趋势的能力。
 
-### 2. 热度与趋势分析
-- 项目热度的变化表现出用户对某些项目的持续关注。例如，虽然有些项目的当前Star较高，但它们的趋势Star却显示出增减趋势。iOfficeAI的项目虽然Current Stars高，但是趋势Star相对较低，可能意味着其在近期的增长速度减缓。
+### 5. **功能与应用**
+- 许多项目提供了具体的功能，如语音合成（`jamiepine/voicebox`）、Office文档自动化（`iOfficeAI/OfficeCLI`）和网络检索（`Panniantong/Agent-Reach`），这表明用户对多功能工具的需求日益增加。
 
-- **Rust与Python项目的崛起**: Rust和Python在开源领域的应用逐步增加，表现出越来越多开发者对此两种语言的偏好。特别是**meetily**和多个与WiFi相关的项目（如**wifi-densepose**），均使用Rust进行开发，显示出Rust作为高性能语言的潜力。
+### 6. **未来趋势**
+- 由于AI技术的动态发展，预计将会有更多新功能和项目涌现，尤其是那些能够提高工作效率和提供个性化服务的工具。
+- 项目间的竞争也将促使开发者不断优化软件，增加用户体验，进一步推动AI项目的发展。
 
-### 3. 值得关注的项目
-- **meetily**: 结合了人工智能会议助理功能，并强调隐私保护。具有市场潜力，同时基于Rust的实现也展示出其高效性能。
-
-- **RuView**: 在物联网领域的应用，通过WiFi信号实现实时人体姿势估计，显示了该项目在健康监测和智能家居等领域的广泛应用前景。
-
-### 4. 总结
-整份榜单显示了人工智能领域的开源项目在不同领域的创新潜力，涵盖了从交互式办公套件到智能设备的多种应用。开发者们可以根据热度和Star数选择更具前景的项目进行参与或应用。随着技术的发展和社区的支持，未来的开源项目将更加多样化和实用化。
+### 总结
+综合来看，这些项目反映了当前AI领域中的热门趋势和用户的具体需求，尤其是在求职、办公效率和编码支持等方面。随着技术的不断进步，预计这些工具会成为越来越重要的生产力工具。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)|C#|DeliverCLI是第一个也是最好的Office套件，专为人工智能代理读取、编辑和自动化Word、Excel和PowerPoint文件而构建。免费、开源、单一二进制，无需安装Office。|1796|11366|560|2026-03-15|
-|2|[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)|Shell|人工智能编码代理的生产级工程技能。|1540|73342|493|2026-02-15|
-|3|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|1203|53814|408|2025-05-03|
-|4|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1263|160890|405|2026-02-03|
-|5|[Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)|Rust|隐私第一，人工智能会议助理，具有4倍速度的Parakeet/Whisper实时转录、扬声器日记化和基于Rust的Ollama总结。100%本地加工。不需要云。Meetly（Meetly AI -https://meetily.ai）是macOS和Windows上排名第一的自托管、开源AI会议笔记员。  |1144|21468|365|2024-12-26|
-|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1057|249588|340|2025-10-09|
-|7|[Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)|CSS|GIMP 3+的Photoshop用户补丁|1003|14850|316|2020-06-19|
-|8|[bradautomates/claude-video](https://github.com/bradautomates/claude-video)|Python|让克劳德能够观看任何视频。/观看下载、提取帧、转录，然后将一切交给Claude。|927|5845|291|2026-04-24|
-|9|[ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)|Rust|位于您的终端中的代理多路转换器。|861|14198|268|2026-03-27|
-|10|[safishamsi/graphify](https://github.com/safishamsi/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|829|80157|268|2026-04-03|
-|11|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |676|78937|226|2025-06-07|
-|12|[stablyai/orca](https://github.com/stablyai/orca)|TypeScript|Orca是下一代ADE，用于与平行代理舰队合作。使用您自己的订阅运行任何编码代理。可在台式机和移动设备上提供。|716|14026|226|2026-03-17|
-|13|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |676|78937|225|2025-06-07|
-|14|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|597|211440|211|2025-07-22|
-|15|[AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader)|HTML|????下载任何网站（包括所有资产）的完整源代码。[JavaScript、样式表、图像]使用Node.js  |661|4437|209|2019-10-26|
+|1|[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)|TypeScript|基于Claude Code构建的人工智能驱动的职位申请框架。分叉它，填写您的个人资料，让Claude评估工作、定制简历、撰写求职信并为您做好面试准备。|3501|17905|1226|2026-03-18|
+|2|[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)|Shell|人工智能编码代理的生产级工程技能。|2265|75607|726|2026-02-15|
+|3|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1734|162624|555|2026-02-03|
+|4|[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)|C#|DeliverCLI是第一个也是最好的Office套件，专为人工智能代理读取、编辑和自动化Word、Excel和PowerPoint文件而构建。免费、开源、单一二进制，无需安装Office。|1759|13125|555|2026-03-15|
+|5|[jamiepine/voicebox](https://github.com/jamiepine/voicebox)|TypeScript|开源语音合成工作室|1193|39838|385|2026-01-25|
+|6|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|1068|54882|355|2025-05-03|
+|7|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|1047|250635|331|2025-10-09|
+|8|[safishamsi/graphify](https://github.com/safishamsi/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|890|81047|286|2026-04-03|
+|9|[stablyai/orca](https://github.com/stablyai/orca)|TypeScript|Orca是下一代ADE，用于与平行代理舰队合作。使用您自己的订阅运行任何编码代理。可在台式机和移动设备上提供。|862|14888|271|2026-03-17|
+|10|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|624|212064|229|2025-07-22|
+|11|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |632|79569|210|2025-06-07|
+|12|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |632|79569|210|2025-06-07|
+|13|[bradautomates/claude-video](https://github.com/bradautomates/claude-video)|Python|让克劳德能够观看任何视频。/观看下载、提取帧、转录，然后将一切交给Claude。|664|6509|210|2026-04-24|
+|14|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|625|53744|197|2026-02-24|
+|15|[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)|TypeScript|永远不要停止编码。免费人工智能门户：一个端点、160+个提供商（50+个免费），将Claude Code、Codex、Cursor、Cline & Copilot连接到FREE Claude/GPT/Gemini。TEK +Caveman堆叠压缩可节省15-95%的令牌、智能自动回撤、HCP/A2 A、多模式API、桌面/PWA。|582|14158|193|2026-02-13|
 
 [所有日榜](./day/day.md)
 
