@@ -1,48 +1,54 @@
 Github热门开源项目榜单
 
-## 2026年07月10日
+## 2026年07月11日
 
-本期榜单展示了一系列与人工智能相关的开源项目，主要集中在帮助用户与AI代理进行互动和提升生产力方面。通过分析这些项目，我们可以发现一些趋势和特点：
+本期榜单展示了一系列与人工智能（AI）相关的开源项目，涵盖了多种编程语言和应用场景。以下是对榜单的分析：
 
-### 1. 项目类型及应用领域
-- **求职和职业发展**：如[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) 和[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)等项目，旨在帮助用户在求职过程中提高效率，这反映了疫情后以远程工作为主的就业市场对技术的依赖。
-- **编码辅助**：多个项目专注于代码生成和智能提示（如[stablyai/orca](https://github.com/stablyai/orca)和[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)），这些工具能够帮助开发者更快速地完成代码任务，提高编码效率。
-- **文档处理**：项目如[iOfficeAI/OfficeCLI]专门处理Office文档，说明了办公自动化的需求。
-  
-### 2. 编程语言的多样性
-榜单中的项目使用多种编程语言，包括TypeScript、Shell、Python和C#等。这表明开发者在选择工具和框架时有多样化的需求，能够适应不同的开发环境。
+### 项目概述
+1. **项目类型和语言多样性**：榜单中的项目使用了多种语言，如Shell、C#、TypeScript、Python 和 Rust。其中，TypeScript 和 Python 项目占据了较大比例，反映了这两种语言在 AI 开发中的流行程度。
 
-### 3. 趋势与热度
-- **Star数和热度分析**：项目的当前Star数和热度值形成了一个有趣的对比。例如，[mattpocock/skills](https://github.com/mattpocock/skills)以164266个Stars位列第二，显示出极高的社区关注度，但热度（527）相对较低，可能表明该项目虽然受欢迎，但实际使用频率不高。
-- **新兴项目**：一些较新的项目如[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)和[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)显示出较高的创新性，具备潜在的发展前景。
+2. **项目功能和应用场景**：
+   - **个人技能管理**：如 `mattpocock/skills` 提供了一个个人技能目录。
+   - **办公自动化**：`iOfficeAI/OfficeCLI` 提供了一个无须安装 Office 的办公套件，专注于 AI 代理的文档处理。
+   - **AI 职位申请框架**：`MadsLorentzen/ai-job-search` 让用户自动化申请工作并准备面试。
+   - **会议助理和转录**：`Zackriya-Solutions/meetily` 实现了高效的会议记录和总结，强调隐私保护与本地处理的优势。
 
-### 4.建设者和社区
-大多数项目的创建时间在2026年左右，这表明项目是在当前技术背景下迅速发展的，以满足市场和开发者的需求。高Star数和热度表明这些项目背后往往有强大的社区支持和参与，这对于开源项目的成功至关重要。
+### 趋势和热度分析
+1. **Star 趋势**：当前 Star 数量和趋势 Star 显示了项目的受欢迎程度。`mattpocock/skills` 和 `obra/superpowers` 等项目的 Star 数量显著高于其他项目，表明这些项目在社区中得到了较好的认可和支持。
 
-### 5. 可持续性和未来发展
-随着技术的持续进步，尤其是在AI领域，未来这些项目需要不断更新和维护，以保持技术的前沿性。此外，开发者的反馈和社区的贡献对项目的可持续发展同样重要。
+2. **创建时间**：大多数项目的创建时间在最近两年内，显示出这些项目与当前技术趋势的密切相关性，反映出开源 AI 工具的快速发展。
 
-总的来说，本期榜单展现了快速发展的AI技术领域，通过这些项目，开发者能够在工作和生活中更好地利用AI技术，优化工作流程和提升生产力。
+3. **热度排名**：热度值反映了项目的活跃度和社区参与度，热度值相对较高的项目如 `mattpocock/skills` 和 `iOfficeAI/OfficeCLI` 等，可能会吸引更多的开发者和用户关注。
+
+### 未来发展趋势
+1. **AI 自动化应用**：随着 AI 技术的不断进步，更多的项目将集中在自动化办公、智能编码和数据处理等领域。
+
+2. **隐私和本地处理**：用户对数据隐私的关注持续增加，未来的开源项目可能会更多地重点强调本地处理和隐私保护。
+
+3. **多功能整合**：像 `Zackriya-Solutions/meetily` 这样的项目整合了多种功能，表明开发者倾向于创建全功能工具，以降低用户的学习成本和整合难度。
+
+### 总结
+综上所述，本期榜单展示了当前 AI 开源项目的多样性和活跃度，凸显了在快速发展的技术背景下，创新、隐私和用户体验的重要性。未来的开发者可以在这些趋势中找到灵感和机会，以更好地满足市场需求。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)|TypeScript|基于Claude Code构建的人工智能驱动的职位申请框架。分叉它，填写您的个人资料，让Claude评估工作、定制简历、撰写求职信并为您做好面试准备。|2507|20412|871|2026-03-18|
-|2|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1642|164266|527|2026-02-03|
-|3|[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)|None|DESIGN.md的一系列受欢迎品牌设计系统的文件分析。将一个添加到您的项目中，让编码代理生成匹配的UI。|1217|100525|380|2026-03-31|
-|4|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|960|251595|365|2025-10-09|
-|5|[stablyai/orca](https://github.com/stablyai/orca)|TypeScript|Orca是下一代ADE，用于与平行代理舰队合作。使用您自己的订阅运行任何编码代理。可在台式机和移动设备上提供。|922|15810|352|2026-03-17|
-|6|[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)|C#|DeliverCLI是第一个也是最好的Office套件，专为人工智能代理读取、编辑和自动化Word、Excel和PowerPoint文件而构建。免费、开源、单一二进制，无需安装Office。|1108|14233|347|2026-03-15|
-|7|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|803|55685|323|2025-05-03|
-|8|[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)|Shell|人工智能编码代理的生产级工程技能。|986|76593|313|2026-02-15|
-|9|[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)|TypeScript|永远不要停止编码。免费人工智能门户：一个端点、160+个提供商（50+个免费），将Claude Code、Codex、Cursor、Cline & Copilot连接到FREE Claude/GPT/Gemini。TEK +Caveman堆叠压缩可节省15-95%的令牌、智能自动回撤、HCP/A2 A、多模式API、桌面/PWA。|674|14832|282|2026-02-13|
-|10|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|600|54344|243|2026-02-24|
-|11|[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)|Python|世界上第一个开源、代理视频制作系统。12条管道、52种工具、500+名代理技能。将您的人工智能编码助理变成完整的视频制作工作室。|536|36577|239|2026-03-29|
-|12|[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)|C|高性能代码智能MCC服务器。将代码库索引到持久知识图中-平均回购以毫秒为单位。158种语言，亚ms查询，令牌减少99%。单一静态二进制，零依赖关系。|535|29556|234|2026-02-24|
-|13|[usestrix/strix](https://github.com/usestrix/strix)|Python|您的应用程序的开源人工智能黑客????????‍????|532|39973|231|2025-08-05|
-|14|[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)|Shell|品味-技能-给你的AI好品味。阻止人工智能生成无聊的通用斜坡， |545|61674|227|2026-02-19|
-|15|[safishamsi/graphify](https://github.com/safishamsi/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|710|81757|227|2026-04-03|
+|1|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1212|165478|387|2026-02-03|
+|2|[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)|C#|DeliverCLI是第一个也是最好的Office套件，专为人工智能代理读取、编辑和自动化Word、Excel和PowerPoint文件而构建。免费、开源、单一二进制，无需安装Office。|745|14978|236|2026-03-15|
+|3|[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)|TypeScript|永远不要停止编码。免费人工智能门户：一个端点、160+个提供商（50+个免费），将Claude Code、Codex、Cursor、Cline & Copilot连接到FREE Claude/GPT/Gemini。TEK +Caveman堆叠压缩可节省15-95%的令牌、智能自动回撤、HCP/A2 A、多模式API、桌面/PWA。|719|15551|234|2026-02-13|
+|4|[wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)|TypeScript|这是Claude的HCP服务器，可为其提供终端控制、文件系统搜索和差异文件编辑功能|694|7706|225|2024-12-04|
+|5|[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)|TypeScript|基于Claude Code构建的人工智能驱动的职位申请框架。分叉它，填写您的个人资料，让Claude评估工作、定制简历、撰写求职信并为您做好面试准备。|555|20967|221|2026-03-18|
+|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|675|252270|218|2025-10-09|
+|7|[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)|Shell|人工智能编码代理的生产级工程技能。|642|77235|205|2026-02-15|
+|8|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|498|213137|182|2025-07-22|
+|9|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|531|117909|175|2024-04-29|
+|10|[Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)|Rust|隐私第一，人工智能会议助理，具有4倍速度的Parakeet/Whisper实时转录、扬声器日记化和基于Rust的Ollama总结。100%本地加工。不需要云。Meetly（Meetly AI -https://meetily.ai）是macOS和Windows上排名第一的自托管、开源AI会议笔记员。  |534|23067|174|2024-12-26|
+|11|[safishamsi/graphify](https://github.com/safishamsi/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|510|82267|167|2026-04-03|
+|12|[oven-sh/bun](https://github.com/oven-sh/bun)|Zig|速度惊人的JavaScript运行时、调试器、测试运行器和包管理器-集于一身|487|94513|157|2021-04-14|
+|13|[usestrix/strix](https://github.com/usestrix/strix)|Python|您的应用程序的开源人工智能黑客????????‍????|469|40442|156|2025-08-05|
+|14|[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)|Python|世界上第一个开源、代理视频制作系统。12条管道、52种工具、500+名代理技能。将您的人工智能编码助理变成完整的视频制作工作室。|452|37029|155|2026-03-29|
+|15|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|484|54828|152|2026-02-24|
 
 [所有日榜](./day/day.md)
 
