@@ -1,54 +1,47 @@
 Github热门开源项目榜单
 
-## 2026年07月11日
+## 2026年07月12日
 
-本期榜单展示了一系列与人工智能（AI）相关的开源项目，涵盖了多种编程语言和应用场景。以下是对榜单的分析：
+在这份榜单中，我们可以观察到几个显著的趋势和特点。以下是对于榜单的分析：
 
-### 项目概述
-1. **项目类型和语言多样性**：榜单中的项目使用了多种语言，如Shell、C#、TypeScript、Python 和 Rust。其中，TypeScript 和 Python 项目占据了较大比例，反映了这两种语言在 AI 开发中的流行程度。
+### 语言和项目类别
+- **主流语言**：榜单中的项目大多数使用 TypeScript（5个项目）和 Python（5个项目），这表明这两种语言在当前的开源项目中占据了重要地位。Shell和JavaScript也有项目，但是数量相对较少。
+- **项目种类**：项目涵盖了各类应用，包括开源替代方案（如OpenCut）、个人技能管理（如skills）、交易代理（如Vibe-Trading）、可视化工具（如Understand-Anything）和搜索抓取API（如firecrawl）等。这展示了开源社区对不同应用需求的响应和多样化。
 
-2. **项目功能和应用场景**：
-   - **个人技能管理**：如 `mattpocock/skills` 提供了一个个人技能目录。
-   - **办公自动化**：`iOfficeAI/OfficeCLI` 提供了一个无须安装 Office 的办公套件，专注于 AI 代理的文档处理。
-   - **AI 职位申请框架**：`MadsLorentzen/ai-job-search` 让用户自动化申请工作并准备面试。
-   - **会议助理和转录**：`Zackriya-Solutions/meetily` 实现了高效的会议记录和总结，强调隐私保护与本地处理的优势。
+### 受欢迎程度
+- **Star数量**：榜单最高的项目是OpenCut，其Star数量达到63354，显示出其在开发者中的广泛认可。第二名的技能目录，也以166563的Star数展现了个人项目的巨大吸引力。
+- **热度趋势**：虽然Star数量本身很重要，但项目的热度（趋势Star）同样值得关注。趋势Star反映了项目在近期内的增长潜力，OpenCut以1224的趋势Star遥遥领先，显示出一个显著的增长趋势。
+  
+### 创建时间
+- **新的项目**：榜单中的项目相对较新，创建时间多为2024年和2026年，这表明当前的开发热潮集中在最近几年内。2025年之前的项目相对较少，代表着较新的技术和应用。
 
-### 趋势和热度分析
-1. **Star 趋势**：当前 Star 数量和趋势 Star 显示了项目的受欢迎程度。`mattpocock/skills` 和 `obra/superpowers` 等项目的 Star 数量显著高于其他项目，表明这些项目在社区中得到了较好的认可和支持。
-
-2. **创建时间**：大多数项目的创建时间在最近两年内，显示出这些项目与当前技术趋势的密切相关性，反映出开源 AI 工具的快速发展。
-
-3. **热度排名**：热度值反映了项目的活跃度和社区参与度，热度值相对较高的项目如 `mattpocock/skills` 和 `iOfficeAI/OfficeCLI` 等，可能会吸引更多的开发者和用户关注。
-
-### 未来发展趋势
-1. **AI 自动化应用**：随着 AI 技术的不断进步，更多的项目将集中在自动化办公、智能编码和数据处理等领域。
-
-2. **隐私和本地处理**：用户对数据隐私的关注持续增加，未来的开源项目可能会更多地重点强调本地处理和隐私保护。
-
-3. **多功能整合**：像 `Zackriya-Solutions/meetily` 这样的项目整合了多种功能，表明开发者倾向于创建全功能工具，以降低用户的学习成本和整合难度。
+### 特定项目亮点
+- **OpenCut**：作为开源CapCut的替代方案，它的出现可能满足了用户对视频编辑工具的需求。
+- **Understand-Anything**：此项目提供了代码可视化的能力，能够将代码转换为 interactive knowledge graph，这在学习和理解代码方面具有重要意义。
+- **hermes-agent**：以“与您一起成长的代理人”作为介绍，体现出人工智能代理的交互性及发展潜力，市场前景看好。
 
 ### 总结
-综上所述，本期榜单展示了当前 AI 开源项目的多样性和活跃度，凸显了在快速发展的技术背景下，创新、隐私和用户体验的重要性。未来的开发者可以在这些趋势中找到灵感和机会，以更好地满足市场需求。
+整体上，此榜单展现了开源开发者对最新科技趋势的响应，特别是人工智能和可视化工具的需求。同时，强调了社区对新兴项目的接受度和支持。开发者可以借此了解哪些领域和技术正在快速发展，并结合项目热度和趋势Star，做出相应的技术选择或贡献。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1212|165478|387|2026-02-03|
-|2|[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)|C#|DeliverCLI是第一个也是最好的Office套件，专为人工智能代理读取、编辑和自动化Word、Excel和PowerPoint文件而构建。免费、开源、单一二进制，无需安装Office。|745|14978|236|2026-03-15|
-|3|[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)|TypeScript|永远不要停止编码。免费人工智能门户：一个端点、160+个提供商（50+个免费），将Claude Code、Codex、Cursor、Cline & Copilot连接到FREE Claude/GPT/Gemini。TEK +Caveman堆叠压缩可节省15-95%的令牌、智能自动回撤、HCP/A2 A、多模式API、桌面/PWA。|719|15551|234|2026-02-13|
-|4|[wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)|TypeScript|这是Claude的HCP服务器，可为其提供终端控制、文件系统搜索和差异文件编辑功能|694|7706|225|2024-12-04|
-|5|[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)|TypeScript|基于Claude Code构建的人工智能驱动的职位申请框架。分叉它，填写您的个人资料，让Claude评估工作、定制简历、撰写求职信并为您做好面试准备。|555|20967|221|2026-03-18|
-|6|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|675|252270|218|2025-10-09|
-|7|[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)|Shell|人工智能编码代理的生产级工程技能。|642|77235|205|2026-02-15|
-|8|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|498|213137|182|2025-07-22|
-|9|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|531|117909|175|2024-04-29|
-|10|[Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)|Rust|隐私第一，人工智能会议助理，具有4倍速度的Parakeet/Whisper实时转录、扬声器日记化和基于Rust的Ollama总结。100%本地加工。不需要云。Meetly（Meetly AI -https://meetily.ai）是macOS和Windows上排名第一的自托管、开源AI会议笔记员。  |534|23067|174|2024-12-26|
-|11|[safishamsi/graphify](https://github.com/safishamsi/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|510|82267|167|2026-04-03|
-|12|[oven-sh/bun](https://github.com/oven-sh/bun)|Zig|速度惊人的JavaScript运行时、调试器、测试运行器和包管理器-集于一身|487|94513|157|2021-04-14|
-|13|[usestrix/strix](https://github.com/usestrix/strix)|Python|您的应用程序的开源人工智能黑客????????‍????|469|40442|156|2025-08-05|
-|14|[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)|Python|世界上第一个开源、代理视频制作系统。12条管道、52种工具、500+名代理技能。将您的人工智能编码助理变成完整的视频制作工作室。|452|37029|155|2026-03-29|
-|15|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|484|54828|152|2026-02-24|
+|1|[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)|TypeScript|开源CapCut替代方案|1224|63354|395|2025-06-22|
+|2|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1085|166563|345|2026-02-03|
+|3|[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)|Python|“Vibe-Trading：您的个人交易代理”|774|20260|263|2026-04-01|
+|4|[Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)|TypeScript|有教学意义的图表>给人留下深刻印象的图表。将任何代码转换为交互式知识图，您可以探索、搜索和提出问题。与Claude Code、Codex、Cursor、Copilot、Gemini CLI等合作。|694|73547|220|2026-03-15|
+|5|[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)|TypeScript|有教学意义的图表>给人留下深刻印象的图表。将任何代码转换为交互式知识图，您可以探索、搜索和提出问题。与Claude Code、Codex、Cursor、Copilot、Gemini CLI等合作。|693|73546|219|2026-03-15|
+|6|[safishamsi/graphify](https://github.com/safishamsi/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|615|82882|201|2026-04-03|
+|7|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|624|252894|200|2025-10-09|
+|8|[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)|JavaScript|现在我们已经变得很大了，和原来的想法不一样。收集各种类别的优质软件。|580|107582|183|2016-07-17|
+|9|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|458|213595|171|2025-07-22|
+|10|[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)|TypeScript|永远不要停止编码。免费人工智能门户：一个端点、160+个提供商（50+个免费），将Claude Code、Codex、Cursor、Cline & Copilot连接到FREE Claude/GPT/Gemini。TEK +Caveman堆叠压缩可节省15-95%的令牌、智能自动回撤、HCP/A2 A、多模式API、桌面/PWA。|514|16065|171|2026-02-13|
+|11|[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)|TypeScript|用于大规模搜索、抓取和与网络交互的API。????|530|149765|166|2024-04-15|
+|12|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|442|56546|153|2025-05-03|
+|13|[stablyai/orca](https://github.com/stablyai/orca)|TypeScript|Orca是下一代ADE，用于与平行代理舰队合作。使用您自己的订阅运行任何编码代理。可在台式机和移动设备上提供。|464|16724|149|2026-03-17|
+|14|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|431|118340|147|2024-04-29|
+|15|[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)|C|高性能代码智能MCC服务器。将代码库索引到持久知识图中-平均回购以毫秒为单位。158种语言，亚ms查询，令牌减少99%。单一静态二进制，零依赖关系。|450|30470|147|2026-02-24|
 
 [所有日榜](./day/day.md)
 
