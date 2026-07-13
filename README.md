@@ -1,47 +1,50 @@
 Github热门开源项目榜单
 
-## 2026年07月12日
+## 2026年07月13日
 
-在这份榜单中，我们可以观察到几个显著的趋势和特点。以下是对于榜单的分析：
+从本期榜单中，可以对项目进行以下分析：
 
-### 语言和项目类别
-- **主流语言**：榜单中的项目大多数使用 TypeScript（5个项目）和 Python（5个项目），这表明这两种语言在当前的开源项目中占据了重要地位。Shell和JavaScript也有项目，但是数量相对较少。
-- **项目种类**：项目涵盖了各类应用，包括开源替代方案（如OpenCut）、个人技能管理（如skills）、交易代理（如Vibe-Trading）、可视化工具（如Understand-Anything）和搜索抓取API（如firecrawl）等。这展示了开源社区对不同应用需求的响应和多样化。
+### 1. 项目特色与分类
+- **语言分布**: 本榜单中包含多种编程语言，主要包括 TypeScript 和 Python，显示出这两种语言在现今开发中的广泛应用。TypeScript 的项目数量较多，说明开发者对强类型的需求日益增加。
+- **项目类型**: 多数项目属于 AI、开发工具和个人助理类。AI 应用如“OpenCut”和“Orca”凸显出人们对高效开发工具的需求。同时，个人技能目录和职业申请工具显示出个人技能管理和求职过程的数字化趋势。
 
-### 受欢迎程度
-- **Star数量**：榜单最高的项目是OpenCut，其Star数量达到63354，显示出其在开发者中的广泛认可。第二名的技能目录，也以166563的Star数展现了个人项目的巨大吸引力。
-- **热度趋势**：虽然Star数量本身很重要，但项目的热度（趋势Star）同样值得关注。趋势Star反映了项目在近期内的增长潜力，OpenCut以1224的趋势Star遥遥领先，显示出一个显著的增长趋势。
+### 2. 热度和趋势分析
+- **当前Star与热度**: 热度分数与Star数量显示出项目的受欢迎程度和用户参与度。“OpenCut-app/OpenCut” 和 “mattpocock/skills” 是热度最高的两个项目，说明它们在开发社区中引起了较大关注。
+- **趋势Star**: Trend Star 反映了项目在近期内的活跃程度和接受度，"OpenCut" 和 "skills" 在这一方面表现出色，暗示着它们有持续增长的潜力。
+
+### 3. 未来发展趋势
+- 项目如“skills”和“graphify”关注模拟和辅助编码的 AI 助手，可能将推动下一轮的开发者生产力提升。
+- 随着 AI 工具日益普及，像“Vibe-Trading”和“awesome-llm-apps”等项目可能会吸引更多的投资和开发者参与，特别是在金融和数据挖掘领域。
   
-### 创建时间
-- **新的项目**：榜单中的项目相对较新，创建时间多为2024年和2026年，这表明当前的开发热潮集中在最近几年内。2025年之前的项目相对较少，代表着较新的技术和应用。
+### 4. 用户需求与社区反馈
+- 较新项目前景广阔，诸如“ai-job-search”和“system_prompts_leaks”等项目结合了热门技术与实际需求，显示出社区对简化工作流程和提供学习资源的迫切需求。
+  
+### 5. 项目价值与应用
+- 类似“DeliverCLI”的项目在企业办公效率方面的应用价值显著，它们可能会改善团队协作和文件管理流程。
+- 健身数据集合项目“exercises-dataset”也显示出为了健康管理而开发专用工具的趋势，说明对健康监测和运动指导的关注。
 
-### 特定项目亮点
-- **OpenCut**：作为开源CapCut的替代方案，它的出现可能满足了用户对视频编辑工具的需求。
-- **Understand-Anything**：此项目提供了代码可视化的能力，能够将代码转换为 interactive knowledge graph，这在学习和理解代码方面具有重要意义。
-- **hermes-agent**：以“与您一起成长的代理人”作为介绍，体现出人工智能代理的交互性及发展潜力，市场前景看好。
-
-### 总结
-整体上，此榜单展现了开源开发者对最新科技趋势的响应，特别是人工智能和可视化工具的需求。同时，强调了社区对新兴项目的接受度和支持。开发者可以借此了解哪些领域和技术正在快速发展，并结合项目热度和趋势Star，做出相应的技术选择或贡献。
+### 结论
+总体来看，本期榜单展示了以 AI 助手、个人管理工具和专业开发工具为核心的项目发展趋势。未来，随着技术发展和用户需求的变化，这些项目可能在各自领域中产生更大的影响。开发者和创业者可以借鉴这些项目的成功经验，推动更多创新解决方案的出现。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)|TypeScript|开源CapCut替代方案|1224|63354|395|2025-06-22|
-|2|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1085|166563|345|2026-02-03|
-|3|[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)|Python|“Vibe-Trading：您的个人交易代理”|774|20260|263|2026-04-01|
-|4|[Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)|TypeScript|有教学意义的图表>给人留下深刻印象的图表。将任何代码转换为交互式知识图，您可以探索、搜索和提出问题。与Claude Code、Codex、Cursor、Copilot、Gemini CLI等合作。|694|73547|220|2026-03-15|
-|5|[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)|TypeScript|有教学意义的图表>给人留下深刻印象的图表。将任何代码转换为交互式知识图，您可以探索、搜索和提出问题。与Claude Code、Codex、Cursor、Copilot、Gemini CLI等合作。|693|73546|219|2026-03-15|
-|6|[safishamsi/graphify](https://github.com/safishamsi/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|615|82882|201|2026-04-03|
-|7|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|624|252894|200|2025-10-09|
-|8|[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)|JavaScript|现在我们已经变得很大了，和原来的想法不一样。收集各种类别的优质软件。|580|107582|183|2016-07-17|
-|9|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|458|213595|171|2025-07-22|
-|10|[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)|TypeScript|永远不要停止编码。免费人工智能门户：一个端点、160+个提供商（50+个免费），将Claude Code、Codex、Cursor、Cline & Copilot连接到FREE Claude/GPT/Gemini。TEK +Caveman堆叠压缩可节省15-95%的令牌、智能自动回撤、HCP/A2 A、多模式API、桌面/PWA。|514|16065|171|2026-02-13|
-|11|[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)|TypeScript|用于大规模搜索、抓取和与网络交互的API。????|530|149765|166|2024-04-15|
-|12|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|442|56546|153|2025-05-03|
-|13|[stablyai/orca](https://github.com/stablyai/orca)|TypeScript|Orca是下一代ADE，用于与平行代理舰队合作。使用您自己的订阅运行任何编码代理。可在台式机和移动设备上提供。|464|16724|149|2026-03-17|
-|14|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|431|118340|147|2024-04-29|
-|15|[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)|C|高性能代码智能MCC服务器。将代码库索引到持久知识图中-平均回购以毫秒为单位。158种语言，亚ms查询，令牌减少99%。单一静态二进制，零依赖关系。|450|30470|147|2026-02-24|
+|1|[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)|TypeScript|开源CapCut替代方案|1844|65198|587|2025-06-22|
+|2|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1485|168048|471|2026-02-03|
+|3|[safishamsi/graphify](https://github.com/safishamsi/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|1300|84182|418|2026-04-03|
+|4|[stablyai/orca](https://github.com/stablyai/orca)|TypeScript|Orca是下一代ADE，用于与平行代理舰队合作。使用您自己的订阅运行任何编码代理。可在台式机和移动设备上提供。|1253|17977|398|2026-03-17|
+|5|[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)|Python|“Vibe-Trading：您的个人交易代理”|1186|21446|390|2026-04-01|
+|6|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|1000|119340|327|2024-04-29|
+|7|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|764|253658|248|2025-10-09|
+|8|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|544|214139|200|2025-07-22|
+|9|[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)|TypeScript|永远不要停止编码。免费人工智能门户：一个端点、160+个提供商（50+个免费），将Claude Code、Codex、Cursor、Cline & Copilot连接到FREE Claude/GPT/Gemini。TEK +Caveman堆叠压缩可节省15-95%的令牌、智能自动回撤、HCP/A2 A、多模式API、桌面/PWA。|607|16672|199|2026-02-13|
+|10|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|576|57122|195|2025-05-03|
+|11|[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)|C#|DeliverCLI是第一个也是最好的Office套件，专为人工智能代理读取、编辑和自动化Word、Excel和PowerPoint文件而构建。免费、开源、单一二进制，无需安装Office。|617|15967|192|2026-03-15|
+|12|[hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)|HTML|包含433项健身练习的综合数据集。每个条目包括名称、类别、目标肌肉群、设备、说明、缩略图和动画视频。|549|12421|186|2026-03-18|
+|13|[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)|TypeScript|基于Claude Code构建的人工智能驱动的职位申请框架。分叉它，填写您的个人资料，让Claude评估工作、定制简历、撰写求职信并为您做好面试准备。|425|21741|182|2026-03-18|
+|14|[github/spec-kit](https://github.com/github/spec-kit)|Python|工具包帮助您开始规范驱动开发|571|120406|180|2025-08-21|
+|15|[earendil-works/pi](https://github.com/earendil-works/pi)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|541|70411|175|2025-08-09|
 
 [所有日榜](./day/day.md)
 
