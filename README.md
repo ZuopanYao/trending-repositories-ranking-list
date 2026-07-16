@@ -1,50 +1,49 @@
 Github热门开源项目榜单
 
-## 2026年07月15日
+## 2026年07月16日
 
-本期榜单展示了多个开源项目的热度、星数和发展趋势。从这些数据中，我们可以进行以下分析：
+在本期榜单中，我们可以观察到多个项目在不同领域的突出表现。这些项目的分析如下：
 
-1. **项目类型和技术栈**：
-   - 榜单中的项目涵盖了多种编程语言，包括Python、Shell、TypeScript、C#和PowerShell等，显示了开源生态系统的多样性。
-   - 大部分项目涉及人工智能（AI）、数据处理或开发者工具，反映了当前技术趋势的热点。
+1. **项目类型多样性**：
+   - 本榜单中的项目涵盖了多种编程语言，包括 TypeScript、Python、C#、Shell 和 HTML。其中 Python 和 TypeScript 是主流语言，分别代表了人工智能和前端开发领域的热门技术。
 
-2. **热度和Star趋势**：
-   - 排在榜首的项目是“[1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)”，它是一个关于中国独立开发者的项目，拥有55824个Star，显示出其广泛的关注与认可。
-   - “[mattpocock/skills](https://github.com/mattpocock/skills)”和“[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)”分别以171857和70780个Star位居第二和第三，表明这些项目在社区中具有极高的受欢迎程度。
+2. **热门项目**：
+   - **OpenCut**（TypeScript）：作为开源 CapCut 的替代方案，拥有超过 73,000 个 Star，其创建时间为 2025 年，显示出其较高的热度和用户关注程度。
+   - **mattpocock/skills**（Shell）：虽然只有 1,985 个 Star，但其创造的个人技能目录收获了 173,842 个关注，是一个有高人气的项目。
 
-3. **新项目的崛起**：
-   - 榜单中较新的项目，如“[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)”与“[safishamsi/graphify](https://github.com/safishamsi/graphify)”虽然创建时间较短（2026年），但获得了较高的Star数（87487），显示出其潜在的发展空间和社区的兴趣。
+3. **相似项目**：
+   - **graphify**（Python）：本榜单中有两个名为 `graphify` 的项目，分别由不同作者创建，都是关于 AI 编码助理技能。这表明在 AI 技术日益发展的背景下，相关工具的需求不断增长。
 
-4. **相似项目的竞争**：
-   - “[safishamsi/graphify](https://github.com/safishamsi/graphify)”和“[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)”看似是两个非常相似的项目，分别获得了1587和1588个Star，显示出在相似领域内的竞争现象。
+4. **未来趋势**：
+   - 大多数项目的创建时间较新，这显示出开发者们在积极探索人工智能、编码辅助和个人效率等领域的项目。尤其是与 AI 相关的项目，如 **Wand-Enhancer** 和 **DeepTutor**，代表了未来开发方向。
 
-5. **功能与实用性**：
-   - 一些项目，如“[hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)”和“[Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)”，专注于实用工具和数据集，帮助用户提升生活质量或工作效率，说明实用性仍然是开发者关注的重点。
+5. **热度分布**：
+   - 在热度的指标下，OpenCut 的热度为 909，明显领先于其他项目。其他项目如 Nutlope/hallmark 和 safishamsi/graphify 等虽然 Star 数量较少，但相对较高的热度说明了它们在用户中的认可度。
 
-6. **未来趋势**：
-   - 随着人工智能技术的不断发展，更多集成AI能力的项目（如基于Claude Code和Codex的工具）正在兴起，显示出AI与传统开发工具结合的趋势。
+6. **关注度与创作者背景**：
+   - 单从 **創建時間** 看，较早的项目如 **chinese-independent-developer** 可能积累了一定的用户基础和开发者支持，而新项目则表现出追随最新技术趋势的能力与灵活性。
 
-总的来说，本期榜单展示了一个多元化且充满活力的开源社区，突显了创新和实用性并存的趋势，尤其是在人工智能和开发工具方面。未来，随着技术的进步，这些项目可能会继续引领开源潮流。
+总结来说，本期榜单展示了各类技术项目的趋势和开发方向，尤其是围绕人工智能和编程工具的需求在不断增加。开发者应关注这些领域，以抓住新兴技术带来的机遇。同时，通过项目的热度和 Star 数量分析，可以为开发者们的未来开发和创业提供一些重要的参考。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)|Python|ðŸ ðŸ中国独立开发者项目列表 -- 分享大国都在做什么|2832|55824|900|2017-09-21|
-|2|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|2085|171857|661|2026-02-03|
-|3|[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)|TypeScript|开源CapCut替代方案|1930|70780|606|2025-06-22|
-|4|[safishamsi/graphify](https://github.com/safishamsi/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|1587|87486|503|2026-04-03|
-|5|[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|1588|87487|503|2026-04-03|
-|6|[Nutlope/hallmark](https://github.com/Nutlope/hallmark)|CSS|Claude Code、Cursor和Codex的反人工智能污水设计技能。|1601|7512|494|2026-04-27|
-|7|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|1174|121680|382|2024-04-29|
-|8|[hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)|HTML|包含433项健身练习的综合数据集。每个条目包括名称、类别、目标肌肉群、设备、说明、缩略图和动画视频。|961|14168|319|2026-03-18|
-|9|[k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)|C#|Wand（WeMod）应用程序的高级用户体验和互操作性扩展|372|7994|308|2024-11-17|
-|10|[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)|C#|DeliverCLI是第一个也是最好的Office套件，专为人工智能代理读取、编辑和自动化Word、Excel和PowerPoint文件而构建。免费、开源、单一二进制，无需安装Office。|957|17548|297|2026-03-15|
-|11|[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)|Python|“Vibe-Trading：您的个人交易代理”|873|23500|290|2026-04-01|
-|12|[Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)|PowerShell|一个简单、轻量级的Shell脚本，可以删除预安装的应用程序、禁用遥感以及执行各种其他更改以自定义、整理和改善您的Windows体验。Win11 Debloat适用于Windows 10和Windows 11。|806|52193|251|2020-10-27|
-|13|[stablyai/orca](https://github.com/stablyai/orca)|TypeScript|Orca是下一代ADE，用于与平行代理舰队合作。使用您自己的订阅运行任何编码代理。可在台式机和移动设备上提供。|771|19719|239|2026-03-17|
-|14|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|696|192674|231|2026-01-27|
-|15|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|696|192674|231|2026-01-27|
+|1|[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)|TypeScript|开源CapCut替代方案|2917|73697|909|2025-06-22|
+|2|[Nutlope/hallmark](https://github.com/Nutlope/hallmark)|CSS|Claude Code、Cursor和Codex的反人工智能污水设计技能。|2919|10431|903|2026-04-27|
+|3|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1985|173842|627|2026-02-03|
+|4|[safishamsi/graphify](https://github.com/safishamsi/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|1138|88624|357|2026-04-03|
+|5|[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|1137|88624|357|2026-04-03|
+|6|[1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)|Python|ðŸ ðŸ中国独立开发者项目列表 -- 分享大国都在做什么|1020|56844|328|2017-09-21|
+|7|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|907|122587|296|2024-04-29|
+|8|[k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)|C#|Wand（WeMod）应用程序的高级用户体验和互操作性扩展|374|8368|292|2024-11-17|
+|9|[stablyai/orca](https://github.com/stablyai/orca)|TypeScript|Orca是下一代ADE，用于与平行代理舰队合作。使用您自己的订阅运行任何编码代理。可在台式机和移动设备上提供。|777|20496|244|2026-03-17|
+|10|[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)|Python|“Vibe-Trading：您的个人交易代理”|742|24242|242|2026-04-01|
+|11|[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)|C#|DeliverCLI是第一个也是最好的Office套件，专为人工智能代理读取、编辑和自动化Word、Excel和PowerPoint文件而构建。免费、开源、单一二进制，无需安装Office。|703|18251|223|2026-03-15|
+|12|[hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)|HTML|包含433项健身练习的综合数据集。每个条目包括名称、类别、目标肌肉群、设备、说明、缩略图和动画视频。|659|14827|217|2026-03-18|
+|13|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|641|255900|205|2025-10-09|
+|14|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|562|215870|202|2025-07-22|
+|15|[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)|Python|“DeepTutor：代理原生个性化学习助理”|618|26738|197|2025-12-28|
 
 [所有日榜](./day/day.md)
 
