@@ -1,51 +1,48 @@
 Github热门开源项目榜单
 
-## 2026年07月17日
+## 2026年07月18日
 
-本期榜单呈现出了多个方面的趋势与特点，以下是对各个项目的分析：
+对本期榜单进行分析，我们可以从多个角度来理解这些项目，包括它们的内容、技术语言、流行趋势以及实际应用。
 
-### 项目分类与技术语言
-1. **语言多样性**: 榜单上的项目使用了多种编程语言，包括Python、Shell、CSS、TypeScript、C#和Markdown等。Python在榜单中占据了很大比例，显然是数据处理和人工智能领域的主流语言。
-   
-2. **技术领域**: 大多数项目聚焦于人工智能（AI）、编码辅助、知识图谱和开发者工具。例如，`graphify`系列项目专注于将代码和文档转化为可查询的图，表明开发者对知识结构化管理和智能化处理的关注。
+### 1. 项目介绍和类型
+- **人工智能相关**: 本期榜单中的项目大部分都是与人工智能相关的。项目如 [council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) 和 [agency-agents](https://github.com/msitarzewski/agency-agents) 集中在构建智能代理系统，这显示了市场对智能决策和自动化的强烈兴趣。
+- **编程和开发工具**: 还有一些项目专注于开发者工具，如 [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)，这是一个编程学习资源，鼓励开发人员从零开始构建技术栈。
 
-### 流行趋势与热度
-1. **热度与Star数量**: 项目的热度（热度列）和Star数量在某种程度上反映了用户对项目的关注度。例如，`mattpocock/skills` 拥有最高的Star量（175412），且热度为503，表明其在社区中的流行程度。
+### 2. 技术语言
+- 本期榜单中的项目涵盖了多种编程语言，其中Python、Shell和TypeScript的应用最为广泛。Python和Shell因其在数据科学和自动化脚本中的优势而受到欢迎，而TypeScript则在前端开发中日益成为主流选择。
 
-2. **项目发展趋势**: 某些项目如`graphify`系列有两个版本，都带来相近的Star和热度，可能会引发关于项目版本迭代和相应文档更新的讨论。多版本的出现可能会影响开发者选择和使用习惯。
+### 3. 热度和流行趋势
+- 项目的热度（热度数值）显示了用户对项目的关注度。比如， [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) 的当前Star达到528039，这表明这是一个极受欢迎的项目，能够吸引成千上万的开发者关注。从趋势Star来看，很多项目虽然相对新，但正迅速增长。
+- 比如， [Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)，尽管创建时间较短（2024-11-17），却已经吸引了9205个Star，这显示出它获得的关注度。
 
-### 创意与影响
-1. **创意设计**: 一些项目（如`Nutlope/hallmark`和`1c7/chinese-independent-developer`）显示了对AI工具的应用与反思，这种趋势表明开发者在使用AI技术的同时，也在寻求设计方面的创新和个性化。
+### 4. 创建时间和更新频率
+- 创建时间也显现出技术发展的步伐。新近创建的项目一般关系到更前沿的技术和需求，比如 [OpenCut](https://github.com/OpenCut-app/OpenCut) 是一个开源的CapCut替代方案，反映了对视频处理工具的持续需求。
 
-2. **针对特定需求**: `hasaneyldrm/exercises-dataset`等项目显示了创建专门数据集的需求，满足了健身领域的特定用户群体。这说明了在某些专业领域内，数据集的准确性和应用性变得尤为重要。
-
-### 项目活跃度与创建时间
-1. **项目创建时间**: 从项目创建时间来看，较早的项目（如`codecrafters-io/build-your-own-x`，创建于2018年）仍然保持高热度与Star数，显示了其持续的影响力。
-
-2. **活跃项目与未来潜力**: 新近创建的项目如`Wand-Enhancer`和`OpenCut`展现了良好的增速，这可能意味着未来在相关领域内会有更大的发展空间。
-
-### 总体观察
-综上所述，本期榜单中的项目体现了对AI相关工具和资源扩展的强烈需求，涉及到的领域越发多样化。随着技术的不断演进和开发者社区的活跃，未来可能会出现更多创新的项目和领域细分，值得持续关注。
+### 5. 未来发展趋势
+- 随着AI和自动化的不断发展，预计将会有更多 შესაბამისად功能强大且易用的项目涌现。用户对于智能代理、工具集成以及界面友好的开发环境的需求也在增加，任何能提高生产力和效率的项目都有巨大的市场潜力。
+  
+### 总结
+总体来说，本期榜单反映了人工智能、编程教学以及开发者工具等多个领域中的技术创新和用户需求。未来，具备创新性和实用性的项目将继续引领开发者的关注。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1570|175412|503|2026-02-03|
-|2|[1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)|Python|ðŸ ðŸ中国独立开发者项目列表 -- 分享大国都在做什么|1564|58408|494|2017-09-21|
-|3|[safishamsi/graphify](https://github.com/safishamsi/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|1326|89950|420|2026-04-03|
-|4|[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|1327|89951|420|2026-04-03|
-|5|[Nutlope/hallmark](https://github.com/Nutlope/hallmark)|CSS|Claude Code、Cursor和Codex的反人工智能污水设计技能。|1324|11755|411|2026-04-27|
-|6|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|1006|527028|327|2018-05-09|
-|7|[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)|Python|用于从流数据重建场景的前向3D基础模型|1111|11840|311|2026-04-15|
-|8|[k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)|C#|Wand（WeMod）应用程序的高级用户体验和互操作性扩展|377|8745|302|2024-11-17|
-|9|[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)|TypeScript|开源CapCut替代方案|952|74649|297|2025-06-22|
-|10|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|897|123484|295|2024-04-29|
-|11|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|468|216338|183|2025-07-22|
-|12|[hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)|HTML|包含433项健身练习的综合数据集。每个条目包括名称、类别、目标肌肉群、设备、说明、缩略图和动画视频。|540|15367|177|2026-03-18|
-|13|[ibelick/ui-skills](https://github.com/ibelick/ui-skills)|TypeScript|设计工程师的技能|533|4599|165|2026-01-07|
-|14|[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)|Python|“DeepTutor：代理原生个性化学习助理”|503|27241|158|2025-12-28|
-|15|[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)|C#|DeliverCLI是第一个也是最好的Office套件，专为人工智能代理读取、编辑和自动化Word、Excel和PowerPoint文件而构建。免费、开源、单一二进制，无需安装Office。|486|18737|155|2026-03-15|
+|1|[0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence)|Shell|18个人工智能角色在多个LLM提供商中审议您最艰难的决定。亚里斯多德、费曼、卡尼曼、托瓦尔兹等-结构化的多轮审议，具有真正的模型多样性。一个命令：/议会|3634|3635|1090|2026-03-02|
+|2|[k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)|C#|Wand（WeMod）应用程序的高级用户体验和互操作性扩展|460|9205|376|2024-11-17|
+|3|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|1011|528039|326|2018-05-09|
+|4|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|906|176318|294|2026-02-03|
+|5|[Nutlope/hallmark](https://github.com/Nutlope/hallmark)|CSS|Claude Code、Cursor和Codex的反人工智能污水设计技能。|927|12682|288|2026-04-27|
+|6|[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)|Python|用于从流数据重建场景的前向3D基础模型|797|12637|256|2026-04-15|
+|7|[safishamsi/graphify](https://github.com/safishamsi/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|797|90747|254|2026-04-03|
+|8|[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|796|90747|254|2026-04-03|
+|9|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|629|132872|209|2025-10-13|
+|10|[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)|TypeScript|开源CapCut替代方案|651|75300|204|2025-06-22|
+|11|[stablyai/orca](https://github.com/stablyai/orca)|TypeScript|Orca是下一代ADE，用于与平行代理舰队合作。使用您自己的订阅运行任何编码代理。可在台式机和移动设备上提供。|626|21637|194|2026-03-17|
+|12|[jamiepine/voicebox](https://github.com/jamiepine/voicebox)|TypeScript|开源语音合成工作室|518|42548|176|2026-01-25|
+|13|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|397|216735|152|2025-07-22|
+|14|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|461|256965|149|2025-10-09|
+|15|[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)|C#|DeliverCLI是第一个也是最好的Office套件，专为人工智能代理读取、编辑和自动化Word、Excel和PowerPoint文件而构建。免费、开源、单一二进制，无需安装Office。|454|19191|142|2026-03-15|
 
 [所有日榜](./day/day.md)
 
