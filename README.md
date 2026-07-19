@@ -44,56 +44,62 @@ Github热门开源项目榜单
 
 [所有日榜](./day/day.md)
 
-## 2026年第27周
+## 2026年第28周
 
-根据本期榜单的数据，我们可以对目前在GitHub上表现突出的项目进行如下分析：
+本期榜单展示了多款开源项目，涉及的技术栈包括TypeScript、Python、Shell、C#和HTML等。以下是对榜单的详细分析：
 
-### 总体趋势
-1. **编程语言分布**：榜单中的项目主要使用Shell和Python两种语言，其次是TypeScript和Rust。这表明，Shell在处理命令行和自动化任务方面的需求依然很高，而Python的广泛应用于AI和数据处理也是显而易见的。
+### 项目分类分析
+- **类型**: 大部分项目围绕AI、编码助手、技能目录和图形化工具等主题展开。
+- **主要语言**: Python 和 TypeScript 项目较多，表明这两种语言在开源社区中的受欢迎程度。
 
-2. **项目热度**：
-   - 大部分项目的热度值都超过了1000，其中，`skills` 项目的热度值达到2603，是榜单中最高的，这说明它在Github社群中得到了广泛的关注和讨论。
-   - 相对而言，`mattpocock/skills`和`addyosmani/agent-skills`这两个项目不仅Star数量高，热度也很高，显示出它们在社区中的影响力。
+### 热度与Star分析
+- **高Star项目**: 
+  - **OpenCut**（75723星）作为开源CapCut替代方案，显示出其广泛的用户基础和热情。趋势Star高达10525，且持续增长，预示着其潜在的发展空间。
+  - **skills**和**hallmark**也是Star数量较高的项目，分别拥有177233和13197星。这表明个人技能与AI相关的工具也受到欢迎。
 
-3. **Star增长趋势**：
-   - `mattpocock/skills`的Star数量在166563，且趋势Star高达8135，显示出其潜力和增长速度。
-   - `obra/superpowers`和`safishamsi/graphify`等项目也有较高的Star数量和趋势，这表明它们是在吸引用户注意力的潜力项目。
+- **趋势Star**: 
+  - **graphify**及其相似项目在趋势Star中表现良好，反映出文档、代码转换成知识图的需求在不断上升。
 
-### 项目类型
-- **AI辅助工具**：如`meetily`、`hermes-agent`和`graphify`等，都是围绕人工智能的应用进行开发，显示出现代开发中对AI的依赖和重视。
-- **系统和工具**：如`system_prompts_leaks`和`superpowers`，这些项目主要是提供基础组件和工具，支撑其他应用的开发。
+### 项目年龄分析
+- **新近项目**: 
+  - 大部分项目的创建时间都在2024年及以后，显示出AI和编码助手等领域的快速发展和活跃。
 
-### 创新性与实用性
-- **隐私与本地处理**：像`meetily`这样的项目强调隐私和本地处理能力，这反映了当前用户在数据保护方面的关注。
-- **多功能性**：项目如`OmniRoute`和`OpenMontage`通过整合多种功能，展示了处理复杂任务的趋势，特别是在多服务整合和高效工作流方面。
+### 重点项目
+- **OpenCut-app/OpenCut**: 作为开源替代方案，其目标用户群体显然偏向需要视频编辑功能的开发者或创作者。
+- **grassify**: 具备将代码和文档转换为查询知识图谱的能力，极有可能成为开发者工具中的一项重要资源。
+- **hermes-agent**和**ai-job-search**等项目则突出了AI的个人化服务和技能提升，与就业市场的需求紧密相关。
 
-### 结论
-总体来看，目前GitHub上的热门项目反映出开发者对人工智能技术的广泛应用、功能整合的重视以及对于隐私保护的关注。随着这些项目的不断发展，它们可能会在未来吸引更多的关注和贡献，推动相关技术的进步和应用的普及。对于开发者和技术爱好者来说，关注这些项目将有助于了解当前技术趋势和未来发展方向。
+### 潜在趋势
+- **人工智能和自动化的需求**不断上升，尤其是在编码和个人技能提升领域，这是项目广受欢迎的原因之一。
+- **交互性与用户体验**: 比如Wand-Enhancer和OfficeCLI等项目，突显了用户体验和工具间互操作性的关注。
+
+### 总结
+此榜单的项目体现了当前技术发展的热点与趋势，特别是在人工智能、知识图谱和个人技能工具方面。受益于开源文化的推动，这些项目吸引了大量开发者参与，并在GitHub上积累了可观的Star数。随着技术的进步和需求的变化，预计未来会有更多此类工具涌现。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|8135|166563|2603|2026-02-03|
-|2|[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)|Shell|人工智能编码代理的生产级工程技能。|7037|77529|2258|2026-02-15|
-|3|[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)|JavaScript|从ChatGPT、Claude和Gemini等流行聊天机器人中提取的系统脚本的集合|5549|56546|1927|2025-05-03|
-|4|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|5319|252894|1761|2025-10-09|
-|5|[Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)|Rust|隐私第一，人工智能会议助理，具有4倍速度的Parakeet/Whisper实时转录、扬声器日记化和基于Rust的Ollama总结。100%本地加工。不需要云。Meetly（Meetly AI -https://meetily.ai）是macOS和Windows上排名第一的自托管、开源AI会议笔记员。  |4633|23449|1545|2024-12-26|
-|6|[safishamsi/graphify](https://github.com/safishamsi/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|4330|82882|1397|2026-04-03|
-|7|[stablyai/orca](https://github.com/stablyai/orca)|TypeScript|Orca是下一代ADE，用于与平行代理舰队合作。使用您自己的订阅运行任何编码代理。可在台式机和移动设备上提供。|3963|16724|1317|2026-03-17|
-|8|[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)|TypeScript|永远不要停止编码。免费人工智能门户：一个端点、160+个提供商（50+个免费），将Claude Code、Codex、Cursor、Cline & Copilot连接到FREE Claude/GPT/Gemini。TEK +Caveman堆叠压缩可节省15-95%的令牌、智能自动回撤、HCP/A2 A、多模式API、桌面/PWA。|3669|16065|1275|2026-02-13|
-|9|[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)|Shell|品味-技能-给你的AI好品味。阻止人工智能生成无聊的通用斜坡， |3803|62397|1257|2026-02-19|
-|10|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|3389|213595|1235|2025-07-22|
-|11|[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)|TypeScript|用于大规模搜索、抓取和与网络交互的API。????|3872|149765|1199|2024-04-15|
-|12|[bradautomates/claude-video](https://github.com/bradautomates/claude-video)|Python|让克劳德能够观看任何视频。/观看下载、提取帧、转录，然后将一切交给Claude。|3762|7757|1191|2026-04-24|
-|13|[Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)|CSS|GIMP 3+的Photoshop用户补丁|3816|15816|1187|2020-06-19|
-|14|[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)|Python|世界上第一个开源、代理视频制作系统。12条管道、52种工具、500+名代理技能。将您的人工智能编码助理变成完整的视频制作工作室。|3243|37414|1148|2026-03-29|
-|15|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|3349|55235|1119|2026-02-24|
-|16|[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)|C|高性能代码智能MCC服务器。将代码库索引到持久知识图中-平均回购以毫秒为单位。158种语言，亚ms查询，令牌减少99%。单一静态二进制，零依赖关系。|3246|30470|1102|2026-02-24|
-|17|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |3008|80199|1030|2025-06-07|
-|18|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |3007|80199|1030|2025-06-07|
-|19|[usestrix/strix](https://github.com/usestrix/strix)|Python|您的应用程序的开源人工智能黑客????????‍????|2942|40764|1019|2025-08-05|
-|20|[ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)|Rust|位于您的终端中的代理多路转换器。|3040|15706|1015|2026-03-27|
+|1|[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)|TypeScript|开源CapCut替代方案|10525|75723|3310|2025-06-22|
+|2|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|9185|177233|2927|2026-02-03|
+|3|[Nutlope/hallmark](https://github.com/Nutlope/hallmark)|CSS|Claude Code、Cursor和Codex的反人工智能污水设计技能。|8308|13197|2581|2026-04-27|
+|4|[safishamsi/graphify](https://github.com/safishamsi/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|7253|91435|2307|2026-04-03|
+|5|[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|7253|91436|2307|2026-04-03|
+|6|[k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)|C#|Wand（WeMod）应用程序的高级用户体验和互操作性扩展|2466|9704|2008|2024-11-17|
+|7|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|5039|124379|1652|2024-04-29|
+|8|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Markdown|从头开始重新创建您最喜欢的技术来掌握编程。|3977|528748|1280|2018-05-09|
+|9|[stablyai/orca](https://github.com/stablyai/orca)|TypeScript|Orca是下一代ADE，用于与平行代理舰队合作。使用您自己的订阅运行任何编码代理。可在台式机和移动设备上提供。|4210|22187|1270|2026-03-17|
+|10|[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)|Python|“Vibe-Trading：您的个人交易代理”|3763|25209|1201|2026-04-01|
+|11|[obra/superpowers](https://github.com/obra/superpowers)|Shell|克劳德·代码超能力：核心技能库|3805|257463|1175|2025-10-09|
+|12|[hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)|HTML|包含433项健身练习的综合数据集。每个条目包括名称、类别、目标肌肉群、设备、说明、缩略图和动画视频。|3572|15993|1172|2026-03-18|
+|13|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|3012|217151|1128|2025-07-22|
+|14|[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)|C#|DeliverCLI是第一个也是最好的Office套件，专为人工智能代理读取、编辑和自动化Word、Excel和PowerPoint文件而构建。免费、开源、单一二进制，无需安装Office。|3586|19553|1127|2026-03-15|
+|15|[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)|TypeScript|永远不要停止编码。免费人工智能门户：一个端点、160+个提供商（50+个免费），将Claude Code、Codex、Cursor、Cline & Copilot连接到FREE Claude/GPT/Gemini。TEK +Caveman堆叠压缩可节省15-95%的令牌、智能自动回撤、HCP/A2 A、多模式API、桌面/PWA。|3238|19910|1002|2026-02-13|
+|16|[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)|TypeScript|基于Claude Code构建的人工智能驱动的职位申请框架。分叉它，填写您的个人资料，让Claude评估工作、定制简历、撰写求职信并为您做好面试准备。|2263|24004|911|2026-03-18|
+|17|[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|2746|194278|903|2026-01-27|
+|18|[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|None|一个用于改进Claude Code行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码陷阱的观察。|2746|194278|903|2026-01-27|
+|19|[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)|Python|用于从流数据重建场景的前向3D基础模型|2873|13493|886|2026-04-15|
+|20|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|2738|133798|883|2025-10-13|
 
 [所有周榜](./week/week.md)
 
