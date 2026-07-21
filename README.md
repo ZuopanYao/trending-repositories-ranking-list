@@ -1,56 +1,49 @@
 Github热门开源项目榜单
 
-## 2026年07月20日
+## 2026年07月21日
 
-根据提供的榜单数据，我们可以对这些项目进行一些分析，以了解它们的特征、用途及趋势。
+### 本期榜单分析
 
-### 项目概述
-1. **项目数量与语言多样性**：
-   - 榜单上列出了15个项目，支持多种编程语言，包括Python、TypeScript、Shell和Rust等。Python和TypeScript的项目数较多，这表明这两种语言在当前开发环境中的受欢迎程度。
+本期榜单展示了一系列不同项目，涵盖了多种编程语言和应用领域，以下是对榜单的分析：
 
-2. **趋势与Star数据比较**：
-   - “趋势Star”反映了项目在特定时间段内的受欢迎程度，而“当前Star”则显示项目的总受欢迎程度。比如，`tirth8205/code-review-graph`的趋势Star（1869）显著高于其他项目，这可能意味着它最近获得了较高的关注和活跃度。
-   - 需要注意的是，尽管一些项目的当前Star较高（如`mattpocock/skills`，拥有178637的Star），但它的趋势Star（1404）相对较低，可能表明项目在早期阶段已经获得关注，但近期的活跃度下降。
+#### 1. 项目语言
+- **TypeScript** 是本期榜单的主要语言，多个项目（如 `worldmonitor`, `OmniRoute`, `orca`, `pi-mono`, `voicebox` 和 `open-seo`）使用了该语言。这表明 TypeScript 在现代开发中的受欢迎程度，尤其是在构建复杂的前端应用中。
+- **Python** 和 **Rust** 项目也较为显著，Python 项目（如 `InvisPose` 和 `ai-engineering-from-scratch`）体现了其在人工智能和数据处理领域的广泛应用，Rust 项目则可能受益于其高性能和内存安全特性。
 
-### 项目功能与用途
-1. **代码审查与AI工具**：
-   - 许多项目（如`code-review-graph`和`OmniRoute`）专注于集成人工智能与代码管理，帮助用户提高代码的质量和开发效率。
+#### 2. 项目热门程度
+- **`worldmonitor`** 项目以 64269 的星标数成为榜单首位，展示了其在全球情报与态势感知领域的重要性。项目介绍中提到的 AI 支持和实时监控功能符合当今对信息透明度和实时反馈的需求。
+- **`OmniRoute`** 和 **`skills`** 项目也具有较高的星标数（分别为 23043 和 180117），表明开发者对这些项目的兴趣，以及它们提供的人工智能和技能管理解决方案的实用性。
 
-2. **个人技能管理**：
-   - `mattpocock/skills`作为个人技能目录，用于整理和展示个人技能，这对于开发者展示自我技能非常实用。
+#### 3. 创建时间分析
+- 创建时间较新的项目（如 `OmniRoute` 和 `orca`）显示了新技术和需求的快速迭代。与之相比，较早的项目（如 `Apollo-11`）则展示了长时间以来的持续关注和使用。
+- 较新的项目多聚焦于人工智能和现代开发工具，说明这是当前开发社区关注的热门趋势。
 
-3. **开源替代方案**：
-   - 如`every-app/open-seo`项目提供了 Semrush 和 Ahrefs 的开源替代方案，表明了在这些领域中用户对免费的、可定制的替代品的需求。
+#### 4. 热度趋势
+- 热度分数中，项目如 `worldmonitor`、`OmniRoute` 和 `skills` 皆有较高热度，这与其功能性和市场需求有关。
+- 一些项目（如 `agency-agents` 和 `open-seo`）虽然星标数较少，但因其特定领域的应用，使得它们在相关社群中仍颇具影响力。
 
-4. **多平台支持**：
-   - `orca`和`OmniRoute`等项目表明，移动和桌面设备的跨平台支持越来越受到重视，开发者希望在多种设备上无缝工作。
-
-### 热度与活跃度
-- 热度指标显示了项目在最近一段时间的关注度，最高的是`tirth8205/code-review-graph`（584），其次是`mattpocock/skills`（439）。这可能与其功能的新颖性或社区的活跃度相关。
-- 一些项目的热度相对较低（如`wigolo`和`Agent-Reach`），可能需要增加宣传或社区参与来提升其受欢迎程度。
-
-### 结论
-整体来看，这个榜单展示了当前软件开发领域的一些热门技术与工具应用，尤其是在结合AI与代码管理、开源工具以及个人开发者需求方面。同时，项目的热度和趋势Star为开发者和用户提供了选择的依据，帮助他们在众多项目中找到最具价值和潜力的工具。
+#### 5. 综合评价
+总体来看，本期榜单中的项目集中在人工智能、实时数据处理和前端开发等领域。这不仅反映了当前技术的发展趋势，也指出了开发者在选择工具和框架时的关注点。随着 AI 技术的不断发展和渗透，相关项目将继续受到关注并推动行业的演进。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)|Python|用于HCP和CLI的本地优先代码智能图。构建代码库的持久地图，以便人工智能编码工具仅读取重要内容，并对审查和大型回购工作流程进行基准上下文缩减。|1869|22698|584|2026-02-26|
-|2|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1404|178637|439|2026-02-03|
-|3|[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)|TypeScript|永远不要停止编码。免费人工智能门户：一个端点、160+个提供商（50+个免费），将Claude Code、Codex、Cursor、Cline & Copilot连接到FREE Claude/GPT/Gemini。TEK +Caveman堆叠压缩可节省15-95%的令牌、智能自动回撤、HCP/A2 A、多模式API、桌面/PWA。|1248|21158|405|2026-02-13|
-|4|[stablyai/orca](https://github.com/stablyai/orca)|TypeScript|Orca是下一代ADE，用于与平行代理舰队合作。使用您自己的订阅运行任何编码代理。可在台式机和移动设备上提供。|1066|23253|334|2026-03-17|
-|5|[k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)|C#|Wand（WeMod）应用程序的高级用户体验和互操作性扩展|389|10093|321|2024-11-17|
-|6|[every-app/open-seo](https://github.com/every-app/open-seo)|TypeScript|Semrush和Ahrefs的开源替代品|985|5579|315|2026-02-27|
-|7|[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)|Python|学习它。建造它。为他人运送它。|843|40335|273|2026-03-18|
-|8|[jamiepine/voicebox](https://github.com/jamiepine/voicebox)|TypeScript|开源语音合成工作室|831|43966|264|2026-01-25|
-|9|[Nutlope/hallmark](https://github.com/Nutlope/hallmark)|CSS|Claude Code、Cursor和Codex的反人工智能污水设计技能。|792|13989|245|2026-04-27|
-|10|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|718|134516|235|2025-10-13|
-|11|[KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo)|TypeScript|您的人工智能编码代理的首选网络-通过HCP本地优先搜索、获取、抓取和研究。没有API密钥，没有云，0美元/查询。公开测试版。|692|2357|216|2026-04-12|
-|12|[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)|Python|使用OpenAI、Anthropic、Gemini和开源模型的AI Agents和RAG的精彩LLM应用程序集。|640|125019|212|2024-04-29|
-|13|[1jehuang/jcode](https://github.com/1jehuang/jcode)|Rust|编码代理收件箱|649|9395|210|2026-01-05|
-|14|[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)|Python|让您的人工智能代理眼睛看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu -一个CLI，零API费用。|636|58636|202|2026-02-24|
-|15|[safishamsi/graphify](https://github.com/safishamsi/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|644|92079|200|2026-04-03|
+|1|[koala73/worldmonitor](https://github.com/koala73/worldmonitor)|TypeScript|实时全球情报仪表板-统一的态势感知界面中的人工智能支持的新闻聚合、地缘政治监控和基础设施跟踪|2054|64269|697|2026-01-08|
+|2|[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)|TypeScript|永远不要停止编码。免费人工智能门户：一个端点、160+个提供商（50+个免费），将Claude Code、Codex、Cursor、Cline & Copilot连接到FREE Claude/GPT/Gemini。TEK +Caveman堆叠压缩可节省15-95%的令牌、智能自动回撤、HCP/A2 A、多模式API、桌面/PWA。|1885|23043|610|2026-02-13|
+|3|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1480|180117|469|2026-02-03|
+|4|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Assembly|指挥舱和登月舱的原始阿波罗11号制导计算机（GC）源代码。|1419|69718|451|2014-04-03|
+|5|[stablyai/orca](https://github.com/stablyai/orca)|TypeScript|Orca是下一代ADE，用于与平行代理舰队合作。使用您自己的订阅运行任何编码代理。可在台式机和移动设备上提供。|1331|24584|424|2026-03-17|
+|6|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|1221|74505|392|2025-08-09|
+|7|[earendil-works/pi](https://github.com/earendil-works/pi)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|1216|74505|390|2025-08-09|
+|8|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |1104|82443|361|2025-06-07|
+|9|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |1104|82443|361|2025-06-07|
+|10|[jamiepine/voicebox](https://github.com/jamiepine/voicebox)|TypeScript|开源语音合成工作室|1063|45029|347|2026-01-25|
+|11|[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)|Python|学习它。建造它。为他人运送它。|967|41302|326|2026-03-18|
+|12|[safishamsi/graphify](https://github.com/safishamsi/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|854|92933|271|2026-04-03|
+|13|[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|None|一个触手可及的完整人工智能机构 ** -从前端巫师到Reddit社区忍者，从奇思妙想的注射器到现实检验者。每个代理都是具有个性、流程和经过验证的可交付成果的专业专家。|807|135323|263|2025-10-13|
+|14|[every-app/open-seo](https://github.com/every-app/open-seo)|TypeScript|Semrush和Ahrefs的开源替代品|831|6410|263|2026-02-27|
+|15|[1jehuang/jcode](https://github.com/1jehuang/jcode)|Rust|编码代理收件箱|765|10160|239|2026-01-05|
 
 [所有日榜](./day/day.md)
 
