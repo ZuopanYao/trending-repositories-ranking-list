@@ -1,49 +1,64 @@
 Github热门开源项目榜单
 
-## 2026年07月22日
+## 2026年07月23日
 
-从本期榜单中的项目分析可以得出以下几条重要结论：
+本期榜单展示了一系列热门开源项目，涉及多个语言和技术主题，以下是对榜单的分析：
 
-### 1. **热门技术与趋势**
-- **TypeScript 和 Python**：榜单前列的项目大多基于TypeScript和Python，这表明这两种编程语言在当前开发环境中的流行程度。TypeScript尤其在构建前端和后端的现代应用程序时表现突出，而Python在数据科学和人工智能领域继续保持强势。
-- **人工智能相关项目**：大多数项目都涉及到人工智能（AI）技术，强调了该领域的迅速发展与应用。其中包括AI代理、姿势估计、编码助手等。
+### 项目总览
+1. **项目数量和语言多样性**:
+   - 榜单包含15个项目，主要使用的编程语言有TypeScript、Python和Shell，显示出这些语言在当前开源趋势中的流行程度。
+   - 提到的项目涵盖了实时监控、人工智能、Wi-Fi 信号处理、编码助理等多个领域，表明技术发展的多样性。
 
-### 2. **热度与Star数**
-- 最前列的项目，尤其是**koala73/worldmonitor**和**mattpocock/skills**，显示了极高的关注度和支持者数（Star）。这说明这些项目不仅受到开发者的重视，也可能在实际应用中得到了认可和使用。
-- 随着技术的快速迭代，项目的热度和Star数的增长可能表明开发者对当前技术解决方案的需求。
+2. **热度和Star数**:
+   - 项目"koala73/worldmonitor"在热度和Star数量方面领先，说明该项目受到了广泛关注，可能因为它结合了AI和实时数据监控，具有实用性。
+   - 其他项目如"mattpocock/skills"和"ruvnet/wifi-densepose"也显示出较高的Star数量，这些表明开发者对个人技能和创新技术的需求。
 
-### 3. **项目多样性**
-- 项目内容涵盖了从实时数据监控到人工智能代理的多种领域，显示了开源社区内的多样性和广泛应用。这种多样性有助于促进技术共享和创新。
-- 例如，**ruvnet/wifi-densepose**和**ruvnet/RuView**的结合展示了利用无线信号进行人体姿势估计的创新想法，这种将网络科技与人工智能结合的项目具有很大的潜力。
+### 重点项目分析
+- **项目1 (koala73/worldmonitor)**:
+  - **语言**: TypeScript
+  - **介绍**: 提供实时全球情报，有助于决策支持，特别在地缘政治和重要基础设施的跟踪中。
+  - **趋势Star**: 2859，**当前Star**: 70998，**热度**: 919，说明这是一个非常受欢迎且持续增长的项目。
 
-### 4. **项目更新与活跃度**
-- 大部分项目的创建时间都在近两年内发布，显示出技术快速迭代和开发者对新趋势的积极响应。项目的创建时间和Star增长的关系可以揭示出哪些项目在逐渐成长和成熟。
+- **项目2 (mattpocock/skills)**:
+  - **语言**: Shell
+  - **介绍**: 个人技能目录，聚焦个人成长和学习，呈现出对个人发展工具的需求。
+  - 其高Star使其成为开发者工具类项目中的佼佼者。
 
-### 5. **不同应用场景**
-- 各个项目所针对的应用场景不同，有的专注于算法和数据处理（如**graphify**相关项目），有的则侧重于实用工具和用户交互（如**croc**）。这种差异意味着不同开发者会在特定领域中找到适合他们需求的工具。
+- **项目4 (ruvnet/wifi-densepose)** 和 **项目5 (ruvnet/RuView)**:
+  - 这两个项目共同致力于利用Wi-Fi信号进行人体姿态估计，展示了先进技术如何通过非传统方式进行生命体征监测，具有潜在的商业和科研应用。
 
-### 总结
-本期榜单中的项目整体上展现了开源社区在技术创新、尤其是人工智能及其应用方面的活力。类型丰富的项目表明了开发者们在多样化需求下的创造性解决方案。随着技术的不断演变，这些项目有可能继续吸引更多的开发者关注和参与。
+### 趋势与未来
+1. **人工智能相关项目**: 
+   - 多个项目集中在AI领域，显示出行业对AI技术的渴求和其在地图绘制、智能助理及编码辅助等领域的广泛应用。
+
+2. **技术融合**:
+   - 一些项目如"badlogic/pi-mono"和"earendil-works/pi"展示了多种AI工具的整合，这表明开发者希望能在一个平台上获取多种功能。
+
+3. **学习与共享**:
+   - 以"rohitg00/ai-engineering-from-scratch"和"Lordog/dive-into-llms"为代表的项目，强调了教育和知识共享的重要性，旨在通过社区推动技能提升与知识传播。
+
+### 结论
+本期榜单中的项目反映了技术趋势以及开发者对可用工具和资源的持续需求。项目的多样性展示了当前技术发展的广泛领域和应用。随着AI和相关技术的不断进步，预计将有更多此类项目涌现，影响我们的工作和生活方式。
 
 数据来源：[`https://hot.me88.top`](https://hot.me88.top)
 
 |序号|项目名称|语言|项目介绍|趋势Star|当前Star|热度|创建时间|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|1|[koala73/worldmonitor](https://github.com/koala73/worldmonitor)|TypeScript|实时全球情报仪表板-统一的态势感知界面中的人工智能支持的新闻聚合、地缘政治监控和基础设施跟踪|3870|68139|1262|2026-01-08|
-|2|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|1787|181904|567|2026-02-03|
-|3|[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)|TypeScript|永远不要停止编码。免费人工智能门户：一个端点、160+个提供商（50+个免费），将Claude Code、Codex、Cursor、Cline & Copilot连接到FREE Claude/GPT/Gemini。TEK +Caveman堆叠压缩可节省15-95%的令牌、智能自动回撤、HCP/A2 A、多模式API、桌面/PWA。|1663|24706|542|2026-02-13|
-|4|[stablyai/orca](https://github.com/stablyai/orca)|TypeScript|Orca是下一代ADE，用于与平行代理舰队合作。使用您自己的订阅运行任何编码代理。可在台式机和移动设备上提供。|1237|25821|389|2026-03-17|
-|5|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |879|83322|292|2025-06-07|
-|6|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |880|83323|292|2025-06-07|
-|7|[earendil-works/pi](https://github.com/earendil-works/pi)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|885|75390|289|2025-08-09|
-|8|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|879|75384|287|2025-08-09|
-|9|[k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)|C#|Wand（WeMod）应用程序的高级用户体验和互操作性扩展|323|10756|262|2024-11-17|
-|10|[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)|Python|学习它。建造它。为他人运送它。|717|42019|246|2026-03-18|
-|11|[schollz/croc](https://github.com/schollz/croc)|Go|轻松、安全地将内容从一台计算机发送到另一台计算机：鳄鱼：：包：|788|37357|244|2017-10-17|
-|12|[safishamsi/graphify](https://github.com/safishamsi/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|752|93685|237|2026-04-03|
-|13|[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|751|93686|236|2026-04-03|
-|14|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Assembly|指挥舱和登月舱的原始阿波罗11号制导计算机（GC）源代码。|709|70427|223|2014-04-03|
-|15|[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)|Python|与您一起成长的代理人|598|218854|218|2025-07-22|
+|1|[koala73/worldmonitor](https://github.com/koala73/worldmonitor)|TypeScript|实时全球情报仪表板-统一的态势感知界面中的人工智能支持的新闻聚合、地缘政治监控和基础设施跟踪|2859|70998|919|2026-01-08|
+|2|[mattpocock/skills](https://github.com/mattpocock/skills)|Shell|我的个人技能目录，直接来自我的.claude目录。|2216|184120|715|2026-02-03|
+|3|[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)|TypeScript|永远不要停止编码。免费人工智能门户：一个端点、160+个提供商（50+个免费），将Claude Code、Codex、Cursor、Cline & Copilot连接到FREE Claude/GPT/Gemini。TEK +Caveman堆叠压缩可节省15-95%的令牌、智能自动回撤、HCP/A2 A、多模式API、桌面/PWA。|1949|26655|629|2026-02-13|
+|4|[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)|Python|InvisPose的生产就绪实施--一个革命性的基于WiFi的密集人体姿势估计系统，可以使用商用网状路由器通过墙壁进行实时全身跟踪 |1581|84903|504|2025-06-07|
+|5|[ruvnet/RuView](https://github.com/ruvnet/RuView)|Rust|pi RuView：WiFi DensePose将商品WiFi信号转化为实时人体姿势估计、生命体征监测和存在检测--所有这些都无需任何视频像素。 |1580|84903|504|2025-06-07|
+|6|[stablyai/orca](https://github.com/stablyai/orca)|TypeScript|Orca是下一代ADE，用于与平行代理舰队合作。使用您自己的订阅运行任何编码代理。可在台式机和移动设备上提供。|1282|27103|398|2026-03-17|
+|7|[k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)|C#|Wand（WeMod）应用程序的高级用户体验和互操作性扩展|351|11107|272|2024-11-17|
+|8|[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)|Python|学习它。建造它。为他人运送它。|758|42777|256|2026-03-18|
+|9|[badlogic/pi-mono](https://github.com/badlogic/pi-mono)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|791|76175|255|2025-08-09|
+|10|[earendil-works/pi](https://github.com/earendil-works/pi)|TypeScript|AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库、Slack bot、vLLM pod|788|76178|254|2025-08-09|
+|11|[safishamsi/graphify](https://github.com/safishamsi/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|729|94414|233|2026-04-03|
+|12|[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)|Python|AI编码助理技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图。应用程序代码+数据库模式+基础设施在一个图表中。|728|94414|232|2026-04-03|
+|13|[Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)|Jupyter Notebook|《动力学大模型Dive into LLM》系列编程实践教程|702|44624|227|2024-04-08|
+|14|[schollz/croc](https://github.com/schollz/croc)|Go|轻松、安全地将内容从一台计算机发送到另一台计算机：鳄鱼：：包：|710|38067|218|2017-10-17|
+|15|[jamiepine/voicebox](https://github.com/jamiepine/voicebox)|TypeScript|开源语音合成工作室|664|46198|216|2026-01-25|
 
 [所有日榜](./day/day.md)
 
